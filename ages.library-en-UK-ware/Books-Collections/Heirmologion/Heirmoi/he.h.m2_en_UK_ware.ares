@@ -50,30 +50,30 @@ EchthrouZofodous.mode = misc_en_UK_ware.Mode2
 EchthrouZofodous.ode = misc_en_UK_ware.Ode5
 EchthrouZofodous.text = "By the cleansing of the Spirit have we been washed From the poison of the dark and unclean enemy, And we have set out upon a new path free from error, That leads to gladness of heart past all attainment, Which only they attain whom God has reconciled unto Himself."
 
-EchthrouZofodous1.text = ""
+EchthrouZofodous1.text = "By the cleansing of the Spirit have we been washed"
 
-EchthrouZofodous2.text = ""
+EchthrouZofodous2.text = "From the poison of the dark and unclean enemy,"
 
-EchthrouZofodous3.text = ""
+EchthrouZofodous3.text = "And we have set out upon a new path free from error,"
 
-EchthrouZofodous4.text = ""
+EchthrouZofodous4.text = "That leads to gladness of heart past all attainment,"
 
-EchthrouZofodous5.text = ""
+EchthrouZofodous5.text = "Which only they attain whom God has reconciled unto Himself."
 
 EflexeReithro.name = "He who stilled the heat."
 EflexeReithro.mode = misc_en_UK_ware.Mode2
 EflexeReithro.ode = misc_en_UK_ware.Ode7
 EflexeReithro.text = "He who stilled the heat of the flame of the furnace That mounted high in the air and encircled the godly Children, Burnt the heads of the dragons in the stream of the Jordan: And with the dew of the Spirit He washes away All the stubborn obscurity of sin."
 
-EflexeReithro1.text = ""
+EflexeReithro1.text = "He who stilled the heat of the flame of the furnace "
 
-EflexeReithro2.text = ""
+EflexeReithro2.text = "That mounted high in the air and encircled the godly Children,"
 
-EflexeReithro3.text = ""
+EflexeReithro3.text = "Burnt the heads of the dragons in the stream of the Jordan:"
 
-EflexeReithro4.text = ""
+EflexeReithro4.text = "And with the dew of the Spirit He washes away"
 
-EflexeReithro5.text = ""
+EflexeReithro5.text = "All the stubborn obscurity of sin."
 
 EfrixePaidonEvagon.name = ""
 EfrixePaidonEvagon.mode = misc_en_UK_ware.Mode2
@@ -95,15 +95,15 @@ EleftheraMenIKtisis.mode = misc_en_UK_ware.Mode2
 EleftheraMenIKtisis.ode = misc_en_UK_ware.Ode8
 EleftheraMenIKtisis.text = "The creation finds itself set free, And those in darkness are now made sons of light: Alone the prince of darkness groans. Let all the inheritance of the nations, that was before in misery, Now bless with eagerness Him who has wrought this change."
 
-EleftheraMenIKtisis1.text = ""
+EleftheraMenIKtisis1.text = "The creation finds itself set free,"
 
-EleftheraMenIKtisis2.text = ""
+EleftheraMenIKtisis2.text = "And those in darkness are now made sons of light:"
 
-EleftheraMenIKtisis3.text = ""
+EleftheraMenIKtisis3.text = "Alone the prince of darkness groans."
 
-EleftheraMenIKtisis4.text = ""
+EleftheraMenIKtisis4.text = "Let all the inheritance of the nations, that was before in misery,"
 
-EleftheraMenIKtisis5.text = ""
+EleftheraMenIKtisis5.text = "Now bless with eagerness Him who has wrought this change."
 
 ElilythasEkParthenou.name = ""
 ElilythasEkParthenou.mode = misc_en_UK_ware.Mode2
@@ -180,15 +180,15 @@ ImertonExefine.mode = misc_en_UK_ware.Mode2
 ImertonExefine.ode = misc_en_UK_ware.Ode6
 ImertonExefine.text = "The Father in a voice full of joy Made manifest His Beloved whom He had begotten from the womb. ‘Verily,’ said He, ‘this is My offspring, of the same nature as Myself: Bearing light, He has come forth from mankind, My living Word, in divine providence made a mortal man.’"
 
-ImertonExefine1.text = ""
+ImertonExefine1.text = "The Father in a voice full of joy"
 
-ImertonExefine2.text = ""
+ImertonExefine2.text = "Made manifest His Beloved whom He had begotten from the womb."
 
-ImertonExefine3.text = ""
+ImertonExefine3.text = "‘Verily,’ said He, ‘this is My offspring, of the same nature as Myself:"
 
-ImertonExefine4.text = ""
+ImertonExefine4.text = "Bearing light, He has come forth from mankind,"
 
-ImertonExefine5.text = ""
+ImertonExefine5.text = "My living Word, in divine providence made a mortal man.’"
 
 IndalmatosChrysou.name = ""
 IndalmatosChrysou.mode = misc_en_UK_ware.Mode2
@@ -245,15 +245,15 @@ OTonYperNoun.mode = misc_en_UK_ware.Mode2
 OTonYperNoun.ode = misc_en_UK_ware.Ode9
 OTonYperNoun.text = "O most pure Bride, O blessed Mother, The wonders of Thy birthgiving pass all understanding. Through thee we have obtained salvation in all things, And, as is right and meet, we rejoice before thee our Benefactor, Bearing as gift a song of thanksgiving."
 
-OTonYperNoun1.text = ""
+OTonYperNoun1.text = "O most pure Bride, O blessed Mother,"
 
-OTonYperNoun2.text = ""
+OTonYperNoun2.text = "The wonders of Thy birthgiving pass all understanding."
 
-OTonYperNoun3.text = ""
+OTonYperNoun3.text = "Through thee we have obtained salvation in all things,"
 
-OTonYperNoun4.text = ""
+OTonYperNoun4.text = "And, as is right and meet, we rejoice before thee our Benefactor,"
 
-OTonYperNoun5.text = ""
+OTonYperNoun5.text = "Bearing as gift a song of thanksgiving."
 
 OTouFotosChorigos.name = ""
 OTouFotosChorigos.mode = misc_en_UK_ware.Mode2
@@ -270,15 +270,15 @@ OsoiPalaion.mode = misc_en_UK_ware.Mode2
 OsoiPalaion.ode = misc_en_UK_ware.Ode3
 OsoiPalaion.text = "From the ancient snares have we all been set loose, And the jaws of the devouring lions have been broken: Let us, then, rejoice exceedingly and open wide our mouths, Weaving with words a melody to the Word Whose delight it is to bestow gifts upon us."
 
-OsoiPalaion1.text = ""
+OsoiPalaion1.text = "From the ancient snares have we all been set loose,"
 
-OsoiPalaion2.text = ""
+OsoiPalaion2.text = "And the jaws of the devouring lions have been broken:"
 
-OsoiPalaion3.text = ""
+OsoiPalaion3.text = "Let us, then, rejoice exceedingly and open wide our mouths,"
 
-OsoiPalaion4.text = ""
+OsoiPalaion4.text = "Weaving with words a melody to the Word"
 
-OsoiPalaion5.text = ""
+OsoiPalaion5.text = "Whose delight it is to bestow gifts upon us."
 
 ProsKyrionEkKitous.name = ""
 ProsKyrionEkKitous.mode = misc_en_UK_ware.Mode2
@@ -305,15 +305,15 @@ PyrsoKathartheis.mode = misc_en_UK_ware.Mode2
 PyrsoKathartheis.ode = misc_en_UK_ware.Ode4
 PyrsoKathartheis.text = "Cleansed by the fire of a mystic vision The Prophet sang the praises of the renewal of mortal man. Filled with the inspiration of the Spirit, he raised his voice, Telling of the Incarnation of the ineffable Word, Who has shattered the dominion of the strong."
 
-PyrsoKathartheis1.text = ""
+PyrsoKathartheis1.text = "Cleansed by the fire of a mystic vision"
 
-PyrsoKathartheis2.text = ""
+PyrsoKathartheis2.text = "The Prophet sang the praises of the renewal of mortal man."
 
-PyrsoKathartheis3.text = ""
+PyrsoKathartheis3.text = "Filled with the inspiration of the Spirit, he raised his voice,"
 
-PyrsoKathartheis4.text = ""
+PyrsoKathartheis4.text = "Telling of the Incarnation of the ineffable Word,"
 
-PyrsoKathartheis5.text = ""
+PyrsoKathartheis5.text = "Who has shattered the dominion of the strong."
 
 RimaTyrannou.name = ""
 RimaTyrannou.mode = misc_en_UK_ware.Mode2
@@ -345,15 +345,15 @@ SteiveiThalassis.mode = misc_en_UK_ware.Mode2
 SteiveiThalassis.ode = misc_en_UK_ware.Ode1
 SteiveiThalassis.text = "Israel passed through the storm-tossed deep of the sea, That God had turned into dry land: But the dark waters completely covered The chief captains of Egypt in a watery grave Through the mighty strength of the right hand of the Master."
 
-SteiveiThalassis1.text = ""
+SteiveiThalassis1.text = "Israel passed through the storm-tossed deep of the sea,"
 
-SteiveiThalassis2.text = ""
+SteiveiThalassis2.text = "That God had turned into dry land:"
 
-SteiveiThalassis3.text = ""
+SteiveiThalassis3.text = "But the dark waters completely covered"
 
-SteiveiThalassis4.text = ""
+SteiveiThalassis4.text = "The chief captains of Egypt in a watery grave "
 
-SteiveiThalassis5.text = ""
+SteiveiThalassis5.text = "Through the mighty strength of the right hand of the Master."
 
 SyToLogoSouKyrie.name = ""
 SyToLogoSouKyrie.mode = misc_en_UK_ware.Mode2
