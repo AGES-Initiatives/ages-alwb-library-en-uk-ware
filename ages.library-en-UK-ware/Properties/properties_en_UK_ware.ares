@@ -5,8 +5,8 @@ version.translator = "Kallistos Ware"
 
 version.notice1 = ""
 
-version.copyright1 = ""
-version.copyright2 = ""
+version.copyright1 = "© Metropolitan Kallistos Ware"
+version.copyright2 = "Used by permission."
 version.copyright3 = ""
 
 contact.address_1 = ""
