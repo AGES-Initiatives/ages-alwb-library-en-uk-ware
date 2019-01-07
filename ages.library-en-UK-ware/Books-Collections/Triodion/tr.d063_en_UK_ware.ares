@@ -1,0 +1,947 @@
+A_Resource_Whose_Name = tr.d063_en_UK_ware
+
+trCommemoration.text = "" //full title of day
+trShortCommemoration1.text = ""
+trInsert1 = "" //for use in petitions and dismissal
+trInsert2 = "" //for use in petitions and dismissal
+trNote.text = ""
+trHO.daytitle = ""
+trHO.commemorations = ""
+trHO.description1 = ""
+trHO.description2 = ""
+trHO.note1 = ""
+trHO.note2 = ""
+trDismissal = //dismissals_en_UK_ware.dis00.resurrection
+
+trVE.AposIdiomelon1.mode = misc_en_UK_ware.Mode8
+trVE.AposIdiomelon1.melody = misc_en_UK_ware.Idiomelon
+trVE.AposIdiomelon1.text = ""
+
+trVE.AposMartyric.mode = misc_en_UK_ware.Mode8
+trVE.AposMartyric.melody = ""
+trVE.AposMartyric.text = //oc.m8.d3_en_UK_ware.ocVE.Aposticha3.text
+
+trVE.Stichera01.poet = poets_en_UK_ware.LeontosTouVasileos
+trVE.Stichera01.mode = misc_en_UK_ware.Mode6
+trVE.Stichera01.melody = misc_en_UK_ware.Idiomelon
+trVE.Stichera01.text = ""
+
+trVE.Stichera02.mode = misc_en_UK_ware.Mode6
+trVE.Stichera02.melody = misc_en_UK_ware.Idiomelon
+trVE.Stichera02.text = ""
+
+trVE.Stichera03.mode = misc_en_UK_ware.Mode6
+trVE.Stichera03.melody = misc_en_UK_ware.Idiomelon
+trVE.Stichera03.text = ""
+
+trVE.Stichera04.mode = misc_en_UK_ware.Mode6
+trVE.Stichera04.melody = misc_en_UK_ware.Idiomelon
+trVE.Stichera04.text = ""
+
+trVE.Stichera05.mode = misc_en_UK_ware.Mode6
+trVE.Stichera05.melody = misc_en_UK_ware.Idiomelon
+trVE.Stichera05.text = ""
+
+trVE.SticGlory.mode = misc_en_UK_ware.Mode8
+trVE.SticGlory.melody = misc_en_UK_ware.Idiomelon
+trVE.SticGlory.text = ""
+
+trVE.SticBoth.poet = poets_en_UK_ware.AndreouTyflou
+trVE.SticBoth.mode = misc_en_UK_ware.Mode8
+trVE.SticBoth.melody = misc_en_UK_ware.Idiomelon
+trVE.SticBoth.text = ""
+
+trVE.Apolytikion1.mode = misc_en_UK_ware.Mode1
+trVE.Apolytikion1.melody = ""
+trVE.Apolytikion1.text = ""
+
+trCO.C1Poet = poets_en_UK_ware.AndreouKritis
+trCO.C1.title = ""
+trCO.C1.verse = //prayers_en_UK_ware.verse_God.text
+
+trCO.Ode1C1H.ode = misc_en_UK_ware.Ode1
+trCO.Ode1C1H.mode = misc_en_UK_ware.Mode1
+trCO.Ode1C1H.melody = misc_en_UK_ware.Heirmos
+trCO.Ode1C1H.text = he.h.m1_en_UK_ware.OdinEpinikion.text
+
+trCO.Ode1C11.ode = misc_en_UK_ware.Ode1
+trCO.Ode1C11.mode = misc_en_UK_ware.Mode1
+trCO.Ode1C11.melody = he.h.m1_en_UK_ware.OdinEpinikion.name
+trCO.Ode1C11.text = "O my Savior, Thou hast raised Lazarus who was four days dead, and freed him from corruption by Thy mighty arm; and in Thy strength Thou hast revealed Thy power."
+
+trCO.Ode1C12.ode = misc_en_UK_ware.Ode1
+trCO.Ode1C12.mode = misc_en_UK_ware.Mode1
+trCO.Ode1C12.melody = he.h.m1_en_UK_ware.OdinEpinikion.name
+trCO.Ode1C12.text = "Calling Lazarus from the tomb, immediately Thou hast raised him; but Hell below lamented bitterly, and groaning, trembled at Thy power, O Savior."
+
+trCO.Ode1C13.ode = misc_en_UK_ware.Ode1
+trCO.Ode1C13.mode = misc_en_UK_ware.Mode1
+trCO.Ode1C13.melody = he.h.m1_en_UK_ware.OdinEpinikion.name
+trCO.Ode1C13.text = "Thou hast shed tears for Lazarus, O Lord, thus proving that Thou hast truly taken flesh at Thine Incarnation; and that, being God by nature, Thou hast become by nature a man like us."
+
+trCO.Ode1C14.ode = misc_en_UK_ware.Ode1
+trCO.Ode1C14.mode = misc_en_UK_ware.Mode1
+trCO.Ode1C14.melody = he.h.m1_en_UK_ware.OdinEpinikion.name
+trCO.Ode1C14.text = "Thou hast made the tears of Martha and Mary to cease, O Lord and Savior, by raising Lazarus from the dead, and in Thy power Thou hast endued a corpse with the breath of life."
+
+trCO.Ode1C15.ode = misc_en_UK_ware.Ode1
+trCO.Ode1C15.mode = misc_en_UK_ware.Mode1
+trCO.Ode1C15.melody = he.h.m1_en_UK_ware.OdinEpinikion.name
+trCO.Ode1C15.text = "Obedient to the laws of human nature, Thou hast asked, O Master, where Lazarus was laid, showing to all, O Savior, that at Thine Incarnation Thou hast become true man for our sake."
+
+trCO.Ode1C16.ode = misc_en_UK_ware.Ode1
+trCO.Ode1C16.mode = misc_en_UK_ware.Mode1
+trCO.Ode1C16.melody = he.h.m1_en_UK_ware.OdinEpinikion.name
+trCO.Ode1C16.text = "Calling Lazarus by name, Thou hast broken in pieces the bars of Hell and shaken the power of the enemy; and before Thy Crucifixion, Thou hast made him tremble because of Thee, O only Savior."
+
+trCO.Ode1C17.ode = misc_en_UK_ware.Ode1
+trCO.Ode1C17.mode = misc_en_UK_ware.Mode1
+trCO.Ode1C17.melody = he.h.m1_en_UK_ware.OdinEpinikion.name
+trCO.Ode1C17.text = "O Master, Thou hast come as God to Lazarus, bound captive by Hell, and Thou hast loosed him from his fetters, for all things submit to Thy command, O Mighty Lord."
+
+trCO.Ode1C1Tr.ode = misc_en_UK_ware.Ode1
+trCO.Ode1C1Tr.mode = misc_en_UK_ware.Mode1
+trCO.Ode1C1Tr.melody = he.h.m1_en_UK_ware.OdinEpinikion.name
+trCO.Ode1C1Tr.text = "Let us now glorify Father, Son and Spirit, undivided Trinity in Unity of Nature, and with the angels let us glorify Him as one uncreated God."
+
+trCO.Ode1C1T.ode = misc_en_UK_ware.Ode1
+trCO.Ode1C1T.mode = misc_en_UK_ware.Mode1
+trCO.Ode1C1T.melody = he.h.m1_en_UK_ware.OdinEpinikion.name
+trCO.Ode1C1T.text = "O Virgin Mother, still remaining virgin, Thou hast conceived the Creator of the World through the Holy Spirit, according to the good pleasure of the Father; and without alteration or confusion, He became what we are."
+
+trCO.Ode2C1H.ode = misc_en_UK_ware.Ode2
+trCO.Ode2C1H.mode = misc_en_UK_ware.Mode1
+trCO.Ode2C1H.melody = misc_en_UK_ware.Heirmos
+trCO.Ode2C1H.text = he.h.m1_en_UK_ware.ProsecheOuraneKaiLaliso.text
+
+trCO.Ode2C11.ode = misc_en_UK_ware.Ode2
+trCO.Ode2C11.mode = misc_en_UK_ware.Mode1
+trCO.Ode2C11.melody = he.h.m1_en_UK_ware.ProsecheOuraneKaiLaliso.name
+trCO.Ode2C11.text = "Glory to Thee, Who alone hast called a four-day corpse from the tomb, raising Lazarus, Thy friend."
+
+trCO.Ode2C12.ode = misc_en_UK_ware.Ode2
+trCO.Ode2C12.mode = misc_en_UK_ware.Mode1
+trCO.Ode2C12.melody = he.h.m1_en_UK_ware.ProsecheOuraneKaiLaliso.name
+trCO.Ode2C12.text = "A lifeless corpse, he heard Thy voice; and at once he rose from the dead, filled with the breath of life and glorifying Thee, O Lord."
+
+trCO.Ode2C13.ode = misc_en_UK_ware.Ode2
+trCO.Ode2C13.mode = misc_en_UK_ware.Mode1
+trCO.Ode2C13.melody = he.h.m1_en_UK_ware.ProsecheOuraneKaiLaliso.name
+trCO.Ode2C13.text = "Lazarus already stank; but, receiving the command of Thy life-giving voice, O my Savior, he arose from the tomb."
+
+trCO.Ode2C14.ode = misc_en_UK_ware.Ode2
+trCO.Ode2C14.mode = misc_en_UK_ware.Mode1
+trCO.Ode2C14.melody = he.h.m1_en_UK_ware.ProsecheOuraneKaiLaliso.name
+trCO.Ode2C14.text = "Thou hast shed tears for Thy friend Lazarus, O my Savior, proving that Thou hast taken on Thyself our nature, and then Thou hast raised him up."
+
+trCO.Ode2C15.ode = misc_en_UK_ware.Ode2
+trCO.Ode2C15.mode = misc_en_UK_ware.Mode1
+trCO.Ode2C15.melody = he.h.m1_en_UK_ware.ProsecheOuraneKaiLaliso.name
+trCO.Ode2C15.text = "Hell trembled when it saw him, bound in his grave-clothes yet returning at once to the life of this world when he heard Thy voice."
+
+trCO.Ode2C1Tr.ode = misc_en_UK_ware.Ode2
+trCO.Ode2C1Tr.mode = misc_en_UK_ware.Mode1
+trCO.Ode2C1Tr.melody = he.h.m1_en_UK_ware.ProsecheOuraneKaiLaliso.name
+trCO.Ode2C1Tr.text = "The Jews were amazed when Thou hadst called Lazarus, O Savior, and raised him by Thy word, though his corpse already stank."
+
+trCO.Ode2C1T.ode = misc_en_UK_ware.Ode2
+trCO.Ode2C1T.mode = misc_en_UK_ware.Mode1
+trCO.Ode2C1T.melody = he.h.m1_en_UK_ware.ProsecheOuraneKaiLaliso.name
+trCO.Ode2C1T.text = "The palaces of Hell were shaken, when in its depths Lazarus began once more to breathe, straightway restored to life by the sound of Thy voice."
+
+trCO.Ode3C1H.ode = misc_en_UK_ware.Ode3
+trCO.Ode3C1H.mode = misc_en_UK_ware.Mode1
+trCO.Ode3C1H.melody = misc_en_UK_ware.Heirmos
+trCO.Ode3C1H.text = he.h.m1_en_UK_ware.LithonOnApedokimasan.text
+
+trCO.Ode3C11.ode = misc_en_UK_ware.Ode3
+trCO.Ode3C11.mode = misc_en_UK_ware.Mode1
+trCO.Ode3C11.melody = he.h.m1_en_UK_ware.LithonOnApedokimasan.name
+trCO.Ode3C11.text = "O strange and marvelous wonder! Although He knew the answer, yet as if ignorant, the Maker of All asked, \"Where does he lie, whom ye lament? Where is Lazarus buried, whom I shall shortly raise up for your sake, alive from the dead.\""
+
+trCO.Ode3C12.ode = misc_en_UK_ware.Ode3
+trCO.Ode3C12.mode = misc_en_UK_ware.Mode1
+trCO.Ode3C12.melody = he.h.m1_en_UK_ware.LithonOnApedokimasan.name
+trCO.Ode3C12.text = "Jesus commanded them to take away the stone that they had rolled upon thee when they buried thee; and immediately he raised thee, calling thee, \"Lazarus, rise up and come to Me, that Hell may tremble at My voice.\""
+
+trCO.Ode3C13.ode = misc_en_UK_ware.Ode3
+trCO.Ode3C13.mode = misc_en_UK_ware.Mode1
+trCO.Ode3C13.melody = he.h.m1_en_UK_ware.LithonOnApedokimasan.name
+trCO.Ode3C13.text = "Martha and Mary, O Lord, cried out lamenting: \"Lo, he whom Thou hast loved is four days dead and stinks. If Thou hadst been here, Lazarus would not have died.\" But since Thou art everywhere present, at once Thou has called Lazarus and raised him up."
+
+trCO.Ode3C14.ode = misc_en_UK_ware.Ode3
+trCO.Ode3C14.mode = misc_en_UK_ware.Mode1
+trCO.Ode3C14.melody = he.h.m1_en_UK_ware.LithonOnApedokimasan.name
+trCO.Ode3C14.text = "Shedding tears for Thy friend, O Savior, Thou hast shown the reality of Thine Incarnation: the flesh that Thou hast taken from us was united to Thee in essence, not in appearance only. And, since Thou art a God who lovest mankind, immediately Thou hast called him and raised him up."
+
+trCO.Ode3C15.ode = misc_en_UK_ware.Ode3
+trCO.Ode3C15.mode = misc_en_UK_ware.Mode1
+trCO.Ode3C15.melody = he.h.m1_en_UK_ware.LithonOnApedokimasan.name
+trCO.Ode3C15.text = "\"Woe is me! Now am I destroyed utterly,\" Hell cried out, and thus he spoke to Death, \"See, the man from Nazareth has shaken the lower world, and cutting open my belly he has called a lifeless corpse and raised it up.\""
+
+trCO.Ode3C16.ode = misc_en_UK_ware.Ode3
+trCO.Ode3C16.mode = misc_en_UK_ware.Mode1
+trCO.Ode3C16.melody = he.h.m1_en_UK_ware.LithonOnApedokimasan.name
+trCO.Ode3C16.text = "What is this madness that has seized you, O ye Jews? Why do ye disbelieve? How long will ye wander in falsehood? Ye see the dead man leap up when Christ calls him, and do ye still disbelieve in Christ? Truly ye are all children of darkness."
+
+trCO.Ode3C1Tr.ode = misc_en_UK_ware.Ode3
+trCO.Ode3C1Tr.mode = misc_en_UK_ware.Mode1
+trCO.Ode3C1Tr.melody = he.h.m1_en_UK_ware.LithonOnApedokimasan.name
+trCO.Ode3C1Tr.text = "I acknowledge Thee as one of the Trinity, even though Thou art incarnate, and I worship Thee as one single Son, who hast without seed taken flesh from the Theotokos, yet art glorified with the Father and the Spirit."
+
+trCO.Ode3C1T.ode = misc_en_UK_ware.Ode3
+trCO.Ode3C1T.mode = misc_en_UK_ware.Mode1
+trCO.Ode3C1T.melody = he.h.m1_en_UK_ware.LithonOnApedokimasan.name
+trCO.Ode3C1T.text = "O strange and dread sight, foreseen by the prophets who proclaimed the truth: by divine providence the Virgin Theotokos conceived without seed and gave birth to God without corruption, remaining still a virgin after childbirth."
+
+trCO.Ode4C1H.ode = misc_en_UK_ware.Ode4
+trCO.Ode4C1H.mode = misc_en_UK_ware.Mode1
+trCO.Ode4C1H.melody = misc_en_UK_ware.Heirmos
+trCO.Ode4C1H.text = he.h.m1_en_UK_ware.EpirthiOIlios.text
+
+trCO.Ode4C11.ode = misc_en_UK_ware.Ode4
+trCO.Ode4C11.mode = misc_en_UK_ware.Mode1
+trCO.Ode4C11.melody = he.h.m1_en_UK_ware.EpirthiOIlios.name
+trCO.Ode4C11.text = "O Lord, Thou hast shed tears for Lazarus, showing that Thou art man; and Thou hast raised him from the dead, O Master, showing to the peoples that Thou art the Son of God."
+
+trCO.Ode4C12.ode = misc_en_UK_ware.Ode4
+trCO.Ode4C12.mode = misc_en_UK_ware.Mode1
+trCO.Ode4C12.melody = he.h.m1_en_UK_ware.EpirthiOIlios.name
+trCO.Ode4C12.text = "Lifeless, he heard Thy command, O Loving Savior, \"Lazarus, come forth,\" and bound with grave-clothes he leapt up at once, bearing witness to Thy power."
+
+trCO.Ode4C13.ode = misc_en_UK_ware.Ode4
+trCO.Ode4C13.mode = misc_en_UK_ware.Mode1
+trCO.Ode4C13.melody = he.h.m1_en_UK_ware.EpirthiOIlios.name
+trCO.Ode4C13.text = "O Christ our God, Thou hast made the tears of Martha and Mary to cease; calling Lazarus, through Thine own authority Thou hast raised him by Thy voice, and he worshipped Thee."
+
+trCO.Ode4C14.ode = misc_en_UK_ware.Ode4
+trCO.Ode4C14.mode = misc_en_UK_ware.Mode1
+trCO.Ode4C14.melody = he.h.m1_en_UK_ware.EpirthiOIlios.name
+trCO.Ode4C14.text = "As man, Thou hast shed tears for Lazarus; as God, Thou hast raised him up. Thou hast asked, O Loving Lord, \"Where is he buried, dead these four days?\", thus confirming our faith in Thine Incarnation."
+
+trCO.Ode4C15.ode = misc_en_UK_ware.Ode4
+trCO.Ode4C15.mode = misc_en_UK_ware.Mode1
+trCO.Ode4C15.melody = he.h.m1_en_UK_ware.EpirthiOIlios.name
+trCO.Ode4C15.text = "Wishing in Thy love to reveal the meaning of Thy Passion and Thy Cross, Thou hast broken open the belly of Hell that never can be satisfied, and as God Thou hast raised up a man four days dead."
+
+trCO.Ode4C16.ode = misc_en_UK_ware.Ode4
+trCO.Ode4C16.mode = misc_en_UK_ware.Mode1
+trCO.Ode4C16.melody = he.h.m1_en_UK_ware.EpirthiOIlios.name
+trCO.Ode4C16.text = "Who has ever known or heard of a man raised from the dead, when his corpse already stank? Elijah and Elisha raised the dead, yet not from the tomb or four days after death"
+
+trCO.Ode4C17.ode = misc_en_UK_ware.Ode4
+trCO.Ode4C17.mode = misc_en_UK_ware.Mode1
+trCO.Ode4C17.melody = he.h.m1_en_UK_ware.EpirthiOIlios.name
+trCO.Ode4C17.text = "O Lord, we sing the praises of Thy might; O Christ, we sing the praises of Thy Passion: for through the one in Thy tender mercy Thou hast worked a miracle; and the other Thou hast as man accepted willingly for our salvation."
+
+trCO.Ode4C18.ode = misc_en_UK_ware.Ode4
+trCO.Ode4C18.mode = misc_en_UK_ware.Mode1
+trCO.Ode4C18.melody = he.h.m1_en_UK_ware.EpirthiOIlios.name
+trCO.Ode4C18.text = "Thou art God and man, proving by Thine actions the true reality of both Thy natures. In the flesh Thou hast come to the tomb, O Word, and as God Thou hast raised up the man four days dead."
+
+trCO.Ode4C19.ode = misc_en_UK_ware.Ode4
+trCO.Ode4C19.mode = misc_en_UK_ware.Mode1
+trCO.Ode4C19.melody = he.h.m1_en_UK_ware.EpirthiOIlios.name
+trCO.Ode4C19.text = "The Jews were amazed, O Master, when they saw dead Lazarus rising from the tomb at Thy voice; yet still they believed not in Thy miracles."
+
+trCO.Ode4C1Tr.ode = misc_en_UK_ware.Ode4
+trCO.Ode4C1Tr.mode = misc_en_UK_ware.Mode1
+trCO.Ode4C1Tr.melody = he.h.m1_en_UK_ware.EpirthiOIlios.name
+trCO.Ode4C1Tr.text = "Without beginning hast Thou shone forth from Thy Father as one of the Trinity, O Savior; and within time Thou hast come forth from the Spirit, taking flesh in the Virgin's womb, O transcendent God."
+
+trCO.Ode4C1T.ode = misc_en_UK_ware.Ode4
+trCO.Ode4C1T.mode = misc_en_UK_ware.Mode1
+trCO.Ode4C1T.melody = he.h.m1_en_UK_ware.EpirthiOIlios.name
+trCO.Ode4C1T.text = "The Theotokos conceived without seed and gave birth without suffering corruption. For, bringing forth these wonders to pass, God emptied Himself that He might be united to us."
+
+trCO.Ode5C1H.ode = misc_en_UK_ware.Ode5
+trCO.Ode5C1H.mode = misc_en_UK_ware.Mode1
+trCO.Ode5C1H.melody = misc_en_UK_ware.Heirmos
+trCO.Ode5C1H.text = he.h.m1_en_UK_ware.TinSinEirinin.text
+
+trCO.Ode5C11.ode = misc_en_UK_ware.Ode5
+trCO.Ode5C11.mode = misc_en_UK_ware.Mode1
+trCO.Ode5C11.melody = he.h.m1_en_UK_ware.TinSinEirinin.name
+trCO.Ode5C11.text = "Since, Lord, Thou art Life and true Light, Thou hast called dead Lazarus and raised him up, for in Thy power Thou hast shown to all that Thou art God of the living and the dead."
+
+trCO.Ode5C12.ode = misc_en_UK_ware.Ode5
+trCO.Ode5C12.mode = misc_en_UK_ware.Mode1
+trCO.Ode5C12.melody = he.h.m1_en_UK_ware.TinSinEirinin.name
+trCO.Ode5C12.text = "Hell, that had received so many, was unable to resist Thy sovereign command, O Jesus; but trembling, it surrendered Lazarus, four days dead, yet brought up to life by Thy voice."
+
+trCO.Ode5C13.ode = misc_en_UK_ware.Ode5
+trCO.Ode5C13.mode = misc_en_UK_ware.Mode1
+trCO.Ode5C13.melody = he.h.m1_en_UK_ware.TinSinEirinin.name
+trCO.Ode5C13.text = "Joining dust to spirit, O Word, by Thy word in the beginning, Thou hast breathed into the clay a living soul. And now, by Thy word, Thou hast raised up Thy friend from corruption, and from the depths of the earth."
+
+trCO.Ode5C14.ode = misc_en_UK_ware.Ode5
+trCO.Ode5C14.mode = misc_en_UK_ware.Mode1
+trCO.Ode5C14.melody = he.h.m1_en_UK_ware.TinSinEirinin.name
+trCO.Ode5C14.text = "None can withstand Thy behest, O Lord, for when Thou hast called dead Lazarus, though lifeless, he arose at once, and though his feet were bound, he walked."
+
+trCO.Ode5C15.ode = misc_en_UK_ware.Ode5
+trCO.Ode5C15.mode = misc_en_UK_ware.Mode1
+trCO.Ode5C15.melody = he.h.m1_en_UK_ware.TinSinEirinin.name
+trCO.Ode5C15.text = "O folly of the Jews! O blindness of the enemy! Who has ever known a corpse raised from the grave? Once Elijah raised the dead, yet not from the tomb or four days after death."
+
+trCO.Ode5C16.ode = misc_en_UK_ware.Ode5
+trCO.Ode5C16.mode = misc_en_UK_ware.Mode1
+trCO.Ode5C16.melody = he.h.m1_en_UK_ware.TinSinEirinin.name
+trCO.Ode5C16.text = "There is none like Thee, O Forbearing Lord. Thou doest all things for our sake as God, and Thou sufferest as man. Make us all partakers of Thy Kingdom, at the prayers of Lazarus."
+
+trCO.Ode5C1Tr.ode = misc_en_UK_ware.Ode5
+trCO.Ode5C1Tr.mode = misc_en_UK_ware.Mode1
+trCO.Ode5C1Tr.melody = he.h.m1_en_UK_ware.TinSinEirinin.name
+trCO.Ode5C1Tr.text = "O Trinity Who wast before all things began, Father Almighty, Son and Holy Spirit, coeternal and equal in honor, Holy Unity in three Persons: save us children of Adam who with faith sing Thy praises."
+
+trCO.Ode5C1T.ode = misc_en_UK_ware.Ode5
+trCO.Ode5C1T.mode = misc_en_UK_ware.Mode1
+trCO.Ode5C1T.melody = he.h.m1_en_UK_ware.TinSinEirinin.name
+trCO.Ode5C1T.text = "Thine undefiled womb was sanctified, pure Virgin, by the transcendent God Who took flesh from it: He is adorned as one of the Trinity, the Word from the Father, one God with the Spirit."
+
+trCO.Ode6C1H.ode = misc_en_UK_ware.Ode6
+trCO.Ode6C1H.mode = misc_en_UK_ware.Mode1
+trCO.Ode6C1H.melody = misc_en_UK_ware.Heirmos
+trCO.Ode6C1H.text = he.h.m1_en_UK_ware.AperripsasMe.text
+
+trCO.Ode6C11.ode = misc_en_UK_ware.Ode6
+trCO.Ode6C11.mode = misc_en_UK_ware.Mode1
+trCO.Ode6C11.melody = he.h.m1_en_UK_ware.AperripsasMe.name
+trCO.Ode6C11.text = "\"Thou knowest all things, yet hast asked where I was buried. As man by nature, Thou hast wept for me, O Savior, and Thou hast raised me from the dead by Thy command.\""
+
+trCO.Ode6C12.ode = misc_en_UK_ware.Ode6
+trCO.Ode6C12.mode = misc_en_UK_ware.Mode1
+trCO.Ode6C12.melody = he.h.m1_en_UK_ware.AperripsasMe.name
+trCO.Ode6C12.text = "\"Thou hast called me from the lowest depths of Hell, O Savior,\" cried Lazarus to Thee when Thou hast set him free from Hell; \"and Thou hast raised me from the dead by Thy command.\""
+
+trCO.Ode6C13.ode = misc_en_UK_ware.Ode6
+trCO.Ode6C13.mode = misc_en_UK_ware.Mode1
+trCO.Ode6C13.melody = he.h.m1_en_UK_ware.AperripsasMe.name
+trCO.Ode6C13.text = "\"Thou hast clothed me in a body of clay, O Savior, and breathed life into me, and I beheld Thy light; and Thou hast raised me from the dead by Thy command.\""
+
+trCO.Ode6C14.ode = misc_en_UK_ware.Ode6
+trCO.Ode6C14.mode = misc_en_UK_ware.Mode1
+trCO.Ode6C14.melody = he.h.m1_en_UK_ware.AperripsasMe.name
+trCO.Ode6C14.text = "\"Thou hast breathed life into my flesh, O Savior, when there was no breath within it; Thou hast bound it fast with bones and sinews, and Thou hast raised me from the 
+dead by Thy command.\""
+
+trCO.Ode6C15.ode = misc_en_UK_ware.Ode6
+trCO.Ode6C15.mode = misc_en_UK_ware.Mode1
+trCO.Ode6C15.melody = he.h.m1_en_UK_ware.AperripsasMe.name
+trCO.Ode6C15.text = "Thou hast broken open the all-devouring belly of Hell and snatched me out, O Savior, by Thy power; and Thou hast raised me from the dead by Thy command."
+
+trCO.Ode6C16.ode = misc_en_UK_ware.Ode6
+trCO.Ode6C16.mode = misc_en_UK_ware.Mode1
+trCO.Ode6C16.melody = he.h.m1_en_UK_ware.AperripsasMe.name
+trCO.Ode6C16.text = "Thou hast clothed Thyself in all my human nature, O Savior, and hast kept pure in childbirth the undefiled womb from which Thou camest forth incarnate, being one of the Trinity."
+
+trCO.Ode6C1Tr.ode = misc_en_UK_ware.Ode6
+trCO.Ode6C1Tr.mode = misc_en_UK_ware.Mode1
+trCO.Ode6C1Tr.melody = he.h.m1_en_UK_ware.AperripsasMe.name
+trCO.Ode6C1Tr.text = "O Holy Trinity, I glorify Thy compassion, and with the angels I sing the thrice-holy hymn: have mercy on the souls of us who praise Thee."
+
+trCO.Ode6C1T.ode = misc_en_UK_ware.Ode6
+trCO.Ode6C1T.mode = misc_en_UK_ware.Mode1
+trCO.Ode6C1T.melody = he.h.m1_en_UK_ware.AperripsasMe.name
+trCO.Ode6C1T.text = "O marvelous wonder! The Word entered Thine undefiled womb, pure Virgin Mother, yet preserved it virgin after childbirth."
+
+trCO.Ode7C1H.ode = misc_en_UK_ware.Ode7
+trCO.Ode7C1H.mode = misc_en_UK_ware.Mode1
+trCO.Ode7C1H.melody = misc_en_UK_ware.Heirmos
+trCO.Ode7C1H.text = he.h.m1_en_UK_ware.TousEnKaminoPaidas.text
+
+trCO.Ode7C11.ode = misc_en_UK_ware.Ode7
+trCO.Ode7C11.mode = misc_en_UK_ware.Mode1
+trCO.Ode7C11.melody = he.h.m1_en_UK_ware.TousEnKaminoPaidas.name
+trCO.Ode7C11.text = "O Savior who lovest mankind, Thou hast wept over the dead, in this way showing to all the peoples that, being God, Thou hast become man for our sakes; and, shedding tears by Thine own choice, Thou hast given us proof of Thy heartfelt love."
+
+trCO.Ode7C12.ode = misc_en_UK_ware.Ode7
+trCO.Ode7C12.mode = misc_en_UK_ware.Mode1
+trCO.Ode7C12.melody = he.h.m1_en_UK_ware.TousEnKaminoPaidas.name
+trCO.Ode7C12.text = "When Lazarus, four days dead, heard Thy voice below, O Savior, he rose up and sang Thy praises, crying aloud joyfully, \"Thou art my God and Maker; I glorify and worship Thee, for Thou hast raised me up.\""
+
+trCO.Ode7C13.ode = misc_en_UK_ware.Ode7
+trCO.Ode7C13.mode = misc_en_UK_ware.Mode1
+trCO.Ode7C13.melody = he.h.m1_en_UK_ware.TousEnKaminoPaidas.name
+trCO.Ode7C13.text = "\"Though I lie in bonds, O Savior,\" Lazarus cried from below to Thee his Deliverer, \"yet shall I not remain forever in the depth of Hell, if Thou wilt only call to me, 'Lazarus, come out;' for Thou art my Light and my Life.\""
+
+trCO.Ode7C14.ode = misc_en_UK_ware.Ode7
+trCO.Ode7C14.mode = misc_en_UK_ware.Mode1
+trCO.Ode7C14.melody = he.h.m1_en_UK_ware.TousEnKaminoPaidas.name
+trCO.Ode7C14.text = "\"I implore thee, Lazarus,\" said Hell, \"Rise up, depart quickly from my bonds and be gone. It is better for me to lament bitterly for the loss of one, rather than of all those whom I swallowed in my hunger.\""
+
+trCO.Ode7C15.ode = misc_en_UK_ware.Ode7
+trCO.Ode7C15.mode = misc_en_UK_ware.Mode1
+trCO.Ode7C15.melody = he.h.m1_en_UK_ware.TousEnKaminoPaidas.name
+trCO.Ode7C15.text = "\"Why dost thou delay, Lazarus?\" cried Hell. \"Thy Friend stands calling to thee: 'Come out.' Go, then, and I too shall feel relief. For since I swallowed thee, all other food is loathsome to me.\""
+
+trCO.Ode7C16.ode = misc_en_UK_ware.Ode7
+trCO.Ode7C16.mode = misc_en_UK_ware.Mode1
+trCO.Ode7C16.melody = he.h.m1_en_UK_ware.TousEnKaminoPaidas.name
+trCO.Ode7C16.text = "\"O Lazarus, why dost thou not rise up swiftly?\" cried Hell below, lamenting. \"Why dost thou not run straightway from this place? Lest Christ take prisoner the others, after raising thee.\""
+
+trCO.Ode7C17.ode = misc_en_UK_ware.Ode7
+trCO.Ode7C17.mode = misc_en_UK_ware.Mode1
+trCO.Ode7C17.melody = he.h.m1_en_UK_ware.TousEnKaminoPaidas.name
+trCO.Ode7C17.text = "Thou art magnified, O Master Christ, through the many miracles Thou hast performed. For Thou hast given light to the blind and opened the ears of the deaf by a word; and, calling Thy friend Lazarus, as God Thou hast raised him from dead."
+
+trCO.Ode7C1Tr.ode = misc_en_UK_ware.Ode7
+trCO.Ode7C1Tr.mode = misc_en_UK_ware.Mode1
+trCO.Ode7C1Tr.melody = he.h.m1_en_UK_ware.TousEnKaminoPaidas.name
+trCO.Ode7C1Tr.text = "Let us sing praises to the Trinity, glorifying the eternal Father, the Son and the Spirit of righteousness, one single Essence that we magnify in threefold song: Holy, Holy, Holy art Thou, O Trinity."
+
+trCO.Ode7C1T.ode = misc_en_UK_ware.Ode7
+trCO.Ode7C1T.mode = misc_en_UK_ware.Mode1
+trCO.Ode7C1T.melody = he.h.m1_en_UK_ware.TousEnKaminoPaidas.name
+trCO.Ode7C1T.text = "We glorify Thee, O Christ, as one of the Trinity. Without changing, Thou wast made flesh from the Virgin, and hast endured all things as man, O Jesus; but, though united with us, Thou wast not divided from the Father's nature."
+
+trCO.Ode8C1H.ode = misc_en_UK_ware.Ode8
+trCO.Ode8C1H.mode = misc_en_UK_ware.Mode1
+trCO.Ode8C1H.melody = misc_en_UK_ware.Heirmos
+trCO.Ode8C1H.text = he.h.m1_en_UK_ware.OiOuranoiTonOuranon.text
+
+trCO.Ode8C11.ode = misc_en_UK_ware.Ode8
+trCO.Ode8C11.mode = misc_en_UK_ware.Mode1
+trCO.Ode8C11.melody = he.h.m1_en_UK_ware.OiOuranoiTonOuranon.name
+trCO.Ode8C11.text = "The Maker who upholds all things, came to Bethany in his compassion, to raise Lazarus."
+
+trCO.Ode8C12.ode = misc_en_UK_ware.Ode8
+trCO.Ode8C12.mode = misc_en_UK_ware.Mode1
+trCO.Ode8C12.melody = he.h.m1_en_UK_ware.OiOuranoiTonOuranon.name
+trCO.Ode8C12.text = "Four days dead, already stinking, bound in grave-clothes, lacking the breath of life, at Thy call, O Lord, he leapt up endued with life."
+
+trCO.Ode8C13.ode = misc_en_UK_ware.Ode8
+trCO.Ode8C13.mode = misc_en_UK_ware.Mode1
+trCO.Ode8C13.melody = he.h.m1_en_UK_ware.OiOuranoiTonOuranon.name
+trCO.Ode8C13.text = "The Jewish people, seeing the dead man rise at Thy command, O Christ, gnashed their teeth in fury."
+
+trCO.Ode8C14.ode = misc_en_UK_ware.Ode8
+trCO.Ode8C14.mode = misc_en_UK_ware.Mode1
+trCO.Ode8C14.melody = he.h.m1_en_UK_ware.OiOuranoiTonOuranon.name
+trCO.Ode8C14.text = "O Jews, the Light shines round you, but ye still remain in darkness. Why do ye doubt the resurrection of Lazarus? It is the work of Christ."
+
+trCO.Ode8C15.ode = misc_en_UK_ware.Ode8
+trCO.Ode8C15.mode = misc_en_UK_ware.Mode1
+trCO.Ode8C15.melody = he.h.m1_en_UK_ware.OiOuranoiTonOuranon.name
+trCO.Ode8C15.text = "Rejoice, Zion, and sing praises to the Giver of Life, who by His word has raised Lazarus from the tomb."
+
+trCO.Ode8C16.ode = misc_en_UK_ware.Ode8
+trCO.Ode8C16.mode = misc_en_UK_ware.Mode1
+trCO.Ode8C16.melody = he.h.m1_en_UK_ware.OiOuranoiTonOuranon.name
+trCO.Ode8C16.text = "The heavenly hosts and men on earth sang Thy praises, O my Savior, for Thou hast raised Lazarus."
+
+trCO.Ode8C1Tr.ode = misc_en_UK_ware.Ode8
+trCO.Ode8C1Tr.mode = misc_en_UK_ware.Mode1
+trCO.Ode8C1Tr.melody = he.h.m1_en_UK_ware.OiOuranoiTonOuranon.name
+trCO.Ode8C1Tr.text = "I glorify and praise Father, Son and Spirit, and with never-silent voice I cry: O Thrice-Holy, glory to Thee."
+
+trCO.Ode8C1T.ode = misc_en_UK_ware.Ode8
+trCO.Ode8C1T.mode = misc_en_UK_ware.Mode1
+trCO.Ode8C1T.melody = he.h.m1_en_UK_ware.OiOuranoiTonOuranon.name
+trCO.Ode8C1T.text = "I bless and worship Thee, born from the Virgin, yet never parted from the throne of Thy holy glory."
+
+trCO.Ode9C1H.ode = misc_en_UK_ware.Ode9
+trCO.Ode9C1H.mode = misc_en_UK_ware.Mode1
+trCO.Ode9C1H.melody = misc_en_UK_ware.Heirmos
+trCO.Ode9C1H.text = he.h.m1_en_UK_ware.EpoiiseKratos.text
+
+trCO.Ode9C11.ode = misc_en_UK_ware.Ode9
+trCO.Ode9C11.mode = misc_en_UK_ware.Mode1
+trCO.Ode9C11.melody = he.h.m1_en_UK_ware.EpoiiseKratos.name
+trCO.Ode9C11.text = "Let Bethany sing with us in praise of the miracle, for there the Creator wept for Lazarus in accordance with the law of nature and the flesh. Then, making Martha's tears to cease and changing Mary's grief to joy, Christ raised him from the dead."
+
+trCO.Ode9C12.ode = misc_en_UK_ware.Ode9
+trCO.Ode9C12.mode = misc_en_UK_ware.Mode1
+trCO.Ode9C12.melody = he.h.m1_en_UK_ware.EpoiiseKratos.name
+trCO.Ode9C12.text = "To confirm men's faith in Thy Resurrection, O Word, Thou hast called Lazarus from the tomb and as God hast raised him up, to show the peoples that Thou art both God and man in very truth, who dost raise up the temple of Thy body."
+
+trCO.Ode9C13.ode = misc_en_UK_ware.Ode9
+trCO.Ode9C13.mode = misc_en_UK_ware.Mode1
+trCO.Ode9C13.melody = he.h.m1_en_UK_ware.EpoiiseKratos.name
+trCO.Ode9C13.text = "Shaking the gates and iron bars, Thou hast made Hell tremble at Thy voice. Hell and Death were filled with fear, O Savior, seeing Lazarus their prisoner brought to life by Thy word and rising from the tomb."
+
+trCO.Ode9C14.ode = misc_en_UK_ware.Ode9
+trCO.Ode9C14.mode = misc_en_UK_ware.Mode1
+trCO.Ode9C14.melody = he.h.m1_en_UK_ware.EpoiiseKratos.name
+trCO.Ode9C14.text = "All were dismayed to see Thee, Savior, weeping over dead Lazarus, and in their misery they said: \"Behold how he loves him.\" Then Thou hast straightway called him, and at Thy command the dead man rose, delivered from corruption."
+
+trCO.Ode9C15.ode = misc_en_UK_ware.Ode9
+trCO.Ode9C15.mode = misc_en_UK_ware.Mode1
+trCO.Ode9C15.melody = he.h.m1_en_UK_ware.EpoiiseKratos.name
+trCO.Ode9C15.text = "The gates were shaken and the bars were shattered, and the bonds which held the dead man were loosed. When Christ spoke in power, Hell groaned bitterly and cried aloud: \"Woe is me! What and whence is this voice that brings the dead to life?\""
+
+trCO.Ode9C16.ode = misc_en_UK_ware.Ode9
+trCO.Ode9C16.mode = misc_en_UK_ware.Mode1
+trCO.Ode9C16.melody = he.h.m1_en_UK_ware.EpoiiseKratos.name
+trCO.Ode9C16.text = "Rise up, obedient to the voice of thy friend outside, calling thee. This is He who raised the dead of old: for when Elijah and Elisha brought the dead to life, He it was that spoke and acted through them."
+
+trCO.Ode9C17.ode = misc_en_UK_ware.Ode9
+trCO.Ode9C17.mode = misc_en_UK_ware.Mode1
+trCO.Ode9C17.melody = he.h.m1_en_UK_ware.EpoiiseKratos.name
+trCO.Ode9C17.text = "O Word and Savior, we sing the praises of Thy surpassing power. For, by Thy word, as Creator of all things, Thou hast raised from the depths dead Lazarus with his bones and sinews, as Thou hast raised the widow's son from the bier."
+
+trCO.Ode9C1Tr.ode = misc_en_UK_ware.Ode9
+trCO.Ode9C1Tr.mode = misc_en_UK_ware.Mode1
+trCO.Ode9C1Tr.melody = he.h.m1_en_UK_ware.EpoiiseKratos.name
+trCO.Ode9C1Tr.text = "Most Holy Trinity, O God the Eternal Father, O Coeternal Son and Word of God, O Holy Spirit of God, Loving Comforter; one Light of the Threefold Sun, Consubstantial Essence, one God and Lord, take pity on the world."
+
+trCO.Ode9C1T.ode = misc_en_UK_ware.Ode9
+trCO.Ode9C1T.mode = misc_en_UK_ware.Mode1
+trCO.Ode9C1T.melody = he.h.m1_en_UK_ware.EpoiiseKratos.name
+trCO.Ode9C1T.text = "O Jesus, who hast made all things in wisdom, Thou hast clothed Thyself in my whole nature, taken from the Virgin, yet forever Thou remainest wholly in the bosom of the Father; and Thou hast, as God, sent down Thy Holy Spirit on Thy flock: cover us with Thy shadow."
+
+trMA.Kathisma11.mode = misc_en_UK_ware.Mode1
+trMA.Kathisma11.melody = he.a.m1_en_UK_ware.TouLithouSfragisthentos.name
+trMA.Kathisma11.text = ""
+
+trMA.Kathisma21.mode = misc_en_UK_ware.Mode5
+trMA.Kathisma21.melody = he.a.m5_en_UK_ware.TonSynanarchonLogon.name
+trMA.Kathisma21.text = ""
+
+trMA.C1Poet = poets_en_UK_ware.Theofanous
+
+trMA.C2Poet = poets_en_UK_ware.KosmaMonachou
+
+trMA.Ode1C1H.ode = misc_en_UK_ware.Ode1
+trMA.Ode1C1H.mode = misc_en_UK_ware.Mode8
+trMA.Ode1C1H.melody = misc_en_UK_ware.Heirmos
+trMA.Ode1C1H.text = he.h.m8_en_UK_ware.AsomenToKyrio.text
+
+trMA.C1.title = //titles_en_UK_ware.Kanon1
+trMA.C1.verse = //prayers_en_UK_ware.verse_God.text
+
+trMA.Ode1C11.ode = misc_en_UK_ware.Ode1
+trMA.Ode1C11.mode = misc_en_UK_ware.Mode8
+trMA.Ode1C11.melody = he.h.m8_en_UK_ware.AsomenToKyrio.name
+trMA.Ode1C11.text = ""
+
+trMA.Ode1C12.ode = misc_en_UK_ware.Ode1
+trMA.Ode1C12.mode = misc_en_UK_ware.Mode8
+trMA.Ode1C12.melody = he.h.m8_en_UK_ware.AsomenToKyrio.name
+trMA.Ode1C12.text = ""
+
+trMA.Ode1C13.ode = misc_en_UK_ware.Ode1
+trMA.Ode1C13.mode = misc_en_UK_ware.Mode8
+trMA.Ode1C13.melody = he.h.m8_en_UK_ware.AsomenToKyrio.name
+trMA.Ode1C13.text = ""
+
+trMA.Ode1C14.ode = misc_en_UK_ware.Ode1
+trMA.Ode1C14.mode = misc_en_UK_ware.Mode8
+trMA.Ode1C14.melody = he.h.m8_en_UK_ware.AsomenToKyrio.name
+trMA.Ode1C14.text = ""
+
+trMA.C2.title = //titles_en_UK_ware.Kanon2
+trMA.C2.verse = //prayers_en_UK_ware.verse_God.text
+
+trMA.Ode1C21.ode = misc_en_UK_ware.Ode1
+trMA.Ode1C21.mode = misc_en_UK_ware.Mode8
+trMA.Ode1C21.melody = he.h.m8_en_UK_ware.YgranDiodefsas.name
+trMA.Ode1C21.text = ""
+
+trMA.Ode1C22.ode = misc_en_UK_ware.Ode1
+trMA.Ode1C22.mode = misc_en_UK_ware.Mode8
+trMA.Ode1C22.melody = he.h.m8_en_UK_ware.YgranDiodefsas.name
+trMA.Ode1C22.text = ""
+
+trMA.Ode1C23.ode = misc_en_UK_ware.Ode1
+trMA.Ode1C23.mode = misc_en_UK_ware.Mode8
+trMA.Ode1C23.melody = he.h.m8_en_UK_ware.YgranDiodefsas.name
+trMA.Ode1C23.text = ""
+
+trMA.Ode1C2T.ode = misc_en_UK_ware.Ode1
+trMA.Ode1C2T.mode = misc_en_UK_ware.Mode8
+trMA.Ode1C2T.melody = he.h.m8_en_UK_ware.YgranDiodefsas.name
+trMA.Ode1C2T.text = ""
+
+trMA.Ode1K.ode = misc_en_UK_ware.Ode1
+trMA.Ode1K.mode = misc_en_UK_ware.Mode8
+trMA.Ode1K.melody = misc_en_UK_ware.Heirmos
+trMA.Ode1K.text = he.h.m8_en_UK_ware.YgranDiodefsas.text
+
+trMA.Ode3C1H.ode = misc_en_UK_ware.Ode3
+trMA.Ode3C1H.mode = misc_en_UK_ware.Mode8
+trMA.Ode3C1H.melody = misc_en_UK_ware.Heirmos
+trMA.Ode3C1H.text = he.h.m8_en_UK_ware.SyEiToStereoma.text
+
+trMA.Ode3C11.ode = misc_en_UK_ware.Ode3
+trMA.Ode3C11.mode = misc_en_UK_ware.Mode8
+trMA.Ode3C11.melody = he.h.m8_en_UK_ware.SyEiToStereoma.name
+trMA.Ode3C11.text = ""
+
+trMA.Ode3C12.ode = misc_en_UK_ware.Ode3
+trMA.Ode3C12.mode = misc_en_UK_ware.Mode8
+trMA.Ode3C12.melody = he.h.m8_en_UK_ware.SyEiToStereoma.name
+trMA.Ode3C12.text = ""
+
+trMA.Ode3C13.ode = misc_en_UK_ware.Ode3
+trMA.Ode3C13.mode = misc_en_UK_ware.Mode8
+trMA.Ode3C13.melody = he.h.m8_en_UK_ware.SyEiToStereoma.name
+trMA.Ode3C13.text = ""
+
+trMA.Ode3C14.ode = misc_en_UK_ware.Ode3
+trMA.Ode3C14.mode = misc_en_UK_ware.Mode8
+trMA.Ode3C14.melody = he.h.m8_en_UK_ware.SyEiToStereoma.name
+trMA.Ode3C14.text = ""
+
+trMA.Ode3C21.ode = misc_en_UK_ware.Ode3
+trMA.Ode3C21.mode = misc_en_UK_ware.Mode8
+trMA.Ode3C21.melody = he.h.m8_en_UK_ware.OuraniasApsidos.name
+trMA.Ode3C21.text = ""
+
+trMA.Ode3C22.ode = misc_en_UK_ware.Ode3
+trMA.Ode3C22.mode = misc_en_UK_ware.Mode8
+trMA.Ode3C22.melody = he.h.m8_en_UK_ware.OuraniasApsidos.name
+trMA.Ode3C22.text = ""
+
+trMA.Ode3C23.ode = misc_en_UK_ware.Ode3
+trMA.Ode3C23.mode = misc_en_UK_ware.Mode8
+trMA.Ode3C23.melody = he.h.m8_en_UK_ware.OuraniasApsidos.name
+trMA.Ode3C23.text = ""
+
+trMA.Ode3C2T.ode = misc_en_UK_ware.Ode3
+trMA.Ode3C2T.mode = misc_en_UK_ware.Mode8
+trMA.Ode3C2T.melody = he.h.m8_en_UK_ware.OuraniasApsidos.name
+trMA.Ode3C2T.text = ""
+
+trMA.Ode3K.ode = misc_en_UK_ware.Ode3
+trMA.Ode3K.mode = misc_en_UK_ware.Mode8
+trMA.Ode3K.melody = misc_en_UK_ware.Heirmos
+trMA.Ode3K.text = he.h.m8_en_UK_ware.OuraniasApsidos.text
+
+trMA.Ode3Kathisma1.mode = misc_en_UK_ware.Mode4
+trMA.Ode3Kathisma1.melody = he.a.m4_en_UK_ware.KateplagiIosif.name
+trMA.Ode3Kathisma1.text = ""
+
+trMA.Ode3Kathisma2.mode = misc_en_UK_ware.Mode8
+trMA.Ode3Kathisma2.melody = he.a.m8_en_UK_ware.TinSofianKaiLogon.name
+trMA.Ode3Kathisma2.text = ""
+
+trMA.Ode4C1H.ode = misc_en_UK_ware.Ode4
+trMA.Ode4C1H.mode = misc_en_UK_ware.Mode8
+trMA.Ode4C1H.melody = misc_en_UK_ware.Heirmos
+trMA.Ode4C1H.text = he.h.m8_en_UK_ware.EisakikoaKyrie.text
+
+trMA.Ode4C11.ode = misc_en_UK_ware.Ode4
+trMA.Ode4C11.mode = misc_en_UK_ware.Mode8
+trMA.Ode4C11.melody = he.h.m8_en_UK_ware.EisakikoaKyrie.name
+trMA.Ode4C11.text = ""
+
+trMA.Ode4C12.ode = misc_en_UK_ware.Ode4
+trMA.Ode4C12.mode = misc_en_UK_ware.Mode8
+trMA.Ode4C12.melody = he.h.m8_en_UK_ware.EisakikoaKyrie.name
+trMA.Ode4C12.text = ""
+
+trMA.Ode4C13.ode = misc_en_UK_ware.Ode4
+trMA.Ode4C13.mode = misc_en_UK_ware.Mode8
+trMA.Ode4C13.melody = he.h.m8_en_UK_ware.EisakikoaKyrie.name
+trMA.Ode4C13.text = ""
+
+trMA.Ode4C1T.ode = misc_en_UK_ware.Ode4
+trMA.Ode4C1T.mode = misc_en_UK_ware.Mode8
+trMA.Ode4C1T.melody = he.h.m8_en_UK_ware.EisakikoaKyrie.name
+trMA.Ode4C1T.text = ""
+
+trMA.Ode4C21.ode = misc_en_UK_ware.Ode4
+trMA.Ode4C21.mode = misc_en_UK_ware.Mode8
+trMA.Ode4C21.melody = he.h.m8_en_UK_ware.SyMouIschys.name
+trMA.Ode4C21.text = ""
+
+trMA.Ode4C22.ode = misc_en_UK_ware.Ode4
+trMA.Ode4C22.mode = misc_en_UK_ware.Mode8
+trMA.Ode4C22.melody = he.h.m8_en_UK_ware.SyMouIschys.name
+trMA.Ode4C22.text = ""
+
+trMA.Ode4C23.ode = misc_en_UK_ware.Ode4
+trMA.Ode4C23.mode = misc_en_UK_ware.Mode8
+trMA.Ode4C23.melody = he.h.m8_en_UK_ware.SyMouIschys.name
+trMA.Ode4C23.text = ""
+
+trMA.Ode4C2T.ode = misc_en_UK_ware.Ode4
+trMA.Ode4C2T.mode = misc_en_UK_ware.Mode8
+trMA.Ode4C2T.melody = he.h.m8_en_UK_ware.SyMouIschys.name
+trMA.Ode4C2T.text = ""
+
+trMA.Ode4K.ode = misc_en_UK_ware.Ode4
+trMA.Ode4K.mode = misc_en_UK_ware.Mode8
+trMA.Ode4K.melody = misc_en_UK_ware.Heirmos
+trMA.Ode4K.text = he.h.m8_en_UK_ware.SyMouIschys.text
+
+trMA.Ode5C1H.ode = misc_en_UK_ware.Ode5
+trMA.Ode5C1H.mode = misc_en_UK_ware.Mode8
+trMA.Ode5C1H.melody = misc_en_UK_ware.Heirmos
+trMA.Ode5C1H.text = he.h.m8_en_UK_ware.InaTiMeAposo.text
+
+trMA.Ode5C11.ode = misc_en_UK_ware.Ode5
+trMA.Ode5C11.mode = misc_en_UK_ware.Mode8
+trMA.Ode5C11.melody = he.h.m8_en_UK_ware.InaTiMeAposo.name
+trMA.Ode5C11.text = ""
+
+trMA.Ode5C12.ode = misc_en_UK_ware.Ode5
+trMA.Ode5C12.mode = misc_en_UK_ware.Mode8
+trMA.Ode5C12.melody = he.h.m8_en_UK_ware.InaTiMeAposo.name
+trMA.Ode5C12.text = ""
+
+trMA.Ode5C13.ode = misc_en_UK_ware.Ode5
+trMA.Ode5C13.mode = misc_en_UK_ware.Mode8
+trMA.Ode5C13.melody = he.h.m8_en_UK_ware.InaTiMeAposo.name
+trMA.Ode5C13.text = ""
+
+trMA.Ode5C21.ode = misc_en_UK_ware.Ode5
+trMA.Ode5C21.mode = misc_en_UK_ware.Mode8
+trMA.Ode5C21.melody = he.h.m8_en_UK_ware.InaTiMeAposo.name
+trMA.Ode5C21.text = ""
+
+trMA.Ode5C22.ode = misc_en_UK_ware.Ode5
+trMA.Ode5C22.mode = misc_en_UK_ware.Mode8
+trMA.Ode5C22.melody = he.h.m8_en_UK_ware.InaTiMeAposo.name
+trMA.Ode5C22.text = ""
+
+trMA.Ode5C23.ode = misc_en_UK_ware.Ode5
+trMA.Ode5C23.mode = misc_en_UK_ware.Mode8
+trMA.Ode5C23.melody = he.h.m8_en_UK_ware.InaTiMeAposo.name
+trMA.Ode5C23.text = ""
+
+trMA.Ode5C2T.ode = misc_en_UK_ware.Ode5
+trMA.Ode5C2T.mode = misc_en_UK_ware.Mode8
+trMA.Ode5C2T.melody = he.h.m8_en_UK_ware.InaTiMeAposo.name
+trMA.Ode5C2T.text = ""
+
+trMA.Ode5K.ode = misc_en_UK_ware.Ode5
+trMA.Ode5K.mode = misc_en_UK_ware.Mode8
+trMA.Ode5K.melody = misc_en_UK_ware.Heirmos
+trMA.Ode5K.text = he.h.m8_en_UK_ware.InaTiMeAposo.text
+
+trMA.C3Poet = poets_en_UK_ware.KosmaMonachou
+
+trMA.C4Poet = poets_en_UK_ware.IoannouMonachou
+
+trMA.Ode6C1H.ode = misc_en_UK_ware.Ode6
+trMA.Ode6C1H.mode = misc_en_UK_ware.Mode8
+trMA.Ode6C1H.melody = misc_en_UK_ware.Heirmos
+trMA.Ode6C1H.text = he.h.m8_en_UK_ware.TonIonanEnToKitei.text
+
+trMA.Ode6C11.ode = misc_en_UK_ware.Ode6
+trMA.Ode6C11.mode = misc_en_UK_ware.Mode8
+trMA.Ode6C11.melody = he.h.m8_en_UK_ware.TonIonanEnToKitei.name
+trMA.Ode6C11.text = ""
+
+trMA.Ode6C12.ode = misc_en_UK_ware.Ode6
+trMA.Ode6C12.mode = misc_en_UK_ware.Mode8
+trMA.Ode6C12.melody = he.h.m8_en_UK_ware.TonIonanEnToKitei.name
+trMA.Ode6C12.text = ""
+
+trMA.Ode6C21.ode = misc_en_UK_ware.Ode6
+trMA.Ode6C21.mode = misc_en_UK_ware.Mode8
+trMA.Ode6C21.melody = he.h.m8_en_UK_ware.IlasthitiMoiSotir.name
+trMA.Ode6C21.text = ""
+
+trMA.Ode6C22.ode = misc_en_UK_ware.Ode6
+trMA.Ode6C22.mode = misc_en_UK_ware.Mode8
+trMA.Ode6C22.melody = he.h.m8_en_UK_ware.IlasthitiMoiSotir.name
+trMA.Ode6C22.text = ""
+
+trMA.Ode6K.ode = misc_en_UK_ware.Ode6
+trMA.Ode6K.mode = misc_en_UK_ware.Mode8
+trMA.Ode6K.melody = misc_en_UK_ware.Heirmos
+trMA.Ode6K.text = he.h.m8_en_UK_ware.IlasthitiMoiSotir.text
+
+trMA.Kontakion1.mode = misc_en_UK_ware.Mode2
+trMA.Kontakion1.melody = he.a.m2_en_UK_ware.TaAnoZiton.name
+trMA.Kontakion1.text = ""
+
+trMA.Oikos1.text = ""
+
+trMA.Synaxarion.commemoration.text = ""
+trMA.Synaxarion.couplet1.title = //titles_en_UK_ware.Stichoi
+trMA.Synaxarion.couplet1.verse1 = ""
+trMA.Synaxarion.couplet1.verse2 = ""
+trMA.Synaxarion.narration1.p01.text = ""
+trMA.Synaxarion.narration1.p02.text = ""
+trMA.Synaxarion.narration1.p03.text = ""
+trMA.Synaxarion.narration1.p04.text = ""
+trMA.Synaxarion.narration1.p05.text = ""
+trMA.Synaxarion.narration1.p06.text = ""
+trMA.Synaxarion.narration1.p07.text = ""
+trMA.Synaxarion.narration2.p01.text = ""
+trMA.Synaxarion.narration2.p02.text = ""
+trMA.Synaxarion.narration2.p03.text = ""
+trMA.Synaxarion.narration2.p04.text = ""
+trMA.Synaxarion.narration2.p05.text = ""
+trMA.Synaxarion.narration2.p06.text = ""
+trMA.Synaxarion.narration2.p07.text = ""
+trMA.Synaxarion.lastline.text = ""
+
+trMA.Ode7C1H.ode = misc_en_UK_ware.Ode7
+trMA.Ode7C1H.mode = misc_en_UK_ware.Mode8
+trMA.Ode7C1H.melody = misc_en_UK_ware.Heirmos
+trMA.Ode7C1H.text = he.h.m8_en_UK_ware.PaidesEvraion.text
+
+trMA.Ode7C11.ode = misc_en_UK_ware.Ode7
+trMA.Ode7C11.mode = misc_en_UK_ware.Mode8
+trMA.Ode7C11.melody = he.h.m8_en_UK_ware.PaidesEvraion.name
+trMA.Ode7C11.text = ""
+
+trMA.Ode7C12.ode = misc_en_UK_ware.Ode7
+trMA.Ode7C12.mode = misc_en_UK_ware.Mode8
+trMA.Ode7C12.melody = he.h.m8_en_UK_ware.PaidesEvraion.name
+trMA.Ode7C12.text = ""
+
+trMA.Ode7C21.ode = misc_en_UK_ware.Ode7
+trMA.Ode7C21.mode = misc_en_UK_ware.Mode8
+trMA.Ode7C21.melody = he.h.m8_en_UK_ware.OiEkTisIoudaias.name
+trMA.Ode7C21.text = ""
+
+trMA.Ode7C22.ode = misc_en_UK_ware.Ode7
+trMA.Ode7C22.mode = misc_en_UK_ware.Mode8
+trMA.Ode7C22.melody = he.h.m8_en_UK_ware.OiEkTisIoudaias.name
+trMA.Ode7C22.text = ""
+
+trMA.Ode7C23.ode = misc_en_UK_ware.Ode7
+trMA.Ode7C23.mode = misc_en_UK_ware.Mode8
+trMA.Ode7C23.melody = he.h.m8_en_UK_ware.OiEkTisIoudaias.name
+trMA.Ode7C23.text = ""
+
+trMA.Ode7K.ode = misc_en_UK_ware.Ode7
+trMA.Ode7K.mode = misc_en_UK_ware.Mode8
+trMA.Ode7K.melody = misc_en_UK_ware.Heirmos
+trMA.Ode7K.text = he.h.m8_en_UK_ware.OiEkTisIoudaias.text
+
+trMA.Ode8C1H.ode = misc_en_UK_ware.Ode8
+trMA.Ode8C1H.mode = misc_en_UK_ware.Mode8
+trMA.Ode8C1H.melody = misc_en_UK_ware.Heirmos
+trMA.Ode8C1H.text = he.h.m8_en_UK_ware.MousikonOrganon.text
+
+trMA.Ode8C11.ode = misc_en_UK_ware.Ode8
+trMA.Ode8C11.mode = misc_en_UK_ware.Mode8
+trMA.Ode8C11.melody = he.h.m8_en_UK_ware.MousikonOrganon.name
+trMA.Ode8C11.text = ""
+
+trMA.Ode8C12.ode = misc_en_UK_ware.Ode8
+trMA.Ode8C12.mode = misc_en_UK_ware.Mode8
+trMA.Ode8C12.melody = he.h.m8_en_UK_ware.MousikonOrganon.name
+trMA.Ode8C12.text = ""
+
+trMA.Ode8C21.ode = misc_en_UK_ware.Ode8
+trMA.Ode8C21.mode = misc_en_UK_ware.Mode8
+trMA.Ode8C21.melody = he.h.m8_en_UK_ware.TonVasileaTonOuranon.name
+trMA.Ode8C21.text = ""
+
+trMA.Ode8C22.ode = misc_en_UK_ware.Ode8
+trMA.Ode8C22.mode = misc_en_UK_ware.Mode8
+trMA.Ode8C22.melody = he.h.m8_en_UK_ware.TonVasileaTonOuranon.name
+trMA.Ode8C22.text = ""
+
+trMA.Ode8C23.ode = misc_en_UK_ware.Ode8
+trMA.Ode8C23.mode = misc_en_UK_ware.Mode8
+trMA.Ode8C23.melody = he.h.m8_en_UK_ware.TonVasileaTonOuranon.name
+trMA.Ode8C23.text = ""
+
+trMA.Ode8K.ode = misc_en_UK_ware.Ode8
+trMA.Ode8K.mode = misc_en_UK_ware.Mode8
+trMA.Ode8K.melody = ""
+trMA.Ode8K.text = he.h.m8_en_UK_ware.TonVasileaTonOuranon.text
+
+trMA.Ode9C1H.ode = misc_en_UK_ware.Ode9
+trMA.Ode9C1H.mode = misc_en_UK_ware.Mode8
+trMA.Ode9C1H.melody = misc_en_UK_ware.Heirmos
+trMA.Ode9C1H.text = he.h.m8_en_UK_ware.TinAgninEndoxos.text
+
+trMA.Ode9C11.ode = misc_en_UK_ware.Ode9
+trMA.Ode9C11.mode = misc_en_UK_ware.Mode8
+trMA.Ode9C11.melody = he.h.m8_en_UK_ware.TinAgninEndoxos.name
+trMA.Ode9C11.text = ""
+
+trMA.Ode9C12.ode = misc_en_UK_ware.Ode9
+trMA.Ode9C12.mode = misc_en_UK_ware.Mode8
+trMA.Ode9C12.melody = he.h.m8_en_UK_ware.TinAgninEndoxos.name
+trMA.Ode9C12.text = ""
+
+trMA.Ode9C21.ode = misc_en_UK_ware.Ode9
+trMA.Ode9C21.mode = misc_en_UK_ware.Mode8
+trMA.Ode9C21.melody = he.h.m8_en_UK_ware.KyriosTheotokon.name
+trMA.Ode9C21.text = ""
+
+trMA.Ode9C22.ode = misc_en_UK_ware.Ode9
+trMA.Ode9C22.mode = misc_en_UK_ware.Mode8
+trMA.Ode9C22.melody = he.h.m8_en_UK_ware.KyriosTheotokon.name
+trMA.Ode9C22.text = ""
+
+trMA.Ode9C23.ode = misc_en_UK_ware.Ode9
+trMA.Ode9C23.mode = misc_en_UK_ware.Mode8
+trMA.Ode9C23.melody = he.h.m8_en_UK_ware.KyriosTheotokon.name
+trMA.Ode9C23.text = ""
+
+trMA.Ode9C24.ode = misc_en_UK_ware.Ode9
+trMA.Ode9C24.mode = misc_en_UK_ware.Mode8
+trMA.Ode9C24.melody = he.h.m8_en_UK_ware.KyriosTheotokon.name
+trMA.Ode9C24.text = ""
+
+trMA.Ode9K.ode = misc_en_UK_ware.Ode9
+trMA.Ode9K.mode = misc_en_UK_ware.Mode8
+trMA.Ode9K.melody = misc_en_UK_ware.Heirmos
+trMA.Ode9K.text = he.h.m8_en_UK_ware.KyriosTheotokon.text
+
+trMA.MM.ExapIntro.text = properties_en_UK_ware.media.key
+
+trMA.Exaposteilarion1.mode = misc_en_UK_ware.Mode3
+trMA.Exaposteilarion1.melody = he.a.m3_en_UK_ware.EpeskepsatoImas.name
+trMA.Exaposteilarion1.text = ""
+
+trMA.Exaposteilarion2.mode = misc_en_UK_ware.Mode3
+trMA.Exaposteilarion2.melody = he.a.m3_en_UK_ware.EpeskepsatoImas.name
+trMA.Exaposteilarion2.text = ""
+
+trMA.Lauds1.mode = misc_en_UK_ware.Mode1
+trMA.Lauds1.melody = misc_en_UK_ware.Idiomelon
+trMA.Lauds1.text = ""
+
+trMA.Lauds2.mode = misc_en_UK_ware.Mode1
+trMA.Lauds2.melody = misc_en_UK_ware.Idiomelon
+trMA.Lauds2.text = ""
+
+trMA.Lauds3.mode = misc_en_UK_ware.Mode1
+trMA.Lauds3.melody = misc_en_UK_ware.Idiomelon
+trMA.Lauds3.text = ""
+
+trMA.Lauds4.mode = misc_en_UK_ware.Mode1
+trMA.Lauds4.melody = misc_en_UK_ware.Idiomelon
+trMA.Lauds4.text = ""
+
+trMA.Lauds5.mode = misc_en_UK_ware.Mode4
+trMA.Lauds5.melody = misc_en_UK_ware.Idiomelon
+trMA.Lauds5.text = ""
+
+trMA.Lauds6.mode = misc_en_UK_ware.Mode4
+trMA.Lauds6.melody = misc_en_UK_ware.Idiomelon
+trMA.Lauds6.text = ""
+
+trMA.Lauds7.mode = misc_en_UK_ware.Mode8
+trMA.Lauds7.melody = misc_en_UK_ware.Idiomelon
+trMA.Lauds7.text = ""
+
+trMA.Lauds8.mode = misc_en_UK_ware.Mode8
+trMA.Lauds8.melody = misc_en_UK_ware.Idiomelon
+trMA.Lauds8.text = ""
+
+trMA.LaudsGlory.mode = misc_en_UK_ware.Mode2
+trMA.LaudsGlory.melody = misc_en_UK_ware.Idiomelon
+trMA.LaudsGlory.text = ""
+
+trMA.LaudsTheotokion.mode = misc_en_UK_ware.Mode2
+trMA.LaudsTheotokion.melody = ""
+trMA.LaudsTheotokion.text = //oc.m2.d1_en_UK_ware.ocMA.Kathisma23.text
+
+trLI.Kontakion1.mode = trMA.Kontakion1.mode
+trLI.Kontakion1.melody = trMA.Kontakion1.melody
+trLI.Kontakion1.text = trMA.Kontakion1.text
+
+trLI.TheotokosHymn.mode = misc_en_UK_ware.Mode8
+trLI.TheotokosHymn.text = trMA.Ode9C1H.text
+
+trLI.MM.CommunionHymn.text = properties_en_UK_ware.media.key
+
+trLI.AfterCommunion.mode = misc_en_UK_ware.Mode1
+trLI.AfterCommunion.text = trVE.Apolytikion1.text
+
+trMegalynarion.text = ""
+
