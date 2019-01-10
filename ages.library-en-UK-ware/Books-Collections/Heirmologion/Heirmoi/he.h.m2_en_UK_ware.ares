@@ -330,10 +330,10 @@ SeTinNoitin.mode = misc_en_UK_ware.Mode2
 SeTinNoitin.ode = misc_en_UK_ware.Ode9
 SeTinNoitin.text = ""
 
-SteirothentaMouTonNoun.name = ""
+SteirothentaMouTonNoun.name = "(NM) O God, the husbandman."
 SteirothentaMouTonNoun.mode = misc_en_UK_ware.Mode2
 SteirothentaMouTonNoun.ode = misc_en_UK_ware.Ode3
-SteirothentaMouTonNoun.text = ""
+SteirothentaMouTonNoun.text = "O God, the husbandman of all good trees and fruit, make fruitful my barren mind in Thy compassion."
 
 StereosonImasEnSoiKyrie.name = ""
 StereosonImasEnSoiKyrie.mode = misc_en_UK_ware.Mode2
@@ -390,10 +390,10 @@ TinParthenianSou.mode = misc_en_UK_ware.Mode2
 TinParthenianSou.ode = misc_en_UK_ware.Ode9
 TinParthenianSou.text = ""
 
-TinYperfyosSarki.name = ""
+TinYperfyosSarki.name = "(NM) With faith let us magnify."
 TinYperfyosSarki.mode = misc_en_UK_ware.Mode2
 TinYperfyosSarki.ode = misc_en_UK_ware.Ode9
-TinYperfyosSarki.text = ""
+TinYperfyosSarki.text = "With faith let us magnify the only Theotokos, for in ways surpassing nature she has conceived within her womb, according to the flesh, the Word that outside time shone forth from the Father."
 
 TisNyktosDielthousis.name = ""
 TisNyktosDielthousis.mode = misc_en_UK_ware.Mode2
@@ -435,10 +435,10 @@ TonEnKaminoTouPyros.mode = misc_en_UK_ware.Mode2
 TonEnKaminoTouPyros.ode = misc_en_UK_ware.Ode8
 TonEnKaminoTouPyros.text = ""
 
-TonEnTiVatoMosi.name = ""
+TonEnTiVatoMosi.name = "(NM) The Lord of old foreshadowed."
 TonEnTiVatoMosi.mode = misc_en_UK_ware.Mode2
 TonEnTiVatoMosi.ode = misc_en_UK_ware.Ode8
-TonEnTiVatoMosi.text = ""
+TonEnTiVatoMosi.text = "The Lord of old foreshadowed the miracle of the Virgin to Moses in the bush upon Mount Sinai: let us praise, bless and exalt Him above all forever."
 
 TonGigenonTisIkouse.name = ""
 TonGigenonTisIkouse.mode = misc_en_UK_ware.Mode2

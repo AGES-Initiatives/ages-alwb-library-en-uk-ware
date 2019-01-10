@@ -1,0 +1,437 @@
+A_Resource_Whose_Name = tr.d046_en_UK_ware
+
+trCommemoration.text = "" // full title of day
+trShortCommemoration1.text = ""
+trInsert1 = "" // for use in petitions and dismissal
+trInsert2 = "" // for use in petitions and dismissal
+trNote.text = ""
+trHO.daytitle = ""
+trHO.commemorations = ""
+trHO.description1 = ""
+trHO.description2 = ""
+trHO.note1 = ""
+trHO.note2 = ""
+
+trVE.Stichera01.mode = misc_en_UK_ware.Mode6
+trVE.Stichera01.melody = he.a.m6_en_UK_ware.OlinApothemenoi.name
+trVE.Stichera01.text = ""
+
+trVE.Stichera02.mode = misc_en_UK_ware.Mode6
+trVE.Stichera02.melody = he.a.m6_en_UK_ware.OlinApothemenoi.name
+trVE.Stichera02.text = ""
+
+trVE.Stichera03.mode = misc_en_UK_ware.Mode1
+trVE.Stichera03.melody = ""
+trVE.Stichera03.text = ""
+
+trVE.Stichera04.mode = misc_en_UK_ware.Mode4
+trVE.Stichera04.melody = he.a.m4_en_UK_ware.EdokasSimeiosin.name
+trVE.Stichera04.text = ""
+
+trVE.Stichera05.mode = misc_en_UK_ware.Mode4
+trVE.Stichera05.melody = he.a.m4_en_UK_ware.EdokasSimeiosin.name
+trVE.Stichera05.text = ""
+
+trVE.Stichera06.mode = misc_en_UK_ware.Mode4
+trVE.Stichera06.melody = he.a.m4_en_UK_ware.EdokasSimeiosin.name
+trVE.Stichera06.text = ""
+
+trVE.SticGlory.mode = misc_en_UK_ware.Mode8
+trVE.SticGlory.melody = misc_en_UK_ware.Idiomelon
+trVE.SticGlory.text = ""
+
+trVE.AposIdiomelon1.mode = misc_en_UK_ware.Mode3
+trVE.AposIdiomelon1.melody = misc_en_UK_ware.Idiomelon
+trVE.AposIdiomelon1.text = ""
+
+trVE.AposMartyric.mode = misc_en_UK_ware.Mode3
+trVE.AposMartyric.melody = ""
+trVE.AposMartyric.text = ""
+
+trVE.AposGlory.mode = misc_en_UK_ware.Mode5
+trVE.AposGlory.melody = misc_en_UK_ware.Idiomelon
+trVE.AposGlory.text = tr.d043_en_UK_ware.trVE.LityGlory.text
+
+trMA.Kathisma21.mode = misc_en_UK_ware.Mode6
+trMA.Kathisma21.melody = he.a.m6_en_UK_ware.ElpisTouKosmouAgathi.name
+trMA.Kathisma21.text = ""
+
+trMA.Kathisma22.mode = misc_en_UK_ware.Mode6
+trMA.Kathisma22.melody = he.a.m6_en_UK_ware.ElpisTouKosmouAgathi.name
+trMA.Kathisma22.text = ""
+
+trMA.Kathisma31.mode = misc_en_UK_ware.Mode1
+trMA.Kathisma31.melody = ""
+trMA.Kathisma31.text = ""
+
+trMA.Kathisma32.mode = misc_en_UK_ware.Mode1
+trMA.Kathisma32.melody = he.a.m1_en_UK_ware.TonTafonSouSotir.name
+trMA.Kathisma32.text = ""
+
+trMA.C1Poet = poets_en_UK_ware.KyriouTheofanous
+trMA.C1Acrostic.text = ""
+
+trMA.C2Poet = poets_en_UK_ware.Iosif
+
+trMA.C3Poet = poets_en_UK_ware.Theodorou
+
+trMA.C1.title = ""
+trMA.C1.verse = ""
+
+trMA.Ode1C11.ode = misc_en_UK_ware.Ode1
+trMA.Ode1C11.mode = misc_en_UK_ware.Mode4
+trMA.Ode1C11.melody = he.h.m4_en_UK_ware.AnoixoToStomaMou.name
+trMA.Ode1C11.text = ""
+
+trMA.Ode1C12.ode = misc_en_UK_ware.Ode1
+trMA.Ode1C12.mode = misc_en_UK_ware.Mode4
+trMA.Ode1C12.melody = he.h.m4_en_UK_ware.AnoixoToStomaMou.name
+trMA.Ode1C12.text = ""
+
+trMA.Ode1C13.ode = misc_en_UK_ware.Ode1
+trMA.Ode1C13.mode = misc_en_UK_ware.Mode4
+trMA.Ode1C13.melody = he.h.m4_en_UK_ware.AnoixoToStomaMou.name
+trMA.Ode1C13.text = ""
+
+trMA.Ode1C1T.ode = misc_en_UK_ware.Ode1
+trMA.Ode1C1T.mode = misc_en_UK_ware.Mode4
+trMA.Ode1C1T.melody = he.h.m4_en_UK_ware.AnoixoToStomaMou.name
+trMA.Ode1C1T.text = ""
+
+trMA.Ode3C11.ode = misc_en_UK_ware.Ode3
+trMA.Ode3C11.mode = misc_en_UK_ware.Mode4
+trMA.Ode3C11.melody = he.h.m4_en_UK_ware.TousSousYmnologous.name
+trMA.Ode3C11.text = ""
+
+trMA.Ode3C12.ode = misc_en_UK_ware.Ode3
+trMA.Ode3C12.mode = misc_en_UK_ware.Mode4
+trMA.Ode3C12.melody = he.h.m4_en_UK_ware.TousSousYmnologous.name
+trMA.Ode3C12.text = ""
+
+trMA.Ode3C13.ode = misc_en_UK_ware.Ode3
+trMA.Ode3C13.mode = misc_en_UK_ware.Mode4
+trMA.Ode3C13.melody = he.h.m4_en_UK_ware.TousSousYmnologous.name
+trMA.Ode3C13.text = ""
+
+trMA.Ode3C1T.ode = misc_en_UK_ware.Ode3
+trMA.Ode3C1T.mode = misc_en_UK_ware.Mode4
+trMA.Ode3C1T.melody = he.h.m4_en_UK_ware.TousSousYmnologous.name
+trMA.Ode3C1T.text = ""
+
+trMA.Ode3C21.ode = misc_en_UK_ware.Ode3
+trMA.Ode3C21.mode = misc_en_UK_ware.Mode6
+trMA.Ode3C21.melody = he.h.m6_en_UK_ware.KyriosOnPanton.name
+trMA.Ode3C21.text = ""
+
+trMA.Ode3C22.ode = misc_en_UK_ware.Ode3
+trMA.Ode3C22.mode = misc_en_UK_ware.Mode6
+trMA.Ode3C22.melody = he.h.m6_en_UK_ware.KyriosOnPanton.name
+trMA.Ode3C22.text = ""
+
+trMA.Ode3C23.ode = misc_en_UK_ware.Ode3
+trMA.Ode3C23.mode = misc_en_UK_ware.Mode6
+trMA.Ode3C23.melody = he.h.m6_en_UK_ware.KyriosOnPanton.name
+trMA.Ode3C23.text = ""
+
+trMA.Ode3C2T.ode = misc_en_UK_ware.Ode3
+trMA.Ode3C2T.mode = misc_en_UK_ware.Mode6
+trMA.Ode3C2T.melody = he.h.m6_en_UK_ware.KyriosOnPanton.name
+trMA.Ode3C2T.text = ""
+
+trMA.Ode3C31.ode = misc_en_UK_ware.Ode3
+trMA.Ode3C31.mode = misc_en_UK_ware.Mode1
+trMA.Ode3C31.melody = he.h.m1_en_UK_ware.StereosonKyrie.name
+trMA.Ode3C31.text = ""
+
+trMA.Ode3C32.ode = misc_en_UK_ware.Ode3
+trMA.Ode3C32.mode = misc_en_UK_ware.Mode1
+trMA.Ode3C32.melody = he.h.m1_en_UK_ware.StereosonKyrie.name
+trMA.Ode3C32.text = ""
+
+trMA.Ode3C3Tr.ode = misc_en_UK_ware.Ode3
+trMA.Ode3C3Tr.mode = misc_en_UK_ware.Mode1
+trMA.Ode3C3Tr.melody = he.h.m1_en_UK_ware.StereosonKyrie.name
+trMA.Ode3C3Tr.text = ""
+
+trMA.Ode3C3T.ode = misc_en_UK_ware.Ode3
+trMA.Ode3C3T.mode = misc_en_UK_ware.Mode1
+trMA.Ode3C3T.melody = he.h.m1_en_UK_ware.StereosonKyrie.name
+trMA.Ode3C3T.text = ""
+
+trMA.Ode3C3A1.ode = misc_en_UK_ware.Ode3
+trMA.Ode3C3A1.mode = misc_en_UK_ware.Mode1
+trMA.Ode3C3A1.melody = he.h.m1_en_UK_ware.StereosonKyrie.name
+trMA.Ode3C3A1.text = ""
+
+trMA.Ode3C3H.ode = misc_en_UK_ware.Ode3
+trMA.Ode3C3H.mode = misc_en_UK_ware.Mode1
+trMA.Ode3C3H.melody = misc_en_UK_ware.Heirmos
+trMA.Ode3C3H.text = he.h.m1_en_UK_ware.StereosonKyrie.text
+
+trMA.Ode3Kathisma1.mode = misc_en_UK_ware.Mode6
+trMA.Ode3Kathisma1.melody = ""
+trMA.Ode3Kathisma1.text = ""
+
+trMA.Ode3Kathisma2.mode = misc_en_UK_ware.Mode6
+trMA.Ode3Kathisma2.melody = ""
+trMA.Ode3Kathisma2.text = ""
+
+trMA.Ode3Kathisma3.mode = misc_en_UK_ware.Mode6
+trMA.Ode3Kathisma3.melody = ""
+trMA.Ode3Kathisma3.text = ""
+
+trMA.Ode4C11.ode = misc_en_UK_ware.Ode4
+trMA.Ode4C11.mode = misc_en_UK_ware.Mode4
+trMA.Ode4C11.melody = he.h.m4_en_UK_ware.OKathimenosEnDoxi.name
+trMA.Ode4C11.text = ""
+
+trMA.Ode4C12.ode = misc_en_UK_ware.Ode4
+trMA.Ode4C12.mode = misc_en_UK_ware.Mode4
+trMA.Ode4C12.melody = he.h.m4_en_UK_ware.OKathimenosEnDoxi.name
+trMA.Ode4C12.text = ""
+
+trMA.Ode4C13.ode = misc_en_UK_ware.Ode4
+trMA.Ode4C13.mode = misc_en_UK_ware.Mode4
+trMA.Ode4C13.melody = he.h.m4_en_UK_ware.OKathimenosEnDoxi.name
+trMA.Ode4C13.text = ""
+
+trMA.Ode4C1T.ode = misc_en_UK_ware.Ode4
+trMA.Ode4C1T.mode = misc_en_UK_ware.Mode4
+trMA.Ode4C1T.melody = he.h.m4_en_UK_ware.OKathimenosEnDoxi.name
+trMA.Ode4C1T.text = ""
+
+trMA.Ode5C11.ode = misc_en_UK_ware.Ode5
+trMA.Ode5C11.mode = misc_en_UK_ware.Mode4
+trMA.Ode5C11.melody = he.h.m4_en_UK_ware.ExestiTaSympanta.name
+trMA.Ode5C11.text = ""
+
+trMA.Ode5C12.ode = misc_en_UK_ware.Ode5
+trMA.Ode5C12.mode = misc_en_UK_ware.Mode4
+trMA.Ode5C12.melody = he.h.m4_en_UK_ware.ExestiTaSympanta.name
+trMA.Ode5C12.text = ""
+
+trMA.Ode5C13.ode = misc_en_UK_ware.Ode5
+trMA.Ode5C13.mode = misc_en_UK_ware.Mode4
+trMA.Ode5C13.melody = he.h.m4_en_UK_ware.ExestiTaSympanta.name
+trMA.Ode5C13.text = ""
+
+trMA.Ode5C1T.ode = misc_en_UK_ware.Ode5
+trMA.Ode5C1T.mode = misc_en_UK_ware.Mode4
+trMA.Ode5C1T.melody = he.h.m4_en_UK_ware.ExestiTaSympanta.name
+trMA.Ode5C1T.text = ""
+
+trMA.Ode6C11.ode = misc_en_UK_ware.Ode6
+trMA.Ode6C11.mode = misc_en_UK_ware.Mode4
+trMA.Ode6C11.melody = he.h.m4_en_UK_ware.EvoiseProtypon.name
+trMA.Ode6C11.text = ""
+
+trMA.Ode6C12.ode = misc_en_UK_ware.Ode6
+trMA.Ode6C12.mode = misc_en_UK_ware.Mode4
+trMA.Ode6C12.melody = he.h.m4_en_UK_ware.EvoiseProtypon.name
+trMA.Ode6C12.text = ""
+
+trMA.Ode6C13.ode = misc_en_UK_ware.Ode6
+trMA.Ode6C13.mode = misc_en_UK_ware.Mode4
+trMA.Ode6C13.melody = he.h.m4_en_UK_ware.EvoiseProtypon.name
+trMA.Ode6C13.text = ""
+
+trMA.Ode6C1T.ode = misc_en_UK_ware.Ode6
+trMA.Ode6C1T.mode = misc_en_UK_ware.Mode4
+trMA.Ode6C1T.melody = he.h.m4_en_UK_ware.EvoiseProtypon.name
+trMA.Ode6C1T.text = ""
+
+trMA.Ode6C1H.ode = misc_en_UK_ware.Ode6
+trMA.Ode6C1H.mode = misc_en_UK_ware.Mode4
+trMA.Ode6C1H.melody = misc_en_UK_ware.Heirmos
+trMA.Ode6C1H.text = he.h.m4_en_UK_ware.EvoiseProtypon.text
+
+trMA.Kontakion1.mode = misc_en_UK_ware.Mode7
+trMA.Kontakion1.melody = misc_en_UK_ware.Automelon
+trMA.Kontakion1.text = tr.d043_en_UK_ware.trMA.Kontakion1.text
+
+trMA.Oikos1.text = tr.d043_en_UK_ware.trMA.Oikos1.text
+
+trMA.Ode7C11.ode = misc_en_UK_ware.Ode7
+trMA.Ode7C11.mode = misc_en_UK_ware.Mode4
+trMA.Ode7C11.melody = he.h.m4_en_UK_ware.OukElatrefsan.name
+trMA.Ode7C11.text = ""
+
+trMA.Ode7C12.ode = misc_en_UK_ware.Ode7
+trMA.Ode7C12.mode = misc_en_UK_ware.Mode4
+trMA.Ode7C12.melody = he.h.m4_en_UK_ware.OukElatrefsan.name
+trMA.Ode7C12.text = ""
+
+trMA.Ode7C13.ode = misc_en_UK_ware.Ode7
+trMA.Ode7C13.mode = misc_en_UK_ware.Mode4
+trMA.Ode7C13.melody = he.h.m4_en_UK_ware.OukElatrefsan.name
+trMA.Ode7C13.text = ""
+
+trMA.Ode7C1T.ode = misc_en_UK_ware.Ode7
+trMA.Ode7C1T.mode = misc_en_UK_ware.Mode4
+trMA.Ode7C1T.melody = he.h.m4_en_UK_ware.OukElatrefsan.name
+trMA.Ode7C1T.text = ""
+
+trMA.Ode8C11.ode = misc_en_UK_ware.Ode8
+trMA.Ode8C11.mode = misc_en_UK_ware.Mode4
+trMA.Ode8C11.melody = he.h.m4_en_UK_ware.PaidasEvageis.name
+trMA.Ode8C11.text = ""
+
+trMA.Ode8C12.ode = misc_en_UK_ware.Ode8
+trMA.Ode8C12.mode = misc_en_UK_ware.Mode4
+trMA.Ode8C12.melody = he.h.m4_en_UK_ware.PaidasEvageis.name
+trMA.Ode8C12.text = ""
+
+trMA.Ode8C13.ode = misc_en_UK_ware.Ode8
+trMA.Ode8C13.mode = misc_en_UK_ware.Mode4
+trMA.Ode8C13.melody = he.h.m4_en_UK_ware.PaidasEvageis.name
+trMA.Ode8C13.text = ""
+
+trMA.Ode8C1T.ode = misc_en_UK_ware.Ode8
+trMA.Ode8C1T.mode = misc_en_UK_ware.Mode4
+trMA.Ode8C1T.melody = he.h.m4_en_UK_ware.PaidasEvageis.name
+trMA.Ode8C1T.text = ""
+
+trMA.Ode8C21.ode = misc_en_UK_ware.Ode8
+trMA.Ode8C21.mode = misc_en_UK_ware.Mode6
+trMA.Ode8C21.melody = he.h.m6_en_UK_ware.NomonPatroon.name
+trMA.Ode8C21.text = ""
+
+trMA.Ode8C22.ode = misc_en_UK_ware.Ode8
+trMA.Ode8C22.mode = misc_en_UK_ware.Mode6
+trMA.Ode8C22.melody = he.h.m6_en_UK_ware.NomonPatroon.name
+trMA.Ode8C22.text = ""
+
+trMA.Ode8C23.ode = misc_en_UK_ware.Ode8
+trMA.Ode8C23.mode = misc_en_UK_ware.Mode6
+trMA.Ode8C23.melody = he.h.m6_en_UK_ware.NomonPatroon.name
+trMA.Ode8C23.text = ""
+
+trMA.Ode8C2T.ode = misc_en_UK_ware.Ode8
+trMA.Ode8C2T.mode = misc_en_UK_ware.Mode6
+trMA.Ode8C2T.melody = he.h.m6_en_UK_ware.NomonPatroon.name
+trMA.Ode8C2T.text = ""
+
+trMA.Ode8C31.ode = misc_en_UK_ware.Ode8
+trMA.Ode8C31.mode = misc_en_UK_ware.Mode1
+trMA.Ode8C31.melody = he.h.m1_en_UK_ware.AftiIKliti.name
+trMA.Ode8C31.text = ""
+
+trMA.Ode8C32.ode = misc_en_UK_ware.Ode8
+trMA.Ode8C32.mode = misc_en_UK_ware.Mode1
+trMA.Ode8C32.melody = he.h.m1_en_UK_ware.AftiIKliti.name
+trMA.Ode8C32.text = ""
+
+trMA.Ode8C3Tr.ode = misc_en_UK_ware.Ode8
+trMA.Ode8C3Tr.mode = misc_en_UK_ware.Mode1
+trMA.Ode8C3Tr.melody = he.h.m1_en_UK_ware.AftiIKliti.name
+trMA.Ode8C3Tr.text = ""
+
+trMA.Ode8C3T.ode = misc_en_UK_ware.Ode8
+trMA.Ode8C3T.mode = misc_en_UK_ware.Mode1
+trMA.Ode8C3T.melody = he.h.m1_en_UK_ware.AftiIKliti.name
+trMA.Ode8C3T.text = ""
+
+trMA.Ode8C3A1.ode = misc_en_UK_ware.Ode8
+trMA.Ode8C3A1.mode = misc_en_UK_ware.Mode1
+trMA.Ode8C3A1.melody = he.h.m1_en_UK_ware.AftiIKliti.name
+trMA.Ode8C3A1.text = ""
+
+trMA.Ode8C3H.ode = misc_en_UK_ware.Ode8
+trMA.Ode8C3H.mode = misc_en_UK_ware.Mode1
+trMA.Ode8C3H.melody = misc_en_UK_ware.Heirmos
+trMA.Ode8C3H.text = he.h.m1_en_UK_ware.CheirasEnToLakko.text
+
+trMA.Ode9C11.ode = misc_en_UK_ware.Ode9
+trMA.Ode9C11.mode = misc_en_UK_ware.Mode4
+trMA.Ode9C11.melody = he.h.m4_en_UK_ware.ApasGigenis.name
+trMA.Ode9C11.text = ""
+
+trMA.Ode9C12.ode = misc_en_UK_ware.Ode9
+trMA.Ode9C12.mode = misc_en_UK_ware.Mode4
+trMA.Ode9C12.melody = he.h.m4_en_UK_ware.ApasGigenis.name
+trMA.Ode9C12.text = ""
+
+trMA.Ode9C13.ode = misc_en_UK_ware.Ode9
+trMA.Ode9C13.mode = misc_en_UK_ware.Mode4
+trMA.Ode9C13.melody = he.h.m4_en_UK_ware.ApasGigenis.name
+trMA.Ode9C13.text = ""
+
+trMA.Ode9C1T.ode = misc_en_UK_ware.Ode9
+trMA.Ode9C1T.mode = misc_en_UK_ware.Mode4
+trMA.Ode9C1T.melody = he.h.m4_en_UK_ware.ApasGigenis.name
+trMA.Ode9C1T.text = ""
+
+trMA.Ode9C21.ode = misc_en_UK_ware.Ode9
+trMA.Ode9C21.mode = misc_en_UK_ware.Mode6
+trMA.Ode9C21.melody = he.h.m6_en_UK_ware.AporeiPasaGlossa.name
+trMA.Ode9C21.text = ""
+
+trMA.Ode9C22.ode = misc_en_UK_ware.Ode9
+trMA.Ode9C22.mode = misc_en_UK_ware.Mode6
+trMA.Ode9C22.melody = he.h.m6_en_UK_ware.AporeiPasaGlossa.name
+trMA.Ode9C22.text = ""
+
+trMA.Ode9C23.ode = misc_en_UK_ware.Ode9
+trMA.Ode9C23.mode = misc_en_UK_ware.Mode6
+trMA.Ode9C23.melody = he.h.m6_en_UK_ware.AporeiPasaGlossa.name
+trMA.Ode9C23.text = ""
+
+trMA.Ode9C2T.ode = misc_en_UK_ware.Ode9
+trMA.Ode9C2T.mode = misc_en_UK_ware.Mode6
+trMA.Ode9C2T.melody = he.h.m6_en_UK_ware.AporeiPasaGlossa.name
+trMA.Ode9C2T.text = ""
+
+trMA.Ode9C31.ode = misc_en_UK_ware.Ode9
+trMA.Ode9C31.mode = misc_en_UK_ware.Mode1
+trMA.Ode9C31.melody = he.h.m1_en_UK_ware.FotizouFotizou.name
+trMA.Ode9C31.text = ""
+
+trMA.Ode9C32.ode = misc_en_UK_ware.Ode9
+trMA.Ode9C32.mode = misc_en_UK_ware.Mode1
+trMA.Ode9C32.melody = he.h.m1_en_UK_ware.FotizouFotizou.name
+trMA.Ode9C32.text = ""
+
+trMA.Ode9C3Tr.ode = misc_en_UK_ware.Ode9
+trMA.Ode9C3Tr.mode = misc_en_UK_ware.Mode1
+trMA.Ode9C3Tr.melody = he.h.m1_en_UK_ware.FotizouFotizou.name
+trMA.Ode9C3Tr.text = ""
+
+trMA.Ode9C3T.ode = misc_en_UK_ware.Ode9
+trMA.Ode9C3T.mode = misc_en_UK_ware.Mode1
+trMA.Ode9C3T.melody = he.h.m1_en_UK_ware.FotizouFotizou.name
+trMA.Ode9C3T.text = ""
+
+trMA.Ode9C3A1.ode = misc_en_UK_ware.Ode9
+trMA.Ode9C3A1.mode = misc_en_UK_ware.Mode1
+trMA.Ode9C3A1.melody = he.h.m1_en_UK_ware.FotizouFotizou.name
+trMA.Ode9C3A1.text = ""
+
+trMA.Ode9C3H.ode = misc_en_UK_ware.Ode9
+trMA.Ode9C3H.mode = misc_en_UK_ware.Mode1
+trMA.Ode9C3H.melody = misc_en_UK_ware.Heirmos
+trMA.Ode9C3H.text = he.h.m1_en_UK_ware.OMiterParthene.text
+
+trMA.Exaposteilarion1.mode = misc_en_UK_ware.Mode3
+trMA.Exaposteilarion1.melody = he.a.m3_en_UK_ware.EnPnevmatiToIero.name
+trMA.Exaposteilarion1.text = ""
+
+trMA.ExapTheotokion.mode = misc_en_UK_ware.Mode3
+trMA.ExapTheotokion.melody = he.a.m3_en_UK_ware.EnPnevmatiToIero.name
+trMA.ExapTheotokion.text = ""
+
+trMA.AposIdiomelon1.mode = misc_en_UK_ware.Mode8
+trMA.AposIdiomelon1.melody = misc_en_UK_ware.Idiomelon
+trMA.AposIdiomelon1.text = ""
+
+trMA.AposMartyric.mode = misc_en_UK_ware.Mode8
+trMA.AposMartyric.melody = ""
+trMA.AposMartyric.text = ""
+
+trMA.AposTheotokion.mode = misc_en_UK_ware.Mode8
+trMA.AposTheotokion.melody = misc_en_UK_ware.Idiomelon
+trMA.AposTheotokion.text = ""
+
+trTE.Troparion.mode = misc_en_UK_ware.Mode6
+trTE.Troparion.melody = ""
+trTE.Troparion.text = ""
+trTE.Troparion2.text = ""
