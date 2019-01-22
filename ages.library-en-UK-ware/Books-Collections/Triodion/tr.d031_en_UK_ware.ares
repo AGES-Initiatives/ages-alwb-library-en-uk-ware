@@ -44,7 +44,7 @@ trMA.Kathisma21.text = "Restraining the passions with the bridle of pure fasting
 
 trMA.Kathisma22.mode = misc_en_UK_ware.Mode8
 trMA.Kathisma22.melody = he.a.m8_en_UK_ware.AnestisEkNekron.notmetered
-trMA.Kathisma22.text = "Through the great number of my wicked and unlawful acts, I have fallen into the troubled waters of despair. I am utterly perplexed and held captive by despondency. O sovereign Lady Theotokos, save and help me, for through thee sinners receive atonement, cleansing and salvation."
+trMA.Kathisma22.text = "Through the great number of my wicked and unlawful acts, I have fallen into the troubled waters of despair. I am utterly perplexed and held captive by despondency. O sovereign Lady Theotokos, save and help me, for through thee sinners receive atonement, cleansing and salvation." //oc.m8.d3_en_UK_ware.ocMA.Kathisma23.text
 
 trMA.Kathisma31.mode = misc_en_UK_ware.Mode8
 trMA.Kathisma31.melody = he.a.m8_en_UK_ware.AnestisEkNekron.notmetered

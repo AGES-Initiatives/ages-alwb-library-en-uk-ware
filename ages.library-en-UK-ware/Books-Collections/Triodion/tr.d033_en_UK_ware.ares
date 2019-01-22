@@ -214,7 +214,7 @@ trMA.AposMartyric.text = "Putting on the breastplate of the Faith and armed with
 
 trMA.AposTheotokion.mode = misc_en_UK_ware.Mode8
 trMA.AposTheotokion.melody = ""
-trMA.AposTheotokion.text = "I run to thy protection, O holy Virgin Theotokos, and I know that I shall find salvation: for thou, pure Lady, hast the power to help me."
+trMA.AposTheotokion.text = "I run to thy protection, O holy Virgin Theotokos, and I know that I shall find salvation: for thou, pure Lady, hast the power to help me." //oc.m8.d3_en_UK_ware.ocMA.AposTheotokion.text
 
 trTE.Troparion.mode = misc_en_UK_ware.Mode1
 trTE.Troparion.melody = ""
