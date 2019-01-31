@@ -129,10 +129,10 @@ trMA.Ode8C23.mode = misc_en_UK_ware.Mode2
 trMA.Ode8C23.melody = he.h.m2_en_UK_ware.EfrixePaidonEvagon.name
 trMA.Ode8C23.text = "Ye were sent by Christ your Teacher, O disciples, as heralds to the nations, to enlighten their minds with God's teaching. Ye bade them abstain from food and passions, and so to learn that He is Lord and Creator and Benefactor of all."
 
-trMA.Ode8C2Tr.ode = misc_en_UK_ware.Ode8
-trMA.Ode8C2Tr.mode = misc_en_UK_ware.Mode2
-trMA.Ode8C2Tr.melody = he.h.m2_en_UK_ware.EfrixePaidonEvagon.name
-trMA.Ode8C2Tr.text = "Like Cain the murderer, O Christ my God, I have not brought Thee an unblemished offering; held fast by unclean thoughts, I have not sacrificed my soul to Thee in purity. Yet reject me not, most loving Saviour, as I draw near to Thee through fasting; but look mercifully on the gifts that I bring to Thee with love during the season of the Fast."
+trMA.Ode8C24.ode = misc_en_UK_ware.Ode8
+trMA.Ode8C24.mode = misc_en_UK_ware.Mode2
+trMA.Ode8C24.melody = he.h.m2_en_UK_ware.EfrixePaidonEvagon.name
+trMA.Ode8C24.text = "Like Cain the murderer, O Christ my God, I have not brought Thee an unblemished offering; held fast by unclean thoughts, I have not sacrificed my soul to Thee in purity. Yet reject me not, most loving Saviour, as I draw near to Thee through fasting; but look mercifully on the gifts that I bring to Thee with love during the season of the Fast."
 
 trMA.Ode8C2T.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C2T.mode = misc_en_UK_ware.Mode2
