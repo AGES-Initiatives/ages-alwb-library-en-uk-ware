@@ -38,7 +38,7 @@ trVE.Stichera06.text = "Cleansing with tears the senses of our soul, making them
 
 trVE.SticGlory.mode = misc_en_UK_ware.Mode8
 trVE.SticGlory.melody = misc_en_UK_ware.Idiomelon
-trVE.SticGlory.text = "Today the Master of the creation and the Lord of Glory is nailed to the Cross and His side is pierced; and He who is the sweetness of the Church tastes gall and vinegar. A crown of thorns is put upon Him who covers heaven with clouds. He is clothed in a cloak of mockery, and He who formed man with His hands is struck by a hand of clay. He who wraps the heaven in clouds is smitten upon His back. He accepts spitting and scourging, reproach and buffeting; and all these things my Deliverer and God endures for me that am condemned, that in His compassion He may save the world from error."
+trVE.SticGlory.text = tr.d043_en_UK_ware.trMA.AdditionalIdiomelon2.text
 
 trVE.AposIdiomelon1.mode = misc_en_UK_ware.Mode3
 trVE.AposIdiomelon1.melody = misc_en_UK_ware.Idiomelon
