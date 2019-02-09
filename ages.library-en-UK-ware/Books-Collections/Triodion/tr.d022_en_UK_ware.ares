@@ -191,8 +191,8 @@ trMA.Ode6C1T.melody = he.h.m6_en_UK_ware.TouViouTinThalassan.name
 trMA.Ode6C1T.text = ""
 
 trMA.Kontakion1.mode = misc_en_UK_ware.Mode6
-trMA.Kontakion1.melody = misc_en_UK_ware.Automelon
-trMA.Kontakion1.text = ""
+trMA.Kontakion1.melody = misc_en_UK_ware.AutomelonNotMetered
+trMA.Kontakion1.text = "O Master, Guide to wisdom, Giver of prudent counsel, Instructor of the foolish and Champion of the poor, make firm my heart and grant it understanding. O Word of the Father, give me words, for see, I shall not stop my lips from crying out to Thee: I am fallen, in Thy compassion have mercy on me."
 
 trMA.Oikos1.text = ""
 trMA.Oikos12.text = ""
