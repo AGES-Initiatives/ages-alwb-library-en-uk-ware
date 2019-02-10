@@ -50,7 +50,7 @@ trMA.Kathisma31.text = "Now that we have come, my Christ, to the middle of the t
 
 trMA.Kathisma32.mode = misc_en_UK_ware.Mode3
 trMA.Kathisma32.melody = he.a.m3_en_UK_ware.TinOraiotita.name
-trMA.Kathisma32.text = "Vine that has never known the husbandman, O Virgin, thou hast borne the ripe Cluster of grapes. From Him we receive the wine of salvation, making glad the souls and bodies of us all. Therefore do we call thee blessed, for thou art the cause of all good things, and for ever with the Angel we cry out to thee: Hail, O full of grace."
+trMA.Kathisma32.text = "Vine that has never known the husbandman, O Virgin, thou hast borne the ripe Cluster of grapes. From Him we receive the wine of salvation, making glad the souls and bodies of us all. Therefore do we call thee blessed, for thou art the cause of all good things, and for ever with the Angel we cry out to thee: Hail, O full of grace." //oc.m3.d5_en_UK_ware.octrMA.Kathisma1T.text
 
 trMA.C1Poet = poets_en_UK_ware.KyriouIoannou
 

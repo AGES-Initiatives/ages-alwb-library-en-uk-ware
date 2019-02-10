@@ -44,7 +44,7 @@ trMA.Kathisma21.text = "With fire of abstinence let us all burn up the thorns of
 
 trMA.Kathisma22.mode = misc_en_UK_ware.Mode8
 trMA.Kathisma22.melody = he.a.m8_en_UK_ware.ToProstachthen.name
-trMA.Kathisma22.text = "O pure and blessed Virgin, full of the grace of God, together with the powers above and the archangels and all the spiritual hosts, do thou pray without ceasing to Him who in His tender compassion was born of thee. May He grant to us before the end pardon and forgiveness of our sins and amendment of our lives, that so we may find mercy."
+trMA.Kathisma22.text = "O pure and blessed Virgin, full of the grace of God, together with the powers above and the archangels and all the spiritual hosts, do thou pray without ceasing to Him who in His tender compassion was born of thee. May He grant to us before the end pardon and forgiveness of our sins and amendment of our lives, that so we may find mercy." //me.m11.d08_en_UK_ware.meMA.Kathisma3T.text
 
 trMA.Kathisma31.mode = misc_en_UK_ware.Mode8
 trMA.Kathisma31.melody = he.a.m8_en_UK_ware.ToProstachthen.name
