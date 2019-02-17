@@ -42,7 +42,7 @@ trMA.Kathisma21.text = "Two of the disciples are sent to bring the foal of an as
 
 trMA.Kathisma22.mode = misc_en_UK_ware.Mode4
 trMA.Kathisma22.melody = he.a.m4_en_UK_ware.TachyProkatalave.name
-trMA.Kathisma22.text = "O Virgin undefiled, Mother of Christ our God, a sword pierced thine all-holy soul, when thou hast seen thy Son and God crucified of His own will. O blessed among women, never cease to intercede that in this season of the Fast He may grant us pardon of our sins."
+trMA.Kathisma22.text = "O Virgin undefiled, Mother of Christ our God, a sword pierced thine all-holy soul, when thou hast seen thy Son and God crucified of His own will. O blessed among women, never cease to intercede that in this season of the Fast He may grant us pardon of our sins." // oc.m4.d6_en_UK_ware.ocMA.Kathisma23.text
 
 trMA.Kathisma31.mode = misc_en_UK_ware.Mode8
 trMA.Kathisma31.melody = he.a.m8_en_UK_ware.AnestisEkNekron.name
