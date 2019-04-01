@@ -34,7 +34,7 @@ trVE.AposMartyric.text = "O martyrs of the Lord, we beseech you, offer intercess
 
 trVE.AposTheotokion.mode = misc_en_UK_ware.Mode8
 trVE.AposTheotokion.melody = ""
-trVE.AposTheotokion.text = "I run to thy protection, O holy Virgin Theotokos, and I know that I shall find salvation: for thou, pure Lady, hast the power to help me."
+trVE.AposTheotokion.text = "I run to thy protection, O holy Virgin Theotokos, and I know that I shall find salvation: for thou, pure Lady, hast the power to help me." //oc.m8.d3_en_UK_ware.ocMA.AposTheotokion.text
 
 trMA.Kathisma21.mode = misc_en_UK_ware.Mode8
 trMA.Kathisma21.melody = ""
