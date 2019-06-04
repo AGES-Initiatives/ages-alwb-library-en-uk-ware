@@ -31,7 +31,7 @@ TonOuranionTagmaton.name = ""
 TonOuranionTagmaton.text = ""
 
 TonTafonSouSotir.mode = misc_en_UK_ware.Mode1
-TonTafonSouSotir.name = ""
+TonTafonSouSotir.name = "(N/M)"
 TonTafonSouSotir.text = ""
 
 TouLithouSfragisthentos.mode = misc_en_UK_ware.Mode1
