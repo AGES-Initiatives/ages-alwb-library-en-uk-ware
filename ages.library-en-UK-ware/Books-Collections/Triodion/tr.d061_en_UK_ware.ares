@@ -22,11 +22,11 @@ trVE.AposMartyric.melody = ""
 trVE.AposMartyric.text = "Your souls, O holy martyrs, were filled with an insatiable love; not denying Christ ye endured great sufferings and torment, and ye cast down the tyrants' pride. Ye kept the faith unaltered and unharmed, and now ye have gone to dwell in heaven. Since ye have boldness before Christ, pray that peace be given to the world, and to our souls great mercy." //oc.m5.d5_en_UK_ware.ocVE.Aposticha3.text
 
 trVE.Stichera01.mode = misc_en_UK_ware.Mode5
-trVE.Stichera01.melody = //he.a.m5_en_UK_ware.ChairoisAskitikon.notmetered
+trVE.Stichera01.melody = he.a.m5_en_UK_ware.ChairoisAskitikon.name
 trVE.Stichera01.text = "When Thou wast journeying in the flesh, O Jesus, on the other side of the Jordan, Thou hast said to Thy companions: 'My friend Lazarus is already dead, and now bas been committed to the tomb. And so for your sakes I rejoice, my friends, for by this ye shall learn that I know all things, since I am God, inseparable from the Father, though in my visible appearance I am man. Let us go then, to bring him back to life, that death may feel the defeat and utter destruction that I bring upon it, bestowing my great mercy on the world.'"
 
 trVE.Stichera02.mode = misc_en_UK_ware.Mode5
-trVE.Stichera02.melody = //he.a.m5_en_UK_ware.ChairoisAskitikon.notmetered
+trVE.Stichera02.melody = he.a.m5_en_UK_ware.ChairoisAskitikon.name
 trVE.Stichera02.text = "O ye faithful, let us follow the example of Martha and Mary, and as intercessors let us send to the Lord our acts of righteousness, that He may come to raise up from the dead our spiritual understanding, which lies insensible within the tomb of negligence, lacking all feeling of the fear of God and having no vital energy. So let us cry: As once by Thy dread authority, O merciful Lord, Thou hast raised up Thy friend Lazarus, so now give life to all of us, and grant us Thy great mercy."
 
 trVE.Stichera03.mode = misc_en_UK_ware.Mode6
@@ -34,19 +34,19 @@ trVE.Stichera03.melody = ""
 trVE.Stichera03.text = "Lazarus has now been two days in the tomb, and he sees the dead from all the ages. There he beholds strange sights of terror, a multitude that none can number, the prisoners of hell. His sisters bitterly lament, looking upon his tomb. But Christ comes to bring His friend life, that a single hymn of praise may be offered up with one accord by all: Blessed art Thou, O Saviour, have mercy upon us."
 
 trMA.Kathisma21.mode = misc_en_UK_ware.Mode5
-trMA.Kathisma21.melody = //he.a.m5_en_UK_ware.TonSynanarchonLogon.notmetered
+trMA.Kathisma21.melody = he.a.m5_en_UK_ware.TonSynanarchonLogon.name
 trMA.Kathisma21.text = "Yoking contemplation to action, let us make haste to offer up our prayers to Christ, that by His dread authority He may call our spiritual understanding back from the tomb to life, like another dead Lazarus; and we shall bring Him palms of righteousness and cry: Blessed art Thou who comest."
 
 trMA.Kathisma22.mode = misc_en_UK_ware.Mode5
-trMA.Kathisma22.melody = //he.a.m5_en_UK_ware.TonSynanarchonLogon.notmetered
+trMA.Kathisma22.melody = he.a.m5_en_UK_ware.TonSynanarchonLogon.name
 trMA.Kathisma22.text = "Be swift to heal the painful passions of my soul and the diseases of my flesh. Keep my mind from turning away, O most pure Theotokos, and enable me in stillness of thought to offer pure prayers to the King of all, and to gain remission of sins."
 
 trMA.Kathisma31.mode = misc_en_UK_ware.Mode6
-trMA.Kathisma31.melody = //he.a.m6_en_UK_ware.AngelikaiDynameis.notmetered
+trMA.Kathisma31.melody = he.a.m6_en_UK_ware.AngelikaiDynameis.name
 trMA.Kathisma31.text = "Lazarus has been dead now for two days, and his sisters Martha and Mary shed tears of grief for him, gazing at the stone before his tomb. But the Creator has come with His disciples, to despoil death and bestow life. Therefore let us cry to Him: O Lord, glory to Thee."
 
 trMA.Kathisma32.mode = misc_en_UK_ware.Mode6
-trMA.Kathisma32.melody = //he.a.m6_en_UK_ware.ElpisTouKosmouAgathi.notmetered
+trMA.Kathisma32.melody = he.a.m6_en_UK_ware.ElpisTouKosmouAgathi.name
 trMA.Kathisma32.text = "Hallowed Lady, Mother of Christ our God, thou hast borne ineffably the Maker of all. In union with the holy apostles pray to Him at all times, that in His love He may release us from the passions and grant us the remission of our sins."
 
 trMA.C1Poet = poets_en_UK_ware.Iosif
