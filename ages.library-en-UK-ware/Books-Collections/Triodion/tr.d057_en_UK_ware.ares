@@ -424,7 +424,7 @@ trMA.Exaposteilarion1.text = ""
 
 trMA.ExapTheotokion.mode = misc_en_UK_ware.Mode3
 trMA.ExapTheotokion.melody = he.a.m3_en_UK_ware.OOuranonToisAstrois.name
-trMA.ExapTheotokion.text = //da.d7_en_UK_ware.daMA.ExapTheotokion.text
+trMA.ExapTheotokion.text = //da.d7_en_UK_ware.daMA.ExapTheotokion1.text
 
 trMA.Lauds1.mode = misc_en_UK_ware.Mode6
 trMA.Lauds1.melody = he.a.m6_en_UK_ware.OlinApothemenoi.name
