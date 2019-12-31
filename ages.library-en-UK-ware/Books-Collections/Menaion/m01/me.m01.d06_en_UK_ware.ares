@@ -50,11 +50,6 @@ meVE.ProphecyTroparion2.mode = misc_en_UK_ware.Mode6
 meVE.ProphecyTroparion2.text = ""
 meVE.ProphecyTroparion2Refrain.text = ""
 
-meVE.TheotokosHymn.mode = ""
-meVE.TheotokosHymn.text = //eu.lichrysbasil_en_UK_ware.euLI.Key1328.basil.text
-
-meVE.MM.CommunionHymn.text = properties_en_UK_ware.media.key
-
 //Great Water Blessing for Jan 6 Epiphany
 meGW.title = ""
 meGW.translator = ""
@@ -151,6 +146,8 @@ meVE.LityBoth.poet = poets_en_UK_ware.Anatoliou
 meVE.LityBoth.mode = misc_en_UK_ware.Mode8
 meVE.LityBoth.melody = ""
 meVE.LityBoth.text = ""
+
+meVE.MM.LityBothasGloryBoth.text = properties_en_UK_ware.media.key
 
 meVE.Aposticha1.poet = poets_en_UK_ware.Anatoliou
 meVE.Aposticha1.mode = misc_en_UK_ware.Mode2
