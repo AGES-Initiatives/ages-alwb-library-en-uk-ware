@@ -742,7 +742,7 @@ trMA.Lauds4.text = ""
 
 trMA.LaudsGlory.mode = misc_en_UK_ware.Mode6
 trMA.LaudsGlory.melody = misc_en_UK_ware.Idiomelon
-trMA.LaudsGlory.text = ""
+trMA.LaudsGlory.text = "Thou art a gift of holiness, O Theodore, in thy wisdom bringing to the world the riches of the divine life. Christ has glorified thy memory; and rejoicing in thy feast with one accord, we faithful praise thy labours and thy sufferings."
 
 trMA.LaudsTheotokion.mode = misc_en_UK_ware.Mode6
 trMA.LaudsTheotokion.melody = //he.o_en_UK_ware.TheotokeSyEi.name
