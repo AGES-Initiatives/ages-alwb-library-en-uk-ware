@@ -49,6 +49,7 @@ Ode7 = "Canticle Seven."
 Ode8 = "Canticle Eight."
 Ode9 = "Canticle Nine."
 
+book.BooksSources.title = ""
 book.Euchologion.name = ""
 book.Heirmologion.name = ""
 book.Hieratikon.name = ""
