@@ -34,7 +34,7 @@ trVE.AposMartyric.text = "Wise was the exchange ye made, O saints! Ye gave your 
 
 trVE.AposTheotokion.mode = misc_en_UK_ware.Mode1
 trVE.AposTheotokion.melody = he.a.m1_en_UK_ware.PaneffimoiMartyres.name
-trVE.AposTheotokion.text = "'A sword has pierced me, O my Son,' said the Virgin when she saw Christ hanging on the Cross, 'and it has torn my heart, as Simeon once foretold to me. But arise, I pray Thee, O immortal Lord, and glorify Thy Mother and handmaiden.'"
+trVE.AposTheotokion.text = oc.m1.d4_en_UK_ware.ocVE.AposTheotokion.text
 
 trMA.Kathisma21.mode = misc_en_UK_ware.Mode2
 trMA.Kathisma21.melody = ""

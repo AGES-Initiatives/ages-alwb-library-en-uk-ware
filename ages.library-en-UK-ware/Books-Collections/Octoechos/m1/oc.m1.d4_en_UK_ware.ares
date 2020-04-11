@@ -42,7 +42,7 @@ ocVE.Aposticha3.text = ""
 
 ocVE.AposTheotokion.mode = misc_en_UK_ware.Mode1
 ocVE.AposTheotokion.melody = he.a.m1_en_UK_ware.PaneffimoiMartyres.name
-ocVE.AposTheotokion.text = ""
+ocVE.AposTheotokion.text = "'A sword has pierced me, O my Son,' said the Virgin when she saw Christ hanging on the Cross, 'and it has torn my heart, as Simeon once foretold to me. But arise, I pray Thee, O immortal Lord, and glorify Thy Mother and handmaiden.'"
 
 ocVE.ApolTheotokionVM.mode = misc_en_UK_ware.Mode1
 ocVE.ApolTheotokionVM.melody = ""
