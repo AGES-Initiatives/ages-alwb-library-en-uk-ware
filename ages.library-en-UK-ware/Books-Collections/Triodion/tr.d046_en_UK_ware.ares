@@ -265,11 +265,6 @@ trMA.Ode6C1T.mode = misc_en_UK_ware.Mode4
 trMA.Ode6C1T.melody = he.h.m4_en_UK_ware.EvoiseProtypon.name
 trMA.Ode6C1T.text = "The Virgin bore Thee, who art the fountain of our restoration, the river of life; and, stretched out upon the Cross, Thou hast poured out the waters of salvation."
 
-trMA.Ode6C1H.ode = misc_en_UK_ware.Ode6
-trMA.Ode6C1H.mode = misc_en_UK_ware.Mode4
-trMA.Ode6C1H.melody = misc_en_UK_ware.HeirmosNotMetered
-trMA.Ode6C1H.text = he.h.m4_en_UK_ware.EvoiseProtypon.text
-
 trMA.Kontakion1.mode = misc_en_UK_ware.Mode7
 trMA.Kontakion1.melody = misc_en_UK_ware.Automelon
 trMA.Kontakion1.text = tr.d043_en_UK_ware.trMA.Kontakion1.text
