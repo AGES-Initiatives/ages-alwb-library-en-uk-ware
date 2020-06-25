@@ -34,7 +34,7 @@ trVE.AposMartyric.text = "O martyrs of the Lord, ye hallow every place and heal 
 
 trVE.AposTheotokion.mode = misc_en_UK_ware.Mode8
 trVE.AposTheotokion.melody = he.a.m8_en_UK_ware.OTouParadoxou.name
-trVE.AposTheotokion.text = "'O marvellous wonder! O strange mystery! O fearful enterprise!' said the Virgin as she looked on Thee, and saw Thee hanging between two evildoers on the Cross, the Child whom she had borne without travail, yet in fear and trembling. Weeping she said: 'Woe is me, beloved Child: how has this wicked and ungrateful people nailed Thee to the Cross?'"
+trVE.AposTheotokion.text = me.m11.d05_en_UK_ware.meVE.SticStavrotheotokion.text
 
 trMA.Kathisma21.mode = misc_en_UK_ware.Mode4
 trMA.Kathisma21.melody = he.a.m4_en_UK_ware.TachyProkatalave.name

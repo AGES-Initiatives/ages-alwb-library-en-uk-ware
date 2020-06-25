@@ -52,7 +52,7 @@ trMA.Kathisma31.text = "As we pass through the solemn time of abstinence, let us
 
 trMA.Kathisma32.mode = misc_en_UK_ware.Mode3
 trMA.Kathisma32.melody = he.a.m3_en_UK_ware.TinOraiotita.name
-trMA.Kathisma32.text = "By Thine own free choice, O compassionate Christ, Thou hast endured a shameful death upon the Cross; and when Thy Mother saw Thee she was wounded in her heart and, beating her breast, with a mother's sorrow she lamented. At her prayers, through Thy tender mercy have pity on the world and save it, for Thou dost take away its sin."
+trMA.Kathisma32.text = me.m06.d16_en_UK_ware.meMA.Ode3KathismaSt.text
 
 trMA.C1Poet = poets_en_UK_ware.Iosif
 

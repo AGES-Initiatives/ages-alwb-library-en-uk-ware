@@ -71,7 +71,7 @@ trVE.LityGlory.text = "Beholding Thee, the Fashioner and Creator of all, hanging
 
 trVE.AposGlory.mode = misc_en_UK_ware.Mode4
 trVE.AposGlory.melody = misc_en_UK_ware.Idiomelon
-trVE.AposGlory.text = ""
+trVE.AposGlory.text = //me.m08.d01_en_UK_ware.meMA.LaudsBoth.text
 
 trVE.Apolytikion1.mode = misc_en_UK_ware.Mode1
 trVE.Apolytikion1.melody = ""

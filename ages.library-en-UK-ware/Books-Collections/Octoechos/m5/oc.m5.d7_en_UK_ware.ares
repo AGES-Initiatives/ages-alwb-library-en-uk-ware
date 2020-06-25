@@ -1,0 +1,7 @@
+A_Resource_Whose_Name = oc.m5.d7_en_UK_ware 
+
+//This file is referred to by tr.d014
+
+ocMA.Kathisma22.mode = misc_en_UK_ware.Mode5
+ocMA.Kathisma22.melody = ""
+ocMA.Kathisma22.text = "Give rest with the righteous to Thy servants, O our Saviour, and make them dwell in Thy courts, as it is written, in Thy goodness passing over all their transgressions, voluntary or involuntary, every sin committed in knowledge or in ignorance, O Thou who lovest mankind."
