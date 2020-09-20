@@ -73,7 +73,7 @@ trVE.SticGlory.text = ""
 
 trVE.LityGlory.mode = misc_en_UK_ware.Mode2
 trVE.LityGlory.melody = misc_en_UK_ware.Idiomelon
-trVE.LityGlory.text = ""
+trVE.LityGlory.text = //me.m12.dBC_en_UK_ware.meVE.AposGlory.text
 
 trVE.LityBoth.mode = misc_en_UK_ware.Mode2
 trVE.LityBoth.melody = ""
