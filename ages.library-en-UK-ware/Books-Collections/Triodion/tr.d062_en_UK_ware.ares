@@ -13,15 +13,15 @@ trHO.note1 = ""
 trHO.note2 = ""
 
 trVE.Stichera01.mode = misc_en_UK_ware.Mode4
-trVE.Stichera01.melody = he.a.m4_en_UK_ware.OExYpsistouKlitheis.name
+trVE.Stichera01.melody = he.a.m4_en_UK_ware.OExYpsistouKlitheis.notmetered
 trVE.Stichera01.text = "Two of the holy apostles, knowing that Thou, O Christ, art one of the Trinity, now are sent by Thee to bring the colt of an ass in fulfillment of the prophecy. And humbling Thyself, O compassionate Lord, Thou shalt sit upon it, who dost make ready by Thy will a seat in the highest for all that love Thee. And those who in their folly have submitted to unreasoning passions, Thou hast made, O Word, to cry aloud to Thee: Hosanna!"
 
 trVE.Stichera02.mode = misc_en_UK_ware.Mode4
-trVE.Stichera02.melody = he.a.m4_en_UK_ware.OExYpsistouKlitheis.name
+trVE.Stichera02.melody = he.a.m4_en_UK_ware.OExYpsistouKlitheis.notmetered
 trVE.Stichera02.text = "Receive thy King, O Zion. For see, He comes to thee now in meekness, to raise up Lazarus and to destroy the bitter kingdom of death. Summoned by God, let all the multitude of holy monks and lay­ people assemble, to welcome Christ with palms and cry: Blessed is He who comes to save mortal men through the Passion of the Cross, and to grant in His love freedom from the passions unto all."
 
 trVE.Stichera03.mode = misc_en_UK_ware.Mode8
-trVE.Stichera03.melody = he.a.m8_en_UK_ware.OEnEdemParadeisos.name
+trVE.Stichera03.melody = he.a.m8_en_UK_ware.OEnEdemParadeisos.notmetered
 trVE.Stichera03.text = "O Christ, who art borne on high by the dread seraphim, as God and Creator of all, Thou dost make haste to ride on earth upon a colt, as a man like us. Bethany rejoices greatly to receive Thee, O Saviour, and Jerusalem is glad as it awaits expectantly to welcome Thee. Death has been slain, and as a foretaste of the coming Resurrection it sees Lazarus return from the dead. In joy we go to meet Thee with palms, praising the power of Thy love, O Lord."
 
 trVE.AposIdiomelon1.mode = misc_en_UK_ware.Mode8
@@ -33,23 +33,23 @@ trVE.AposMartyric.melody = ""
 trVE.AposMartyric.text = "O martyrs of the Lord, ye hallow every place and heal every ill: and now we entreat you to pray that our souls may be delivered from the snares of the enemy."
 
 trVE.AposTheotokion.mode = misc_en_UK_ware.Mode8
-trVE.AposTheotokion.melody = he.a.m8_en_UK_ware.OTouParadoxou.name
+trVE.AposTheotokion.melody = he.a.m8_en_UK_ware.OTouParadoxou.notmetered
 trVE.AposTheotokion.text = me.m11.d05_en_UK_ware.meVE.SticStavrotheotokion.text
 
 trMA.Kathisma21.mode = misc_en_UK_ware.Mode4
-trMA.Kathisma21.melody = he.a.m4_en_UK_ware.TachyProkatalave.name
+trMA.Kathisma21.melody = he.a.m4_en_UK_ware.TachyProkatalave.notmetered
 trMA.Kathisma21.text = "Two of the disciples are sent to bring the foal of an ass, in accordance with the prophecy; and, mounting upon it, Christ comes in His beauty, accepting the divine praise offered by the children. So let us eagerly hasten to meet Him, bearing as palms our acts of righteousness."
 
 trMA.Kathisma22.mode = misc_en_UK_ware.Mode4
-trMA.Kathisma22.melody = he.a.m4_en_UK_ware.TachyProkatalave.name
+trMA.Kathisma22.melody = he.a.m4_en_UK_ware.TachyProkatalave.notmetered
 trMA.Kathisma22.text = "O Virgin undefiled, Mother of Christ our God, a sword pierced thine all-holy soul, when thou hast seen thy Son and God crucified of His own will. O blessed among women, never cease to intercede that in this season of the Fast He may grant us pardon of our sins." // oc.m4.d6_en_UK_ware.ocMA.Kathisma23.text
 
 trMA.Kathisma31.mode = misc_en_UK_ware.Mode8
-trMA.Kathisma31.melody = he.a.m8_en_UK_ware.AnestisEkNekron.name
+trMA.Kathisma31.melody = he.a.m8_en_UK_ware.AnestisEkNekron.notmetered
 trMA.Kathisma31.text = "Two of the disciples are sent today to bring the foal of an ass to the Master of all. He who is borne on high by the hosts of the seraphim comes riding on a colt, and all-devouring death, the ruler of this world, begins to be afraid; for, through Lazarus first of all, he is despoiled of mankind."
 
 trMA.Kathisma32.mode = misc_en_UK_ware.Mode8
-trMA.Kathisma32.melody = he.a.m8_en_UK_ware.AnestisEkNekron.name
+trMA.Kathisma32.melody = he.a.m8_en_UK_ware.AnestisEkNekron.notmetered
 trMA.Kathisma32.text = "Standing at the Passion of her Son, the pure Virgin lamented bitterly and cried in sorrow: 'Woe is me, my Child! Thou art glorified by the angels with never-silent hymns; how have the Hebrew children brought Thee before the judgement seat of Pilate? O Word, I sing the praises of Thy great and ineffable compassion.'"
 
 trMA.C1Poet = poets_en_UK_ware.Iosif
