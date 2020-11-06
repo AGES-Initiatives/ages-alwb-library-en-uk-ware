@@ -20,7 +20,8 @@ IthelonDakrysinExaleipsai.name = ""
 IthelonDakrysinExaleipsai.text = ""
 
 KateplagiIosif.mode = misc_en_UK_ware.Mode4
-KateplagiIosif.name = ""
+KateplagiIosif.notmetered = "N/M (Joseph marveled.)"
+KateplagiIosif.name = "(NM)"
 KateplagiIosif.text = ""
 
 KyrieAnelthonEnToStavro.mode = misc_en_UK_ware.Mode4

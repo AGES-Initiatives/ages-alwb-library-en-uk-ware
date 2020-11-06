@@ -31,7 +31,8 @@ StavrosOFylax.name = ""
 StavrosOFylax.text = ""
 
 TaAnoZiton.mode = misc_en_UK_ware.Mode2
-TaAnoZiton.name = ""
+TaAnoZiton.notmetered = "N/M (In seeking the heights.)"
+TaAnoZiton.name = "N/M (In seeking the heights.)"
 TaAnoZiton.text = ""
 
 ToisMathitaisSynelthomen.mode = misc_en_UK_ware.Mode2
