@@ -62,7 +62,7 @@ trMA.Kathisma12.text = ""
 
 trMA.Kathisma13.mode = misc_en_UK_ware.Mode8
 trMA.Kathisma13.melody = he.a.m8_en_UK_ware.ToProstachthen.name
-trMA.Kathisma13.text = ""
+trMA.Kathisma13.text = //oc.m8.d1_en_UK_ware.ocMO.Kathisma22.text
 
 trMA.Kathisma21.mode = misc_en_UK_ware.Mode8
 trMA.Kathisma21.melody = he.a.m8_en_UK_ware.AnestisEkNekron.name
@@ -141,7 +141,7 @@ trMA.Ode1C1T.text = "Rejoice, all-holy Temple, Fleece on which the dew of God ha
 
 trMA.Ode1K.ode = misc_en_UK_ware.Ode1
 trMA.Ode1K.mode = misc_en_UK_ware.Mode8
-trMA.Ode1K.melody = misc_en_UK_ware.Heirmos
+trMA.Ode1K.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode1K.text = he.h.m8_en_UK_ware.AsmaAnapempsomen.text
 
 trMA.Ode2C1H.ode = misc_en_UK_ware.Ode2

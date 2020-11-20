@@ -152,7 +152,7 @@ trMA.Ode8C2A1.text = "Ye were initiated by Christ into the mysteries, and now ye
 
 trMA.Ode8C2H.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C2H.mode = misc_en_UK_ware.Mode6
-trMA.Ode8C2H.melody = misc_en_UK_ware.Heirmos
+trMA.Ode8C2H.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode8C2H.text = he.h.m6_en_UK_ware.OnStratiaiOuranon.text
 
 trMA.Ode9C11.ode = misc_en_UK_ware.Ode9

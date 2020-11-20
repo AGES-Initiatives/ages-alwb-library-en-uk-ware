@@ -149,7 +149,7 @@ trGC.Verse4 = //prayers_en_UK_ware.verse_Theotokos.text
 
 trGC.Ode1C1H.ode = misc_en_UK_ware.Ode1
 trGC.Ode1C1H.mode = misc_en_UK_ware.Mode6
-trGC.Ode1C1H.melody = misc_en_UK_ware.Heirmos
+trGC.Ode1C1H.melody = misc_en_UK_ware.HeirmosNotMetered
 trGC.Ode1C1H.text = he.h.m6_en_UK_ware.VoithosKaiSkepastis.text
 
 trGC.Ode1C101.ode = misc_en_UK_ware.Ode1
@@ -297,7 +297,7 @@ trGC.Ode1C2T.text = ""
 //Ode 2
 trGC.Ode2C1H.ode = misc_en_UK_ware.Ode2
 trGC.Ode2C1H.mode = misc_en_UK_ware.Mode6
-trGC.Ode2C1H.melody = misc_en_UK_ware.Heirmos
+trGC.Ode2C1H.melody = misc_en_UK_ware.HeirmosNotMetered
 trGC.Ode2C1H.text = he.h.m6_en_UK_ware.ProsecheOurane.text
 
 trGC.Ode2C101.ode = misc_en_UK_ware.Ode2
@@ -452,7 +452,7 @@ trGC.Ode2C1T.text = ""
 
 trGC.Ode2C2H.ode = misc_en_UK_ware.Ode2
 trGC.Ode2C2H.mode = misc_en_UK_ware.Mode6
-trGC.Ode2C2H.melody = misc_en_UK_ware.Heirmos
+trGC.Ode2C2H.melody = misc_en_UK_ware.HeirmosNotMetered
 trGC.Ode2C2H.text = he.h.m6_en_UK_ware.IdeteIdete.text
 
 trGC.Ode2C201.ode = misc_en_UK_ware.Ode2
@@ -534,7 +534,7 @@ trGC.Ode2C2T.text = ""
 
 trGC.Ode3C1H.ode = misc_en_UK_ware.Ode3
 trGC.Ode3C1H.mode = misc_en_UK_ware.Mode6
-trGC.Ode3C1H.melody = misc_en_UK_ware.Heirmos
+trGC.Ode3C1H.melody = misc_en_UK_ware.HeirmosNotMetered
 trGC.Ode3C1H.text = he.h.m6_en_UK_ware.EpiTinAsaleftonChriste.text
 
 trGC.Ode3C101.ode = misc_en_UK_ware.Ode3
@@ -584,7 +584,7 @@ trGC.Ode3C1T.text = ""
 
 trGC.Ode3C2H.ode = misc_en_UK_ware.Ode3
 trGC.Ode3C2H.mode = misc_en_UK_ware.Mode6
-trGC.Ode3C2H.melody = misc_en_UK_ware.Heirmos
+trGC.Ode3C2H.melody = misc_en_UK_ware.HeirmosNotMetered
 trGC.Ode3C2H.text = he.h.m6_en_UK_ware.StereosonKyrie.text
 
 trGC.Ode3C201.ode = misc_en_UK_ware.Ode3
@@ -724,7 +724,7 @@ trMA.C1Poet = poets_en_UK_ware.Iosif
 
 trMA.Ode4C1H.ode = misc_en_UK_ware.Ode4
 trMA.Ode4C1H.mode = misc_en_UK_ware.Mode8
-trMA.Ode4C1H.melody = misc_en_UK_ware.Heirmos
+trMA.Ode4C1H.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode4C1H.text = he.h.m8_en_UK_ware.EisakikoaKyrie.text
 
 trMA.Ode4C11.ode = misc_en_UK_ware.Ode4
@@ -783,7 +783,7 @@ trMA.Ode4C2T.text = "Hail, fiery Throne! Hail, Candlestick that bears the Light!
 
 trGC.Ode4C1H.ode = misc_en_UK_ware.Ode4
 trGC.Ode4C1H.mode = misc_en_UK_ware.Mode6
-trGC.Ode4C1H.melody = misc_en_UK_ware.Heirmos
+trGC.Ode4C1H.melody = misc_en_UK_ware.HeirmosNotMetered
 trGC.Ode4C1H.text = he.h.m6_en_UK_ware.AkikoenOProfitis.text
 
 trGC.Ode4C101.ode = misc_en_UK_ware.Ode4
@@ -950,7 +950,7 @@ trGC.Ode4C2T.text = ""
 
 trGC.Ode5C1H.ode = misc_en_UK_ware.Ode5
 trGC.Ode5C1H.mode = misc_en_UK_ware.Mode6
-trGC.Ode5C1H.melody = misc_en_UK_ware.Heirmos
+trGC.Ode5C1H.melody = misc_en_UK_ware.HeirmosNotMetered
 trGC.Ode5C1H.text = he.h.m6_en_UK_ware.EkNyktosOrthrizonta.text
 
 trGC.Ode5C101.ode = misc_en_UK_ware.Ode5
@@ -1087,7 +1087,7 @@ trGC.Ode5C2T.text = ""
 
 trGC.Ode6C1H.ode = misc_en_UK_ware.Ode6
 trGC.Ode6C1H.mode = misc_en_UK_ware.Mode6
-trGC.Ode6C1H.melody = misc_en_UK_ware.Heirmos
+trGC.Ode6C1H.melody = misc_en_UK_ware.HeirmosNotMetered
 trGC.Ode6C1H.text = he.h.m6_en_UK_ware.EvoisaEnOliKardiaMou.text
 
 trGC.Ode6C101.ode = misc_en_UK_ware.Ode6
@@ -1192,7 +1192,7 @@ trGC.Ode6C2T.text = ""
 
 trGC.Ode6C2H.ode = misc_en_UK_ware.Ode6
 trGC.Ode6C2H.mode = misc_en_UK_ware.Mode6
-trGC.Ode6C2H.melody = misc_en_UK_ware.Heirmos
+trGC.Ode6C2H.melody = misc_en_UK_ware.HeirmosNotMetered
 trGC.Ode6C2H.text = he.h.m6_en_UK_ware.EvoisaEnOliKardiaMou.text
 
 trMA.Kontakion1.mode = misc_en_UK_ware.Mode6
@@ -1278,7 +1278,7 @@ trGC.BeatitudesT.text = "O Mother of God, we venerate thy childbearing in ways p
 
 trGC.Ode7C1H.ode = misc_en_UK_ware.Ode7
 trGC.Ode7C1H.mode = misc_en_UK_ware.Mode6
-trGC.Ode7C1H.melody = misc_en_UK_ware.Heirmos
+trGC.Ode7C1H.melody = misc_en_UK_ware.HeirmosNotMetered
 trGC.Ode7C1H.text = he.h.m6_en_UK_ware.ImartomenInomisamen.text
 
 trGC.Ode7C101.ode = misc_en_UK_ware.Ode7
@@ -1462,7 +1462,7 @@ trMA.Ode8C2T.text = "As a throne honoured and most high, let us praise in ceasel
 
 trGC.Ode8C1H.ode = misc_en_UK_ware.Ode8
 trGC.Ode8C1H.mode = misc_en_UK_ware.Mode6
-trGC.Ode8C1H.melody = misc_en_UK_ware.Heirmos
+trGC.Ode8C1H.melody = misc_en_UK_ware.HeirmosNotMetered
 trGC.Ode8C1H.text = he.h.m6_en_UK_ware.OnStratiaiOuranon.text
 
 trGC.Ode8C101.ode = misc_en_UK_ware.Ode8
@@ -1656,7 +1656,7 @@ trMA.Ode9C2T.text = "With all generations we call thee blessed, O Mother and Vir
 
 trGC.Ode9C1H.ode = misc_en_UK_ware.Ode9
 trGC.Ode9C1H.mode = misc_en_UK_ware.Mode6
-trGC.Ode9C1H.melody = misc_en_UK_ware.Heirmos
+trGC.Ode9C1H.melody = misc_en_UK_ware.HeirmosNotMetered
 trGC.Ode9C1H.text = he.h.m6_en_UK_ware.AsporouSyllipseos.text
 
 trGC.Ode9C101.ode = misc_en_UK_ware.Ode9
@@ -1811,7 +1811,7 @@ trGC.Ode9C2T.text = ""
 
 trGC.Ode9C2H.ode = misc_en_UK_ware.Ode9
 trGC.Ode9C2H.mode = misc_en_UK_ware.Mode6
-trGC.Ode9C2H.melody = misc_en_UK_ware.Heirmos
+trGC.Ode9C2H.melody = misc_en_UK_ware.HeirmosNotMetered
 trGC.Ode9C2H.text = he.h.m6_en_UK_ware.AsporouSyllipseos.text
 
 trMA.AposIdiomelon1.mode = misc_en_UK_ware.Mode8
