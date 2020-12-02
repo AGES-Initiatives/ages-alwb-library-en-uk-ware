@@ -89,27 +89,27 @@ trMA.C2.verse = ""
 
 trMA.Ode1C21.ode = misc_en_UK_ware.Ode1
 trMA.Ode1C21.mode = misc_en_UK_ware.Mode7
-trMA.Ode1C21.melody = he.h.m7_en_UK_ware.AsomenToKyrio.mode
+trMA.Ode1C21.melody = he.h.m7_en_UK_ware.AsomenToKyrio.name
 trMA.Ode1C21.text = "Now that we have venerated the lifegiving Wood, with gladness let us advance upon the path of the Fast to the Passion of Christ."
 
 trMA.Ode1C22.ode = misc_en_UK_ware.Ode1
 trMA.Ode1C22.mode = misc_en_UK_ware.Mode7
-trMA.Ode1C22.melody = he.h.m7_en_UK_ware.AsomenToKyrio.mode
+trMA.Ode1C22.melody = he.h.m7_en_UK_ware.AsomenToKyrio.name
 trMA.Ode1C22.text = "Following Christ, let us deny the world and take the Cross upon our shoulders, sharing in His divine suffering."
 
 trMA.Ode1C2Tr.ode = misc_en_UK_ware.Ode1
 trMA.Ode1C2Tr.mode = misc_en_UK_ware.Mode7
-trMA.Ode1C2Tr.melody = he.h.m7_en_UK_ware.AsomenToKyrio.mode
+trMA.Ode1C2Tr.melody = he.h.m7_en_UK_ware.AsomenToKyrio.name
 trMA.Ode1C2Tr.text = "Let us all sing the praises of the Godhead, supreme in Essence, one in three Persons, Father, Son and Holy Spirit."
 
 trMA.Ode1C2T.ode = misc_en_UK_ware.Ode1
 trMA.Ode1C2T.mode = misc_en_UK_ware.Mode7
-trMA.Ode1C2T.melody = he.h.m7_en_UK_ware.AsomenToKyrio.mode
+trMA.Ode1C2T.melody = he.h.m7_en_UK_ware.AsomenToKyrio.name
 trMA.Ode1C2T.text = "O pure Virgin that hast not known corruption, pray to Jesus our Saviour whom thou hast borne in ways past understanding, that He maybe merciful to thy servants."
 
 trMA.Ode1C2A1.ode = misc_en_UK_ware.Ode1
 trMA.Ode1C2A1.mode = misc_en_UK_ware.Mode7
-trMA.Ode1C2A1.melody = he.h.m7_en_UK_ware.AsomenToKyrio.mode
+trMA.Ode1C2A1.melody = he.h.m7_en_UK_ware.AsomenToKyrio.name
 trMA.Ode1C2A1.text = "When Thou comest, O Christ, in glory with the angels to judge the whole world, enable us to make a good answer before Thee."
 
 trMA.Ode1C2H.ode = misc_en_UK_ware.Ode1
