@@ -3,50 +3,50 @@ A_Resource_Whose_Name = he.a.m2_en_UK_ware
 he.title = ""
 
 EfsplagchniasYparchousa.mode = misc_en_UK_ware.Mode2
-EfsplagchniasYparchousa.name = ""
+EfsplagchniasYparchousa.incipit = ""
 EfsplagchniasYparchousa.text = ""
 
 GynaikesAkoutisthite.mode = misc_en_UK_ware.Mode2
-GynaikesAkoutisthite.name = "(NM)"
+GynaikesAkoutisthite.incipit = "(NM)"
 GynaikesAkoutisthite.text = ""
 
 OikosTouEfratha.mode = misc_en_UK_ware.Mode2
-OikosTouEfratha.name = ""
+OikosTouEfratha.incipit = ""
 OikosTouEfratha.text = ""
 
 OteEkTouXylou.mode = misc_en_UK_ware.Mode2
-OteEkTouXylou.name = "N/M (Joseph took You.)"
+OteEkTouXylou.incipit = "N/M (Joseph took You.)"
 OteEkTouXylou.text = ""
 
 PoioisEffimionStemmasin.mode = misc_en_UK_ware.Mode2
-PoioisEffimionStemmasin.name = ""
+PoioisEffimionStemmasin.incipit = ""
 PoioisEffimionStemmasin.text = ""
 
 SarkiYpnosas.mode = misc_en_UK_ware.Mode2
-SarkiYpnosas.name = ""
+SarkiYpnosas.incipit = ""
 SarkiYpnosas.text = ""
 
 StavrosOFylax.mode = misc_en_UK_ware.Mode2
-StavrosOFylax.name = ""
+StavrosOFylax.incipit = ""
 StavrosOFylax.text = ""
 
 TaAnoZiton.mode = misc_en_UK_ware.Mode2
 TaAnoZiton.notmetered = "N/M (In seeking the heights.)"
-TaAnoZiton.name = "N/M (In seeking the heights.)"
+TaAnoZiton.incipit = "N/M (In seeking the heights.)"
 TaAnoZiton.text = ""
 
 ToisMathitaisSynelthomen.mode = misc_en_UK_ware.Mode2
-ToisMathitaisSynelthomen.name = ""
+ToisMathitaisSynelthomen.incipit = ""
 ToisMathitaisSynelthomen.text = ""
 
 ToisTonAimatonSou.mode = misc_en_UK_ware.Mode2
-ToisTonAimatonSou.name = ""
+ToisTonAimatonSou.incipit = ""
 ToisTonAimatonSou.text = ""
 
 TonMathitonOrontonSe.mode = misc_en_UK_ware.Mode2
-TonMathitonOrontonSe.name = ""
+TonMathitonOrontonSe.incipit = ""
 TonMathitonOrontonSe.text = ""
 
 TousAsfaleis.mode = misc_en_UK_ware.Mode2
-TousAsfaleis.name = ""
+TousAsfaleis.incipit = ""
 TousAsfaleis.text = ""

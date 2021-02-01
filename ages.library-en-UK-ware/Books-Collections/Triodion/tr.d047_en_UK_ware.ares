@@ -26,15 +26,15 @@ trVE.AposMartyric.melody = ""
 trVE.AposMartyric.text = "Your souls, O holy martyrs, were filled with an insatiable love; not denying Christ ye endured great sufferings and torments, and ye cast down the tyrants' pride. Ye kept the faith unaltered and unharmed, and now have gone to dwell in heaven. Since ye have boldness before Christ, pray that peace be given to the world, and to our souls great mercy." //oc.m5.d5_en_UK_ware.ocVE.Aposticha3.text
 
 trVE.Stichera01.mode = misc_en_UK_ware.Mode1
-trVE.Stichera01.melody = he.a.m1_en_UK_ware.PaneffimoiMartyres.name
+trVE.Stichera01.melody = he.a.m1_en_UK_ware.PaneffimoiMartyres.incipit
 trVE.Stichera01.text = "Let us all wash our souls clean in the waters of the Fast, and, approaching the precious and honoured Cross of the Lord, let us venerate it 'With faith; let us draw from it divine enlightenment, gathering the fruit of eternal salvation, peace and great mercy."
 
 trVE.Stichera02.mode = misc_en_UK_ware.Mode1
-trVE.Stichera02.melody = he.a.m1_en_UK_ware.PaneffimoiMartyres.name
+trVE.Stichera02.melody = he.a.m1_en_UK_ware.PaneffimoiMartyres.incipit
 trVE.Stichera02.text = "O Cross, glory of the apostles, attended by principalities and powers and archangels, keep safe from all harm those that venerate thee. Grant us to follow rightly to the end the divine path of abstinence, and to reach the day of salvation when we too shall be saved."
 
 trVE.Stichera03.mode = misc_en_UK_ware.Mode7
-trVE.Stichera03.melody = he.a.m7_en_UK_ware.SimeronGrigoreiOIoudas.name
+trVE.Stichera03.melody = he.a.m7_en_UK_ware.SimeronGrigoreiOIoudas.incipit
 trVE.Stichera03.text = "As we venerate today the Cross of the Lord, let us cry: Hail, Tree of Life, victor over hell; hail, joy of the world and slayer of corruption; hail, for by thy power thou scatterest the demons! Strong support of the faithful, weapon that cannot be broken, we pray thee, guard and sanctify those who show thee honour."
 
 trVE.SticGlory.mode = misc_en_UK_ware.Mode8
@@ -42,11 +42,11 @@ trVE.SticGlory.melody = misc_en_UK_ware.Idiomelon
 trVE.SticGlory.text = tr.d043_en_UK_ware.trMA.AdditionalIdiomelonGlory.text
 
 trMA.Kathisma21.mode = misc_en_UK_ware.Mode1
-trMA.Kathisma21.melody = he.a.m1_en_UK_ware.ChorosAngelikos.name
+trMA.Kathisma21.melody = he.a.m1_en_UK_ware.ChorosAngelikos.incipit
 trMA.Kathisma21.text = "O glorious apostles, intercessors for our souls, strong in the power of the Cross ye have destroyed all the deceit of the enemy. Therefore today ye rejoice in its veneration, praying on our behalf to Him who alone loves mankind."
 
 trMA.Kathisma22.mode = misc_en_UK_ware.Mode1
-trMA.Kathisma22.melody = he.a.m1_en_UK_ware.ChorosAngelikos.name
+trMA.Kathisma22.melody = he.a.m1_en_UK_ware.ChorosAngelikos.incipit
 trMA.Kathisma22.text = "O Mary, precious vessel that received the Master, we have fallen into an abyss of dark despair, of sin and tribulation. Raise us up once more: for thou art the salvation of sinners, their help and powerful protection, and thou dost save thy servants."
 
 trMA.Kathisma31.mode = misc_en_UK_ware.Mode7
@@ -57,53 +57,53 @@ trMA.Kathisma32.mode = misc_en_UK_ware.Mode7
 trMA.Kathisma32.melody = misc_en_UK_ware.Automelon
 trMA.Kathisma32.text = "O Lord, we are Thy people and the sheep of Thy pasture. Bring us back, for we have strayed into corruption; and as Shepherd gather us together, for we have been scattered. In Thy love have mercy and take pity on Thy flock, at the intercessions of the Theotokos, for Thou alone art free from sin."
 
-trMA.C1Poet = ""
+trMA.C1.poet = ""
 
-trMA.C2Poet = ""
+trMA.C2.poet = ""
 
 trMA.Ode4C11.ode = misc_en_UK_ware.Ode4
 trMA.Ode4C11.mode = misc_en_UK_ware.Mode1
-trMA.Ode4C11.melody = he.h.m1_en_UK_ware.EpiTisTheiasFylakis.name
+trMA.Ode4C11.melody = he.h.m1_en_UK_ware.EpiTisTheiasFylakis.incipit
 trMA.Ode4C11.text = "O Holy Cross, strength and glory of the apostles, today thou art exalted for the veneration of the whole inhabited earth; and thou givest to us the grace of sanctification, making the season of the Fast easy for us."
 
 trMA.Ode4C12.ode = misc_en_UK_ware.Ode4
 trMA.Ode4C12.mode = misc_en_UK_ware.Mode1
-trMA.Ode4C12.melody = he.h.m1_en_UK_ware.EpiTisTheiasFylakis.name
+trMA.Ode4C12.melody = he.h.m1_en_UK_ware.EpiTisTheiasFylakis.incipit
 trMA.Ode4C12.text = "Moses foreshadowed the Cross when he stretched out his arms and defeated Amalek. Like him let us form a figure of the Cross, stretching out our arms in fasting and prayer, that so we may defeat the host of demons that in malicious envy continually make war against us."
 
 trMA.Ode4C13.ode = misc_en_UK_ware.Ode4
 trMA.Ode4C13.mode = misc_en_UK_ware.Mode1
-trMA.Ode4C13.melody = he.h.m1_en_UK_ware.EpiTisTheiasFylakis.name
+trMA.Ode4C13.melody = he.h.m1_en_UK_ware.EpiTisTheiasFylakis.incipit
 trMA.Ode4C13.text = "O disciples of God, with the holy plough of the Cross ye have renewed the earth, making it fruitful with the harvest of true faith. Therefore year by year we sing your praises, and we glorify Christ for ever."
 
 trMA.Ode4C1T.ode = misc_en_UK_ware.Ode4
 trMA.Ode4C1T.mode = misc_en_UK_ware.Mode1
-trMA.Ode4C1T.melody = he.h.m1_en_UK_ware.EpiTisTheiasFylakis.name
+trMA.Ode4C1T.melody = he.h.m1_en_UK_ware.EpiTisTheiasFylakis.incipit
 trMA.Ode4C1T.text = "O Mother of the good and loving God, fill my soul with goodness, for the evil one has corrupted it with sinful habits, and he has miserably deceived me. Then, O greatly glorified, will I sing thy praises for ever as the cause of my salvation."
 
 trMA.Ode4C21.ode = misc_en_UK_ware.Ode4
 trMA.Ode4C21.mode = misc_en_UK_ware.Mode7
-trMA.Ode4C21.melody = he.h.m7_en_UK_ware.TinEnsarkonParousianSou.name
+trMA.Ode4C21.melody = he.h.m7_en_UK_ware.TinEnsarkonParousianSou.incipit
 trMA.Ode4C21.text = "The all-holy Cross lies before us: let us approach and venerate it, for it is the horn of our salvation."
 
 trMA.Ode4C22.ode = misc_en_UK_ware.Ode4
 trMA.Ode4C22.mode = misc_en_UK_ware.Mode7
-trMA.Ode4C22.melody = he.h.m7_en_UK_ware.TinEnsarkonParousianSou.name
+trMA.Ode4C22.melody = he.h.m7_en_UK_ware.TinEnsarkonParousianSou.incipit
 trMA.Ode4C22.text = "When the sign of the Cross is made, its grace drives away the dark multitude of demons. O Cross of Christ, thou art an invincible weapon."
 
 trMA.Ode4C2Tr.ode = misc_en_UK_ware.Ode4
 trMA.Ode4C2Tr.mode = misc_en_UK_ware.Mode7
-trMA.Ode4C2Tr.melody = he.h.m7_en_UK_ware.TinEnsarkonParousianSou.name
+trMA.Ode4C2Tr.melody = he.h.m7_en_UK_ware.TinEnsarkonParousianSou.incipit
 trMA.Ode4C2Tr.text = "Unity in Essence, Trinity of Persons, I praise and honour Thee, Father, Son and All-Holy Spirit."
 
 trMA.Ode4C2T.ode = misc_en_UK_ware.Ode4
 trMA.Ode4C2T.mode = misc_en_UK_ware.Mode7
-trMA.Ode4C2T.melody = he.h.m7_en_UK_ware.TinEnsarkonParousianSou.name
+trMA.Ode4C2T.melody = he.h.m7_en_UK_ware.TinEnsarkonParousianSou.incipit
 trMA.Ode4C2T.text = "O Virgin undefiled, without knowing a man thou hast conceived God, more ancient than all things, who holds the ends of the earth in the hollow of His hand."
 
 trMA.Ode4C2A1.ode = misc_en_UK_ware.Ode4
 trMA.Ode4C2A1.mode = misc_en_UK_ware.Mode7
-trMA.Ode4C2A1.melody = he.h.m7_en_UK_ware.TinEnsarkonParousianSou.name
+trMA.Ode4C2A1.melody = he.h.m7_en_UK_ware.TinEnsarkonParousianSou.incipit
 trMA.Ode4C2A1.text = "O apostles, intercessors for the world, pray that we also may be saved: for as our weapon we hold the Cross of Christ."
 
 trMA.Ode4C2H.ode = misc_en_UK_ware.Ode4
@@ -113,47 +113,47 @@ trMA.Ode4C2H.text = he.h.m7_en_UK_ware.TinEnsarkonParousianSou.text
 
 trMA.Ode8C11.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C11.mode = misc_en_UK_ware.Mode7
-trMA.Ode8C11.melody = he.h.m1_en_UK_ware.AftiIKliti.name
+trMA.Ode8C11.melody = he.h.m1_en_UK_ware.AftiIKliti.incipit
 trMA.Ode8C11.text = "Rejoice, divine Cross, formed from three different kinds of wood: on thee One of the Trinity was nailed in the flesh. He has delivered us who were prisoners in the abyss of godlessness, and we exalt Him above all for ever."
 
 trMA.Ode8C12.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C12.mode = misc_en_UK_ware.Mode7
-trMA.Ode8C12.melody = he.h.m1_en_UK_ware.AftiIKliti.name
+trMA.Ode8C12.melody = he.h.m1_en_UK_ware.AftiIKliti.incipit
 trMA.Ode8C12.text = "Receiving power and strength through the Cross, the disciples of the Word set free those held fast in bitter bondage by the evil one, and they sing in praise: We exalt Thee above all for ever."
 
 trMA.Ode8C13.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C13.mode = misc_en_UK_ware.Mode7
-trMA.Ode8C13.melody = he.h.m1_en_UK_ware.AftiIKliti.name
+trMA.Ode8C13.melody = he.h.m1_en_UK_ware.AftiIKliti.incipit
 trMA.Ode8C13.text = "Woe is me! How fearful shall be that judgement seat on which Thou shalt sit, O Word, and shalt reveal to me my hidden deeds, exposing before all my want of feeling! But since, O Christ, Thou art by nature full of love, spare me then."
 
 trMA.Ode8C1T.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C1T.mode = misc_en_UK_ware.Mode7
-trMA.Ode8C1T.melody = he.h.m1_en_UK_ware.AftiIKliti.name
+trMA.Ode8C1T.melody = he.h.m1_en_UK_ware.AftiIKliti.incipit
 trMA.Ode8C1T.text = "Without departing from the bosom of the Father, O Jesus, Thou hast rested on the bosom of a Virgin; and Thou hast restored mankind, whose nature in Thy tender love Thou hast taken on Thyself. Therefore we mortal men sing Thy praises for ever."
 
 trMA.Ode8C21.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C21.mode = misc_en_UK_ware.Mode7
-trMA.Ode8C21.melody = he.h.m7_en_UK_ware.TonMononAnarchon.name
+trMA.Ode8C21.melody = he.h.m7_en_UK_ware.TonMononAnarchon.incipit
 trMA.Ode8C21.text = "O week of the veneration of the Cross, we honour thee; for in these days we adore the holy Wood and cry aloud: O ye priests praise and ye people exalt Him above all for ever."
 
 trMA.Ode8C22.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C22.mode = misc_en_UK_ware.Mode7
-trMA.Ode8C22.melody = he.h.m7_en_UK_ware.TonMononAnarchon.name
+trMA.Ode8C22.melody = he.h.m7_en_UK_ware.TonMononAnarchon.incipit
 trMA.Ode8C22.text = "How strange is this wonder, King of the ages! For Thou hast granted us Thy servants to see and venerate the Wood on which Thou wast crucified. Therefore with fear we sing Thy praises for ever."
 
 trMA.Ode8C2Tr.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C2Tr.mode = misc_en_UK_ware.Mode7
-trMA.Ode8C2Tr.melody = he.h.m7_en_UK_ware.TonMononAnarchon.name
+trMA.Ode8C2Tr.melody = he.h.m7_en_UK_ware.TonMononAnarchon.incipit
 trMA.Ode8C2Tr.text = "Holy and consubstantial Trinity, Father, Son and All-Holy Spirit, I glorify Thine undivided dominion, and sing the praises of Thy one Kingdom for ever."
 
 trMA.Ode8C2T.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C2T.mode = misc_en_UK_ware.Mode7
-trMA.Ode8C2T.melody = he.h.m7_en_UK_ware.TonMononAnarchon.name
+trMA.Ode8C2T.melody = he.h.m7_en_UK_ware.TonMononAnarchon.incipit
 trMA.Ode8C2T.text = "He created Adam in His image, and assuming Adam s nature He came forth to loose the ancient curse. O ye priests praise and ye people exalt Him above all for ever."
 
 trMA.Ode8C2A1.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C2A1.mode = misc_en_UK_ware.Mode7
-trMA.Ode8C2A1.melody = he.h.m7_en_UK_ware.TonMononAnarchon.name
+trMA.Ode8C2A1.melody = he.h.m7_en_UK_ware.TonMononAnarchon.incipit
 trMA.Ode8C2A1.text = "As the twelve-stringed harp of the Church, O apostles, ye sing the praises of the Word of wisdom. Pray that we who honour you may see the Passion of the Lord and glorify Him for ever."
 
 trMA.Ode8C2H.ode = misc_en_UK_ware.Ode8
@@ -163,47 +163,47 @@ trMA.Ode8C2H.text = he.h.m7_en_UK_ware.TonMononAnarchon.text
 
 trMA.Ode9C11.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C11.mode = misc_en_UK_ware.Mode7
-trMA.Ode9C11.melody = he.h.m1_en_UK_ware.FotizouFotizou.name
+trMA.Ode9C11.melody = he.h.m1_en_UK_ware.FotizouFotizou.incipit
 trMA.Ode9C11.text = "Shine with joy, Church of God, illumined by the rays of the Cross which thou dost exalt for the veneration of all the faithful. Depart, demonic hosts full of darkness."
 
 trMA.Ode9C12.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C12.mode = misc_en_UK_ware.Mode7
-trMA.Ode9C12.melody = he.h.m1_en_UK_ware.FotizouFotizou.name
+trMA.Ode9C12.melody = he.h.m1_en_UK_ware.FotizouFotizou.incipit
 trMA.Ode9C12.text = "The divine Cross is strength to those who fast, champion of those who fight. Gathering with all the faithful, joyfully let us venerate it with love."
 
 trMA.Ode9C13.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C13.mode = misc_en_UK_ware.Mode7
-trMA.Ode9C13.melody = he.h.m1_en_UK_ware.FotizouFotizou.name
+trMA.Ode9C13.melody = he.h.m1_en_UK_ware.FotizouFotizou.incipit
 trMA.Ode9C13.text = "O glorious apostles, divine foundations of the Church of Christ, keep us all upon the firm basis of the true faith, and establish us upon the unbreakable rock of Him who chose you."
 
 trMA.Ode9C1T.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C1T.mode = misc_en_UK_ware.Mode7
-trMA.Ode9C1T.melody = he.h.m1_en_UK_ware.FotizouFotizou.name
+trMA.Ode9C1T.melody = he.h.m1_en_UK_ware.FotizouFotizou.incipit
 trMA.Ode9C1T.text = "O pure Virgin, at the voice of the Archangel thou hast conceived Joy: make all soul-destroying sadness to vanish from my heart, and give me joy-creating sorrow, that I may know the working of God's grace."
 
 trMA.Ode9C21.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C21.mode = misc_en_UK_ware.Mode7
-trMA.Ode9C21.melody = he.h.m7_en_UK_ware.SeTinAchranton.name
+trMA.Ode9C21.melody = he.h.m7_en_UK_ware.SeTinAchranton.incipit
 trMA.Ode9C21.text = "Prefiguring the truth that was to come, O precious Wood, of old thou hast made sweet the waters of Marah. Make sweet my abstinence,  O Cross of Christ, which I venerate today."
 
 trMA.Ode9C22.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C22.mode = misc_en_UK_ware.Mode7
-trMA.Ode9C22.melody = he.h.m7_en_UK_ware.SeTinAchranton.name
+trMA.Ode9C22.melody = he.h.m7_en_UK_ware.SeTinAchranton.incipit
 trMA.Ode9C22.text = "Thou art the unconquerable weapon of the King, the strength of his array, the strong support of his council. O Cross of Christ, in our hymns we magnify thee."
 
 trMA.Ode9C2Tr.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C2Tr.mode = misc_en_UK_ware.Mode7
-trMA.Ode9C2Tr.melody = he.h.m7_en_UK_ware.SeTinAchranton.name
+trMA.Ode9C2Tr.melody = he.h.m7_en_UK_ware.SeTinAchranton.incipit
 trMA.Ode9C2Tr.text = "Father and Master without beginning, coeternal Word and Holy Spirit, with all the faithful in true reverence we magnify Thee."
 
 trMA.Ode9C2T.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C2T.mode = misc_en_UK_ware.Mode7
-trMA.Ode9C2T.melody = he.h.m7_en_UK_ware.SeTinAchranton.name
+trMA.Ode9C2T.melody = he.h.m7_en_UK_ware.SeTinAchranton.incipit
 trMA.Ode9C2T.text = "Glorious and only Theotokos, thou hast contained within thy womb the Word whom nothing can contain, and thou hast borne Him in the flesh. In our hymns we magnify thee."
 
 trMA.Ode9C2A1.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C2A1.mode = misc_en_UK_ware.Mode7
-trMA.Ode9C2A1.melody = he.h.m7_en_UK_ware.SeTinAchranton.name
+trMA.Ode9C2A1.melody = he.h.m7_en_UK_ware.SeTinAchranton.incipit
 trMA.Ode9C2A1.text = "With your tongues of fire, O apostles, ye have burnt up all error and planted the true faith in the world. In our hymns we magnify you."
 
 trMA.Ode9C2H.ode = misc_en_UK_ware.Ode9

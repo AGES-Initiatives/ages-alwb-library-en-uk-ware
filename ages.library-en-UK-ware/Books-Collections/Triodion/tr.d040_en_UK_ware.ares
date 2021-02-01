@@ -23,11 +23,11 @@ trVE.AposMartyric.text = "O martyrs of the Lord, living oblations, spiritual bur
 
 trVE.Stichera01.poet = poets_en_UK_ware.Iosif
 trVE.Stichera01.mode = misc_en_UK_ware.Mode6
-trVE.Stichera01.melody = he.a.m6_en_UK_ware.OlinApothemenoi.name
+trVE.Stichera01.melody = he.a.m6_en_UK_ware.OlinApothemenoi.incipit
 trVE.Stichera01.text = "O apostles, eye-witnesses of God, rays of light from the spiritual Sun, pray that light may be granted to our souls, deliver us from the gloomy darkness of the passions, and ask that we may see the day of salvation. By your prayers and intercessions cleanse our hearts, which the evil one has wounded: then, saved by faith, we shall for ever honour you, who preserve the world by your preaching of the truth."
 
 trVE.Stichera02.mode = misc_en_UK_ware.Mode6
-trVE.Stichera02.melody = he.a.m6_en_UK_ware.OlinApothemenoi.name
+trVE.Stichera02.melody = he.a.m6_en_UK_ware.OlinApothemenoi.incipit
 trVE.Stichera02.text = "Like the Prodigal Son, I have journeyed into a far country of wickedness, and I have wasted in evil the wealth that Thou gavest me, O compassionate Father. I am starved of good deeds and clothed in the shame of my transgression, for I have been stripped bare of God's grace. I cry to Thee: I have sinned, yet I know Thy lovingkindness; accept me as one of Thy hired servants, O merciful Christ, at the prayers of the apostles who loved Thee."
 
 trVE.Stichera03.poet = poets_en_UK_ware.Theodorou
@@ -36,68 +36,68 @@ trVE.Stichera03.melody = ""
 trVE.Stichera03.text = "O apostles of the Lord, ye are the lights of the inhabited earth, benefactors and saviours; as the heavens ye declare the glory of God, and ye are adorned with the stars of your miracles and with your wonders of healing. Intercede fervently before the Lord on our behalf, that our prayers may be accepted as a pure and sweet-smelling fragrance, and that we may all be counted worthy to venerate the lifegiving Cross and to gaze on it with fear. And as we worship this Thy Cross, in Thy love for man, O Saviour, send down Thy mercy on us."
 
 trMA.Kathisma21.mode = misc_en_UK_ware.Mode6
-trMA.Kathisma21.melody = he.a.m6_en_UK_ware.ElpisTouKosmouAgathi.name
+trMA.Kathisma21.melody = he.a.m6_en_UK_ware.ElpisTouKosmouAgathi.incipit
 trMA.Kathisma21.text = "O disciples of the Saviour, fixed and unmoving stars that shine upon the world, give light to my soul that is blinded by sin; grant that I may share in the Day of the Lord, keeping the commandments of salvation, and deliver me from the darkness of hell where no light shines, that I may give you glory."
 
 trMA.Kathisma22.mode = misc_en_UK_ware.Mode6
-trMA.Kathisma22.melody = he.a.m6_en_UK_ware.ElpisTouKosmouAgathi.name
+trMA.Kathisma22.melody = he.a.m6_en_UK_ware.ElpisTouKosmouAgathi.incipit
 trMA.Kathisma22.text = "Hallowed Lady, Mother of Christ our God, thou hast borne ineffably the Maker of all. In union with the holy apostles pray to Him at all times, that in His love He may release us from the passions and grant us the remission of our sins."
 
 trMA.Kathisma31.mode = misc_en_UK_ware.Mode6
-trMA.Kathisma31.melody = he.a.m6_en_UK_ware.AngelikaiDynameis.name
+trMA.Kathisma31.melody = he.a.m6_en_UK_ware.AngelikaiDynameis.incipit
 trMA.Kathisma31.text = "O divine apostles, stars that shine on all the world, give light to us who sing your praises as we keep the Fast. We pray that we may all be counted worthy to look upon the wood of the lifegiving Cross with pure eyes, and to embrace it with pure lips, crying aloud with joy: O Lord, glory to Thee."
 
 trMA.Kathisma32.mode = misc_en_UK_ware.Mode6
 trMA.Kathisma32.melody = misc_en_UK_ware.Automelon
 trMA.Kathisma32.text = "O Theotokos Virgin, thou art the good hope of the world: I ask for thy dread protection, and for thine alone. Have compassion on thy people that are left without defence: pray to the merciful God that our souls may be delivered from every threat, for thou alone art blessed." //he.a.m6_en_UK_ware.ElpisTouKosmouAgathi.text
 
-trMA.C1Poet = poets_en_UK_ware.Iosif
+trMA.C1.poet = poets_en_UK_ware.Iosif
 
-trMA.C2Poet = poets_en_UK_ware.Theodorou
+trMA.C2.poet = poets_en_UK_ware.Theodorou
 
 trMA.Ode4C11.ode = misc_en_UK_ware.Ode4
 trMA.Ode4C11.mode = misc_en_UK_ware.Mode6
-trMA.Ode4C11.melody = he.h.m6_en_UK_ware.ChristosMouDynamis.name
+trMA.Ode4C11.melody = he.h.m6_en_UK_ware.ChristosMouDynamis.incipit
 trMA.Ode4C11.text = "O ye faithful, let us give ourselves to fasting, tears and prayer, to works of compassion and to a contrite way of life, to upright thoughts and purity, that we may share in glory."
 
 trMA.Ode4C12.ode = misc_en_UK_ware.Ode4
 trMA.Ode4C12.mode = misc_en_UK_ware.Mode6
-trMA.Ode4C12.melody = he.h.m6_en_UK_ware.ChristosMouDynamis.name
+trMA.Ode4C12.melody = he.h.m6_en_UK_ware.ChristosMouDynamis.incipit
 trMA.Ode4C12.text = "O apostles, ye shine with radiance as stars in the firmament of the Holy Church: give light to our hearts through the Spirit of God."
 
 trMA.Ode4C13.ode = misc_en_UK_ware.Ode4
 trMA.Ode4C13.mode = misc_en_UK_ware.Mode6
-trMA.Ode4C13.melody = he.h.m6_en_UK_ware.ChristosMouDynamis.name
+trMA.Ode4C13.melody = he.h.m6_en_UK_ware.ChristosMouDynamis.incipit
 trMA.Ode4C13.text = "As divine coals kindled by immaterial fire,O wise apostles of our God, burn up the material passions in our hearts."
 
 trMA.Ode4C1T.ode = misc_en_UK_ware.Ode4
 trMA.Ode4C1T.mode = misc_en_UK_ware.Mode6
-trMA.Ode4C1T.melody = he.h.m6_en_UK_ware.ChristosMouDynamis.name
+trMA.Ode4C1T.melody = he.h.m6_en_UK_ware.ChristosMouDynamis.incipit
 trMA.Ode4C1T.text = "O all-blameless Lady, lamp that never shall be quenched, bridal chamber full of light, higher than the seraphim, the chariot of the cherubim, set me free from grievous sins and dangers."
 
 trMA.Ode4C21.ode = misc_en_UK_ware.Ode4
 trMA.Ode4C21.mode = misc_en_UK_ware.Mode6
-trMA.Ode4C21.melody = he.h.m6_en_UK_ware.AkikoenOProfitis.name
+trMA.Ode4C21.melody = he.h.m6_en_UK_ware.AkikoenOProfitis.incipit
 trMA.Ode4C21.text = "O apostles of the Saviour, shining torches of God's revelation, ye have dispersed the night of ignorance: ye fill the Church with brightness and give light to the inhabited earth with the fiery tongues of your divine teaching."
 
 trMA.Ode4C22.ode = misc_en_UK_ware.Ode4
 trMA.Ode4C22.mode = misc_en_UK_ware.Mode6
-trMA.Ode4C22.melody = he.h.m6_en_UK_ware.AkikoenOProfitis.name
+trMA.Ode4C22.melody = he.h.m6_en_UK_ware.AkikoenOProfitis.incipit
 trMA.Ode4C22.text = "O apostles, ye journeyed through the world, each to a different country, gathering all men into the one faith; and sharing now in the rewards of heaven, ye rejoice and pray without ceasing to Christ, that we may all be saved."
 
 trMA.Ode4C2Tr.ode = misc_en_UK_ware.Ode4
 trMA.Ode4C2Tr.mode = misc_en_UK_ware.Mode6
-trMA.Ode4C2Tr.melody = he.h.m4_en_UK_ware.AkikoenOProfitis.name
+trMA.Ode4C2Tr.melody = he.h.m4_en_UK_ware.AkikoenOProfitis.incipit
 trMA.Ode4C2Tr.text = "I glorify the Son and the Spirit who come from the Father as light and ray from the sun: the One begotten as Offspring, the Other proceeding and sent forth; divine and coeternal Trinity, adored by all creation."
 
 trMA.Ode4C2T.ode = misc_en_UK_ware.Ode4
 trMA.Ode4C2T.mode = misc_en_UK_ware.Mode6
-trMA.Ode4C2T.melody = he.h.m6_en_UK_ware.AkikoenOProfitis.name
+trMA.Ode4C2T.melody = he.h.m6_en_UK_ware.AkikoenOProfitis.incipit
 trMA.Ode4C2T.text = "O honoured Virgin, who hast given birth yet kept thy purity, thou hast borne both God and man, a single Person with a twofold Nature. This thy miracle, O Virgin Mother, fills every ear and mind with wonder."
 
 trMA.Ode4C2A1.ode = misc_en_UK_ware.Ode4
 trMA.Ode4C2A1.mode = misc_en_UK_ware.Mode6
-trMA.Ode4C2A1.melody = he.h.m6_en_UK_ware.AkikoenOProfitis.name
+trMA.Ode4C2A1.melody = he.h.m6_en_UK_ware.AkikoenOProfitis.incipit
 trMA.Ode4C2A1.text = "At your holy intercessions, apostles of the Lord, may we be counted worthy with pure lips and eyes to reverence the lifegiving Cross, that is exalted in the sight of the whole world for all to venerate."
 
 trMA.Ode4C2H.ode = misc_en_UK_ware.Ode4
@@ -107,47 +107,47 @@ trMA.Ode4C2H.text = he.h.m6_en_UK_ware.AkikoenOProfitis.text
 
 trMA.Ode8C11.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C11.mode = misc_en_UK_ware.Mode6
-trMA.Ode8C11.melody = he.h.m6_en_UK_ware.EkFlogosToisOsiois.name
+trMA.Ode8C11.melody = he.h.m6_en_UK_ware.EkFlogosToisOsiois.incipit
 trMA.Ode8C11.text = "Through fasting Moses was granted the vision of God and Elijah was taken up in a chariot of fire. O my soul, make haste; abstain from harmful thoughts, that thou mayest be delivered from the beguilement that draws thee to the earth."
 
 trMA.Ode8C12.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C12.mode = misc_en_UK_ware.Mode6
-trMA.Ode8C12.melody = he.h.m6_en_UK_ware.EkFlogosToisOsiois.name
+trMA.Ode8C12.melody = he.h.m6_en_UK_ware.EkFlogosToisOsiois.incipit
 trMA.Ode8C12.text = "I fall into ever greater sins and inflict fresh wounds upon myself. At the prayers of Thine apostles, O merciful Christ, heal the stony hardness of my heart."
 
 trMA.Ode8C13.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C13.mode = misc_en_UK_ware.Mode6
-trMA.Ode8C13.melody = he.h.m6_en_UK_ware.EkFlogosToisOsiois.name
+trMA.Ode8C13.melody = he.h.m6_en_UK_ware.EkFlogosToisOsiois.incipit
 trMA.Ode8C13.text = "O stars that shine in all the world, bright with the splendour of God, scatter the clouds of our passions and grant us to worship at the radiant feast of the Resurrection, praising the Sun of glory."
 
 trMA.Ode8C1T.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C1T.mode = misc_en_UK_ware.Mode6
-trMA.Ode8C1T.melody = he.h.m6_en_UK_ware.EkFlogosToisOsiois.name
+trMA.Ode8C1T.melody = he.h.m6_en_UK_ware.EkFlogosToisOsiois.incipit
 trMA.Ode8C1T.text = "O Blessed of God, from all generations we call thee blessed, as thou thyself hast prophesied. For thou alone hast borne unto mortal men the blessed Word, who ineffably took flesh from thee."
 
 trMA.Ode8C21.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C21.mode = misc_en_UK_ware.Mode6
-trMA.Ode8C21.melody = he.h.m6_en_UK_ware.OiOsioiSouPaides.name
+trMA.Ode8C21.melody = he.h.m6_en_UK_ware.OiOsioiSouPaides.incipit
 trMA.Ode8C21.text = "O apostles of the Lord, we are swimming in the deep waters of delusion: catch us with the rod of faith, and we shall bless, praise and exalt the Lord above all for ever."
 
 trMA.Ode8C22.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C22.mode = misc_en_UK_ware.Mode6
-trMA.Ode8C22.melody = he.h.m6_en_UK_ware.OiOsioiSouPaides.name
+trMA.Ode8C22.melody = he.h.m6_en_UK_ware.OiOsioiSouPaides.incipit
 trMA.Ode8C22.text = "Great is the power which Thou hast shown, O Christ, in Thine apostles. For their shadows and the clothing which they wore brought healing to the sick; and they bless, praise and exalt the Lord above all for ever."
 
 trMA.Ode8C2Tr.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C2Tr.mode = misc_en_UK_ware.Mode6
-trMA.Ode8C2Tr.melody = he.h.m6_en_UK_ware.OiOsioiSouPaides.name
+trMA.Ode8C2Tr.melody = he.h.m6_en_UK_ware.OiOsioiSouPaides.incipit
 trMA.Ode8C2Tr.text = "Without beginning are the birth of the Son and the procession of the Spirit. I worship the Father who begets, I glorify the Son who is begotten, and I sing the praises of the Holy Spirit who shines forth with the Father and the Son."
 
 trMA.Ode8C2T.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C2T.mode = misc_en_UK_ware.Mode6
-trMA.Ode8C2T.melody = he.h.m6_en_UK_ware.OiOsioiSouPaides.name
+trMA.Ode8C2T.melody = he.h.m6_en_UK_ware.OiOsioiSouPaides.incipit
 trMA.Ode8C2T.text = "Cease not to pray, O Virgin, unto Him whom thou hast borne in ways past all interpretation, for He loves mankind: that He may save from danger all those who flee to thee for refuge."
 
 trMA.Ode8C2A1.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C2A1.mode = misc_en_UK_ware.Mode6
-trMA.Ode8C2A1.melody = he.h.m6_en_UK_ware.OiOsioiSouPaides.name
+trMA.Ode8C2A1.melody = he.h.m6_en_UK_ware.OiOsioiSouPaides.incipit
 trMA.Ode8C2A1.text = "O holy company of the twelve apostles, grant me uncondemned to venerate the precious Cross, as I bless, praise and exalt the Lord above all for ever."
 
 trMA.Ode8C2H.ode = misc_en_UK_ware.Ode8
@@ -157,47 +157,47 @@ trMA.Ode8C2H.text = he.h.m6_en_UK_ware.OiOsioiSouPaides.text
 
 trMA.Ode9C11.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C11.mode = misc_en_UK_ware.Mode6
-trMA.Ode9C11.melody = he.h.m6_en_UK_ware.TheonAnthropois.name
+trMA.Ode9C11.melody = he.h.m6_en_UK_ware.TheonAnthropois.incipit
 trMA.Ode9C11.text = "O God and Lord of many mercies, cleanse the wounds of my heart and heal them with the medicine of repentance. I have sinned, I have sinned against Thee: take pity on me and save me at the prayers of Thine apostles, for Thou art full of mercy."
 
 trMA.Ode9C12.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C12.mode = misc_en_UK_ware.Mode6
-trMA.Ode9C12.melody = he.h.m6_en_UK_ware.TheonAnthropois.name
+trMA.Ode9C12.melody = he.h.m6_en_UK_ware.TheonAnthropois.incipit
 trMA.Ode9C12.text = "Foolishly, like the Prodigal, I have followed my unruly impulses and have departed far from my true self: I eat the rough husks of pleasure and am deprived of the food of salvation. O Christ, take pity on me and save me."
 
 trMA.Ode9C13.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C13.mode = misc_en_UK_ware.Mode6
-trMA.Ode9C13.melody = he.h.m6_en_UK_ware.TheonAnthropois.name
+trMA.Ode9C13.melody = he.h.m6_en_UK_ware.TheonAnthropois.incipit
 trMA.Ode9C13.text = "O my soul, thou hast not cleansed thyself from evil nor avoided the lusts that corrupt thee. Why art thou filled, then, with unjustified rejoicing, because thou hast observed the Fast? For such is not the fast the Lord has chosen, who desires our true amendment."
 
 trMA.Ode9C1T.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C1T.mode = misc_en_UK_ware.Mode6
-trMA.Ode9C1T.melody = he.h.m6_en_UK_ware.TheonAnthropois.name
+trMA.Ode9C1T.melody = he.h.m6_en_UK_ware.TheonAnthropois.incipit
 trMA.Ode9C1T.text = "O Virgin Theotokos, who hast borne the Light, guide me with divine light and drive away the darkness from my soul, that I may bless thee: for all generations of men, as thou hast prophesied, shall call thee blessed."
 
 trMA.Ode9C21.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C21.mode = misc_en_UK_ware.Mode6
-trMA.Ode9C21.melody = he.h.m6_en_UK_ware.AsporouSyllipseos.name
+trMA.Ode9C21.melody = he.h.m6_en_UK_ware.AsporouSyllipseos.incipit
 trMA.Ode9C21.text = "Simple in speech but wise in knowledge, ye have destroyed the webs of words spun by philosophers, the cunning tapestries of the orators, and the divinations of the stargazers: therefore, O apostles of Christ, ye have been revealed as the only teachers of the whole inhabited earth."
 
 trMA.Ode9C22.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C22.mode = misc_en_UK_ware.Mode6
-trMA.Ode9C22.melody = he.h.m6_en_UK_ware.AsporouSyllipseos.name
+trMA.Ode9C22.melody = he.h.m6_en_UK_ware.AsporouSyllipseos.incipit
 trMA.Ode9C22.text = "Peter speaks, and Plato falls silent; Paul teaches, and Pythagoras is heard no more. The company of the apostles, preaching the mysteries of God, has buried the dead voice of the pagan Greeks and called the world to the worship of Christ."
 
 trMA.Ode9C2Tr.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C2Tr.mode = misc_en_UK_ware.Mode6
-trMA.Ode9C2Tr.melody = he.h.m6_en_UK_ware.AsporouSyllipseos.name
+trMA.Ode9C2Tr.melody = he.h.m6_en_UK_ware.AsporouSyllipseos.incipit
 trMA.Ode9C2Tr.text = "O Father, single only-Begetter of the only-Begotten Son; O only Light and Brightness from the one and only Light; and Thou, one and only Holy Spirit from the one God, true Lord from the Lord: O holy Three in One, save me as I tell of Thy divinity."
 
 trMA.Ode9C2T.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C2T.mode = misc_en_UK_ware.Mode6
-trMA.Ode9C2T.melody = he.h.m6_en_UK_ware.AsporouSyllipseos.name
+trMA.Ode9C2T.melody = he.h.m6_en_UK_ware.AsporouSyllipseos.incipit
 trMA.Ode9C2T.text = "The marvel of thy childbearing fills me with wonder, O all-blameless Lady. How hast thou conceived without seed Him whom none can comprehend? How hast thou remained a Virgin and yet become a Mother? 'Accept the miracle with faith, and worship the Child that is born, for all that He wills, He has the power to do.'"
 
 trMA.Ode9C2A1.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C2A1.mode = misc_en_UK_ware.Mode6
-trMA.Ode9C2A1.melody = he.h.m6_en_UK_ware.AsporouSyllipseos.name
+trMA.Ode9C2A1.melody = he.h.m6_en_UK_ware.AsporouSyllipseos.incipit
 trMA.Ode9C2A1.text = "At your prayers, O holy apostles of Christ, may we all be counted worthy to see and venerate -with pure lips and souls the precious Cross, the all-holy Tree that has borne as flower the salvation of the world."
 
 trMA.Ode9C2H.ode = misc_en_UK_ware.Ode9

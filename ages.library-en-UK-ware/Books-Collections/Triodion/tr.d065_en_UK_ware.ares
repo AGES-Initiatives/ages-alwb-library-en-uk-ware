@@ -54,157 +54,157 @@ trVE.AposBoth.mode = misc_en_UK_ware.Mode3
 trVE.AposBoth.melody = misc_en_UK_ware.Idiomelon
 trVE.AposBoth.text = trVE.Aposticha2.text
 
-trCO.C1Poet = poets_en_UK_ware.AndreouKritis
+trCO.C1.poet = poets_en_UK_ware.AndreouKritis
 
 trCO.Ode1C11.ode = misc_en_UK_ware.Ode1
 trCO.Ode1C11.mode = misc_en_UK_ware.Mode8
-trCO.Ode1C11.melody = he.h.m8_en_UK_ware.ToSyntripsantiPolemous.name
+trCO.Ode1C11.melody = he.h.m8_en_UK_ware.ToSyntripsantiPolemous.incipit
 trCO.Ode1C11.text = "Ye faithful, let us follow Joseph in his chastity: through the practice of the virtues let us live with all vigilance, and so let us come to know Him who has honoured men by creating them in His own image."
 
 trCO.Ode1C12.ode = misc_en_UK_ware.Ode1
 trCO.Ode1C12.mode = misc_en_UK_ware.Mode8
-trCO.Ode1C12.melody = he.h.m8_en_UK_ware.ToSyntripsantiPolemous.name
+trCO.Ode1C12.melody = he.h.m8_en_UK_ware.ToSyntripsantiPolemous.incipit
 trCO.Ode1C12.text = "Those who are barren of good actions are like the fig tree. Let us avoid its fruitlessness, lest we be dried up as it once was, pre­ figuring the synagogue that was covered with leaves but bore no fruit."
 
 trCO.Ode1C13.ode = misc_en_UK_ware.Ode1
 trCO.Ode1C13.mode = misc_en_UK_ware.Mode8
-trCO.Ode1C13.melody = he.h.m8_en_UK_ware.ToSyntripsantiPolemous.name
+trCO.Ode1C13.melody = he.h.m8_en_UK_ware.ToSyntripsantiPolemous.incipit
 trCO.Ode1C13.text = "Joseph is an image of the Master: he was thrown into a pit and sold by his brethren, but he suffered all these things with patience, as a true figure of Christ."
 
 trCO.Ode1C14.ode = misc_en_UK_ware.Ode1
 trCO.Ode1C14.mode = misc_en_UK_ware.Mode8
-trCO.Ode1C14.melody = he.h.m8_en_UK_ware.ToSyntripsantiPolemous.name
+trCO.Ode1C14.melody = he.h.m8_en_UK_ware.ToSyntripsantiPolemous.incipit
 trCO.Ode1C14.text = "O brethren, let us flee from the fruitlessness of the fig tree and understand the meaning of this example. May we not be withered as it once was, when He who loves mankind can1e to it in hunger."
 
 trCO.Ode1C15.ode = misc_en_UK_ware.Ode1
 trCO.Ode1C15.mode = misc_en_UK_ware.Mode8
-trCO.Ode1C15.melody = he.h.m8_en_UK_ware.ToSyntripsantiPolemous.name
+trCO.Ode1C15.melody = he.h.m8_en_UK_ware.ToSyntripsantiPolemous.incipit
 trCO.Ode1C15.text = "In haste to suffer for the world, Jesus goes up of His own will with His disciples to the city of Jerusalem, where He will undergo His voluntary Passion."
 
 trCO.Ode1C16.ode = misc_en_UK_ware.Ode1
 trCO.Ode1C16.mode = misc_en_UK_ware.Mode8
-trCO.Ode1C16.melody = he.h.m8_en_UK_ware.ToSyntripsantiPolemous.name
+trCO.Ode1C16.melody = he.h.m8_en_UK_ware.ToSyntripsantiPolemous.incipit
 trCO.Ode1C16.text = "Cleaving to the Lord as He makes haste to suffer all things, let us prepare ourselves for spitting, mockery and disgrace, that, remaining faithful to Him in His holy Passion, we may be glorified with Him."
 
 trCO.Ode1C17.ode = misc_en_UK_ware.Ode1
 trCO.Ode1C17.mode = misc_en_UK_ware.Mode8
-trCO.Ode1C17.melody = he.h.m8_en_UK_ware.ToSyntripsantiPolemous.name
+trCO.Ode1C17.melody = he.h.m8_en_UK_ware.ToSyntripsantiPolemous.incipit
 trCO.Ode1C17.text = "He who suffers for us heals our passions by His Passion; for willingly He undergoes in our human nature His life-giving sufferings, that we may be saved."
 
 trCO.Ode1C1Tr.ode = misc_en_UK_ware.Ode1
 trCO.Ode1C1Tr.mode = misc_en_UK_ware.Mode8
-trCO.Ode1C1Tr.melody = he.h.m8_en_UK_ware.ToSyntripsantiPolemous.name
+trCO.Ode1C1Tr.melody = he.h.m8_en_UK_ware.ToSyntripsantiPolemous.incipit
 trCO.Ode1C1Tr.text = "I glorify Three without beginning; I sing the praises of Three Holies; I proclaim Three coeternal in One Essence. For the one God is glorified in Father, Son and Spirit."
 
 trCO.Ode1C1T.ode = misc_en_UK_ware.Ode1
 trCO.Ode1C1T.mode = misc_en_UK_ware.Mode8
-trCO.Ode1C1T.melody = he.h.m8_en_UK_ware.ToSyntripsantiPolemous.name
+trCO.Ode1C1T.melody = he.h.m8_en_UK_ware.ToSyntripsantiPolemous.incipit
 trCO.Ode1C1T.text = "The rod of Moses and the rod of Aaron underwent by God's providence a strange transformation that surpasses human understanding; and thy womb, O Mother of God, has given birth in a manner altogether new."
 
 trCO.Kathisma11.mode = misc_en_UK_ware.Mode4
-trCO.Kathisma11.melody = he.a.m4_en_UK_ware.EpefanisSimeron.name
+trCO.Kathisma11.melody = he.a.m4_en_UK_ware.EpefanisSimeron.incipit
 trCO.Kathisma11.text = "May the reproach of the fig tree not overtake thee; but make haste, my soul, and from the soil of thy heart bear good fruit for Christ thy Creator, and offer it to Him in repentance."
 
 trCO.Ode8C11.ode = misc_en_UK_ware.Ode8
 trCO.Ode8C11.mode = misc_en_UK_ware.Mode8
-trCO.Ode8C11.melody = he.h.m8_en_UK_ware.TonEnOreiAgio.name
+trCO.Ode8C11.melody = he.h.m8_en_UK_ware.TonEnOreiAgio.incipit
 trCO.Ode8C11.text = "Let us adorn our life with chastity and guard the faith with wisdom; let us seek the ways of righteousness, that we may follow Christ with courage and be crucified with Him."
 
 trCO.Ode8C12.ode = misc_en_UK_ware.Ode8
 trCO.Ode8C12.mode = misc_en_UK_ware.Mode8
-trCO.Ode8C12.melody = he.h.m8_en_UK_ware.TonEnOreiAgio.name
+trCO.Ode8C12.melody = he.h.m8_en_UK_ware.TonEnOreiAgio.incipit
 trCO.Ode8C12.text = "Joseph the Patriarch found another Eve in the Egyptian woman, yet he was not deceived or led into any act of wickedness: but he stood firm as adamant and was not caught by the passions of sin."
 
 trCO.Ode8C13.ode = misc_en_UK_ware.Ode8
 trCO.Ode8C13.mode = misc_en_UK_ware.Mode8
-trCO.Ode8C13.melody = he.h.m8_en_UK_ware.TonEnOreiAgio.name
+trCO.Ode8C13.melody = he.h.m8_en_UK_ware.TonEnOreiAgio.incipit
 trCO.Ode8C13.text = "O my Saviour, journeying along the paths of life, Thou hast hungered by Thine own free choice, desiring the salvation of all: for Thou wast hungry for the conversion of those who had turned away from Thee."
 
 trCO.Ode8C14.ode = misc_en_UK_ware.Ode8
 trCO.Ode8C14.mode = misc_en_UK_ware.Mode8
-trCO.Ode8C14.melody = he.h.m8_en_UK_ware.TonEnOreiAgio.name
+trCO.Ode8C14.melody = he.h.m8_en_UK_ware.TonEnOreiAgio.incipit
 trCO.Ode8C14.text = "O Adam our first father, after tasting from the Tree, thou knewest that thou wast naked, and in shame thou hast clothed thyself in fig leaves; and so thou hast prefigured the Synagogue that was stripped naked of Christ's grace."
 
 trCO.Ode8C15.ode = misc_en_UK_ware.Ode8
 trCO.Ode8C15.mode = misc_en_UK_ware.Mode8
-trCO.Ode8C15.melody = he.h.m8_en_UK_ware.TonEnOreiAgio.name
+trCO.Ode8C15.melody = he.h.m8_en_UK_ware.TonEnOreiAgio.incipit
 trCO.Ode8C15.text = "Make ready before thy departure, O my soul; prepare thyself for the life that is to come, Christ hastens to suffer for thy sake, that He may glorify thee: make haste to suffer with Him, to be crucified and to die with Him."
 
 trCO.Ode8C16.ode = misc_en_UK_ware.Ode8
 trCO.Ode8C16.mode = misc_en_UK_ware.Mode8
-trCO.Ode8C16.melody = he.h.m8_en_UK_ware.TonEnOreiAgio.name
+trCO.Ode8C16.melody = he.h.m8_en_UK_ware.TonEnOreiAgio.incipit
 trCO.Ode8C16.text = "How should death not tremble, O my Saviour I How should hell not crouch with fear, when it meets Thee hastening of Thine own good pleasure to the Passion, and sees Thee, who art righteous, coming to suffer for the unrighteous?"
 
 trCO.Ode8C17.ode = misc_en_UK_ware.Ode8
 trCO.Ode8C17.mode = misc_en_UK_ware.Mode8
-trCO.Ode8C17.melody = he.h.m8_en_UK_ware.TonEnOreiAgio.name
+trCO.Ode8C17.melody = he.h.m8_en_UK_ware.TonEnOreiAgio.incipit
 trCO.Ode8C17.text = "The Jewish priests and Levites, when they saw the raising of Lazarus, conspired together out of envy, and by guile they betrayed Christ to Pilate, that He might be put to death."
 
 trCO.Ode8C18.ode = misc_en_UK_ware.Ode8
 trCO.Ode8C18.mode = misc_en_UK_ware.Mode8
-trCO.Ode8C18.melody = he.h.m8_en_UK_ware.TonEnOreiAgio.name
+trCO.Ode8C18.melody = he.h.m8_en_UK_ware.TonEnOreiAgio.incipit
 trCO.Ode8C18.text = "Thy handmaiden, the Ewe-Lamb and Virgin, saw Thee the Good Shepherd hastening to Thy Passion and laying down Thy life for us; and her mother's heart was filled with anguish for Thee."
 
 trCO.Ode8C1Tr.ode = misc_en_UK_ware.Ode8
 trCO.Ode8C1Tr.mode = misc_en_UK_ware.Mode8
-trCO.Ode8C1Tr.melody = he.h.m8_en_UK_ware.TonEnOreiAgio.name
+trCO.Ode8C1Tr.melody = he.h.m8_en_UK_ware.TonEnOreiAgio.incipit
 trCO.Ode8C1Tr.text = "As Unity in Essence I sing Thy praises; as Trinity in Persons I venerate Thee, Father, Son and All-Holy Spirit. The power of Thy Kingdom that has no beginning I glorify unto all ages."
 
 trCO.Ode8C1T.ode = misc_en_UK_ware.Ode8
 trCO.Ode8C1T.mode = misc_en_UK_ware.Mode8
-trCO.Ode8C1T.melody = he.h.m8_en_UK_ware.TonEnOreiAgio.name
+trCO.Ode8C1T.melody = he.h.m8_en_UK_ware.TonEnOreiAgio.incipit
 trCO.Ode8C1T.text = "The Theotokos entreats Thee, O Christ; the company of the apostles beseeches Thee: give Thy peace to Thy world and grant us Thine abundant mercy unto all ages."
 
 trCO.Ode9C11.ode = misc_en_UK_ware.Ode9
 trCO.Ode9C11.mode = misc_en_UK_ware.Mode8
-trCO.Ode9C11.melody = he.h.m8_en_UK_ware.AllotrionTonMiteron.name
+trCO.Ode9C11.melody = he.h.m8_en_UK_ware.AllotrionTonMiteron.incipit
 trCO.Ode9C11.text = "Chastity is alien to the impious, and transgression is a thing strange to the righteous. Great Joseph turned away from sin, becoming an image of chastity and a true figure of Christ."
 
 trCO.Ode9C12.ode = misc_en_UK_ware.Ode9
 trCO.Ode9C12.mode = misc_en_UK_ware.Mode8
-trCO.Ode9C12.melody = he.h.m8_en_UK_ware.AllotrionTonMiteron.name
+trCO.Ode9C12.melody = he.h.m8_en_UK_ware.AllotrionTonMiteron.incipit
 trCO.Ode9C12.text = "Justice is alien to the lawless, and the knowledge of God is a thing strange to unbelievers. The Jews in their lawlessness rejected both these things; and so, like the fig tree, they have inherited the curse."
 
 trCO.Ode9C13.ode = misc_en_UK_ware.Ode9
 trCO.Ode9C13.mode = misc_en_UK_ware.Mode8
-trCO.Ode9C13.melody = he.h.m8_en_UK_ware.AllotrionTonMiteron.name
+trCO.Ode9C13.melody = he.h.m8_en_UK_ware.AllotrionTonMiteron.incipit
 trCO.Ode9C13.text = "Christ my God, who is the Bread of Life, hungered for man's salvation. He came to the Synagogue, as to the fig tree, and found it adorned with the leaves of the Law yet lacking fruit; and so He pronounced it cursed."
 
 trCO.Ode9C14.ode = misc_en_UK_ware.Ode9
 trCO.Ode9C14.mode = misc_en_UK_ware.Mode8
-trCO.Ode9C14.melody = he.h.m8_en_UK_ware.AllotrionTonMiteron.name
+trCO.Ode9C14.melody = he.h.m8_en_UK_ware.AllotrionTonMiteron.incipit
 trCO.Ode9C14.text = "Thou has cursed the unfruitfulness of the Law, for it produced as leaves an understanding of the shadow of the letter, but because of disobedience it bore no works as fruit. But do Thou bless all of us, O Saviour, and make us sons by grace."
 
 trCO.Ode9C15.ode = misc_en_UK_ware.Ode9
 trCO.Ode9C15.mode = misc_en_UK_ware.Mode8
-trCO.Ode9C15.melody = he.h.m8_en_UK_ware.AllotrionTonMiteron.name
+trCO.Ode9C15.melody = he.h.m8_en_UK_ware.AllotrionTonMiteron.incipit
 trCO.Ode9C15.text = "Of old the rod of Moses was changed into a serpent; and the rod of Aaron, though dried up and withered, was changed into a green branch that put forth leaves. But the lawless Synagogue was changed into an unfruitful fig tree."
 
 trCO.Ode9C16.ode = misc_en_UK_ware.Ode9
 trCO.Ode9C16.mode = misc_en_UK_ware.Mode8
-trCO.Ode9C16.melody = he.h.m8_en_UK_ware.AllotrionTonMiteron.name
+trCO.Ode9C16.melody = he.h.m8_en_UK_ware.AllotrionTonMiteron.incipit
 trCO.Ode9C16.text = "Prepare thy priests, O Judaea, make ready thy hands to kill God:
 for see, He has come to His Passion, meek and silent, our Lamb and Shepherd, Christ the King of Israel."
 
 trCO.Ode9C17.ode = misc_en_UK_ware.Ode9
 trCO.Ode9C17.mode = misc_en_UK_ware.Mode8
-trCO.Ode9C17.melody = he.h.m8_en_UK_ware.AllotrionTonMiteron.name
+trCO.Ode9C17.melody = he.h.m8_en_UK_ware.AllotrionTonMiteron.incipit
 trCO.Ode9C17.text = "O Judaea, receive thy King; for behold, He comes willingly to His Passion, that He may suffer and save those who cry without ceasing: Blessed is He that comes to save all things by the Cross."
 
 trCO.Ode9C18.ode = misc_en_UK_ware.Ode9
 trCO.Ode9C18.mode = misc_en_UK_ware.Mode8
-trCO.Ode9C18.melody = he.h.m8_en_UK_ware.AllotrionTonMiteron.name
+trCO.Ode9C18.melody = he.h.m8_en_UK_ware.AllotrionTonMiteron.incipit
 trCO.Ode9C18.text = "O Judaea, the Master has turned thy feasts into mourning, according to the prophecy; for thou hast murdered God, who (as David tells) once changed the stony rock into pools of water."
 
 trCO.Ode9C1Tr.ode = misc_en_UK_ware.Ode9
 trCO.Ode9C1Tr.mode = misc_en_UK_ware.Mode8
-trCO.Ode9C1Tr.melody = he.h.m8_en_UK_ware.AllotrionTonMiteron.name
+trCO.Ode9C1Tr.melody = he.h.m8_en_UK_ware.AllotrionTonMiteron.incipit
 trCO.Ode9C1Tr.text = "It is alien to evildoers to glorify Thee, the Essence that has no beginning, Father, Son and Holy Spirit, the sovereign and uncreated Might, that has established the whole world by an act of divine
 power."
 
 trCO.Ode9C1T.ode = misc_en_UK_ware.Ode9
 trCO.Ode9C1T.mode = misc_en_UK_ware.Mode8
-trCO.Ode9C1T.melody = he.h.m8_en_UK_ware.AllotrionTonMiteron.name
+trCO.Ode9C1T.melody = he.h.m8_en_UK_ware.AllotrionTonMiteron.incipit
 trCO.Ode9C1T.text = "We bring the Theotokos as our intercessor: at her prayers and those of Thine apostles, make us share, O Master, in Thy blessings and, O Saviour, count us worthy of the glory of Thy Resurrection."
 
 trHW.Alleluia.text = "" // for media
@@ -217,19 +217,19 @@ trHW.Troparion2.text = ""
 trHW.Troparion3.text = ""
 
 trMA.Kathisma11.mode = misc_en_UK_ware.Mode1
-trMA.Kathisma11.melody = he.a.m1_en_UK_ware.TonTafonSouSotir.name
+trMA.Kathisma11.melody = he.a.m1_en_UK_ware.TonTafonSouSotir.incipit
 trMA.Kathisma11.text = ""
 
 trMA.Kathisma21.mode = misc_en_UK_ware.Mode1
-trMA.Kathisma21.melody = he.a.m1_en_UK_ware.TonTafonSouSotir.name
+trMA.Kathisma21.melody = he.a.m1_en_UK_ware.TonTafonSouSotir.incipit
 trMA.Kathisma21.text = ""
 
 trMA.Kathisma31.mode = misc_en_UK_ware.Mode8
-trMA.Kathisma31.melody = he.a.m8_en_UK_ware.TinSofianKaiLogon.name
+trMA.Kathisma31.melody = he.a.m8_en_UK_ware.TinSofianKaiLogon.incipit
 trMA.Kathisma31.text = ""
 
-trMA.C1Poet = poets_en_UK_ware.KosmaMonachou
-trMA.C1Acrostic.text = ""
+trMA.C1.poet = poets_en_UK_ware.KosmaMonachou
+trMA.C1.acrostic = ""
 
 trMA.Ode1C1H.ode = misc_en_UK_ware.Ode1
 trMA.Ode1C1H.mode = misc_en_UK_ware.Mode2
@@ -241,12 +241,12 @@ trMA.C1.verse = ""
 
 trMA.Ode1C11.ode = misc_en_UK_ware.Ode1
 trMA.Ode1C11.mode = misc_en_UK_ware.Mode2
-trMA.Ode1C11.melody = he.h.m2_en_UK_ware.ToTinAvaton.name
+trMA.Ode1C11.melody = he.h.m2_en_UK_ware.ToTinAvaton.incipit
 trMA.Ode1C11.text = ""
 
 trMA.Ode1C12.ode = misc_en_UK_ware.Ode1
 trMA.Ode1C12.mode = misc_en_UK_ware.Mode2
-trMA.Ode1C12.melody = he.h.m2_en_UK_ware.ToTinAvaton.name
+trMA.Ode1C12.melody = he.h.m2_en_UK_ware.ToTinAvaton.incipit
 trMA.Ode1C12.text = ""
 
 trMA.Ode1K.ode = misc_en_UK_ware.Ode1
@@ -255,7 +255,7 @@ trMA.Ode1K.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode1K.text = he.h.m2_en_UK_ware.ToTinAvaton.text
 
 trMA.Kontakion1.mode = misc_en_UK_ware.Mode8
-trMA.Kontakion1.melody = he.a.m8_en_UK_ware.OsAparchas.name
+trMA.Kontakion1.melody = he.a.m8_en_UK_ware.OsAparchas.incipit
 trMA.Kontakion1.text = ""
 
 trMA.Oikos1.text = ""
@@ -291,12 +291,12 @@ trMA.Ode8C1H.text = he.h.m2_en_UK_ware.EfrixePaidonEvagon.text
 
 trMA.Ode8C11.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C11.mode = misc_en_UK_ware.Mode2
-trMA.Ode8C11.melody = he.h.m2_en_UK_ware.EfrixePaidonEvagon.name
+trMA.Ode8C11.melody = he.h.m2_en_UK_ware.EfrixePaidonEvagon.incipit
 trMA.Ode8C11.text = ""
 
 trMA.Ode8C12.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C12.mode = misc_en_UK_ware.Mode2
-trMA.Ode8C12.melody = he.h.m2_en_UK_ware.EfrixePaidonEvagon.name
+trMA.Ode8C12.melody = he.h.m2_en_UK_ware.EfrixePaidonEvagon.incipit
 trMA.Ode8C12.text = ""
 
 trMA.Ode8K.ode = misc_en_UK_ware.Ode8
@@ -311,12 +311,12 @@ trMA.Ode9C1H.text = he.h.m2_en_UK_ware.EmegalynasChriste.text
 
 trMA.Ode9C11.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C11.mode = misc_en_UK_ware.Mode2
-trMA.Ode9C11.melody = he.h.m2_en_UK_ware.EmegalynasChriste.name
+trMA.Ode9C11.melody = he.h.m2_en_UK_ware.EmegalynasChriste.incipit
 trMA.Ode9C11.text = ""
 
 trMA.Ode9C12.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C12.mode = misc_en_UK_ware.Mode2
-trMA.Ode9C12.melody = he.h.m2_en_UK_ware.EmegalynasChriste.name
+trMA.Ode9C12.melody = he.h.m2_en_UK_ware.EmegalynasChriste.incipit
 trMA.Ode9C12.text = ""
 
 trMA.Ode9K.ode = misc_en_UK_ware.Ode9

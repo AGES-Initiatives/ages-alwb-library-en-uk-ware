@@ -3,33 +3,33 @@ A_Resource_Whose_Name = he.a.m7_en_UK_ware
 he.title = ""
 
 KatafronisantesPanton.mode = misc_en_UK_ware.Mode7
-KatafronisantesPanton.name = "(NM)"
+KatafronisantesPanton.incipit = "(NM)"
 KatafronisantesPanton.text = ""
 
 ODiEmeAnaschomenos.mode = misc_en_UK_ware.Mode7
-ODiEmeAnaschomenos.name = "(NM)"
+ODiEmeAnaschomenos.incipit = "(NM)"
 ODiEmeAnaschomenos.text = ""
 
 OsEchousaToSympathes.mode = misc_en_UK_ware.Mode7
-OsEchousaToSympathes.name = "(NM) O blessed Theotokos."
+OsEchousaToSympathes.incipit = "(NM) O blessed Theotokos."
 OsEchousaToSympathes.text = "O blessed Theotokos, thou seest those on earth, and thou dost feel and suffer with us in our lowliness: take pity on thy people in distress. Pray for us constantly, lest we perish in our sins. O Virgin undefiled and all-holy, intercede for the salvation of our souls before the God who is always ready to forgive."
 
 OuketiFloginiRomfaia.mode = misc_en_UK_ware.Mode7
-OuketiFloginiRomfaia.name = "(NM)"
+OuketiFloginiRomfaia.incipit = "(NM)"
 OuketiFloginiRomfaia.text = ""
 
 OukEtiKolyometha.mode = misc_en_UK_ware.Mode7
-OukEtiKolyometha.name = "(NM)"
+OukEtiKolyometha.incipit = "(NM)"
 OukEtiKolyometha.text = ""
 
 PyrosFoteinoteron.mode = misc_en_UK_ware.Mode7
-PyrosFoteinoteron.name = "(NM)"
+PyrosFoteinoteron.incipit = "(NM)"
 PyrosFoteinoteron.text = ""
 
 SimeronGrigoreiOIoudas.mode = misc_en_UK_ware.Mode7
-SimeronGrigoreiOIoudas.name = "(NM)"
+SimeronGrigoreiOIoudas.incipit = "(NM)"
 SimeronGrigoreiOIoudas.text = ""
 
 XylonZois.mode = misc_en_UK_ware.Mode7
-XylonZois.name = "(NM)"
+XylonZois.incipit = "(NM)"
 XylonZois.text = ""

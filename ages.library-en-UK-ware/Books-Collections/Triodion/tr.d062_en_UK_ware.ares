@@ -52,53 +52,53 @@ trMA.Kathisma32.mode = misc_en_UK_ware.Mode8
 trMA.Kathisma32.melody = he.a.m8_en_UK_ware.AnestisEkNekron.notmetered
 trMA.Kathisma32.text = "Standing at the Passion of her Son, the pure Virgin lamented bitterly and cried in sorrow: 'Woe is me, my Child! Thou art glorified by the angels with never-silent hymns; how have the Hebrew children brought Thee before the judgement seat of Pilate? O Word, I sing the praises of Thy great and ineffable compassion.'"
 
-trMA.C1Poet = poets_en_UK_ware.Iosif
+trMA.C1.poet = poets_en_UK_ware.Iosif
 
-trMA.C2Poet = poets_en_UK_ware.Theodorou
+trMA.C2.poet = poets_en_UK_ware.Theodorou
 
 trMA.Ode5C11.ode = misc_en_UK_ware.Ode5
 trMA.Ode5C11.mode = misc_en_UK_ware.Mode4
-trMA.Ode5C11.melody = he.h.m4_en_UK_ware.AnateilonMoiKyrie.name
+trMA.Ode5C11.melody = he.h.m4_en_UK_ware.AnateilonMoiKyrie.incipit
 trMA.Ode5C11.text = "Falling asleep upon the Cross, O Lord and Master, Thou hast put death to sleep. For Thou hast cried: 'My friend Lazarus is sleeping, but I shall go now to awake him.'"
 
 trMA.Ode5C12.ode = misc_en_UK_ware.Ode5
 trMA.Ode5C12.mode = misc_en_UK_ware.Mode4
-trMA.Ode5C12.melody = he.h.m4_en_UK_ware.AnateilonMoiKyrie.name
+trMA.Ode5C12.melody = he.h.m4_en_UK_ware.AnateilonMoiKyrie.incipit
 trMA.Ode5C12.text = "Fulfilling the sayings of the prophets, in Thy compassion Thou hast come, O Christ, to the city that killed the prophets; and there of Thine own will Thou shalt be slain, saving from corruption me who am dead."
 
 trMA.Ode5C13.ode = misc_en_UK_ware.Ode5
 trMA.Ode5C13.mode = misc_en_UK_ware.Mode4
-trMA.Ode5C13.melody = he.h.m4_en_UK_ware.AnateilonMoiKyrie.name
+trMA.Ode5C13.melody = he.h.m4_en_UK_ware.AnateilonMoiKyrie.incipit
 trMA.Ode5C13.text = "All ye who through abstinence and prayer have made your rebellious body submissive to the Word, both monks and laity, go out and meet Christ who rides upon a foal and comes to His Passion."
 
 trMA.Ode5C1T.ode = misc_en_UK_ware.Ode5
 trMA.Ode5C1T.mode = misc_en_UK_ware.Mode4
-trMA.Ode5C1T.melody = he.h.m4_en_UK_ware.AnateilonMoiKyrie.name
+trMA.Ode5C1T.melody = he.h.m4_en_UK_ware.AnateilonMoiKyrie.incipit
 trMA.Ode5C1T.text = "O all-pure Virgin, with the drops of thy mercy water my heart that is tormented in the flame of sin. O Gate of the Light, kindle my lamp that has gone out."
 
 trMA.Ode5C21.ode = misc_en_UK_ware.Ode5
 trMA.Ode5C21.mode = misc_en_UK_ware.Mode8
-trMA.Ode5C21.melody = he.h.m8_en_UK_ware.TonZofonTisPsychisMou.name
+trMA.Ode5C21.melody = he.h.m8_en_UK_ware.TonZofonTisPsychisMou.incipit
 trMA.Ode5C21.text = "Approaching Bethany, O Christ, Thou sendest two of Thy disciples to fetch Thee a foal on which no man had sat. For none but Thyself, O Saviour, has brought into subjection the peoples who were without reason."
 
 trMA.Ode5C22.ode = misc_en_UK_ware.Ode5
 trMA.Ode5C22.mode = misc_en_UK_ware.Mode8
-trMA.Ode5C22.melody = he.h.m8_en_UK_ware.TonZofonTisPsychisMou.name
+trMA.Ode5C22.melody = he.h.m8_en_UK_ware.TonZofonTisPsychisMou.incipit
 trMA.Ode5C22.text = "A great number of Jews came today from Jerusalem to Bethany and shared the sorrow of the sisters of Lazarus; but when they learned on the next day that Lazarus had come out from the tomb, they sought to kill Christ."
 
 trMA.Ode5C2Tr.ode = misc_en_UK_ware.Ode5
 trMA.Ode5C2Tr.mode = misc_en_UK_ware.Mode8
-trMA.Ode5C2Tr.melody = he.h.m8_en_UK_ware.TonZofonTisPsychisMou.name
+trMA.Ode5C2Tr.melody = he.h.m8_en_UK_ware.TonZofonTisPsychisMou.incipit
 trMA.Ode5C2Tr.text = "Most Holy Trinity, Father, Son and all-creative Spirit, blessed Godhead, Essence without beginning, threefold Light, all-seeing Power, guard Thy servants."
 
 trMA.Ode5C2T.ode = misc_en_UK_ware.Ode5
 trMA.Ode5C2T.mode = misc_en_UK_ware.Mode8
-trMA.Ode5C2T.melody = he.h.m8_en_UK_ware.TonZofonTisPsychisMou.name
+trMA.Ode5C2T.melody = he.h.m8_en_UK_ware.TonZofonTisPsychisMou.incipit
 trMA.Ode5C2T.text = "When she beheld Thee nailed upon the Cross, O Christ, with blood and water flowing from Thy lifegiving side, in her love Thy Mother suffered with Thee as none but a mother can, for she knew Thee as her Son."
 
 trMA.Ode5C2A1.ode = misc_en_UK_ware.Ode5
 trMA.Ode5C2A1.mode = misc_en_UK_ware.Mode8
-trMA.Ode5C2A1.melody = he.h.m8_en_UK_ware.TonZofonTisPsychisMou.name
+trMA.Ode5C2A1.melody = he.h.m8_en_UK_ware.TonZofonTisPsychisMou.incipit
 trMA.Ode5C2A1.text = "Behold, Christ makes ready to enter Jerusalem. Let all who dwell as solitaries in the mountains and the desert assemble together and come to meet Him, sharing in the joy of the whole world."
 
 trMA.Ode5C2H.ode = misc_en_UK_ware.Ode5
@@ -108,47 +108,47 @@ trMA.Ode5C2H.text = he.h.m8_en_UK_ware.TonZofonTisPsychisMou.text
 
 trMA.Ode8C11.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C11.mode = misc_en_UK_ware.Mode4
-trMA.Ode8C11.melody = he.h.m4_en_UK_ware.GiKaiPantaTaEnAfti.name
+trMA.Ode8C11.melody = he.h.m4_en_UK_ware.GiKaiPantaTaEnAfti.incipit
 trMA.Ode8C11.text = "Why, O women, do ye weep bitterly for your beloved brother, when ye have with you the Resurrection and the Life? He who brings gifts to all has come and will restore to life His true friend, through Lazarus' resurrection foretelling the resurrection of all."
 
 trMA.Ode8C12.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C12.mode = misc_en_UK_ware.Mode4
-trMA.Ode8C12.melody = he.h.m4_en_UK_ware.GiKaiPantaTaEnAfti.name
+trMA.Ode8C12.melody = he.h.m4_en_UK_ware.GiKaiPantaTaEnAfti.incipit
 trMA.Ode8C12.text = "Monks from your hermitages, sheep in the flock of the Word, assemble now with branches in your hands to meet Christ the Chief Shepherd. The Lord comes willingly as a lamb to the slaughter, that He may destroy the tyranny of the wolf."
 
 trMA.Ode8C13.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C13.mode = misc_en_UK_ware.Mode4
-trMA.Ode8C13.melody = he.h.m4_en_UK_ware.GiKaiPantaTaEnAfti.name
+trMA.Ode8C13.melody = he.h.m4_en_UK_ware.GiKaiPantaTaEnAfti.incipit
 trMA.Ode8C13.text = "As Thou wast approaching Bethphage, hell our adversary heard the sound of Thy feet, and he touched the feet of Lazarus, saying: 'If the Life calls thee, delay not, but go out: for I know that my destruction will come swiftly.'"
 
 trMA.Ode8C1T.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C1T.mode = misc_en_UK_ware.Mode4
-trMA.Ode8C1T.melody = he.h.m4_en_UK_ware.GiKaiPantaTaEnAfti.name
+trMA.Ode8C1T.melody = he.h.m4_en_UK_ware.GiKaiPantaTaEnAfti.incipit
 trMA.Ode8C1T.text = "The holy voices of the prophets proclaim thee symbolically, O Virgin, as Gate and Mountain, sacred Ark and Cloud of light, from whom the Sun, the only Giver of Light, has shone forth on those in darkness and shadow."
 
 trMA.Ode8C21.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C21.mode = misc_en_UK_ware.Mode8
-trMA.Ode8C21.melody = he.h.m8_en_UK_ware.AngeloiKaiOuranoi.name
+trMA.Ode8C21.melody = he.h.m8_en_UK_ware.AngeloiKaiOuranoi.incipit
 trMA.Ode8C21.text = "Two of the disciples were sent to fetch an ass for Him who rides upon the clouds, whom all things praise and exalt above all for ever."
 
 trMA.Ode8C22.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C22.mode = misc_en_UK_ware.Mode8
-trMA.Ode8C22.melody = he.h.m8_en_UK_ware.AngeloiKaiOuranoi.name
+trMA.Ode8C22.melody = he.h.m8_en_UK_ware.AngeloiKaiOuranoi.incipit
 trMA.Ode8C22.text = "Christ is at the door: so be not sad, O Bethany. For He will change thy sorrow into joy by raising from the tomb Lazarus thine offspring, who sings His praises."
 
 trMA.Ode8C2Tr.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C2Tr.mode = misc_en_UK_ware.Mode8
-trMA.Ode8C2Tr.melody = he.h.m8_en_UK_ware.AngeloiKaiOuranoi.name
+trMA.Ode8C2Tr.melody = he.h.m8_en_UK_ware.AngeloiKaiOuranoi.incipit
 trMA.Ode8C2Tr.text = "The Trinity is one God: the Father is not begotten like the Son, nor does the Son proceed like the Spirit, but each keeps His distinctive properties; and I glorify the Three as Light and God for ever."
 
 trMA.Ode8C2T.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C2T.mode = misc_en_UK_ware.Mode8
-trMA.Ode8C2T.melody = he.h.m8_en_UK_ware.AngeloiKaiOuranoi.name
+trMA.Ode8C2T.melody = he.h.m8_en_UK_ware.AngeloiKaiOuranoi.incipit
 trMA.Ode8C2T.text = "Thou alone hast conceived and yet remained inviolate; thou alone hast given suck to thy child, yet hast not known the pains of travail; thou alone hast borne thy Maker and Master, and thou art both His handmaid and His mother. We sing thy praises, O Virgin Mother, for ever."
 
 trMA.Ode8C2A1.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C2A1.mode = misc_en_UK_ware.Mode8
-trMA.Ode8C2A1.melody = he.h.m8_en_UK_ware.AngeloiKaiOuranoi.name
+trMA.Ode8C2A1.melody = he.h.m8_en_UK_ware.AngeloiKaiOuranoi.incipit
 trMA.Ode8C2A1.text = "Invisibly with the branches of our virtues, and visibly with branches from the trees, let us prepare to receive Christ who is twofold in nature. He comes riding on a colt, and we exalt Him above all for ever."
 
 trMA.Ode8C2H.ode = misc_en_UK_ware.Ode8
@@ -158,47 +158,47 @@ trMA.Ode8C2H.text = he.h.m8_en_UK_ware.AngeloiKaiOuranoi.text
 
 trMA.Ode9C11.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C11.mode = misc_en_UK_ware.Mode4
-trMA.Ode9C11.melody = he.h.m4_en_UK_ware.OtiEpoiiseMoiMegaleia.name
+trMA.Ode9C11.melody = he.h.m4_en_UK_ware.OtiEpoiiseMoiMegaleia.incipit
 trMA.Ode9C11.text = "'Behold, we go up to the Holy City,' Thou hast foretold to Thy disciples, O Jesus; 'and by the hands of murderers I shall be delivered to Crucifixion, and I shall be truly slain according to the flesh.'"
 
 trMA.Ode9C12.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C12.mode = misc_en_UK_ware.Mode4
-trMA.Ode9C12.melody = he.h.m4_en_UK_ware.OtiEpoiiseMoiMegaleia.name
+trMA.Ode9C12.melody = he.h.m4_en_UK_ware.OtiEpoiiseMoiMegaleia.incipit
 trMA.Ode9C12.text = "Wishing to deliver Thy friend from death, Thou dost make haste to suffer death for our sake in the flesh, granting immortality to mortal men who believe in Thee, O Word who alone art immortal."
 
 trMA.Ode9C13.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C13.mode = misc_en_UK_ware.Mode4
-trMA.Ode9C13.melody = he.h.m4_en_UK_ware.OtiEpoiiseMoiMegaleia.name
+trMA.Ode9C13.melody = he.h.m4_en_UK_ware.OtiEpoiiseMoiMegaleia.incipit
 trMA.Ode9C13.text = "Let us offer the palm branches of our self-control to Christ, who draws near humbly in the flesh upon a foal, and let us say to Him: O Saviour who comest to Thy Passion, blessed art Thou."
 
 trMA.Ode9C1T.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C1T.mode = misc_en_UK_ware.Mode4
-trMA.Ode9C1T.melody = he.h.m4_en_UK_ware.OtiEpoiiseMoiMegaleia.name
+trMA.Ode9C1T.melody = he.h.m4_en_UK_ware.OtiEpoiiseMoiMegaleia.incipit
 trMA.Ode9C1T.text = "Dread is thy childbearing, Theotokos and Mother of Christ; therefore in faith we and all generations call thee blessed, and in reverence we glorify thee to all ages."
 
 trMA.Ode9C21.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C21.mode = misc_en_UK_ware.Mode8
-trMA.Ode9C21.melody = he.h.m8_en_UK_ware.TonProdilothenta.name
+trMA.Ode9C21.melody = he.h.m8_en_UK_ware.TonProdilothenta.incipit
 trMA.Ode9C21.text = "Sending out His disciples now, Christ said to them: 'Loose the colt and bring it to me, and I will ride upon it, that I may loose the nations from their lack of reason, and as Son bring them into subjection to the Father.'"
 
 trMA.Ode9C22.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C22.mode = misc_en_UK_ware.Mode8
-trMA.Ode9C22.melody = he.h.m8_en_UK_ware.TonProdilothenta.name
+trMA.Ode9C22.melody = he.h.m8_en_UK_ware.TonProdilothenta.incipit
 trMA.Ode9C22.text = "The Lord draws near: open thy gates, Bethany, and receive the Master with faith. He is come to raise Lazarus from the tomb, for He alone is all-powerful."
 
 trMA.Ode9C2Tr.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C2Tr.mode = misc_en_UK_ware.Mode8
-trMA.Ode9C2Tr.melody = he.h.m8_en_UK_ware.TonProdilothenta.name
+trMA.Ode9C2Tr.melody = he.h.m8_en_UK_ware.TonProdilothenta.incipit
 trMA.Ode9C2Tr.text = "O Lord, the threefold Brightness of Thy single Power shines on our mind with the light of revelation; it turns us from the error that divides, and brings us to the divine life that unites."
 
 trMA.Ode9C2T.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C2T.mode = misc_en_UK_ware.Mode8
-trMA.Ode9C2T.melody = he.h.m8_en_UK_ware.TonProdilothenta.name
+trMA.Ode9C2T.melody = he.h.m8_en_UK_ware.TonProdilothenta.incipit
 trMA.Ode9C2T.text = "Rejoice, Palace of the King of all. Through thee, O Virgin Theotokos, the Kingdom of Heaven has been opened to us on earth and we dwell with the angels."
 
 trMA.Ode9C2A1.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C2A1.mode = misc_en_UK_ware.Mode8
-trMA.Ode9C2A1.melody = he.h.m8_en_UK_ware.TonProdilothenta.name
+trMA.Ode9C2A1.melody = he.h.m8_en_UK_ware.TonProdilothenta.incipit
 trMA.Ode9C2A1.text = "All who dwell in deserts, in mountains and in caves, draw near and assemble with us, to meet the King and Master with palms in your hands; for He comes to save our souls."
 
 trMA.Ode9C2H.ode = misc_en_UK_ware.Ode9

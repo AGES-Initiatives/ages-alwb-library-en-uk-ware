@@ -3,65 +3,65 @@ A_Resource_Whose_Name = he.a.m3_en_UK_ware
 he.title = ""
 
 ApostoloiEkPeraton.mode = misc_en_UK_ware.Mode3
-ApostoloiEkPeraton.name = "(NM)"
+ApostoloiEkPeraton.incipit = "(NM)"
 ApostoloiEkPeraton.text = ""
 
 EnPnevmatiToIero.mode = misc_en_UK_ware.Mode3
-EnPnevmatiToIero.name = "(NM)"
+EnPnevmatiToIero.incipit = "(NM)"
 EnPnevmatiToIero.text = ""
 
 EpefaniOSotir.mode = misc_en_UK_ware.Mode3
-EpefaniOSotir.name = "(NM)"
+EpefaniOSotir.incipit = "(NM)"
 EpefaniOSotir.text = ""
 
 EpeskepsatoImas.mode = misc_en_UK_ware.Mode3
-EpeskepsatoImas.name = "(NM)"
+EpeskepsatoImas.incipit = "(NM)"
 EpeskepsatoImas.text = ""
 
 FosAnalloioton.mode = misc_en_UK_ware.Mode3
-FosAnalloioton.name = "(NM)"
+FosAnalloioton.incipit = "(NM)"
 FosAnalloioton.text = ""
 
 IParthenosSimeron.mode = misc_en_UK_ware.Mode3
-IParthenosSimeron.name = "(NM)"
+IParthenosSimeron.incipit = "(NM)"
 IParthenosSimeron.text = ""
 
 MegaliTonMartyronSou.mode = misc_en_UK_ware.Mode3
-MegaliTonMartyronSou.name = "(NM)"
+MegaliTonMartyronSou.incipit = "(NM)"
 MegaliTonMartyronSou.text = ""
 
 MegaliTouStavrouSou.mode = misc_en_UK_ware.Mode3
-MegaliTouStavrouSou.name = "(NM)"
+MegaliTouStavrouSou.incipit = "(NM)"
 MegaliTouStavrouSou.text = ""
 
 OOuranonToisAstrois.mode = misc_en_UK_ware.Mode3
-OOuranonToisAstrois.name = "(NM)"
+OOuranonToisAstrois.incipit = "(NM)"
 OOuranonToisAstrois.text = ""
 
 SosonMeKyrie.mode = misc_en_UK_ware.Mode3
-SosonMeKyrie.name = "(NM)"
+SosonMeKyrie.incipit = "(NM)"
 SosonMeKyrie.text = ""
 
 StavrofanosMoysis.mode = misc_en_UK_ware.Mode3
-StavrofanosMoysis.name = "(NM)"
+StavrofanosMoysis.incipit = "(NM)"
 StavrofanosMoysis.text = ""
 
 TheiasPisteos.mode = misc_en_UK_ware.Mode3
-TheiasPisteos.name = "(NM)"
+TheiasPisteos.incipit = "(NM)"
 TheiasPisteos.text = ""
 
 TinOraiotita.mode = misc_en_UK_ware.Mode3
-TinOraiotita.name = "(NM) Gabriel marvelled."
+TinOraiotita.incipit = "(NM) Gabriel marvelled."
 TinOraiotita.text = "Gabriel marvelled at the beauty of thy virginity and the splendour of thy purity, and he said to thee, O Theotokos: 'How can I praise thee as I should? By what name shall I invoke thee? I am troubled and amazed. Therefore, as I was commanded, I cry out to thee: Hail, full of grace!'"
 
 ToTypoTouStavrou.mode = misc_en_UK_ware.Mode3
-ToTypoTouStavrou.name = "(NM)"
+ToTypoTouStavrou.incipit = "(NM)"
 ToTypoTouStavrou.text = ""
 
 TonListinAfthimeron.mode = misc_en_UK_ware.Mode3
-TonListinAfthimeron.name = "(NM)"
+TonListinAfthimeron.incipit = "(NM)"
 TonListinAfthimeron.text = ""
 
 TonNymfonaSouVlepo.mode = misc_en_UK_ware.Mode3
-TonNymfonaSouVlepo.name = "(NM)"
+TonNymfonaSouVlepo.incipit = "(NM)"
 TonNymfonaSouVlepo.text = ""
