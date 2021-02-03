@@ -302,11 +302,7 @@ meMA.Ode3C215.text = "He crushes his own hateful and loathsome head."
 meMA.Ode3C22.ode = misc_en_UK_ware.Ode3
 meMA.Ode3C22.mode = misc_en_UK_ware.Mode2
 meMA.Ode3C22.melody = he.h.m2_en_UK_ware.OsoiPalaion.incipit
-meMA.Ode3C22.text = "The Master draws to Himself the nature made by God,
-Which had been overcome by the tyranny of greed.
-A new birth He grants to the dwellers upon earth, fashioning them afresh,
-Thereby accomplishing a glorious work:
-For He has come to deliver and protect mankind."
+meMA.Ode3C22.text = "The Master draws to Himself the nature made by God, Which had been overcome by the tyranny of greed. A new birth He grants to the dwellers upon earth, fashioning them afresh, Thereby accomplishing a glorious work: For He has come to deliver and protect mankind."
 meMA.Ode3C221.text = "The Master draws to Himself the nature made by God,"
 meMA.Ode3C222.text = "Which had been overcome by the tyranny of greed."
 meMA.Ode3C223.text = "A new birth He grants to the dwellers upon earth, fashioning them afresh,"
@@ -450,11 +446,7 @@ meMA.Ode6C2H5.text = he.h.m2_en_UK_ware.ImertonExefine5.text
 meMA.Ode6C21.ode = misc_en_UK_ware.Ode6
 meMA.Ode6C21.mode = misc_en_UK_ware.Mode2
 meMA.Ode6C21.melody = he.h.m2_en_UK_ware.ImertonExefine.incipit
-meMA.Ode6C21.text = "The Prophet, mysteriously swallowed up for the space of three nights
-In the belly of the sea monster,
-Came forth again, making manifest beforehand to all
-Our regeneration at the last times
-And our deliverance from the dragon that slays mankind."
+meMA.Ode6C21.text = "The Prophet, mysteriously swallowed up for the space of three nights In the belly of the sea monster, Came forth again, making manifest beforehand to all Our regeneration at the last times And our deliverance from the dragon that slays mankind."
 meMA.Ode6C211.text = "The Prophet, mysteriously swallowed up for the space of three nights"
 meMA.Ode6C212.text = "In the belly of the sea monster,"
 meMA.Ode6C213.text = "Came forth again, making manifest beforehand to all"

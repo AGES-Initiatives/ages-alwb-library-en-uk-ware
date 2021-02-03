@@ -323,8 +323,7 @@ trCO.Ode6C13.text = "\"Thou hast clothed me in a body of clay, O Savior, and bre
 trCO.Ode6C14.ode = misc_en_UK_ware.Ode6
 trCO.Ode6C14.mode = misc_en_UK_ware.Mode1
 trCO.Ode6C14.melody = he.h.m1_en_UK_ware.AperripsasMe.incipit
-trCO.Ode6C14.text = "\"Thou hast breathed life into my flesh, O Savior, when there was no breath within it; Thou hast bound it fast with bones and sinews, and Thou hast raised me from the 
-dead by Thy command.\""
+trCO.Ode6C14.text = "\"Thou hast breathed life into my flesh, O Savior, when there was no breath within it; Thou hast bound it fast with bones and sinews, and Thou hast raised me from the dead by Thy command.\""
 
 trCO.Ode6C15.ode = misc_en_UK_ware.Ode6
 trCO.Ode6C15.mode = misc_en_UK_ware.Mode1
