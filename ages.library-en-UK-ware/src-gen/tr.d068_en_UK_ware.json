@@ -1,0 +1,410 @@
+{'id_' : 'tr|d068_en_UK_ware|trCommemoration|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trShortCommemoration1|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trInsert1', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trInsert2', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trNote|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trHO|daytitle', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trHO|commemorations', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trHO|description1', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trHO|description2', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trHO|note1', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trHO|note2', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trVL|header', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trEM|header', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trDismissal', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trVE|Stichera01|mode', 'text' : 'Tone One.'}
+{'id_' : 'tr|d068_en_UK_ware|trVE|Stichera01|melody', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trVE|Stichera01|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trVE|Stichera02|mode', 'text' : 'Tone One.'}
+{'id_' : 'tr|d068_en_UK_ware|trVE|Stichera02|melody', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trVE|Stichera02|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trVE|Stichera03|mode', 'text' : 'Tone One.'}
+{'id_' : 'tr|d068_en_UK_ware|trVE|Stichera03|melody', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trVE|Stichera03|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trVE|Stichera04|mode', 'text' : 'Tone One.'}
+{'id_' : 'tr|d068_en_UK_ware|trVE|Stichera04|melody', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trVE|Stichera04|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trVE|Stichera05|mode', 'text' : 'Tone Two'}
+{'id_' : 'tr|d068_en_UK_ware|trVE|Stichera05|melody', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trVE|Stichera05|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trVE|Stichera06|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trVE|Stichera06|melody', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trVE|Stichera06|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trVE|Stichera07|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trVE|Stichera07|melody', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trVE|Stichera07|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trVE|Stichera08|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trVE|Stichera08|melody', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trVE|Stichera08|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trVE|Stichera09|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trVE|Stichera09|melody', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trVE|Stichera09|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trVE|Stichera10|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trVE|Stichera10|melody', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trVE|Stichera10|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trVE|SticGlory|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'tr|d068_en_UK_ware|trVE|SticGlory|melody', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trVE|SticGlory|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trCO|C1|Poet', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode4C1H|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode4C1H|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode4C1H|melody', 'text' : 'Heirmos (NM).'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode4C1H|text', 'text' : 'The Prophet heard of Thy coming, O Lord, and he was afraid: how Thou wast to be born of a Virgin and revealed to men, and he said: 'I have heard the report of Thee and I was afraid.' Glory to Thy power, O Lord.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode4C11|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode4C11|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode4C11|melody', 'text' : '(NM) The Prophet heard of Thy coming.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode4C11|text', 'text' : 'Furnished and ready, the upper room received Thee, O Creator, with Thy companions at the mystical supper. There hast Thou sent Thy two disciples to prepare the feast for Thee; there hast Thou kept the Passover, and perforn1ed its mysteries.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode4C12|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode4C12|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode4C12|melody', 'text' : '(NM) The Prophet heard of Thy coming.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode4C12|text', 'text' : ''Go to such a man', He who knows all things said beforehand to His apostles, 'and blessed is he who can receive the Lord with faith, preparing his heart as an upper room and his devotion as supper.''}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode4C13|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode4C13|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode4C13|melody', 'text' : '(NM) The Prophet heard of Thy coming.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode4C13|text', 'text' : 'O senseless Judas, in thy folly thou art filled with thoughts of avarice. For to thee alone the bag of money was entrusted, yet thou wast not moved at all to mercy; but thou hast closed thy hard heart and betrayed the Lord who alone is compassionate.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode4C14|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode4C14|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode4C14|melody', 'text' : '(NM) The Prophet heard of Thy coming.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode4C14|text', 'text' : 'The purpose of the Jews who sought to kill God fitted with the action of Judas in his avarice: they armed then1selves for murder, and he was tempted by the money. But in misery he lost his life, preferring a noose rather than repentance. '}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode4C15|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode4C15|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode4C15|melody', 'text' : '(NM) The Prophet heard of Thy coming.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode4C15|text', 'text' : 'O deceiving Judas, thy kiss is full of guile, thy greeting brings a sword; thy tongue speaks of unity, yet in thy thoughts thou dost consent to separation. For craftily thou hast purposed to betray the Benefactor to the transgressors.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode4C16|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode4C16|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode4C16|melody', 'text' : '(NM) The Prophet heard of Thy coming.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode4C16|text', 'text' : 'Thou dost kiss and yet dost sell thy Lord, O Judas; thou dost embrace yet lie in wait for Him deceitfully. Thrice miserable! Who can embrace in hatred? Who can love, yet sell for a price? Thy kiss betrays the evil purpose of thy shameless heart.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode4C1Tr|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode4C1Tr|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode4C1Tr|melody', 'text' : '(NM) The Prophet heard of Thy coming.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode4C1Tr|text', 'text' : 'Undivided in Essence, unconfused in Persons, I confess Thee as God: Triune Deity, one in kingship and throne; and to Thee I raise the great thrice-holy hymn that is sung on high.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode4C1T|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode4C1T|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode4C1T|melody', 'text' : '(NM) The Prophet heard of Thy coming.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode4C1T|text', 'text' : 'O Mother of God, past speech is thy conceiving and beyond nature is thy childbearing. Thou hast conceived from the Spirit, not from human seed, and thy childbearing has escaped nature's laws, since it was without corruption and above the nature of all birthgiving. for He whom thou hast borne is God.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Kathisma11|mode', 'text' : 'Tone Four.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Kathisma11|melody', 'text' : '(NM) Thou hast appeared.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Kathisma11|text', 'text' : 'Eating, O Master, with Thy disciples, Thou hast mystically revealed Thy holy end, whereby we who honour Thy sacred Passion are delivered from corruption.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode8C1H|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode8C1H|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode8C1H|melody', 'text' : 'Heirmos (NM).'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode8C1H|text', 'text' : 'The hosts of heaven give Him glory; before Him tremble cherubim and seraphim; let everything that has breath and all creation praise Him, bless Him, and exalt Him above all for ever.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode8C11|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode8C11|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode8C11|melody', 'text' : '(NM) The hosts of heaven.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode8C11|text', 'text' : 'He who wrote the tables of the Law on Sinai, Himself fulfilled the ordinance of the Law. He ate the old Passover which was but a shadow, and He became the new Passover, a mystical and living Sacrifice.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode8C12|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode8C12|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode8C12|melody', 'text' : '(NM) The hosts of heaven.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode8C12|text', 'text' : 'Revealing in a mystery the wisdom hidden from all ages, O Christ our Saviour, Thou hast disclosed it at the Supper to all Thine apostles: and, inspired by God, they delivered it to the Churches.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode8C13|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode8C13|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode8C13|melody', 'text' : '(NM) The hosts of heaven.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode8C13|text', 'text' : ''One of you shall betray Me by guile this night and sell Me to the Hebrews', Christ cried aloud to His friends, filling them with dismay; and then they turned one to another in doubt.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode8C14|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode8C14|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode8C14|melody', 'text' : '(NM) The hosts of heaven.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode8C14|text', 'text' : 'He who is rich made Himself lowly for our sakes: rising from the Supper, He took a towel and girded Himself, and bowing down He washed the feet of the disciples and the traitor.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode8C15|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode8C15|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode8C15|melody', 'text' : '(NM) The hosts of heaven.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode8C15|text', 'text' : 'Who would not be struck with wonder at the height of Thy knowledge, which no mind can understand nor tongue describe! Thou, the Creator of all, hast drawn near to Thy creatures of clay, and washed their feet and dried them with a towel.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode8C16|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode8C16|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode8C16|melody', 'text' : '(NM) The hosts of heaven.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode8C16|text', 'text' : 'The disciple whom the Lord loved, lying on His breast, said to Him: 'Who is he that shall betray Thee?' And Christ answered: 'It is he who dips his hand now in the dish.''}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode8C17|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode8C17|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode8C17|melody', 'text' : '(NM) The hosts of heaven.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode8C17|text', 'text' : 'The disciple received the sop, yet was parted from the Bread; scheming how to sell Him, he ran to the Jews and said to the transgressors: 'What will ye give me if I deliver Him to you?''}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode8C1Tr|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode8C1Tr|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode8C1Tr|melody', 'text' : '(NM) The hosts of heaven.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode8C1Tr|text', 'text' : 'I honour God one in Essence, I sing the praises of the three Persons, distinct from one another yet not differing in Nature, for there is one Godhead and one Power in the three, Father, Son and Holy Spirit.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode8C1T|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode8C1T|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode8C1T|melody', 'text' : '(NM) The hosts of heaven.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode8C1T|text', 'text' : 'O Jesus our Saviour, deliver us from error and temptation and the evil one. Accept the Theotokos who intercedes for us without ceasing: for she is Thy Mother and has power to entreat Thee.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C1H|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C1H|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C1H|melody', 'text' : 'Heirmos (NM).'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C1H|text', 'text' : 'Conception without seed; nativity past understanding, from a Mother who never knew a man; childbearing undefiled. For the birth of God makes both natures new. Therefore, as Bride and Mother of God, with true worship all generations magnify thee.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C11|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C11|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C11|melody', 'text' : '(NM) Conception without seed.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C11|text', 'text' : 'Sitting at supper with Thy companions, O Lord who lovest mankind, Thou hast revealed to them the great mystery of Thine Incarnation, saying: 'Eat the living Bread, drink with faith the Blood shed from My divine side at My death.''}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C12|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C12|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C12|melody', 'text' : '(NM) Conception without seed.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C12|text', 'text' : 'The upper room wherein Christ kept the Passover was revealed as a heavenly tabernacle; the supper without shedding of blood is our reasonable worship; the table on which the Mysteries were celebrated there is our spiritual altar.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C13|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C13|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C13|melody', 'text' : '(NM) Conception without seed.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C13|text', 'text' : 'Christ is our great and honoured Passover, eaten as bread and slain as a Lamb. He has been offered as a sacrifice for us, and mystically we all receive with reverence His Body and His Blood.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C14|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C14|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C14|melody', 'text' : '(NM) Conception without seed.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C14|text', 'text' : 'Having blessed the bread, O heavenly Bread, Thou hast offered thanks to Thy Father, and taking the cup Thou hast given it to Thy disciples, saying: 'Take, eat, this is My Body and the Blood of Life incorruptible.''}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C15|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C15|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C15|melody', 'text' : '(NM) Conception without seed.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C15|text', 'text' : 'Christ the true Vine spoke to His branches, the apostles, saying: 'Amen, I will not drink henceforth from the vine until I drink it new with you My heirs in the glory of My Father.''}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C16|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C16|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C16|melody', 'text' : '(NM) Conception without seed.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C16|text', 'text' : 'For thirty pieces of silver thou dost sell Him who is above all price; and dost thou not think, wicked Judas, of the mystery of the Supper and the holy washing of the feet? O how hast thou fallen utterly from the light, embracing with love the hangman's noose!'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C17|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C17|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C17|melody', 'text' : '(NM) Conception without seed.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C17|text', 'text' : 'The hands in which thou hast taken the Bread of incorruption, thou hast stretched out to take the money; and with the mouth in which thou hast received the Body and Blood of Christ, thou hast given a kiss deceitfully. But woe to thee, as Christ has said.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C18|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C18|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C18|melody', 'text' : '(NM) Conception without seed.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C18|text', 'text' : 'Christ, the divine and heavenly Bread, gives food to all the world. Come, then, O lovers of Christ, and in our mouths of clay but with pure hearts let us receive in faith the Passover that is sacrificed and offered in our midst.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C1Tr|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C1Tr|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C1Tr|melody', 'text' : '(NM) Conception without seed.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C1Tr|text', 'text' : 'Let us glorify the Father, let us exalt the Son, and with faith let us worship the divine Spirit, undivided Trinity and Unity in Essence. Let us adore Light and Lights, Life and Lives, giving life and light to the ends of the earth.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C1T|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C1T|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C1T|melody', 'text' : '(NM) Conception without seed.'}
+{'id_' : 'tr|d068_en_UK_ware|trCO|Ode9C1T|text', 'text' : 'Thou alone art revealed as heavenly bridal chamber and ever­virgin Bride. Thou hast carried God in thy womb and given birth to Him; and He took flesh from thee yet underwent no change. Therefore, as Bride and Mother of God, with true worship all generations magnify thee.'}
+{'id_' : 'tr|d068_en_UK_ware|trHW|Alleluia|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trHW|Troparion|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'tr|d068_en_UK_ware|trHW|Troparion|melody', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trHW|Troparion|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|C1Poet', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|C1Acrostic|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode1C1H|ode', 'text' : 'Canticle One.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode1C1H|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode1C1H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode1C1H|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|C1|title', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|C1|verse', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode1C11|ode', 'text' : 'Canticle One.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode1C11|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode1C11|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode1C11|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode1C12|ode', 'text' : 'Canticle One.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode1C12|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode1C12|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode1C12|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode1C13|ode', 'text' : 'Canticle One.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode1C13|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode1C13|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode1C13|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode1K|ode', 'text' : 'Canticle One.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode1K|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode1K|melody', 'text' : 'Heirmos.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode1K|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode3C1H|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode3C1H|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode3C1H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode3C1H|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode3C11|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode3C11|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode3C11|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode3C11|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode3C12|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode3C12|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode3C12|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode3C12|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode3K|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode3K|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode3K|melody', 'text' : 'Heirmos.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode3K|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode3Kathisma1|mode', 'text' : 'Tone One.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode3Kathisma1|melody', 'text' : '(N/M)'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode3Kathisma1|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode3Kathisma2|mode', 'text' : 'Tone Three.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode3Kathisma2|melody', 'text' : '(NM)'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode3Kathisma2|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode3Kathisma3|mode', 'text' : 'Tone Four.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode3Kathisma3|melody', 'text' : '(NM) Thou hast appeared.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode3Kathisma3|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode4C1H|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode4C1H|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode4C1H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode4C1H|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode4C11|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode4C11|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode4C11|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode4C11|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode4C12|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode4C12|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode4C12|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode4C12|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode4C13|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode4C13|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode4C13|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode4C13|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode4K|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode4K|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode4K|melody', 'text' : 'Heirmos.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode4K|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode5C1H|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode5C1H|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode5C1H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode5C1H|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode5C11|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode5C11|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode5C11|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode5C11|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode5C12|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode5C12|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode5C12|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode5C12|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode5K|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode5K|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode5K|melody', 'text' : 'Heirmos.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode5K|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode6C1H|ode', 'text' : 'Canticle Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode6C1H|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode6C1H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode6C1H|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode6C11|ode', 'text' : 'Canticle Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode6C11|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode6C11|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode6C11|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode6C12|ode', 'text' : 'Canticle Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode6C12|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode6C12|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode6C12|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode6K|ode', 'text' : 'Canticle Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode6K|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode6K|melody', 'text' : 'Heirmos.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode6K|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Kontakion1|mode', 'text' : 'Tone Two'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Kontakion1|melody', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Kontakion1|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Oikos1|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Synaxarion|commemoration|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Synaxarion|couplet1|title', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Synaxarion|couplet1|verse1', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Synaxarion|couplet1|verse2', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Synaxarion|couplet2|title', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Synaxarion|couplet2|verse1', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Synaxarion|couplet2|verse2', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Synaxarion|couplet3|title', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Synaxarion|couplet3|verse1', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Synaxarion|couplet3|verse2', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Synaxarion|couplet3|verse3', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Synaxarion|couplet4|title', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Synaxarion|couplet4|verse1', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Synaxarion|couplet4|verse2', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Synaxarion|narration1|p01|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Synaxarion|narration1|p02|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Synaxarion|narration1|p03|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Synaxarion|narration1|p04|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Synaxarion|narration1|p05|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Synaxarion|narration1|p06|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Synaxarion|narration1|p07|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Synaxarion|narration2|p01|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Synaxarion|narration2|p02|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Synaxarion|narration2|p03|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Synaxarion|narration2|p04|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Synaxarion|narration2|p05|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Synaxarion|narration2|p06|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Synaxarion|narration2|p07|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Synaxarion|lastline|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode7C1H|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode7C1H|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode7C1H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode7C1H|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode7C11|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode7C11|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode7C11|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode7C11|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode7C12|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode7C12|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode7C12|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode7C12|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode7C13|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode7C13|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode7C13|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode7C13|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode7K|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode7K|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode7K|melody', 'text' : 'Heirmos.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode7K|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode8C1H|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode8C1H|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode8C1H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode8C1H|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode8C11|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode8C11|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode8C11|melody', 'text' : '(NM) Accepting danger.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode8C11|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode8C12|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode8C12|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode8C12|melody', 'text' : '(NM) Accepting danger.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode8C12|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode8C13|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode8C13|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode8C13|melody', 'text' : '(NM) Accepting danger.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode8C13|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode8K|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode8K|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode8K|melody', 'text' : 'Heirmos.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode8K|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode9C1H|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode9C1H|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode9C1H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode9C1H|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode9C11|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode9C11|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode9C11|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode9C11|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode9C12|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode9C12|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode9C12|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode9C12|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode9C13|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode9C13|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode9C13|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode9C13|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode9K|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode9K|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode9K|melody', 'text' : 'Heirmos.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Ode9K|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Exaposteilarion1|mode', 'text' : 'Tone Three.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Exaposteilarion1|melody', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Exaposteilarion1|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trHW|Lauds01|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Lauds1|mode', 'text' : 'Tone Two'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Lauds1|melody', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Lauds1|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Lauds2|mode', 'text' : 'Tone Two'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Lauds2|melody', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Lauds2|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Lauds3|mode', 'text' : 'Tone Two'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Lauds3|melody', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Lauds3|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Lauds4|mode', 'text' : 'Tone Two'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Lauds4|melody', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Lauds4|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|LaudsGlory|mode', 'text' : 'Tone Two'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|LaudsGlory|melody', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|LaudsGlory|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Aposticha1|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Aposticha1|melody', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Aposticha1|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Aposticha2|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Aposticha2|melody', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Aposticha2|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Aposticha3|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Aposticha3|melody', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Aposticha3|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Aposticha4|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Aposticha4|melody', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|Aposticha4|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|AposGlory|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|AposGlory|melody', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|AposGlory|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|AposBoth|mode', 'text' : 'Tone Five.'}
+{'id_' : 'tr|d068_en_UK_ware|trMA|AposBoth|melody', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trMA|AposBoth|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trTE|Troparion|mode', 'text' : 'Tone Three.'}
+{'id_' : 'tr|d068_en_UK_ware|trTE|Troparion|melody', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trTE|Troparion|text', 'text' : ''}
+{'id_' : 'tr|d068_en_UK_ware|trTE|Troparion2|text', 'text' : ''}

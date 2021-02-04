@@ -1,0 +1,110 @@
+{'id_' : 'misc_en_UK_ware|NotAvailable', 'text' : '(At the time of publication, the Greek text was not available.)'}
+{'id_' : 'misc_en_UK_ware|NotMetered', 'text' : 'not metered'}
+{'id_' : 'misc_en_UK_ware|Automelon', 'text' : ''}
+{'id_' : 'misc_en_UK_ware|AutomelonNotMetered', 'text' : ''}
+{'id_' : 'misc_en_UK_ware|Heirmos', 'text' : 'Heirmos.'}
+{'id_' : 'misc_en_UK_ware|HeirmosNotMetered', 'text' : 'Heirmos (NM).'}
+{'id_' : 'misc_en_UK_ware|Heirmologic', 'text' : ''}
+{'id_' : 'misc_en_UK_ware|Idiomelon', 'text' : ''}
+{'id_' : 'misc_en_UK_ware|Prosomoion', 'text' : ''}
+{'id_' : 'misc_en_UK_ware|greekquotation|left', 'text' : '«'}
+{'id_' : 'misc_en_UK_ware|greekquotation|right', 'text' : '»'}
+{'id_' : 'misc_en_UK_ware|horizontal_line|dash1', 'text' : '----------'}
+{'id_' : 'misc_en_UK_ware|horizontal_line|solid1', 'text' : '__________'}
+{'id_' : 'misc_en_UK_ware|punctuation|ellipsis', 'text' : '...'}
+{'id_' : 'misc_en_UK_ware|separator|asterisk', 'text' : ' * '}
+{'id_' : 'misc_en_UK_ware|separator|emdash', 'text' : ' — '}
+{'id_' : 'misc_en_UK_ware|separator|endash', 'text' : ' – '}
+{'id_' : 'misc_en_UK_ware|separator|hyphen', 'text' : ' - '}
+{'id_' : 'misc_en_UK_ware|separator|pipe', 'text' : ' | '}
+{'id_' : 'misc_en_UK_ware|vVerse', 'text' : '℣'}
+{'id_' : 'misc_en_UK_ware|vVerse1', 'text' : '℣ 1.'}
+{'id_' : 'misc_en_UK_ware|vVerse2', 'text' : '℣ 2.'}
+{'id_' : 'misc_en_UK_ware|vVerse3', 'text' : '℣ 3.'}
+{'id_' : 'misc_en_UK_ware|vVerse4', 'text' : '℣ 4.'}
+{'id_' : 'misc_en_UK_ware|Mode0', 'text' : 'Tone'}
+{'id_' : 'misc_en_UK_ware|Mode1', 'text' : 'Tone One.'}
+{'id_' : 'misc_en_UK_ware|Mode2', 'text' : 'Tone Two'}
+{'id_' : 'misc_en_UK_ware|Mode3', 'text' : 'Tone Three.'}
+{'id_' : 'misc_en_UK_ware|Mode4', 'text' : 'Tone Four.'}
+{'id_' : 'misc_en_UK_ware|Mode5', 'text' : 'Tone Five.'}
+{'id_' : 'misc_en_UK_ware|Mode6', 'text' : 'Tone Six.'}
+{'id_' : 'misc_en_UK_ware|Mode7', 'text' : 'Tone Seven.'}
+{'id_' : 'misc_en_UK_ware|Mode8', 'text' : 'Tone Eight.'}
+{'id_' : 'misc_en_UK_ware|ModeVariable', 'text' : ''}
+{'id_' : 'misc_en_UK_ware|ModeNA', 'text' : 'N/A'}
+{'id_' : 'misc_en_UK_ware|Ode1', 'text' : 'Canticle One.'}
+{'id_' : 'misc_en_UK_ware|Ode2', 'text' : 'Canticle Two.'}
+{'id_' : 'misc_en_UK_ware|Ode3', 'text' : 'Canticle Three.'}
+{'id_' : 'misc_en_UK_ware|Ode4', 'text' : 'Canticle Four.'}
+{'id_' : 'misc_en_UK_ware|Ode5', 'text' : 'Canticle Five.'}
+{'id_' : 'misc_en_UK_ware|Ode6', 'text' : 'Canticle Six.'}
+{'id_' : 'misc_en_UK_ware|Ode7', 'text' : 'Canticle Seven.'}
+{'id_' : 'misc_en_UK_ware|Ode8', 'text' : 'Canticle Eight.'}
+{'id_' : 'misc_en_UK_ware|Ode9', 'text' : 'Canticle Nine.'}
+{'id_' : 'misc_en_UK_ware|book|Euchologion|name', 'text' : ''}
+{'id_' : 'misc_en_UK_ware|book|Heirmologion|name', 'text' : ''}
+{'id_' : 'misc_en_UK_ware|book|Hieratikon|name', 'text' : ''}
+{'id_' : 'misc_en_UK_ware|book|Horologion|name', 'text' : ''}
+{'id_' : 'misc_en_UK_ware|book|Menaion|name', 'text' : ''}
+{'id_' : 'misc_en_UK_ware|book|MeSupplement|name', 'text' : ''}
+{'id_' : 'misc_en_UK_ware|book|Octoechos|name', 'text' : ''}
+{'id_' : 'misc_en_UK_ware|book|Pentecostarion|name', 'text' : ''}
+{'id_' : 'misc_en_UK_ware|book|PeSupplement|name', 'text' : ''}
+{'id_' : 'misc_en_UK_ware|book|Psalter|name', 'text' : ''}
+{'id_' : 'misc_en_UK_ware|book|Synaxarion|name', 'text' : ''}
+{'id_' : 'misc_en_UK_ware|book|Triodion|name', 'text' : ''}
+{'id_' : 'misc_en_UK_ware|book|Typikon|name', 'text' : ''}
+{'id_' : 'misc_en_UK_ware|anum1', 'text' : '1.'}
+{'id_' : 'misc_en_UK_ware|anum2', 'text' : '2.'}
+{'id_' : 'misc_en_UK_ware|anum3', 'text' : '3.'}
+{'id_' : 'misc_en_UK_ware|anum4', 'text' : '4.'}
+{'id_' : 'misc_en_UK_ware|anum5', 'text' : '5.'}
+{'id_' : 'misc_en_UK_ware|anum6', 'text' : '6.'}
+{'id_' : 'misc_en_UK_ware|anum7', 'text' : '7.'}
+{'id_' : 'misc_en_UK_ware|anum8', 'text' : '8.'}
+{'id_' : 'misc_en_UK_ware|anum9', 'text' : '9.'}
+{'id_' : 'misc_en_UK_ware|anum10', 'text' : '10.'}
+{'id_' : 'misc_en_UK_ware|anum11', 'text' : '11.'}
+{'id_' : 'misc_en_UK_ware|anum12', 'text' : '12.'}
+{'id_' : 'misc_en_UK_ware|anum13', 'text' : '13.'}
+{'id_' : 'misc_en_UK_ware|anum14', 'text' : '14.'}
+{'id_' : 'misc_en_UK_ware|anum15', 'text' : '15.'}
+{'id_' : 'misc_en_UK_ware|anum16', 'text' : '16.'}
+{'id_' : 'misc_en_UK_ware|anum17', 'text' : '17.'}
+{'id_' : 'misc_en_UK_ware|anum18', 'text' : '18.'}
+{'id_' : 'misc_en_UK_ware|anum19', 'text' : '19.'}
+{'id_' : 'misc_en_UK_ware|anum20', 'text' : '20.'}
+{'id_' : 'misc_en_UK_ware|anum21', 'text' : '21.'}
+{'id_' : 'misc_en_UK_ware|anum22', 'text' : '22.'}
+{'id_' : 'misc_en_UK_ware|anum23', 'text' : '23.'}
+{'id_' : 'misc_en_UK_ware|anum24', 'text' : '24.'}
+{'id_' : 'misc_en_UK_ware|anum25', 'text' : '25.'}
+{'id_' : 'misc_en_UK_ware|anum26', 'text' : '26.'}
+{'id_' : 'misc_en_UK_ware|anum27', 'text' : '27.'}
+{'id_' : 'misc_en_UK_ware|anum28', 'text' : '28.'}
+{'id_' : 'misc_en_UK_ware|anum29', 'text' : '29.'}
+{'id_' : 'misc_en_UK_ware|anum30', 'text' : '30.'}
+{'id_' : 'misc_en_UK_ware|anum31', 'text' : '31.'}
+{'id_' : 'misc_en_UK_ware|anum32', 'text' : '32.'}
+{'id_' : 'misc_en_UK_ware|anum33', 'text' : '33.'}
+{'id_' : 'misc_en_UK_ware|Rnum1', 'text' : 'I'}
+{'id_' : 'misc_en_UK_ware|Rnum2', 'text' : 'II'}
+{'id_' : 'misc_en_UK_ware|Rnum3', 'text' : 'III'}
+{'id_' : 'misc_en_UK_ware|Rnum4', 'text' : 'IV'}
+{'id_' : 'misc_en_UK_ware|Rnum5', 'text' : 'V'}
+{'id_' : 'misc_en_UK_ware|Rnum6', 'text' : 'VI'}
+{'id_' : 'misc_en_UK_ware|Rnum7', 'text' : 'VII'}
+{'id_' : 'misc_en_UK_ware|Rnum8', 'text' : 'VIII'}
+{'id_' : 'misc_en_UK_ware|Rnum9', 'text' : 'IX'}
+{'id_' : 'misc_en_UK_ware|Rnum10', 'text' : 'X'}
+{'id_' : 'misc_en_UK_ware|rnum1', 'text' : 'i'}
+{'id_' : 'misc_en_UK_ware|rnum2', 'text' : 'ii'}
+{'id_' : 'misc_en_UK_ware|rnum3', 'text' : 'iii'}
+{'id_' : 'misc_en_UK_ware|rnum4', 'text' : 'iv'}
+{'id_' : 'misc_en_UK_ware|rnum5', 'text' : 'v'}
+{'id_' : 'misc_en_UK_ware|rnum6', 'text' : 'vi'}
+{'id_' : 'misc_en_UK_ware|rnum7', 'text' : 'vii'}
+{'id_' : 'misc_en_UK_ware|rnum8', 'text' : 'viii'}
+{'id_' : 'misc_en_UK_ware|rnum9', 'text' : 'ix'}
+{'id_' : 'misc_en_UK_ware|rnum10', 'text' : 'x'}

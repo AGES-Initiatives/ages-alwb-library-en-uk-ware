@@ -1,7 +1,8 @@
-A_Resource_Whose_Name = me.m11.d05_en_UK_ware 
+A_Resource_Whose_Name = me.m11.d05_en_UK_ware
 
 //This file is referred to by tr.d062
 
 meVE.SticStavrotheotokion.mode = misc_en_UK_ware.Mode8
 meVE.SticStavrotheotokion.melody = he.a.m8_en_UK_ware.OTouParadoxou.incipit
+meVE.SticStavrotheotokion.incipit = "'O marvellous wonder! O strange"
 meVE.SticStavrotheotokion.text = "'O marvellous wonder! O strange mystery! O fearful enterprise!' said the Virgin as she looked on Thee, and saw Thee hanging between two evildoers on the Cross, the Child whom she had borne without travail, yet in fear and trembling. Weeping she said: 'Woe is me, beloved Child: how has this wicked and ungrateful people nailed Thee to the Cross?'"

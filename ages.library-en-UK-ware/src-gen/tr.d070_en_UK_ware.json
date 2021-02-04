@@ -1,0 +1,498 @@
+{'id_' : 'tr|d070_en_UK_ware|trCommemoration|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trShortCommemoration1|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trInsert1', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trInsert2', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trNote|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHO|daytitle', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHO|commemorations', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHO|description1', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHO|description2', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHO|note1', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHO|note2', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trEM|header', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trDismissal', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|LIHC|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trVE|Stichera01|mode', 'text' : 'Tone One.'}
+{'id_' : 'tr|d070_en_UK_ware|trVE|Stichera01|melody', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trVE|Stichera01|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trVE|Stichera02|mode', 'text' : 'Tone Two'}
+{'id_' : 'tr|d070_en_UK_ware|trVE|Stichera02|melody', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trVE|Stichera02|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trVE|Stichera03|mode', 'text' : 'Tone Two'}
+{'id_' : 'tr|d070_en_UK_ware|trVE|Stichera03|melody', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trVE|Stichera03|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trVE|Stichera04|mode', 'text' : 'Tone Two'}
+{'id_' : 'tr|d070_en_UK_ware|trVE|Stichera04|melody', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trVE|Stichera04|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trVE|Stichera05|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trVE|Stichera05|melody', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trVE|Stichera05|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trVE|SticGlory|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trVE|SticGlory|melody', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trVE|SticGlory|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trVE|SticBoth|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trVE|SticBoth|melody', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trVE|SticBoth|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trVE|Prokeimenon|text', 'text' : 'For media only.'}
+{'id_' : 'tr|d070_en_UK_ware|trVE|Aposticha1|mode', 'text' : 'Tone Two'}
+{'id_' : 'tr|d070_en_UK_ware|trVE|Aposticha1|melody', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trVE|Aposticha1|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trVE|Aposticha2|mode', 'text' : 'Tone Two'}
+{'id_' : 'tr|d070_en_UK_ware|trVE|Aposticha2|melody', 'text' : 'N/M (Joseph took You.)'}
+{'id_' : 'tr|d070_en_UK_ware|trVE|Aposticha2|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trVE|Aposticha3|mode', 'text' : 'Tone Two'}
+{'id_' : 'tr|d070_en_UK_ware|trVE|Aposticha3|melody', 'text' : 'N/M (Joseph took You.)'}
+{'id_' : 'tr|d070_en_UK_ware|trVE|Aposticha3|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trVE|Aposticha4|mode', 'text' : 'Tone Two'}
+{'id_' : 'tr|d070_en_UK_ware|trVE|Aposticha4|melody', 'text' : 'N/M (Joseph took You.)'}
+{'id_' : 'tr|d070_en_UK_ware|trVE|Aposticha4|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trVE|AposGlory|mode', 'text' : 'Tone Five.'}
+{'id_' : 'tr|d070_en_UK_ware|trVE|AposGlory|melody', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trVE|AposGlory|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trVE|Apolytikion1|mode', 'text' : 'Tone Two'}
+{'id_' : 'tr|d070_en_UK_ware|trVE|Apolytikion1|melody', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trVE|Apolytikion1|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trVE|Apolytikion2|mode', 'text' : 'Tone Two'}
+{'id_' : 'tr|d070_en_UK_ware|trVE|Apolytikion2|melody', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trVE|Apolytikion2|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trVE|Apolytikion3|mode', 'text' : 'Tone Two'}
+{'id_' : 'tr|d070_en_UK_ware|trVE|Apolytikion3|melody', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trVE|Apolytikion3|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|GITL|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia|title', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia100|title', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia100|mode', 'text' : 'Tone Five.'}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia101|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia102|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia103|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia104|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia105|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia106|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia107|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia108|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia109|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia110|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia111|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia112|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia113|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia114|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia115|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia116|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia117|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia118|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia119|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia120|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia121|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia122|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia123|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia124|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia125|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia126|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia127|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia128|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia129|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia130|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia131|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia132|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia133|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia134|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia135|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia136|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia137|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia138|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia139|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia140|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia141|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia142|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia143|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia144|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia145|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia146|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia147|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia148|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia149|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia150|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia151|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia152|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia153|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia154|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia155|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia156|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia157|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia158|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia159|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia160|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia161|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia162|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia163|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia164|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia165|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia166|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia167|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia168|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia169|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia170|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia171|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia172|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia1TrVerse|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia1Tr|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia1TVerse|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia1T|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia1F|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia200|title', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia200|mode', 'text' : 'Tone Five.'}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia201|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia202|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia203|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia204|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia205|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia206|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia207|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia208|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia209|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia210|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia211|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia212|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia213|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia214|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia215|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia216|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia217|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia218|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia219|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia220|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia221|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia222|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia223|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia224|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia225|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia226|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia227|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia228|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia229|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia230|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia231|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia232|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia233|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia234|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia235|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia236|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia237|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia238|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia239|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia240|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia241|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia242|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia243|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia244|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia245|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia246|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia247|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia248|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia249|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia250|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia251|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia252|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia253|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia254|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia255|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia256|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia257|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia258|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia259|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia260|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia2TrVerse|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia2Tr|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia2TVerse|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia2T|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia2F|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia300|title', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia300|mode', 'text' : 'Tone Three.'}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia301|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia302|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia303|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia304|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia305|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia306|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia307|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia308|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia309|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia310|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia311|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia312|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia313|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia314|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia315|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia316|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia317|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia318|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia319|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia320|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia321|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia322|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia323|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia324|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia325|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia326|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia327|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia328|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia329|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia330|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia331|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia332|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia333|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia334|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia335|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia336|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia337|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia338|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia339|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia340|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia341|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia342|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia343|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia344|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia345|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia346|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia3TrVerse|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia3Tr|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia3TVerse|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia3T|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Encomia3F|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Evlogetaria1|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Evlogetaria2|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Evlogetaria3|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Evlogetaria4|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Evlogetaria5|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Evlogetaria6|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Evlogetaria7|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Kathisma11|mode', 'text' : 'Tone One.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Kathisma11|melody', 'text' : '(N/M)'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Kathisma11|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Kathisma12|mode', 'text' : 'Tone One.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Kathisma12|melody', 'text' : '(N/M)'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Kathisma12|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Kathisma13|mode', 'text' : 'Tone One.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Kathisma13|melody', 'text' : '(N/M)'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Kathisma13|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|C1Poet', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|C1Acrostic|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode1C1H|ode', 'text' : 'Canticle One.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode1C1H|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode1C1H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode1C1H|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|C1|title', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|C1|verse', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode1C11|ode', 'text' : 'Canticle One.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode1C11|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode1C11|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode1C11|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode1C12|ode', 'text' : 'Canticle One.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode1C12|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode1C12|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode1C12|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode1C13|ode', 'text' : 'Canticle One.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode1C13|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode1C13|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode1C13|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode1K|ode', 'text' : 'Canticle One.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode1K|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode1K|melody', 'text' : 'Heirmos.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode1K|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode3C1H|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode3C1H|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode3C1H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode3C1H|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode3C11|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode3C11|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode3C11|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode3C11|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode3C12|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode3C12|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode3C12|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode3C12|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode3C13|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode3C13|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode3C13|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode3C13|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode3K|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode3K|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode3K|melody', 'text' : 'Heirmos.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode3K|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode3Kathisma1|mode', 'text' : 'Tone One.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode3Kathisma1|melody', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode3Kathisma1|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode4C1H|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode4C1H|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode4C1H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode4C1H|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode4C11|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode4C11|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode4C11|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode4C11|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode4C12|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode4C12|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode4C12|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode4C12|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode4C13|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode4C13|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode4C13|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode4C13|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode4K|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode4K|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode4K|melody', 'text' : 'Heirmos.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode4K|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode5C1H|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode5C1H|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode5C1H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode5C1H|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode5C11|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode5C11|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode5C11|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode5C11|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode5C12|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode5C12|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode5C12|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode5C12|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode5C13|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode5C13|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode5C13|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode5C13|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode5K|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode5K|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode5K|melody', 'text' : 'Heirmos.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode5K|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode6C1H|ode', 'text' : 'Canticle Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode6C1H|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode6C1H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode6C1H|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode6C11|ode', 'text' : 'Canticle Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode6C11|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode6C11|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode6C11|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode6C12|ode', 'text' : 'Canticle Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode6C12|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode6C12|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode6C12|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode6C13|ode', 'text' : 'Canticle Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode6C13|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode6C13|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode6C13|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode6K|ode', 'text' : 'Canticle Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode6K|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode6K|melody', 'text' : 'Heirmos.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode6K|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Kontakion1|mode', 'text' : 'Tone Two'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Kontakion1|melody', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Kontakion1|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Oikos1|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Oikos12|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Synaxarion|commemoration|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Synaxarion|couplet1|title', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Synaxarion|couplet1|verse1', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Synaxarion|couplet1|verse2', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Synaxarion|narration1|p01|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Synaxarion|narration1|p02|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Synaxarion|narration1|p03|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Synaxarion|narration1|p04|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Synaxarion|narration1|p05|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Synaxarion|narration1|p06|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Synaxarion|narration1|p07|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Synaxarion|narration2|p01|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Synaxarion|narration2|p02|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Synaxarion|narration2|p03|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Synaxarion|narration2|p04|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Synaxarion|narration2|p05|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Synaxarion|narration2|p06|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Synaxarion|narration2|p07|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Synaxarion|lastline|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode7C1H|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode7C1H|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode7C1H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode7C1H|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode7C11|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode7C11|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode7C11|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode7C11|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode7C12|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode7C12|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode7C12|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode7C12|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode7C13|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode7C13|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode7C13|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode7C13|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode7C14|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode7C14|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode7C14|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode7C14|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode7K|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode7K|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode7K|melody', 'text' : 'Heirmos.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode7K|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode8C1H|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode8C1H|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode8C1H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode8C1H|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode8C11|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode8C11|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode8C11|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode8C11|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode8C12|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode8C12|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode8C12|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode8C12|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode8C13|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode8C13|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode8C13|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode8C13|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode8K|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode8K|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode8K|melody', 'text' : 'Heirmos.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode8K|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode9C1H|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode9C1H|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode9C1H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode9C1H|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode9C11|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode9C11|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode9C11|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode9C11|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode9C12|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode9C12|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode9C12|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode9C12|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode9C13|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode9C13|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode9C13|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode9C13|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode9K|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode9K|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode9K|melody', 'text' : 'Heirmos.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Ode9K|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Exaposteilarion1|mode', 'text' : 'Tone Two'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Exaposteilarion1|melody', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Exaposteilarion1|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trHW|Lauds01|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Lauds1|mode', 'text' : 'Tone Two'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Lauds1|melody', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Lauds1|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Lauds2|mode', 'text' : 'Tone Two'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Lauds2|melody', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Lauds2|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Lauds3|mode', 'text' : 'Tone Two'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Lauds3|melody', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Lauds3|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Lauds4|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Lauds4|melody', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|Lauds4|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|LaudsGlory|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|LaudsGlory|melody', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|LaudsGlory|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|LaudsTheotokion|mode', 'text' : 'Tone Two'}
+{'id_' : 'tr|d070_en_UK_ware|trMA|LaudsTheotokion|melody', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trMA|LaudsTheotokion|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trTE|Troparion|mode', 'text' : 'Tone Two'}
+{'id_' : 'tr|d070_en_UK_ware|trTE|Troparion|melody', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trTE|Troparion|text', 'text' : ''}
+{'id_' : 'tr|d070_en_UK_ware|trTE|Troparion2|text', 'text' : ''}
