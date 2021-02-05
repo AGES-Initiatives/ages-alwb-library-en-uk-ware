@@ -56,7 +56,6 @@ trMA.Kathisma21.text = "The most beautiful of seasons is at hand, the much prais
 trMA.Kathisma22.mode = misc_en_UK_ware.Mode3
 trMA.Kathisma22.melody = misc_en_UK_ware.Automelon
 trMA.Kathisma22.incipit = he.a.m3_en_UK_ware.TinOraiotita.incipit
-trMA.Kathisma22.incipit = he.a.m3_en_UK_ware.TinOraiotita.incipit
 trMA.Kathisma22.text = he.a.m3_en_UK_ware.TinOraiotita.text
 
 trMA.Kathisma31.mode = misc_en_UK_ware.Mode7
@@ -137,7 +136,6 @@ trMA.Ode1C2H.ode = misc_en_UK_ware.Ode1
 trMA.Ode1C2H.mode = misc_en_UK_ware.Mode7
 trMA.Ode1C2H.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode1C2H.incipit = he.h.m7_en_UK_ware.AsomenToKyrio.incipit
-trMA.Ode1C2H.incipit = he.h.m7_en_UK_ware.AsomenToKyrio.incipit
 trMA.Ode1C2H.text = he.h.m7_en_UK_ware.AsomenToKyrio.text
 
 trMA.Ode8C11.ode = misc_en_UK_ware.Ode8
@@ -197,7 +195,6 @@ trMA.Ode8C2A1.text = "When I think of the dread trial before Thee, O Christ, I a
 trMA.Ode8C2H.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C2H.mode = misc_en_UK_ware.Mode7
 trMA.Ode8C2H.melody = misc_en_UK_ware.HeirmosNotMetered
-trMA.Ode8C2H.incipit = he.h.m7_en_UK_ware.TonFoveronToisCherouvim.incipit
 trMA.Ode8C2H.incipit = he.h.m7_en_UK_ware.TonFoveronToisCherouvim.incipit
 trMA.Ode8C2H.text = he.h.m7_en_UK_ware.TonFoveronToisCherouvim.text
 
@@ -259,7 +256,6 @@ trMA.Ode9C2H.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C2H.mode = misc_en_UK_ware.Mode7
 trMA.Ode9C2H.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode9C2H.incipit = he.h.m7_en_UK_ware.TinYperFysinMitera.incipit
-trMA.Ode9C2H.incipit = he.h.m7_en_UK_ware.TinYperFysinMitera.incipit
 trMA.Ode9C2H.text = he.h.m7_en_UK_ware.TinYperFysinMitera.text
 
 trMA.AposIdiomelon1.mode = misc_en_UK_ware.Mode8
@@ -270,12 +266,10 @@ trMA.AposIdiomelon1.text = "I am like the man who fell among thieves, O Master o
 trMA.AposMartyric.mode = misc_en_UK_ware.Mode8
 trMA.AposMartyric.melody = misc_en_UK_ware.AutomelonNotMetered
 trMA.AposMartyric.incipit = he.a.m8_en_UK_ware.TiYmasKalesomen.incipit
-trMA.AposMartyric.incipit = he.a.m8_en_UK_ware.TiYmasKalesomen.incipit
 trMA.AposMartyric.text = he.a.m8_en_UK_ware.TiYmasKalesomen.text
 
 trMA.AposTheotokion.mode = misc_en_UK_ware.Mode8
 trMA.AposTheotokion.melody = ""
-trMA.AposTheotokion.incipit = tr.d044_en_UK_ware.trVE.AposTheotokion.incipit
 trMA.AposTheotokion.incipit = tr.d044_en_UK_ware.trVE.AposTheotokion.incipit
 trMA.AposTheotokion.text = tr.d044_en_UK_ware.trVE.AposTheotokion.text
 

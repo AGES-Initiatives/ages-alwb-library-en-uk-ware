@@ -35,7 +35,6 @@ trMA.Kathisma21.text = "O Holy Cross, raise up the horn of the Churches; by thy 
 trMA.Kathisma22.mode = misc_en_UK_ware.Mode7
 trMA.Kathisma22.melody = misc_en_UK_ware.AutomelonNotMetered
 trMA.Kathisma22.incipit = he.a.m7_en_UK_ware.OsEchousaToSympathes.incipit
-trMA.Kathisma22.incipit = he.a.m7_en_UK_ware.OsEchousaToSympathes.incipit
 trMA.Kathisma22.text = he.a.m7_en_UK_ware.OsEchousaToSympathes.text
 
 trMA.C1.poet = poets_en_UK_ware.KyriouIosif
@@ -97,13 +96,11 @@ trMA.Ode3C1H.ode = misc_en_UK_ware.Ode3
 trMA.Ode3C1H.mode = misc_en_UK_ware.Mode8
 trMA.Ode3C1H.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode3C1H.incipit = he.h.m8_en_UK_ware.OuraniasApsidos.incipit
-trMA.Ode3C1H.incipit = he.h.m8_en_UK_ware.OuraniasApsidos.incipit
 trMA.Ode3C1H.text = he.h.m8_en_UK_ware.OuraniasApsidos.text
 
 trMA.Ode4C1H.ode = misc_en_UK_ware.Ode4
 trMA.Ode4C1H.mode = misc_en_UK_ware.Mode8
 trMA.Ode4C1H.melody = misc_en_UK_ware.HeirmosNotMetered
-trMA.Ode4C1H.incipit = he.h.m8_en_UK_ware.EisakikoaKyrie.incipit
 trMA.Ode4C1H.incipit = he.h.m8_en_UK_ware.EisakikoaKyrie.incipit
 trMA.Ode4C1H.text = he.h.m8_en_UK_ware.EisakikoaKyrie.text
 
@@ -134,7 +131,6 @@ trMA.Ode4C1T.text = "O pure mercy-seat of sinners, Holy Lady, through thy mediat
 trMA.Ode5C1H.ode = misc_en_UK_ware.Ode5
 trMA.Ode5C1H.mode = misc_en_UK_ware.Mode8
 trMA.Ode5C1H.melody = misc_en_UK_ware.HeirmosNotMetered
-trMA.Ode5C1H.incipit = he.h.m8_en_UK_ware.InaTiMeAposo.incipit
 trMA.Ode5C1H.incipit = he.h.m8_en_UK_ware.InaTiMeAposo.incipit
 trMA.Ode5C1H.text = he.h.m8_en_UK_ware.InaTiMeAposo.text
 
@@ -232,7 +228,6 @@ trMA.Ode5C3H.ode = misc_en_UK_ware.Ode5
 trMA.Ode5C3H.mode = misc_en_UK_ware.Mode8
 trMA.Ode5C3H.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode5C3H.incipit = he.h.m8_en_UK_ware.InaTiMeAposo.incipit
-trMA.Ode5C3H.incipit = he.h.m8_en_UK_ware.InaTiMeAposo.incipit
 trMA.Ode5C3H.text = he.h.m8_en_UK_ware.InaTiMeAposo.text
 
 trMA.Ode6C11.ode = misc_en_UK_ware.Ode6
@@ -263,7 +258,6 @@ trMA.Ode6C1H.ode = misc_en_UK_ware.Ode6
 trMA.Ode6C1H.mode = misc_en_UK_ware.Mode8
 trMA.Ode6C1H.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode6C1H.incipit = he.h.m8_en_UK_ware.IlasthitiMoiSotir.incipit
-trMA.Ode6C1H.incipit = he.h.m8_en_UK_ware.IlasthitiMoiSotir.incipit
 trMA.Ode6C1H.text = he.h.m8_en_UK_ware.IlasthitiMoiSotir.text
 
 trMA.Ode7C11.ode = misc_en_UK_ware.Ode7
@@ -293,7 +287,6 @@ trMA.Ode7C1T.text = "O only help of men, be the succour of us thy servants in th
 trMA.Ode8C1H.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C1H.mode = misc_en_UK_ware.Mode8
 trMA.Ode8C1H.melody = misc_en_UK_ware.HeirmosNotMetered
-trMA.Ode8C1H.incipit = he.h.m8_en_UK_ware.EptaplasiosKaminon.incipit
 trMA.Ode8C1H.incipit = he.h.m8_en_UK_ware.EptaplasiosKaminon.incipit
 trMA.Ode8C1H.text = he.h.m8_en_UK_ware.EptaplasiosKaminon.text
 
@@ -391,13 +384,11 @@ trMA.Ode8C3H.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C3H.mode = misc_en_UK_ware.Mode8
 trMA.Ode8C3H.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode8C3H.incipit = he.h.m8_en_UK_ware.AngeloiKaiOuranoi.incipit
-trMA.Ode8C3H.incipit = he.h.m8_en_UK_ware.AngeloiKaiOuranoi.incipit
 trMA.Ode8C3H.text = he.h.m8_en_UK_ware.AngeloiKaiOuranoi.text
 
 trMA.Ode9C1H.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C1H.mode = misc_en_UK_ware.Mode8
 trMA.Ode9C1H.melody = misc_en_UK_ware.HeirmosNotMetered
-trMA.Ode9C1H.incipit = he.h.m8_en_UK_ware.ExestiEpiTouto.incipit
 trMA.Ode9C1H.incipit = he.h.m8_en_UK_ware.ExestiEpiTouto.incipit
 trMA.Ode9C1H.text = he.h.m8_en_UK_ware.ExestiEpiTouto.text
 
@@ -501,7 +492,6 @@ trMA.Ode9C3A1.text = ""
 trMA.Ode9C3H.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C3H.mode = misc_en_UK_ware.Mode8
 trMA.Ode9C3H.melody = misc_en_UK_ware.HeirmosNotMetered
-trMA.Ode9C3H.incipit = he.h.m8_en_UK_ware.AllotrionTonMiteron.incipit
 trMA.Ode9C3H.incipit = he.h.m8_en_UK_ware.AllotrionTonMiteron.incipit
 trMA.Ode9C3H.text = he.h.m8_en_UK_ware.AllotrionTonMiteron.text
 

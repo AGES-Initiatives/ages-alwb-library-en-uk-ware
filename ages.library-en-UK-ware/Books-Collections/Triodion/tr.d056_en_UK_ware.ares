@@ -48,7 +48,6 @@ trVE.SticGlory.text = //me.m03.d25_en_UK_ware.meMA.LaudsGlory.text
 trVE.Apolytikion1.mode = misc_en_UK_ware.Mode8
 trVE.Apolytikion1.melody = misc_en_UK_ware.Automelon
 trVE.Apolytikion1.incipit = he.a.m8_en_UK_ware.ToProstachthen.incipit
-trVE.Apolytikion1.incipit = he.a.m8_en_UK_ware.ToProstachthen.incipit
 trVE.Apolytikion1.text = he.a.m8_en_UK_ware.ToProstachthen.text
 
 trAK.Refrain1.text = ""
@@ -62,13 +61,9 @@ trAK.Oikos013.text = ""
 trAK.Oikos014.text = ""
 trAK.Oikos015.text = ""
 trAK.Oikos016.text = ""
-trAK.Oikos017.incipit = trAK.Refrain1.incipit
-trAK.Oikos017.incipit = trAK.Refrain1.incipit
 trAK.Oikos017.text = trAK.Refrain1.text
 
 trAK.Oikos020.text = ""
-trAK.Oikos021.incipit = trAK.Refrain2.incipit
-trAK.Oikos021.incipit = trAK.Refrain2.incipit
 trAK.Oikos021.text = trAK.Refrain2.text
 
 trAK.Oikos030.text = ""
@@ -78,13 +73,9 @@ trAK.Oikos033.text = ""
 trAK.Oikos034.text = ""
 trAK.Oikos035.text = ""
 trAK.Oikos036.text = ""
-trAK.Oikos037.incipit = trAK.Refrain1.incipit
-trAK.Oikos037.incipit = trAK.Refrain1.incipit
 trAK.Oikos037.text = trAK.Refrain1.text
 
 trAK.Oikos040.text = ""
-trAK.Oikos041.incipit = trAK.Refrain2.incipit
-trAK.Oikos041.incipit = trAK.Refrain2.incipit
 trAK.Oikos041.text = trAK.Refrain2.text
 
 trAK.Oikos050.text = ""
@@ -94,13 +85,9 @@ trAK.Oikos053.text = ""
 trAK.Oikos054.text = ""
 trAK.Oikos055.text = ""
 trAK.Oikos056.text = ""
-trAK.Oikos057.incipit = trAK.Refrain1.incipit
-trAK.Oikos057.incipit = trAK.Refrain1.incipit
 trAK.Oikos057.text = trAK.Refrain1.text
 
 trAK.Oikos060.text = ""
-trAK.Oikos061.incipit = trAK.Refrain2.incipit
-trAK.Oikos061.incipit = trAK.Refrain2.incipit
 trAK.Oikos061.text = trAK.Refrain2.text
 
 trAK.R001 = ""
@@ -112,13 +99,9 @@ trAK.Oikos073.text = ""
 trAK.Oikos074.text = ""
 trAK.Oikos075.text = ""
 trAK.Oikos076.text = ""
-trAK.Oikos077.incipit = trAK.Refrain1.incipit
-trAK.Oikos077.incipit = trAK.Refrain1.incipit
 trAK.Oikos077.text = trAK.Refrain1.text
 
 trAK.Oikos080.text = ""
-trAK.Oikos081.incipit = trAK.Refrain2.incipit
-trAK.Oikos081.incipit = trAK.Refrain2.incipit
 trAK.Oikos081.text = trAK.Refrain2.text
 
 trAK.Oikos090.text = ""
@@ -128,13 +111,9 @@ trAK.Oikos093.text = ""
 trAK.Oikos094.text = ""
 trAK.Oikos095.text = ""
 trAK.Oikos096.text = ""
-trAK.Oikos097.incipit = trAK.Refrain1.incipit
-trAK.Oikos097.incipit = trAK.Refrain1.incipit
 trAK.Oikos097.text = trAK.Refrain1.text
 
 trAK.Oikos100.text = ""
-trAK.Oikos101.incipit = trAK.Refrain2.incipit
-trAK.Oikos101.incipit = trAK.Refrain2.incipit
 trAK.Oikos101.text = trAK.Refrain2.text
 
 trAK.Oikos110.text = ""
@@ -144,13 +123,9 @@ trAK.Oikos113.text = ""
 trAK.Oikos114.text = ""
 trAK.Oikos115.text = ""
 trAK.Oikos116.text = ""
-trAK.Oikos117.incipit = trAK.Refrain1.incipit
-trAK.Oikos117.incipit = trAK.Refrain1.incipit
 trAK.Oikos117.text = trAK.Refrain1.text
 
 trAK.Oikos120.text = ""
-trAK.Oikos121.incipit = trAK.Refrain2.incipit
-trAK.Oikos121.incipit = trAK.Refrain2.incipit
 trAK.Oikos121.text = trAK.Refrain2.text
 
 trMA.C1.title = ""
@@ -160,7 +135,6 @@ trMA.C1.acrostic = ""
 trMA.Ode1C1H.ode = misc_en_UK_ware.Ode1
 trMA.Ode1C1H.mode = misc_en_UK_ware.Mode4
 trMA.Ode1C1H.melody = misc_en_UK_ware.HeirmosNotMetered
-trMA.Ode1C1H.incipit = he.h.m4_en_UK_ware.AnoixoToStomaMou.incipit
 trMA.Ode1C1H.incipit = he.h.m4_en_UK_ware.AnoixoToStomaMou.incipit
 trMA.Ode1C1H.text = he.h.m4_en_UK_ware.AnoixoToStomaMou.text
 
@@ -201,13 +175,11 @@ trMA.Ode1K.ode = misc_en_UK_ware.Ode1
 trMA.Ode1K.mode = misc_en_UK_ware.Mode4
 trMA.Ode1K.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode1K.incipit = he.h.m4_en_UK_ware.AnoixoToStomaMou.incipit
-trMA.Ode1K.incipit = he.h.m4_en_UK_ware.AnoixoToStomaMou.incipit
 trMA.Ode1K.text = he.h.m4_en_UK_ware.AnoixoToStomaMou.text
 
 trMA.Ode3C1H.ode = misc_en_UK_ware.Ode3
 trMA.Ode3C1H.mode = misc_en_UK_ware.Mode4
 trMA.Ode3C1H.melody = misc_en_UK_ware.HeirmosNotMetered
-trMA.Ode3C1H.incipit = he.h.m4_en_UK_ware.TousSousYmnologous.incipit
 trMA.Ode3C1H.incipit = he.h.m4_en_UK_ware.TousSousYmnologous.incipit
 trMA.Ode3C1H.text = he.h.m4_en_UK_ware.TousSousYmnologous.text
 
@@ -239,7 +211,6 @@ trMA.Ode3K.ode = misc_en_UK_ware.Ode3
 trMA.Ode3K.mode = misc_en_UK_ware.Mode4
 trMA.Ode3K.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode3K.incipit = he.h.m4_en_UK_ware.TousSousYmnologous.incipit
-trMA.Ode3K.incipit = he.h.m4_en_UK_ware.TousSousYmnologous.incipit
 trMA.Ode3K.text = he.h.m4_en_UK_ware.TousSousYmnologous.text
 
 trAK.Oikos130.text = ""
@@ -249,13 +220,9 @@ trAK.Oikos133.text = ""
 trAK.Oikos134.text = ""
 trAK.Oikos135.text = ""
 trAK.Oikos136.text = ""
-trAK.Oikos137.incipit = trAK.Refrain1.incipit
-trAK.Oikos137.incipit = trAK.Refrain1.incipit
 trAK.Oikos137.text = trAK.Refrain1.text
 
 trAK.Oikos140.text = ""
-trAK.Oikos141.incipit = trAK.Refrain2.incipit
-trAK.Oikos141.incipit = trAK.Refrain2.incipit
 trAK.Oikos141.text = trAK.Refrain2.text
 
 trAK.Oikos150.text = ""
@@ -265,13 +232,9 @@ trAK.Oikos153.text = ""
 trAK.Oikos154.text = ""
 trAK.Oikos155.text = ""
 trAK.Oikos156.text = ""
-trAK.Oikos157.incipit = trAK.Refrain1.incipit
-trAK.Oikos157.incipit = trAK.Refrain1.incipit
 trAK.Oikos157.text = trAK.Refrain1.text
 
 trAK.Oikos160.text = ""
-trAK.Oikos161.incipit = trAK.Refrain2.incipit
-trAK.Oikos161.incipit = trAK.Refrain2.incipit
 trAK.Oikos161.text = trAK.Refrain2.text
 
 trAK.Oikos170.text = ""
@@ -281,13 +244,9 @@ trAK.Oikos173.text = ""
 trAK.Oikos174.text = ""
 trAK.Oikos175.text = ""
 trAK.Oikos176.text = ""
-trAK.Oikos177.incipit = trAK.Refrain1.incipit
-trAK.Oikos177.incipit = trAK.Refrain1.incipit
 trAK.Oikos177.text = trAK.Refrain1.text
 
 trAK.Oikos180.text = ""
-trAK.Oikos181.incipit = trAK.Refrain2.incipit
-trAK.Oikos181.incipit = trAK.Refrain2.incipit
 trAK.Oikos181.text = trAK.Refrain2.text
 
 trMA.Ode3Kathisma1.mode = misc_en_UK_ware.Mode1
@@ -303,7 +262,6 @@ trMA.Ode3Kathisma2.text = ""
 trMA.Ode4C1H.ode = misc_en_UK_ware.Ode4
 trMA.Ode4C1H.mode = misc_en_UK_ware.Mode4
 trMA.Ode4C1H.melody = misc_en_UK_ware.HeirmosNotMetered
-trMA.Ode4C1H.incipit = he.h.m4_en_UK_ware.OKathimenosEnDoxi.incipit
 trMA.Ode4C1H.incipit = he.h.m4_en_UK_ware.OKathimenosEnDoxi.incipit
 trMA.Ode4C1H.text = he.h.m4_en_UK_ware.OKathimenosEnDoxi.text
 
@@ -341,13 +299,11 @@ trMA.Ode4K.ode = misc_en_UK_ware.Ode4
 trMA.Ode4K.mode = misc_en_UK_ware.Mode4
 trMA.Ode4K.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode4K.incipit = he.h.m4_en_UK_ware.OKathimenosEnDoxi.incipit
-trMA.Ode4K.incipit = he.h.m4_en_UK_ware.OKathimenosEnDoxi.incipit
 trMA.Ode4K.text = he.h.m4_en_UK_ware.OKathimenosEnDoxi.text
 
 trMA.Ode5C1H.ode = misc_en_UK_ware.Ode5
 trMA.Ode5C1H.mode = misc_en_UK_ware.Mode4
 trMA.Ode5C1H.melody = misc_en_UK_ware.HeirmosNotMetered
-trMA.Ode5C1H.incipit = he.h.m4_en_UK_ware.ExestiTaSympanta.incipit
 trMA.Ode5C1H.incipit = he.h.m4_en_UK_ware.ExestiTaSympanta.incipit
 trMA.Ode5C1H.text = he.h.m4_en_UK_ware.ExestiTaSympanta.text
 
@@ -385,13 +341,11 @@ trMA.Ode5K.ode = misc_en_UK_ware.Ode5
 trMA.Ode5K.mode = misc_en_UK_ware.Mode4
 trMA.Ode5K.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode5K.incipit = he.h.m4_en_UK_ware.ExestiTaSympanta.incipit
-trMA.Ode5K.incipit = he.h.m4_en_UK_ware.ExestiTaSympanta.incipit
 trMA.Ode5K.text = he.h.m4_en_UK_ware.ExestiTaSympanta.text
 
 trMA.Ode6C1H.ode = misc_en_UK_ware.Ode6
 trMA.Ode6C1H.mode = misc_en_UK_ware.Mode4
 trMA.Ode6C1H.melody = misc_en_UK_ware.HeirmosNotMetered
-trMA.Ode6C1H.incipit = he.h.m4_en_UK_ware.TinTheianTaftin.incipit
 trMA.Ode6C1H.incipit = he.h.m4_en_UK_ware.TinTheianTaftin.incipit
 trMA.Ode6C1H.text = he.h.m4_en_UK_ware.TinTheianTaftin.text
 
@@ -492,7 +446,6 @@ trMA.Ode6C3H.ode = misc_en_UK_ware.Ode6
 trMA.Ode6C3H.mode = misc_en_UK_ware.Mode5
 trMA.Ode6C3H.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode6C3H.incipit = he.h.m5_en_UK_ware.TouKitousTonProfitin.incipit
-trMA.Ode6C3H.incipit = he.h.m5_en_UK_ware.TouKitousTonProfitin.incipit
 trMA.Ode6C3H.text = he.h.m5_en_UK_ware.TouKitousTonProfitin.text
 
 trAK.Oikos190.text = ""
@@ -502,13 +455,9 @@ trAK.Oikos193.text = ""
 trAK.Oikos194.text = ""
 trAK.Oikos195.text = ""
 trAK.Oikos196.text = ""
-trAK.Oikos197.incipit = trAK.Refrain1.incipit
-trAK.Oikos197.incipit = trAK.Refrain1.incipit
 trAK.Oikos197.text = trAK.Refrain1.text
 
 trAK.Oikos200.text = ""
-trAK.Oikos201.incipit = trAK.Refrain2.incipit
-trAK.Oikos201.incipit = trAK.Refrain2.incipit
 trAK.Oikos201.text = trAK.Refrain2.text
 
 trAK.Oikos210.text = ""
@@ -518,13 +467,9 @@ trAK.Oikos213.text = ""
 trAK.Oikos214.text = ""
 trAK.Oikos215.text = ""
 trAK.Oikos216.text = ""
-trAK.Oikos217.incipit = trAK.Refrain1.incipit
-trAK.Oikos217.incipit = trAK.Refrain1.incipit
 trAK.Oikos217.text = trAK.Refrain1.text
 
 trAK.Oikos220.text = ""
-trAK.Oikos221.incipit = trAK.Refrain2.incipit
-trAK.Oikos221.incipit = trAK.Refrain2.incipit
 trAK.Oikos221.text = trAK.Refrain2.text
 
 trAK.Oikos230.text = ""
@@ -534,19 +479,14 @@ trAK.Oikos233.text = ""
 trAK.Oikos234.text = ""
 trAK.Oikos235.text = ""
 trAK.Oikos236.text = ""
-trAK.Oikos237.incipit = trAK.Refrain1.incipit
-trAK.Oikos237.incipit = trAK.Refrain1.incipit
 trAK.Oikos237.text = trAK.Refrain1.text
 
 trAK.Oikos240a.text = ""
 trAK.Oikos240b.text = ""
-trAK.Oikos241.incipit = trAK.Refrain2.incipit
-trAK.Oikos241.incipit = trAK.Refrain2.incipit
 trAK.Oikos241.text = trAK.Refrain2.text
 
 trMA.Kontakion1.mode = misc_en_UK_ware.Mode8
 trMA.Kontakion1.melody = misc_en_UK_ware.Automelon
-trMA.Kontakion1.incipit = he.a.m8_en_UK_ware.TiYpermacho.incipit
 trMA.Kontakion1.incipit = he.a.m8_en_UK_ware.TiYpermacho.incipit
 trMA.Kontakion1.text = he.a.m8_en_UK_ware.TiYpermacho.text
 trAK.Kontakion1.incipit = ""
@@ -585,7 +525,6 @@ trMA.Synaxarion.lastline.text = ""
 trMA.Ode7C1H.ode = misc_en_UK_ware.Ode7
 trMA.Ode7C1H.mode = misc_en_UK_ware.Mode4
 trMA.Ode7C1H.melody = misc_en_UK_ware.HeirmosNotMetered
-trMA.Ode7C1H.incipit = he.h.m4_en_UK_ware.OukElatrefsan.incipit
 trMA.Ode7C1H.incipit = he.h.m4_en_UK_ware.OukElatrefsan.incipit
 trMA.Ode7C1H.text = he.h.m4_en_UK_ware.OukElatrefsan.text
 
@@ -683,13 +622,11 @@ trMA.Ode7C3H.ode = misc_en_UK_ware.Ode7
 trMA.Ode7C3H.mode = misc_en_UK_ware.Mode5
 trMA.Ode7C3H.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode7C3H.incipit = he.h.m5_en_UK_ware.EvlogitosEiOTheos.incipit
-trMA.Ode7C3H.incipit = he.h.m5_en_UK_ware.EvlogitosEiOTheos.incipit
 trMA.Ode7C3H.text = he.h.m5_en_UK_ware.EvlogitosEiOTheos.text
 
 trMA.Ode8C1H.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C1H.mode = misc_en_UK_ware.Mode4
 trMA.Ode8C1H.melody = misc_en_UK_ware.HeirmosNotMetered
-trMA.Ode8C1H.incipit = he.h.m4_en_UK_ware.PaidasEvageis.incipit
 trMA.Ode8C1H.incipit = he.h.m4_en_UK_ware.PaidasEvageis.incipit
 trMA.Ode8C1H.text = he.h.m4_en_UK_ware.PaidasEvageis.text
 
@@ -787,13 +724,11 @@ trMA.Ode8C3H.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C3H.mode = misc_en_UK_ware.Mode5
 trMA.Ode8C3H.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode8C3H.incipit = he.h.m5_en_UK_ware.TonPoiitinTisKtiseos.incipit
-trMA.Ode8C3H.incipit = he.h.m5_en_UK_ware.TonPoiitinTisKtiseos.incipit
 trMA.Ode8C3H.text = he.h.m5_en_UK_ware.TonPoiitinTisKtiseos.text
 
 trMA.Ode9C1H.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C1H.mode = misc_en_UK_ware.Mode4
 trMA.Ode9C1H.melody = misc_en_UK_ware.HeirmosNotMetered
-trMA.Ode9C1H.incipit = he.h.m4_en_UK_ware.ApasGigenis_Akathist.incipit
 trMA.Ode9C1H.incipit = he.h.m4_en_UK_ware.ApasGigenis_Akathist.incipit
 trMA.Ode9C1H.text = he.h.m4_en_UK_ware.ApasGigenis_Akathist.text
 
@@ -891,7 +826,6 @@ trMA.Ode9C3H.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C3H.mode = misc_en_UK_ware.Mode5
 trMA.Ode9C3H.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode9C3H.incipit = he.h.m5_en_UK_ware.IsaiaChoreve.incipit
-trMA.Ode9C3H.incipit = he.h.m5_en_UK_ware.IsaiaChoreve.incipit
 trMA.Ode9C3H.text = he.h.m5_en_UK_ware.IsaiaChoreve.text
 
 trMA.Exaposteilarion1.mode = misc_en_UK_ware.Mode2
@@ -923,7 +857,6 @@ trLI.MM.EntranceHymn.text = properties_en_UK_ware.media.key
 
 trLI.Kontakion1.mode = trMA.Kontakion1.mode
 trLI.Kontakion1.melody = trMA.Kontakion1.melody
-trLI.Kontakion1.incipit = trMA.Kontakion1.incipit
 trLI.Kontakion1.incipit = trMA.Kontakion1.incipit
 trLI.Kontakion1.text = trMA.Kontakion1.text
 

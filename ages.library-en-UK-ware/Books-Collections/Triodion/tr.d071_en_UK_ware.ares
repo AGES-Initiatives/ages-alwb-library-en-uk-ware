@@ -51,7 +51,6 @@ trVE.Stichera07.text = ""
 trVE.SticGlory.mode = misc_en_UK_ware.Mode6
 trVE.SticGlory.melody = misc_en_UK_ware.Idiomelon
 trVE.SticGlory.incipit = tr.d070_en_UK_ware.trMA.LaudsGlory.incipit
-trVE.SticGlory.incipit = tr.d070_en_UK_ware.trMA.LaudsGlory.incipit
 trVE.SticGlory.text = tr.d070_en_UK_ware.trMA.LaudsGlory.text
 
 trVE.SticTheotokion.mode = misc_en_UK_ware.Mode1

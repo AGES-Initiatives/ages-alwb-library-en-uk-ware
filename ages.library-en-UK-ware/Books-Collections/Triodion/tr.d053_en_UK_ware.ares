@@ -129,7 +129,6 @@ trMA.Ode3C2H.ode = misc_en_UK_ware.Ode3
 trMA.Ode3C2H.mode = misc_en_UK_ware.Mode2
 trMA.Ode3C2H.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode3C2H.incipit = he.h.m2_en_UK_ware.SteirothentaMouTonNoun.incipit
-trMA.Ode3C2H.incipit = he.h.m2_en_UK_ware.SteirothentaMouTonNoun.incipit
 trMA.Ode3C2H.text = he.h.m2_en_UK_ware.SteirothentaMouTonNoun.text
 
 trMA.Ode8C11.ode = misc_en_UK_ware.Ode8
@@ -190,7 +189,6 @@ trMA.Ode8C2H.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C2H.mode = misc_en_UK_ware.Mode2
 trMA.Ode8C2H.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode8C2H.incipit = he.h.m2_en_UK_ware.TonEnFonaisAngelikais.incipit
-trMA.Ode8C2H.incipit = he.h.m2_en_UK_ware.TonEnFonaisAngelikais.incipit
 trMA.Ode8C2H.text = he.h.m2_en_UK_ware.TonEnFonaisAngelikais.text
 
 trMA.Ode9C11.ode = misc_en_UK_ware.Ode9
@@ -250,7 +248,6 @@ trMA.Ode9C2A1.text = "I sing of Thy lance, I praise Thy nails, the sponge, the r
 trMA.Ode9C2H.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C2H.mode = misc_en_UK_ware.Mode2
 trMA.Ode9C2H.melody = misc_en_UK_ware.HeirmosNotMetered
-trMA.Ode9C2H.incipit = he.h.m2_en_UK_ware.TinParthenianSou.incipit
 trMA.Ode9C2H.incipit = he.h.m2_en_UK_ware.TinParthenianSou.incipit
 trMA.Ode9C2H.text = he.h.m2_en_UK_ware.TinParthenianSou.text
 

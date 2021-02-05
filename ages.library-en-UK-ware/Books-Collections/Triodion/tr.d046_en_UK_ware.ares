@@ -45,7 +45,6 @@ trVE.Stichera06.text = "Cleansing with tears the senses of our soul, making them
 trVE.SticGlory.mode = misc_en_UK_ware.Mode8
 trVE.SticGlory.melody = misc_en_UK_ware.Idiomelon
 trVE.SticGlory.incipit = tr.d043_en_UK_ware.trMA.AdditionalIdiomelon2.incipit
-trVE.SticGlory.incipit = tr.d043_en_UK_ware.trMA.AdditionalIdiomelon2.incipit
 trVE.SticGlory.text = tr.d043_en_UK_ware.trMA.AdditionalIdiomelon2.text
 
 trVE.AposIdiomelon1.mode = misc_en_UK_ware.Mode3
@@ -60,7 +59,6 @@ trVE.AposMartyric.text = "The prophets, the apostles of Christ and the martyrs h
 
 trVE.AposGlory.mode = misc_en_UK_ware.Mode5
 trVE.AposGlory.melody = misc_en_UK_ware.Idiomelon
-trVE.AposGlory.incipit = tr.d043_en_UK_ware.trVE.LityGlory.incipit
 trVE.AposGlory.incipit = tr.d043_en_UK_ware.trVE.LityGlory.incipit
 trVE.AposGlory.text = tr.d043_en_UK_ware.trVE.LityGlory.text
 
@@ -95,7 +93,6 @@ trMA.Ode1C1H.ode = misc_en_UK_ware.Ode1
 trMA.Ode1C1H.mode = misc_en_UK_ware.Mode4
 trMA.Ode1C1H.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode1C1H.incipit = he.h.m4_en_UK_ware.AnoixoToStomaMou.incipit
-trMA.Ode1C1H.incipit = he.h.m4_en_UK_ware.AnoixoToStomaMou.incipit
 trMA.Ode1C1H.text = he.h.m4_en_UK_ware.AnoixoToStomaMou.text
 
 trMA.C1.title = ""
@@ -128,7 +125,6 @@ trMA.Ode1C1T.text = "When Thy Mother saw Thee nailed to the Cross out of love fo
 trMA.Ode3C1H.ode = misc_en_UK_ware.Ode3
 trMA.Ode3C1H.mode = misc_en_UK_ware.Mode4
 trMA.Ode3C1H.melody = misc_en_UK_ware.HeirmosNotMetered
-trMA.Ode3C1H.incipit = he.h.m4_en_UK_ware.TousSousYmnologous.incipit
 trMA.Ode3C1H.incipit = he.h.m4_en_UK_ware.TousSousYmnologous.incipit
 trMA.Ode3C1H.text = he.h.m4_en_UK_ware.TousSousYmnologous.text
 
@@ -214,7 +210,6 @@ trMA.Ode3C3H.ode = misc_en_UK_ware.Ode3
 trMA.Ode3C3H.mode = misc_en_UK_ware.Mode1
 trMA.Ode3C3H.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode3C3H.incipit = he.h.m1_en_UK_ware.StereosonKyrie.incipit
-trMA.Ode3C3H.incipit = he.h.m1_en_UK_ware.StereosonKyrie.incipit
 trMA.Ode3C3H.text = he.h.m1_en_UK_ware.StereosonKyrie.text
 
 trMA.Ode3Kathisma1.mode = misc_en_UK_ware.Mode6
@@ -235,7 +230,6 @@ trMA.Ode3Kathisma3.text = "No sooner had the wood of Thy Cross been set up, O Ch
 trMA.Ode4C1H.ode = misc_en_UK_ware.Ode4
 trMA.Ode4C1H.mode = misc_en_UK_ware.Mode4
 trMA.Ode4C1H.melody = misc_en_UK_ware.HeirmosNotMetered
-trMA.Ode4C1H.incipit = he.h.m4_en_UK_ware.OKathimenosEnDoxi.incipit
 trMA.Ode4C1H.incipit = he.h.m4_en_UK_ware.OKathimenosEnDoxi.incipit
 trMA.Ode4C1H.text = he.h.m4_en_UK_ware.OKathimenosEnDoxi.text
 
@@ -267,7 +261,6 @@ trMA.Ode5C1H.ode = misc_en_UK_ware.Ode5
 trMA.Ode5C1H.mode = misc_en_UK_ware.Mode4
 trMA.Ode5C1H.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode5C1H.incipit = he.h.m4_en_UK_ware.ExestiTaSympanta.incipit
-trMA.Ode5C1H.incipit = he.h.m4_en_UK_ware.ExestiTaSympanta.incipit
 trMA.Ode5C1H.text = he.h.m4_en_UK_ware.ExestiTaSympanta.text
 
 trMA.Ode5C11.ode = misc_en_UK_ware.Ode5
@@ -298,7 +291,6 @@ trMA.Ode6C1H.ode = misc_en_UK_ware.Ode6
 trMA.Ode6C1H.mode = misc_en_UK_ware.Mode4
 trMA.Ode6C1H.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode6C1H.incipit = he.h.m4_en_UK_ware.EvoiseProtypon.incipit
-trMA.Ode6C1H.incipit = he.h.m4_en_UK_ware.EvoiseProtypon.incipit
 trMA.Ode6C1H.text = he.h.m4_en_UK_ware.EvoiseProtypon.text
 
 trMA.Ode6C11.ode = misc_en_UK_ware.Ode6
@@ -328,17 +320,13 @@ trMA.Ode6C1T.text = "The Virgin bore Thee, who art the fountain of our restorati
 trMA.Kontakion1.mode = misc_en_UK_ware.Mode7
 trMA.Kontakion1.melody = misc_en_UK_ware.Automelon
 trMA.Kontakion1.incipit = tr.d043_en_UK_ware.trMA.Kontakion1.incipit
-trMA.Kontakion1.incipit = tr.d043_en_UK_ware.trMA.Kontakion1.incipit
 trMA.Kontakion1.text = tr.d043_en_UK_ware.trMA.Kontakion1.text
 
-trMA.Oikos1.incipit = tr.d043_en_UK_ware.trMA.Oikos1.incipit
-trMA.Oikos1.incipit = tr.d043_en_UK_ware.trMA.Oikos1.incipit
 trMA.Oikos1.text = tr.d043_en_UK_ware.trMA.Oikos1.text
 
 trMA.Ode7C1H.ode = misc_en_UK_ware.Ode7
 trMA.Ode7C1H.mode = misc_en_UK_ware.Mode4
 trMA.Ode7C1H.melody = misc_en_UK_ware.HeirmosNotMetered
-trMA.Ode7C1H.incipit = he.h.m4_en_UK_ware.OukElatrefsan.incipit
 trMA.Ode7C1H.incipit = he.h.m4_en_UK_ware.OukElatrefsan.incipit
 trMA.Ode7C1H.text = he.h.m4_en_UK_ware.OukElatrefsan.text
 
@@ -369,7 +357,6 @@ trMA.Ode7C1T.text = "O chosen city of God, without shaking the heavens God came 
 trMA.Ode8C1H.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C1H.mode = misc_en_UK_ware.Mode4
 trMA.Ode8C1H.melody = misc_en_UK_ware.HeirmosNotMetered
-trMA.Ode8C1H.incipit = he.h.m4_en_UK_ware.PaidasEvageis.incipit
 trMA.Ode8C1H.incipit = he.h.m4_en_UK_ware.PaidasEvageis.incipit
 trMA.Ode8C1H.text = he.h.m4_en_UK_ware.PaidasEvageis.text
 
@@ -455,13 +442,11 @@ trMA.Ode8C3H.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C3H.mode = misc_en_UK_ware.Mode1
 trMA.Ode8C3H.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode8C3H.incipit = he.h.m1_en_UK_ware.CheirasEnToLakko.incipit
-trMA.Ode8C3H.incipit = he.h.m1_en_UK_ware.CheirasEnToLakko.incipit
 trMA.Ode8C3H.text = he.h.m1_en_UK_ware.CheirasEnToLakko.text
 
 trMA.Ode9C1H.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C1H.mode = misc_en_UK_ware.Mode4
 trMA.Ode9C1H.melody = misc_en_UK_ware.HeirmosNotMetered
-trMA.Ode9C1H.incipit = he.h.m4_en_UK_ware.ApasGigenis.incipit
 trMA.Ode9C1H.incipit = he.h.m4_en_UK_ware.ApasGigenis.incipit
 trMA.Ode9C1H.text = he.h.m4_en_UK_ware.ApasGigenis.text
 
@@ -546,7 +531,6 @@ trMA.Ode9C3A1.text = "O Cross, divine sceptre of the King, the courage of His ar
 trMA.Ode9C3H.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C3H.mode = misc_en_UK_ware.Mode1
 trMA.Ode9C3H.melody = misc_en_UK_ware.HeirmosNotMetered
-trMA.Ode9C3H.incipit = he.h.m1_en_UK_ware.OMiterParthene.incipit
 trMA.Ode9C3H.incipit = he.h.m1_en_UK_ware.OMiterParthene.incipit
 trMA.Ode9C3H.text = he.h.m1_en_UK_ware.OMiterParthene.text
 

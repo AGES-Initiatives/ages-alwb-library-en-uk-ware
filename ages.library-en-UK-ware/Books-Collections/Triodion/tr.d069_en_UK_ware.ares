@@ -17,30 +17,25 @@ trEM.header = "" //for pdf evening Matins
 trVE.Stichera01.mode = misc_en_UK_ware.Mode2
 trVE.Stichera01.melody = misc_en_UK_ware.Idiomelon
 trVE.Stichera01.incipit = tr.d068_en_UK_ware.trMA.Lauds1.incipit
-trVE.Stichera01.incipit = tr.d068_en_UK_ware.trMA.Lauds1.incipit
 trVE.Stichera01.text = tr.d068_en_UK_ware.trMA.Lauds1.text
 
 trVE.Stichera02.mode = misc_en_UK_ware.Mode2
 trVE.Stichera02.melody = misc_en_UK_ware.Idiomelon
-trVE.Stichera02.incipit = tr.d068_en_UK_ware.trMA.Lauds2.incipit
 trVE.Stichera02.incipit = tr.d068_en_UK_ware.trMA.Lauds2.incipit
 trVE.Stichera02.text = tr.d068_en_UK_ware.trMA.Lauds2.text
 
 trVE.Stichera03.mode = misc_en_UK_ware.Mode2
 trVE.Stichera03.melody = misc_en_UK_ware.Idiomelon
 trVE.Stichera03.incipit = tr.d068_en_UK_ware.trMA.Lauds3.incipit
-trVE.Stichera03.incipit = tr.d068_en_UK_ware.trMA.Lauds3.incipit
 trVE.Stichera03.text = tr.d068_en_UK_ware.trMA.Lauds3.text
 
 trVE.Stichera04.mode = misc_en_UK_ware.Mode2
 trVE.Stichera04.melody = misc_en_UK_ware.Idiomelon
 trVE.Stichera04.incipit = tr.d068_en_UK_ware.trMA.Lauds4.incipit
-trVE.Stichera04.incipit = tr.d068_en_UK_ware.trMA.Lauds4.incipit
 trVE.Stichera04.text = tr.d068_en_UK_ware.trMA.Lauds4.text
 
 trVE.Stichera05.mode = misc_en_UK_ware.Mode2
 trVE.Stichera05.melody = misc_en_UK_ware.Idiomelon
-trVE.Stichera05.incipit = tr.d068_en_UK_ware.trMA.LaudsGlory.incipit
 trVE.Stichera05.incipit = tr.d068_en_UK_ware.trMA.LaudsGlory.incipit
 trVE.Stichera05.text = tr.d068_en_UK_ware.trMA.LaudsGlory.text
 
@@ -60,10 +55,10 @@ trLI.TheotokosHymn.mode = misc_en_UK_ware.Mode8
 trLI.TheotokosHymn.incipit = ""
 trLI.TheotokosHymn.text = //oc.m8.d1_en_UK_ware.ocMA.Kathisma23.text
 
+trLI.CommunionHymn.incipit = ""
 trLI.CommunionHymn.text = ""
 
 trLI.AfterCommunion.mode = ""
-trLI.AfterCommunion.incipit = trLI.CommunionHymn.incipit
 trLI.AfterCommunion.incipit = trLI.CommunionHymn.incipit
 trLI.AfterCommunion.text = trLI.CommunionHymn.text
 
@@ -104,7 +99,6 @@ trHW.Alleluia.text = properties_en_UK_ware.media.key
 
 trHW.Troparion.mode = misc_en_UK_ware.Mode8
 trHW.Troparion.melody = ""
-trHW.Troparion.incipit = tr.d068_en_UK_ware.trHW.Troparion.incipit
 trHW.Troparion.incipit = tr.d068_en_UK_ware.trHW.Troparion.incipit
 trHW.Troparion.text = tr.d068_en_UK_ware.trHW.Troparion.text
 
@@ -383,7 +377,6 @@ trHW.Antiphon15Kathisma.text = ""
 trHW.Beatitudes01.mode = misc_en_UK_ware.Mode4
 trHW.Beatutides01.melody = misc_en_UK_ware.Automelon
 trHW.Beatitudes01.incipit = he.a.m4_en_UK_ware.DiaXylouOAdam.incipit
-trHW.Beatitudes01.incipit = he.a.m4_en_UK_ware.DiaXylouOAdam.incipit
 trHW.Beatitudes01.text = he.a.m4_en_UK_ware.DiaXylouOAdam.text
 
 trHW.Beatitudes02.mode = misc_en_UK_ware.Mode4
@@ -442,7 +435,6 @@ trMA.Ode5C1H.ode = misc_en_UK_ware.Ode5
 trMA.Ode5C1H.mode = misc_en_UK_ware.Mode6
 trMA.Ode5C1H.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode5C1H.incipit = he.h.m6_en_UK_ware.ProsSeOrthrizo.incipit
-trMA.Ode5C1H.incipit = he.h.m6_en_UK_ware.ProsSeOrthrizo.incipit
 trMA.Ode5C1H.text = he.h.m6_en_UK_ware.ProsSeOrthrizo.text
 
 trMA.Ode5C11.ode = misc_en_UK_ware.Ode5
@@ -460,7 +452,6 @@ trMA.Ode5C12.text = ""
 trMA.Ode5K.ode = misc_en_UK_ware.Ode5
 trMA.Ode5K.mode = misc_en_UK_ware.Mode6
 trMA.Ode5K.melody = misc_en_UK_ware.HeirmosNotMetered
-trMA.Ode5K.incipit = he.h.m6_en_UK_ware.ProsSeOrthrizo.incipit
 trMA.Ode5K.incipit = he.h.m6_en_UK_ware.ProsSeOrthrizo.incipit
 trMA.Ode5K.text = he.h.m6_en_UK_ware.ProsSeOrthrizo.text
 
@@ -498,7 +489,6 @@ trMA.Ode8C1H.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C1H.mode = misc_en_UK_ware.Mode6
 trMA.Ode8C1H.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode8C1H.incipit = he.h.m6_en_UK_ware.StilinKakiasAntitheou.incipit
-trMA.Ode8C1H.incipit = he.h.m6_en_UK_ware.StilinKakiasAntitheou.incipit
 trMA.Ode8C1H.text = he.h.m6_en_UK_ware.StilinKakiasAntitheou.text
 
 trMA.Ode8C11.ode = misc_en_UK_ware.Ode8
@@ -529,13 +519,11 @@ trMA.Ode8K.ode = misc_en_UK_ware.Ode8
 trMA.Ode8K.mode = misc_en_UK_ware.Mode6
 trMA.Ode8K.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode8K.incipit = he.h.m6_en_UK_ware.StilinKakiasAntitheou.incipit
-trMA.Ode8K.incipit = he.h.m6_en_UK_ware.StilinKakiasAntitheou.incipit
 trMA.Ode8K.text = he.h.m6_en_UK_ware.StilinKakiasAntitheou.text
 
 trMA.Ode9C1H.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C1H.mode = misc_en_UK_ware.Mode6
 trMA.Ode9C1H.melody = misc_en_UK_ware.HeirmosNotMetered
-trMA.Ode9C1H.incipit = he.h.m6_en_UK_ware.TinTimioteran.incipit
 trMA.Ode9C1H.incipit = he.h.m6_en_UK_ware.TinTimioteran.incipit
 trMA.Ode9C1H.text = he.h.m6_en_UK_ware.TinTimioteran.text
 
@@ -567,12 +555,10 @@ trMA.Ode9K.ode = misc_en_UK_ware.Ode9
 trMA.Ode9K.mode = misc_en_UK_ware.Mode6
 trMA.Ode9K.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode9K.incipit = he.h.m6_en_UK_ware.TinTimioteran.incipit
-trMA.Ode9K.incipit = he.h.m6_en_UK_ware.TinTimioteran.incipit
 trMA.Ode9K.text = he.h.m6_en_UK_ware.TinTimioteran.text
 
 trMA.Exaposteilarion1.mode = misc_en_UK_ware.Mode3
 trMA.Exaposteilarion1.melody = misc_en_UK_ware.Automelon
-trMA.Exaposteilarion1.incipit = he.a.m3_en_UK_ware.TonListinAfthimeron.incipit
 trMA.Exaposteilarion1.incipit = he.a.m3_en_UK_ware.TonListinAfthimeron.incipit
 trMA.Exaposteilarion1.text = he.a.m3_en_UK_ware.TonListinAfthimeron.text
 
@@ -635,7 +621,6 @@ trMA.AposBoth.text = ""
 
 trHW.Apolytikion1.mode = misc_en_UK_ware.Mode4
 trHW.Apolytikion1.incipit = trHW.Antiphon15Kathisma.incipit
-trHW.Apolytikion1.incipit = trHW.Antiphon15Kathisma.incipit
 trHW.Apolytikion1.text = trHW.Antiphon15Kathisma.text
 
 trHR.title = ""
@@ -654,7 +639,6 @@ trH1.Theotokion.text = //ho.s04_en_UK_ware.hoH1.Theotokion.text
 trH1.Idiomelon1.mode = misc_en_UK_ware.Mode8
 trH1.Idiomelon1.melody = ""
 trH1.Idiomelon1.incipit = trHW.Antiphon122.incipit
-trH1.Idiomelon1.incipit = trHW.Antiphon122.incipit
 trH1.Idiomelon1.text = trHW.Antiphon122.text
 
 trH1.Idiomelon2.mode = misc_en_UK_ware.Mode8
@@ -665,11 +649,9 @@ trH1.Idiomelon2.text = ""
 trH1.Idiomelon3.mode = misc_en_UK_ware.Mode8
 trH1.Idiomelon3.melody = ""
 trH1.Idiomelon3.incipit = trHW.Antiphon071.incipit
-trH1.Idiomelon3.incipit = trHW.Antiphon071.incipit
 trH1.Idiomelon3.text = trHW.Antiphon071.text
 
 trH1.Kontakion.mode = misc_en_UK_ware.Mode8
-trH1.Kontakion.incipit = trMA.Kontakion1.incipit
 trH1.Kontakion.incipit = trMA.Kontakion1.incipit
 trH1.Kontakion.text = trMA.Kontakion1.text
 
@@ -700,7 +682,6 @@ trH3.Idiomelon3.text = ""
 
 trH3.Kontakion.mode = misc_en_UK_ware.Mode8
 trH3.Kontakion.incipit = trMA.Kontakion1.incipit
-trH3.Kontakion.incipit = trMA.Kontakion1.incipit
 trH3.Kontakion.text = trMA.Kontakion1.text
 
 trH6.title = //ho.s06_en_UK_ware.hoH6.title
@@ -716,12 +697,10 @@ trH6.Theotokion.text = //ho.s06_en_UK_ware.hoH6.Theotokion.text
 trH6.Idiomelon1.mode = misc_en_UK_ware.Mode8
 trH6.Idiomelon1.melody = misc_en_UK_ware.Idiomelon
 trH6.Idiomelon1.incipit = trHW.Antiphon121.incipit
-trH6.Idiomelon1.incipit = trHW.Antiphon121.incipit
 trH6.Idiomelon1.text = trHW.Antiphon121.text
 
 trH6.Idiomelon2.mode = misc_en_UK_ware.Mode8
 trH6.Idiomelon2.melody = misc_en_UK_ware.Idiomelon
-trH6.Idiomelon2.incipit = trHW.Antiphon123.incipit
 trH6.Idiomelon2.incipit = trHW.Antiphon123.incipit
 trH6.Idiomelon2.text = trHW.Antiphon123.text
 
@@ -731,7 +710,6 @@ trH6.Idiomelon3.incipit = ""
 trH6.Idiomelon3.text = ""
 
 trH6.Kontakion.mode = misc_en_UK_ware.Mode8
-trH6.Kontakion.incipit = trMA.Kontakion1.incipit
 trH6.Kontakion.incipit = trMA.Kontakion1.incipit
 trH6.Kontakion.text = trMA.Kontakion1.text
 
@@ -761,7 +739,6 @@ trH9.Idiomelon3.melody = misc_en_UK_ware.Idiomelon
 trH9.Idiomelon3.text = "" //use Antiphon151
 
 trH9.Kontakion.mode = misc_en_UK_ware.Mode8
-trH9.Kontakion.incipit = trMA.Kontakion1.incipit
 trH9.Kontakion.incipit = trMA.Kontakion1.incipit
 trH9.Kontakion.text = trMA.Kontakion1.text
 

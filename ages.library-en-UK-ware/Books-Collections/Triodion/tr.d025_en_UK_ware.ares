@@ -35,7 +35,6 @@ trVE.AposIdiomelon1.text = ""
 trVE.AposMartyric.mode = misc_en_UK_ware.Mode8
 trVE.AposMartyric.melody = misc_en_UK_ware.Automelon
 trVE.AposMartyric.incipit = he.a.m8_en_UK_ware.OiMartyresSouKyrie.incipit
-trVE.AposMartyric.incipit = he.a.m8_en_UK_ware.OiMartyresSouKyrie.incipit
 trVE.AposMartyric.text = he.a.m8_en_UK_ware.OiMartyresSouKyrie.text
 
 trVE.AposTheotokion.mode = misc_en_UK_ware.Mode8
@@ -121,7 +120,6 @@ trMA.Ode3C2H.ode = misc_en_UK_ware.Ode3
 trMA.Ode3C2H.mode = misc_en_UK_ware.Mode2
 trMA.Ode3C2H.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode3C2H.incipit = he.h.m2_en_UK_ware.StereosonImasEnSoiKyrie.incipit
-trMA.Ode3C2H.incipit = he.h.m2_en_UK_ware.StereosonImasEnSoiKyrie.incipit
 trMA.Ode3C2H.text = he.h.m2_en_UK_ware.StereosonImasEnSoiKyrie.text
 
 trMA.Ode8C11.ode = misc_en_UK_ware.Ode8
@@ -182,7 +180,6 @@ trMA.Ode8C2H.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C2H.mode = misc_en_UK_ware.Mode2
 trMA.Ode8C2H.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode8C2H.incipit = he.h.m2_en_UK_ware.TonEnTiVatoMosi.incipit
-trMA.Ode8C2H.incipit = he.h.m2_en_UK_ware.TonEnTiVatoMosi.incipit
 trMA.Ode8C2H.text = he.h.m2_en_UK_ware.TonEnTiVatoMosi.text
 
 trMA.Ode9C11.ode = misc_en_UK_ware.Ode9
@@ -242,7 +239,6 @@ trMA.Ode9C2A1.text = ""
 trMA.Ode9C2H.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C2H.mode = misc_en_UK_ware.Mode2
 trMA.Ode9C2H.melody = misc_en_UK_ware.HeirmosNotMetered
-trMA.Ode9C2H.incipit = he.h.m2_en_UK_ware.TinAgninKaiAchranton.incipit
 trMA.Ode9C2H.incipit = he.h.m2_en_UK_ware.TinAgninKaiAchranton.incipit
 trMA.Ode9C2H.text = he.h.m2_en_UK_ware.TinAgninKaiAchranton.text
 

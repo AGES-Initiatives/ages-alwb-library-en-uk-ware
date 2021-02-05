@@ -46,7 +46,6 @@ trVE.Stichera03.text = "As we venerate today the Cross of the Lord, let us cry: 
 trVE.SticGlory.mode = misc_en_UK_ware.Mode8
 trVE.SticGlory.melody = misc_en_UK_ware.Idiomelon
 trVE.SticGlory.incipit = tr.d043_en_UK_ware.trMA.AdditionalIdiomelonGlory.incipit
-trVE.SticGlory.incipit = tr.d043_en_UK_ware.trMA.AdditionalIdiomelonGlory.incipit
 trVE.SticGlory.text = tr.d043_en_UK_ware.trMA.AdditionalIdiomelonGlory.text
 
 trMA.Kathisma21.mode = misc_en_UK_ware.Mode1
@@ -131,7 +130,6 @@ trMA.Ode4C2H.ode = misc_en_UK_ware.Ode4
 trMA.Ode4C2H.mode = misc_en_UK_ware.Mode7
 trMA.Ode4C2H.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode4C2H.incipit = he.h.m7_en_UK_ware.TinEnsarkonParousianSou.incipit
-trMA.Ode4C2H.incipit = he.h.m7_en_UK_ware.TinEnsarkonParousianSou.incipit
 trMA.Ode4C2H.text = he.h.m7_en_UK_ware.TinEnsarkonParousianSou.text
 
 trMA.Ode8C11.ode = misc_en_UK_ware.Ode8
@@ -192,7 +190,6 @@ trMA.Ode8C2H.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C2H.mode = misc_en_UK_ware.Mode7
 trMA.Ode8C2H.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode8C2H.incipit = he.h.m7_en_UK_ware.TonMononAnarchon.incipit
-trMA.Ode8C2H.incipit = he.h.m7_en_UK_ware.TonMononAnarchon.incipit
 trMA.Ode8C2H.text = he.h.m7_en_UK_ware.TonMononAnarchon.text
 
 trMA.Ode9C11.ode = misc_en_UK_ware.Ode9
@@ -252,7 +249,6 @@ trMA.Ode9C2A1.text = "With your tongues of fire, O apostles, ye have burnt up al
 trMA.Ode9C2H.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C2H.mode = misc_en_UK_ware.Mode7
 trMA.Ode9C2H.melody = misc_en_UK_ware.HeirmosNotMetered
-trMA.Ode9C2H.incipit = he.h.m7_en_UK_ware.SeTinAchranton.incipit
 trMA.Ode9C2H.incipit = he.h.m7_en_UK_ware.SeTinAchranton.incipit
 trMA.Ode9C2H.text = he.h.m7_en_UK_ware.SeTinAchranton.text
 

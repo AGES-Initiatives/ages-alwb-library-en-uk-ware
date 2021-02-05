@@ -420,12 +420,10 @@ trMA.ExapTheotokion.text = ""
 trMA.Lauds1.mode = misc_en_UK_ware.Mode1
 trMA.Lauds1.melody = misc_en_UK_ware.Idiomelon
 trMA.Lauds1.incipit = trVE.Stichera01.incipit
-trMA.Lauds1.incipit = trVE.Stichera01.incipit
 trMA.Lauds1.text = trVE.Stichera01.text
 
 trMA.Lauds2.mode = misc_en_UK_ware.Mode1
 trMA.Lauds2.melody = misc_en_UK_ware.Idiomelon
-trMA.Lauds2.incipit = trVE.Stichera02.incipit
 trMA.Lauds2.incipit = trVE.Stichera02.incipit
 trMA.Lauds2.text = trVE.Stichera02.text
 
@@ -454,7 +452,6 @@ trMA.LaudsTheotokion.text = //oc.m2.d1_en_UK_ware.ocMA.Kathisma23.text
 
 trLI.Kontakion1.mode = trMA.Kontakion0.mode
 trLI.Kontakion1.melody = trMA.Kontakion0.melody
-trLI.Kontakion1.incipit = trMA.Kontakion0.incipit
 trLI.Kontakion1.incipit = trMA.Kontakion0.incipit
 trLI.Kontakion1.text = trMA.Kontakion0.text
 

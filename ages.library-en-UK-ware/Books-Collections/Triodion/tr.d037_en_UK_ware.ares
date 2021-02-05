@@ -132,7 +132,6 @@ trMA.Ode1C2H.ode = misc_en_UK_ware.Ode1
 trMA.Ode1C2H.mode = misc_en_UK_ware.Mode8
 trMA.Ode1C2H.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode1C2H.incipit = he.h.m8_en_UK_ware.AsomenOdinToTheo.incipit
-trMA.Ode1C2H.incipit = he.h.m8_en_UK_ware.AsomenOdinToTheo.incipit
 trMA.Ode1C2H.text = he.h.m8_en_UK_ware.AsomenOdinToTheo.text
 
 trMA.Ode8C11.ode = misc_en_UK_ware.Ode8
@@ -193,7 +192,6 @@ trMA.Ode8C2H.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C2H.mode = misc_en_UK_ware.Mode8
 trMA.Ode8C2H.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode8C2H.incipit = he.h.m8_en_UK_ware.OStegazonEnYdasi.incipit
-trMA.Ode8C2H.incipit = he.h.m8_en_UK_ware.OStegazonEnYdasi.incipit
 trMA.Ode8C2H.text = he.h.m8_en_UK_ware.OStegazonEnYdasi.text
 
 trMA.Ode9C11.ode = misc_en_UK_ware.Ode9
@@ -253,7 +251,6 @@ trMA.Ode9C2A1.text = "Daniel in the den tamed the wild beasts with the muzzle of
 trMA.Ode9C2H.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C2H.mode = misc_en_UK_ware.Mode8
 trMA.Ode9C2H.melody = misc_en_UK_ware.HeirmosNotMetered
-trMA.Ode9C2H.incipit = he.h.m8_en_UK_ware.MegalynomenSeTinPanamomon.incipit
 trMA.Ode9C2H.incipit = he.h.m8_en_UK_ware.MegalynomenSeTinPanamomon.incipit
 trMA.Ode9C2H.text = he.h.m8_en_UK_ware.MegalynomenSeTinPanamomon.text
 

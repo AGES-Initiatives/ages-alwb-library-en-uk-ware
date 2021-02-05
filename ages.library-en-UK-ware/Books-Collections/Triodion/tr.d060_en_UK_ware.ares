@@ -40,7 +40,6 @@ trVE.AposMartyric.text = "Wise was the exchange ye made, O saints! Ye gave your 
 trVE.AposTheotokion.mode = misc_en_UK_ware.Mode1
 trVE.AposTheotokion.melody = he.a.m1_en_UK_ware.PaneffimoiMartyres.incipit
 trVE.AposTheotokion.incipit = oc.m1.d4_en_UK_ware.ocVE.AposTheotokion.incipit
-trVE.AposTheotokion.incipit = oc.m1.d4_en_UK_ware.ocVE.AposTheotokion.incipit
 trVE.AposTheotokion.text = oc.m1.d4_en_UK_ware.ocVE.AposTheotokion.text
 
 trMA.Kathisma21.mode = misc_en_UK_ware.Mode2
@@ -125,7 +124,6 @@ trMA.Ode3C2H.ode = misc_en_UK_ware.Ode3
 trMA.Ode3C2H.mode = misc_en_UK_ware.Mode3
 trMA.Ode3C2H.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode3C2H.incipit = he.h.m3_en_UK_ware.SteiraPsychi.incipit
-trMA.Ode3C2H.incipit = he.h.m3_en_UK_ware.SteiraPsychi.incipit
 trMA.Ode3C2H.text = he.h.m3_en_UK_ware.SteiraPsychi.text
 
 trMA.Ode8C11.ode = misc_en_UK_ware.Ode8
@@ -186,7 +184,6 @@ trMA.Ode8C2H.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C2H.mode = misc_en_UK_ware.Mode3
 trMA.Ode8C2H.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode8C2H.incipit = he.h.m3_en_UK_ware.TonExAnarchou.incipit
-trMA.Ode8C2H.incipit = he.h.m3_en_UK_ware.TonExAnarchou.incipit
 trMA.Ode8C2H.text = he.h.m3_en_UK_ware.TonExAnarchou.text
 
 trMA.Ode9C11.ode = misc_en_UK_ware.Ode9
@@ -246,7 +243,6 @@ trMA.Ode9C2A1.text = "Weaving branches of palms, both inwardly and outwardly let
 trMA.Ode9C2H.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C2H.mode = misc_en_UK_ware.Mode3
 trMA.Ode9C2H.melody = misc_en_UK_ware.HeirmosNotMetered
-trMA.Ode9C2H.incipit = he.h.m3_en_UK_ware.EnSinaioToOrei.incipit
 trMA.Ode9C2H.incipit = he.h.m3_en_UK_ware.EnSinaioToOrei.incipit
 trMA.Ode9C2H.text = he.h.m3_en_UK_ware.EnSinaioToOrei.text
 

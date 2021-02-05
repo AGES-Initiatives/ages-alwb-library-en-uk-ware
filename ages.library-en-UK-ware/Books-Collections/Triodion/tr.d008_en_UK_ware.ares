@@ -44,18 +44,15 @@ trVE.AposTheotokion.text = //oc.m6.d1_en_UK_ware.ocVE.AposTheotokion.text
 trMA.PostGospelGlory.mode = misc_en_UK_ware.Mode8
 trMA.PostGospelGlory.melody = ""
 trMA.PostGospelGlory.incipit = tr.d001_en_UK_ware.trMA.PostGospelGlory.incipit
-trMA.PostGospelGlory.incipit = tr.d001_en_UK_ware.trMA.PostGospelGlory.incipit
 trMA.PostGospelGlory.text = tr.d001_en_UK_ware.trMA.PostGospelGlory.text
 
 trMA.PostGospelBoth.mode = misc_en_UK_ware.Mode8
 trMA.PostGospelBoth.melody = ""
 trMA.PostGospelBoth.incipit = tr.d001_en_UK_ware.trMA.PostGospelBoth.incipit
-trMA.PostGospelBoth.incipit = tr.d001_en_UK_ware.trMA.PostGospelBoth.incipit
 trMA.PostGospelBoth.text = tr.d001_en_UK_ware.trMA.PostGospelBoth.text
 
 trMA.PostGospelIdiomelon.mode = misc_en_UK_ware.Mode6
 trMA.PostGospelIdiomelon.melody = ""
-trMA.PostGospelIdiomelon.incipit = tr.d001_en_UK_ware.trMA.PostGospelIdiomelon.incipit
 trMA.PostGospelIdiomelon.incipit = tr.d001_en_UK_ware.trMA.PostGospelIdiomelon.incipit
 trMA.PostGospelIdiomelon.text = tr.d001_en_UK_ware.trMA.PostGospelIdiomelon.text
 
@@ -344,7 +341,6 @@ trMA.LaudsTheotokion.text = //oc.m2.d1_en_UK_ware.ocMA.Kathisma23.text
 
 trLI.Kontakion1.mode = trMA.Kontakion1.mode
 trLI.Kontakion1.melody = trMA.Kontakion1.melody
-trLI.Kontakion1.incipit = trMA.Kontakion1.incipit
 trLI.Kontakion1.incipit = trMA.Kontakion1.incipit
 trLI.Kontakion1.text = trMA.Kontakion1.text
 

@@ -58,7 +58,6 @@ ocVE.AposTheotokion.text = "'A sword has pierced me, O my Son,' said the Virgin 
 ocVE.ApolTheotokionVM.mode = misc_en_UK_ware.Mode1
 ocVE.ApolTheotokionVM.melody = ""
 ocVE.ApolTheotokionVM.incipit = oc.m1.d4_en_UK_ware.ocMA.Kathisma13.incipit
-ocVE.ApolTheotokionVM.incipit = oc.m1.d4_en_UK_ware.ocMA.Kathisma13.incipit
 ocVE.ApolTheotokionVM.text = oc.m1.d4_en_UK_ware.ocMA.Kathisma13.text
 
 ocMA.Kathisma11.mode = misc_en_UK_ware.Mode1
@@ -628,7 +627,6 @@ octrMA.Kathisma11.text = "Beholding Thee, O Christ, stretched dead upon the Cros
 octrMA.Kathisma12.mode = misc_en_UK_ware.Mode1
 octrMA.Kathisma12.melody = he.a.m1_en_UK_ware.TouLithouSfragisthentos.incipit
 octrMA.Kathisma12.incipit = oc.m1.d4_en_UK_ware.ocMA.Kathisma21.incipit
-octrMA.Kathisma12.incipit = oc.m1.d4_en_UK_ware.ocMA.Kathisma21.incipit
 octrMA.Kathisma12.text = oc.m1.d4_en_UK_ware.ocMA.Kathisma21.text
 
 octrMA.Kathisma1T.mode = misc_en_UK_ware.Mode1
@@ -638,7 +636,6 @@ octrMA.Kathisma1T.text = "When the Ewe saw Thee her Lamb, crucified upon the Tre
 
 octrMA.Ode7Martyricon.mode = misc_en_UK_ware.Mode1
 octrMA.Ode7Martyricon.melody = ""
-octrMA.Ode7Martyricon.incipit = oc.m1.d4_en_UK_ware.ocMA.Kathisma32.incipit
 octrMA.Ode7Martyricon.incipit = oc.m1.d4_en_UK_ware.ocMA.Kathisma32.incipit
 octrMA.Ode7Martyricon.text = oc.m1.d4_en_UK_ware.ocMA.Kathisma32.text
 

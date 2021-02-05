@@ -62,7 +62,6 @@ trMA.Kathisma31.text = "As we pass through the solemn time of abstinence, let us
 trMA.Kathisma32.mode = misc_en_UK_ware.Mode3
 trMA.Kathisma32.melody = he.a.m3_en_UK_ware.TinOraiotita.incipit
 trMA.Kathisma32.incipit = me.m06.d16_en_UK_ware.meMA.Ode3KathismaSt.incipit
-trMA.Kathisma32.incipit = me.m06.d16_en_UK_ware.meMA.Ode3KathismaSt.incipit
 trMA.Kathisma32.text = me.m06.d16_en_UK_ware.meMA.Ode3KathismaSt.text
 
 trMA.C1.poet = poets_en_UK_ware.Iosif
@@ -127,7 +126,6 @@ trMA.Ode3C2H.ode = misc_en_UK_ware.Ode3
 trMA.Ode3C2H.mode = misc_en_UK_ware.Mode3
 trMA.Ode3C2H.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode3C2H.incipit = he.h.m3_en_UK_ware.StereosonKyrie.incipit
-trMA.Ode3C2H.incipit = he.h.m3_en_UK_ware.StereosonKyrie.incipit
 trMA.Ode3C2H.text = he.h.m3_en_UK_ware.StereosonKyrie.text
 
 trMA.Ode8C11.ode = misc_en_UK_ware.Ode8
@@ -188,7 +186,6 @@ trMA.Ode8C2H.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C2H.mode = misc_en_UK_ware.Mode3
 trMA.Ode8C2H.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode8C2H.incipit = he.h.m3_en_UK_ware.TonEnFlogi.incipit
-trMA.Ode8C2H.incipit = he.h.m3_en_UK_ware.TonEnFlogi.incipit
 trMA.Ode8C2H.text = he.h.m3_en_UK_ware.TonEnFlogi.text
 
 trMA.Ode9C11.ode = misc_en_UK_ware.Ode9
@@ -248,7 +245,6 @@ trMA.Ode9C2A1.text = "By Thy wounds have we all been healed from the passions of
 trMA.Ode9C2H.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C2H.mode = misc_en_UK_ware.Mode3
 trMA.Ode9C2H.melody = misc_en_UK_ware.HeirmosNotMetered
-trMA.Ode9C2H.incipit = he.h.m3_en_UK_ware.EnSinaioToOrei.incipit
 trMA.Ode9C2H.incipit = he.h.m3_en_UK_ware.EnSinaioToOrei.incipit
 trMA.Ode9C2H.text = he.h.m3_en_UK_ware.EnSinaioToOrei.text
 

@@ -85,7 +85,6 @@ meCO.Ode1C1H.ode = misc_en_UK_ware.Ode1
 meCO.Ode1C1H.mode = misc_en_UK_ware.Mode6
 meCO.Ode1C1H.melody = misc_en_UK_ware.Heirmos
 meCO.Ode1C1H.incipit = he.h.m6_en_UK_ware.KymatiThalassis_Epiphany.incipit
-meCO.Ode1C1H.incipit = he.h.m6_en_UK_ware.KymatiThalassis_Epiphany.incipit
 meCO.Ode1C1H.text = he.h.m6_en_UK_ware.KymatiThalassis_Epiphany.text
 
 meCO.Ode1C11.ode = misc_en_UK_ware.Ode1
@@ -109,7 +108,6 @@ meCO.Ode1C13.text = ""
 meCO.Ode3C1H.ode = misc_en_UK_ware.Ode3
 meCO.Ode3C1H.mode = misc_en_UK_ware.Mode6
 meCO.Ode3C1H.melody = misc_en_UK_ware.Heirmos
-meCO.Ode3C1H.incipit = he.h.m6_en_UK_ware.SeTonEpiYdaton_Epiphany.incipit
 meCO.Ode3C1H.incipit = he.h.m6_en_UK_ware.SeTonEpiYdaton_Epiphany.incipit
 meCO.Ode3C1H.text = he.h.m6_en_UK_ware.SeTonEpiYdaton_Epiphany.text
 
@@ -135,7 +133,6 @@ meCO.Ode4C1H.ode = misc_en_UK_ware.Ode4
 meCO.Ode4C1H.mode = misc_en_UK_ware.Mode6
 meCO.Ode4C1H.melody = misc_en_UK_ware.Heirmos
 meCO.Ode4C1H.incipit = he.h.m6_en_UK_ware.TinProsToBaptismaSou.incipit
-meCO.Ode4C1H.incipit = he.h.m6_en_UK_ware.TinProsToBaptismaSou.incipit
 meCO.Ode4C1H.text = he.h.m6_en_UK_ware.TinProsToBaptismaSou.text
 
 meCO.Ode4C11.ode = misc_en_UK_ware.Ode4
@@ -159,7 +156,6 @@ meCO.Ode4C13.text = ""
 meCO.Ode5C1H.ode = misc_en_UK_ware.Ode5
 meCO.Ode5C1H.mode = misc_en_UK_ware.Mode6
 meCO.Ode5C1H.melody = misc_en_UK_ware.Heirmos
-meCO.Ode5C1H.incipit = he.h.m6_en_UK_ware.TheofaneiasSouChriste_Epiphany.incipit
 meCO.Ode5C1H.incipit = he.h.m6_en_UK_ware.TheofaneiasSouChriste_Epiphany.incipit
 meCO.Ode5C1H.text = he.h.m6_en_UK_ware.TheofaneiasSouChriste_Epiphany.text
 
@@ -185,7 +181,6 @@ meCO.Ode6C1H.ode = misc_en_UK_ware.Ode6
 meCO.Ode6C1H.mode = misc_en_UK_ware.Mode6
 meCO.Ode6C1H.melody = misc_en_UK_ware.Heirmos
 meCO.Ode6C1H.incipit = he.h.m6_en_UK_ware.SyneschethiAllOuKateschethi_Epiphany.incipit
-meCO.Ode6C1H.incipit = he.h.m6_en_UK_ware.SyneschethiAllOuKateschethi_Epiphany.incipit
 meCO.Ode6C1H.text = he.h.m6_en_UK_ware.SyneschethiAllOuKateschethi_Epiphany.text
 
 meCO.Ode6C11.ode = misc_en_UK_ware.Ode6
@@ -209,7 +204,6 @@ meCO.Ode6C13.text = ""
 meCO.Ode7C1H.ode = misc_en_UK_ware.Ode7
 meCO.Ode7C1H.mode = misc_en_UK_ware.Mode6
 meCO.Ode7C1H.melody = misc_en_UK_ware.Heirmos
-meCO.Ode7C1H.incipit = he.h.m6_en_UK_ware.AfrastonThavma_Epiphany.incipit
 meCO.Ode7C1H.incipit = he.h.m6_en_UK_ware.AfrastonThavma_Epiphany.incipit
 meCO.Ode7C1H.text = he.h.m6_en_UK_ware.AfrastonThavma_Epiphany.text
 
@@ -241,7 +235,6 @@ meCO.Ode8C1H.ode = misc_en_UK_ware.Ode8
 meCO.Ode8C1H.mode = misc_en_UK_ware.Mode6
 meCO.Ode8C1H.melody = misc_en_UK_ware.Heirmos
 meCO.Ode8C1H.incipit = he.h.m6_en_UK_ware.EkstithiFrittonOurane_Epiphany.incipit
-meCO.Ode8C1H.incipit = he.h.m6_en_UK_ware.EkstithiFrittonOurane_Epiphany.incipit
 meCO.Ode8C1H.text = he.h.m6_en_UK_ware.EkstithiFrittonOurane_Epiphany.text
 
 meCO.Ode8C11.ode = misc_en_UK_ware.Ode8
@@ -265,7 +258,6 @@ meCO.Ode8C13.text = ""
 meCO.Ode9C1H.ode = misc_en_UK_ware.Ode9
 meCO.Ode9C1H.mode = misc_en_UK_ware.Mode6
 meCO.Ode9C1H.melody = misc_en_UK_ware.Heirmos
-meCO.Ode9C1H.incipit = he.h.m6_en_UK_ware.MiEpodyrestheMatin.incipit
 meCO.Ode9C1H.incipit = he.h.m6_en_UK_ware.MiEpodyrestheMatin.incipit
 meCO.Ode9C1H.text = he.h.m6_en_UK_ware.MiEpodyrestheMatin.text
 
@@ -465,7 +457,6 @@ meMA.Ode3C3T.text = ""
 meMA.Ode3H.ode = misc_en_UK_ware.Ode3
 meMA.Ode3H.mode = misc_en_UK_ware.Mode7
 meMA.Ode3H.melody = misc_en_UK_ware.Heirmos
-meMA.Ode3H.incipit = he.h.m7_en_UK_ware.EstereothiIKardiaMou.incipit
 meMA.Ode3H.incipit = he.h.m7_en_UK_ware.EstereothiIKardiaMou.incipit
 meMA.Ode3H.text = he.h.m7_en_UK_ware.EstereothiIKardiaMou.text
 
@@ -704,7 +695,6 @@ meMA.Ode6H.ode = misc_en_UK_ware.Ode6
 meMA.Ode6H.mode = misc_en_UK_ware.Mode7
 meMA.Ode6H.melody = misc_en_UK_ware.Heirmos
 meMA.Ode6H.incipit = he.h.m7_en_UK_ware.OIonasEkKoilias.incipit
-meMA.Ode6H.incipit = he.h.m7_en_UK_ware.OIonasEkKoilias.incipit
 meMA.Ode6H.text = he.h.m7_en_UK_ware.OIonasEkKoilias.text
 
 meMA.Kontakion1.mode = misc_en_UK_ware.Mode4
@@ -862,7 +852,6 @@ meMA.Ode8H.ode = misc_en_UK_ware.Ode8
 meMA.Ode8H.mode = misc_en_UK_ware.Mode7
 meMA.Ode8H.melody = misc_en_UK_ware.Heirmos
 meMA.Ode8H.incipit = he.h.m7_en_UK_ware.TonMononAnarchon.incipit
-meMA.Ode8H.incipit = he.h.m7_en_UK_ware.TonMononAnarchon.incipit
 meMA.Ode8H.text = he.h.m7_en_UK_ware.TonMononAnarchon.text
 
 meMA.Ode9C1H.ode = misc_en_UK_ware.Ode9
@@ -947,7 +936,6 @@ meMA.Ode9H.ode = misc_en_UK_ware.Ode9
 meMA.Ode9H.mode = misc_en_UK_ware.Mode7
 meMA.Ode9H.melody = misc_en_UK_ware.Heirmos
 meMA.Ode9H.incipit = he.h.m7_en_UK_ware.TinYperFysinMitera.incipit
-meMA.Ode9H.incipit = he.h.m7_en_UK_ware.TinYperFysinMitera.incipit
 meMA.Ode9H.text = he.h.m7_en_UK_ware.TinYperFysinMitera.text
 
 meMA.Exaposteilarion1.mode = misc_en_UK_ware.Mode3
@@ -1016,7 +1004,6 @@ meMA.AposGlory.text = //me.m01.d02_en_UK_ware.meMA.AposGlory.text
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meMegalynarion.text = ""
@@ -1024,7 +1011,6 @@ meMegalynarion.text = ""
 meH.title = ""
 meH.translation = ""
 meH1.title = ""
-meH1.Troparion.incipit = me.m01.d05_en_UK_ware.meVE.Apolytikion1.incipit
 meH1.Troparion.incipit = me.m01.d05_en_UK_ware.meVE.Apolytikion1.incipit
 meH1.Troparion.text = me.m01.d05_en_UK_ware.meVE.Apolytikion1.text
 meH1.Idiomelon1.mode = misc_en_UK_ware.Mode8
@@ -1041,7 +1027,6 @@ meH1.Kontakion.text = //me.m01.d02_en_UK_ware.meMA.Kontakion1.text
 
 meH3.title = ""
 meH3.Troparion.incipit = me.m01.d05_en_UK_ware.meVE.Apolytikion1.incipit
-meH3.Troparion.incipit = me.m01.d05_en_UK_ware.meVE.Apolytikion1.incipit
 meH3.Troparion.text = me.m01.d05_en_UK_ware.meVE.Apolytikion1.text
 meH3.Idiomelon1.mode = misc_en_UK_ware.Mode8
 meH3.Idiomelon1.incipit = ""
@@ -1057,7 +1042,6 @@ meH3.Kontakion.text = //me.m01.d02_en_UK_ware.meMA.Kontakion1.text
 
 meH6.title = ""
 meH6.Troparion.incipit = me.m01.d05_en_UK_ware.meVE.Apolytikion1.incipit
-meH6.Troparion.incipit = me.m01.d05_en_UK_ware.meVE.Apolytikion1.incipit
 meH6.Troparion.text = me.m01.d05_en_UK_ware.meVE.Apolytikion1.text
 meH6.Idiomelon1.mode = misc_en_UK_ware.Mode8
 meH6.Idiomelon1.incipit = ""
@@ -1072,7 +1056,6 @@ meH6.Kontakion.incipit = ""
 meH6.Kontakion.text = //me.m01.d02_en_UK_ware.meMA.Kontakion1.text
 
 meH9.title = ""
-meH9.Troparion.incipit = me.m01.d05_en_UK_ware.meVE.Apolytikion1.incipit
 meH9.Troparion.incipit = me.m01.d05_en_UK_ware.meVE.Apolytikion1.incipit
 meH9.Troparion.text = me.m01.d05_en_UK_ware.meVE.Apolytikion1.text
 meH9.Idiomelon1.mode = misc_en_UK_ware.Mode7

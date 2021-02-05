@@ -86,12 +86,10 @@ trVE.Stichera05.text = ""
 trVE.SticGlory.mode = misc_en_UK_ware.Mode6
 trVE.SticGlory.melody = misc_en_UK_ware.Idiomelon
 trVE.SticGlory.incipit = trVE.Stichera01.incipit
-trVE.SticGlory.incipit = trVE.Stichera01.incipit
 trVE.SticGlory.text = trVE.Stichera01.text
 
 trVE.SticBoth.mode = misc_en_UK_ware.Mode6
 trVE.SticBoth.melody = misc_en_UK_ware.Idiomelon
-trVE.SticBoth.incipit = trVE.Stichera01.incipit
 trVE.SticBoth.incipit = trVE.Stichera01.incipit
 trVE.SticBoth.text = trVE.Stichera01.text
 
@@ -143,18 +141,15 @@ trVE.Aposticha3.text = ""
 trVE.AposGlory.mode = misc_en_UK_ware.Mode6
 trVE.AposGlory.melody = misc_en_UK_ware.Idiomelon
 trVE.AposGlory.incipit = trVE.Stichera01.incipit
-trVE.AposGlory.incipit = trVE.Stichera01.incipit
 trVE.AposGlory.text = trVE.Stichera01.text
 
 trVE.AposBoth.mode = misc_en_UK_ware.Mode6
 trVE.AposBoth.melody = misc_en_UK_ware.Idiomelon
 trVE.AposBoth.incipit = trVE.Stichera01.incipit
-trVE.AposBoth.incipit = trVE.Stichera01.incipit
 trVE.AposBoth.text = trVE.Stichera01.text
 
 trVE.Apolytikion1.mode = misc_en_UK_ware.Mode1
 trVE.Apolytikion1.melody = ""
-trVE.Apolytikion1.incipit = tr.d063_en_UK_ware.trVE.Apolytikion1.incipit
 trVE.Apolytikion1.incipit = tr.d063_en_UK_ware.trVE.Apolytikion1.incipit
 trVE.Apolytikion1.text = tr.d063_en_UK_ware.trVE.Apolytikion1.text
 
@@ -198,12 +193,10 @@ trMA.PostGospelGlory.text = ""
 trMA.PostGospelBoth.mode = misc_en_UK_ware.Mode2
 trMA.PostGospelBoth.melody = ""
 trMA.PostGospelBoth.incipit = trMA.PostGospelGlory.incipit
-trMA.PostGospelBoth.incipit = trMA.PostGospelGlory.incipit
 trMA.PostGospelBoth.text = trMA.PostGospelGlory.text
 
 trMA.PostGospelIdiomelon.mode = misc_en_UK_ware.Mode6
 trMA.PostGospelIdiomelon.melody = misc_en_UK_ware.Idiomelon
-trMA.PostGospelIdiomelon.incipit = trVE.Stichera01.incipit
 trMA.PostGospelIdiomelon.incipit = trVE.Stichera01.incipit
 trMA.PostGospelIdiomelon.text = trVE.Stichera01.text
 
@@ -213,7 +206,6 @@ trMA.C1.acrostic = ""
 trMA.Ode1C1H.ode = misc_en_UK_ware.Ode1
 trMA.Ode1C1H.mode = misc_en_UK_ware.Mode4
 trMA.Ode1C1H.melody = misc_en_UK_ware.HeirmosNotMetered
-trMA.Ode1C1H.incipit = he.h.m4_en_UK_ware.OfthisanAiPigai.incipit
 trMA.Ode1C1H.incipit = he.h.m4_en_UK_ware.OfthisanAiPigai.incipit
 trMA.Ode1C1H.text = he.h.m4_en_UK_ware.OfthisanAiPigai.text
 
@@ -235,7 +227,6 @@ trMA.Ode1C12.text = ""
 trMA.Ode3C1H.ode = misc_en_UK_ware.Ode3
 trMA.Ode3C1H.mode = misc_en_UK_ware.Mode4
 trMA.Ode3C1H.melody = misc_en_UK_ware.HeirmosNotMetered
-trMA.Ode3C1H.incipit = he.h.m4_en_UK_ware.NaousanAkrotomon.incipit
 trMA.Ode3C1H.incipit = he.h.m4_en_UK_ware.NaousanAkrotomon.incipit
 trMA.Ode3C1H.text = he.h.m4_en_UK_ware.NaousanAkrotomon.text
 
@@ -259,7 +250,6 @@ trMA.Hypakoe.text = ""
 trMA.Ode4C1H.ode = misc_en_UK_ware.Ode4
 trMA.Ode4C1H.mode = misc_en_UK_ware.Mode4
 trMA.Ode4C1H.melody = misc_en_UK_ware.HeirmosNotMetered
-trMA.Ode4C1H.incipit = he.h.m4_en_UK_ware.ChristosOErchomenos.incipit
 trMA.Ode4C1H.incipit = he.h.m4_en_UK_ware.ChristosOErchomenos.incipit
 trMA.Ode4C1H.text = he.h.m4_en_UK_ware.ChristosOErchomenos.text
 
@@ -285,7 +275,6 @@ trMA.Ode5C1H.ode = misc_en_UK_ware.Ode5
 trMA.Ode5C1H.mode = misc_en_UK_ware.Mode4
 trMA.Ode5C1H.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode5C1H.incipit = he.h.m4_en_UK_ware.TinSionEpOrous.incipit
-trMA.Ode5C1H.incipit = he.h.m4_en_UK_ware.TinSionEpOrous.incipit
 trMA.Ode5C1H.text = he.h.m4_en_UK_ware.TinSionEpOrous.text
 
 trMA.Ode5C11.ode = misc_en_UK_ware.Ode5
@@ -303,7 +292,6 @@ trMA.Ode5C12.text = ""
 trMA.Ode6C1H.ode = misc_en_UK_ware.Ode6
 trMA.Ode6C1H.mode = misc_en_UK_ware.Mode4
 trMA.Ode6C1H.melody = misc_en_UK_ware.HeirmosNotMetered
-trMA.Ode6C1H.incipit = he.h.m4_en_UK_ware.EvoisanEnEffrosyni.incipit
 trMA.Ode6C1H.incipit = he.h.m4_en_UK_ware.EvoisanEnEffrosyni.incipit
 trMA.Ode6C1H.text = he.h.m4_en_UK_ware.EvoisanEnEffrosyni.text
 
@@ -350,7 +338,6 @@ trMA.Ode7C1H.ode = misc_en_UK_ware.Ode7
 trMA.Ode7C1H.mode = misc_en_UK_ware.Mode4
 trMA.Ode7C1H.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode7C1H.incipit = he.h.m4_en_UK_ware.ODiasosasEnPyri.incipit
-trMA.Ode7C1H.incipit = he.h.m4_en_UK_ware.ODiasosasEnPyri.incipit
 trMA.Ode7C1H.text = he.h.m4_en_UK_ware.ODiasosasEnPyri.text
 
 trMA.Ode7C11.ode = misc_en_UK_ware.Ode7
@@ -375,7 +362,6 @@ trMA.Ode8C1H.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C1H.mode = misc_en_UK_ware.Mode4
 trMA.Ode8C1H.melody = misc_en_UK_ware.HeirmosNotMetered
 trMA.Ode8C1H.incipit = he.h.m4_en_UK_ware.EffranthitiIerousalim.incipit
-trMA.Ode8C1H.incipit = he.h.m4_en_UK_ware.EffranthitiIerousalim.incipit
 trMA.Ode8C1H.text = he.h.m4_en_UK_ware.EffranthitiIerousalim.text
 
 trMA.Ode8C11.ode = misc_en_UK_ware.Ode8
@@ -399,7 +385,6 @@ trMA.Ode8C13.text = ""
 trMA.Ode9C1H.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C1H.mode = misc_en_UK_ware.Mode4
 trMA.Ode9C1H.melody = misc_en_UK_ware.HeirmosNotMetered
-trMA.Ode9C1H.incipit = he.h.m4_en_UK_ware.TheosKyriosKaiEpefanenImin.incipit
 trMA.Ode9C1H.incipit = he.h.m4_en_UK_ware.TheosKyriosKaiEpefanenImin.incipit
 trMA.Ode9C1H.text = he.h.m4_en_UK_ware.TheosKyriosKaiEpefanenImin.text
 
@@ -448,7 +433,6 @@ trMA.Lauds4.text = ""
 trMA.LaudsGlory.mode = misc_en_UK_ware.Mode6
 trMA.LaudsGlory.melody = misc_en_UK_ware.Idiomelon
 trMA.LaudsGlory.incipit = trVE.Stichera05.incipit
-trMA.LaudsGlory.incipit = trVE.Stichera05.incipit
 trMA.LaudsGlory.text = trVE.Stichera05.text
 
 trLI.Antiphon2.text = ""
@@ -458,18 +442,15 @@ trLI.MM.EntranceHymn.text = properties_en_UK_ware.media.key
 trLI.Kontakion1.mode = trMA.Kontakion1.mode
 trLI.Kontakion1.melody = trMA.Kontakion1.melody
 trLI.Kontakion1.incipit = trMA.Kontakion1.incipit
-trLI.Kontakion1.incipit = trMA.Kontakion1.incipit
 trLI.Kontakion1.text = trMA.Kontakion1.text
 
 trLI.TheotokosHymn.mode = misc_en_UK_ware.Mode4
-trLI.TheotokosHymn.incipit = trMA.Ode9C1H.incipit
 trLI.TheotokosHymn.incipit = trMA.Ode9C1H.incipit
 trLI.TheotokosHymn.text = trMA.Ode9C1H.text
 
 trLI.MM.CommunionHymn.text = properties_en_UK_ware.media.key
 
 trLI.AfterCommunion.mode = misc_en_UK_ware.Mode1
-trLI.AfterCommunion.incipit = trVE.Apolytikion1.incipit
 trLI.AfterCommunion.incipit = trVE.Apolytikion1.incipit
 trLI.AfterCommunion.text = trVE.Apolytikion1.text
 
