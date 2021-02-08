@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = tr.d063_en_UK_ware
 
-trCommemoration.text = "" //full title of day
-trShortCommemoration1.text = ""
-trInsert1 = "" //for use in petitions and dismissal
-trInsert2 = "" //for use in petitions and dismissal
-trNote.text = ""
+trDA.commemoration.full = "" //full title of day
+trDA.commemoration.short = ""
+trDA.insert1 = "" //for use in petitions and dismissal
+trDA.insert2 = "" //for use in petitions and dismissal
+trDA.note = ""
 trHO.daytitle = ""
 trHO.commemorations = ""
 trHO.description1 = ""
@@ -12,7 +12,7 @@ trHO.description2 = ""
 trHO.note1 = ""
 trHO.note2 = ""
 trVL.header = "" //for pdf headers of presanctified and vesperal liturgies
-trDismissal = //dismissals_en_UK_ware.dis00.resurrection
+trDA.dismissal = //dismissals_en_UK_ware.dis00.resurrection
 
 trVE.AposIdiomelon1.mode = misc_en_UK_ware.Mode8
 trVE.AposIdiomelon1.melody = misc_en_UK_ware.Idiomelon
@@ -897,25 +897,18 @@ trMA.Kontakion1.text = "Christ, the joy of all, the truth, the light, the life, 
 
 trMA.Oikos1.text = "The Creator of the world foretold to His disciples what would come to pass, proving to them that He knows all things as the Maker of all. 'Brethren and companions, our friend has fallen asleep', He said. 'Let us go, then, and see a strange burial, and behold the tears of Mary and the tomb of Lazarus. For I shall work a miracle there, as the prelude to My Crucifixion, granting divine forgiveness unto all.'"
 
-trMA.Synaxarion.commemoration.text = ""
-trMA.Synaxarion.couplet1.title = 
-trMA.Synaxarion.couplet1.verse1 = ""
-trMA.Synaxarion.couplet1.verse2 = ""
-trMA.Synaxarion.narration1.p01.text = ""
-trMA.Synaxarion.narration1.p02.text = ""
-trMA.Synaxarion.narration1.p03.text = ""
-trMA.Synaxarion.narration1.p04.text = ""
-trMA.Synaxarion.narration1.p05.text = ""
-trMA.Synaxarion.narration1.p06.text = ""
-trMA.Synaxarion.narration1.p07.text = ""
-trMA.Synaxarion.narration2.p01.text = ""
-trMA.Synaxarion.narration2.p02.text = ""
-trMA.Synaxarion.narration2.p03.text = ""
-trMA.Synaxarion.narration2.p04.text = ""
-trMA.Synaxarion.narration2.p05.text = ""
-trMA.Synaxarion.narration2.p06.text = ""
-trMA.Synaxarion.narration2.p07.text = ""
-trMA.Synaxarion.lastline.text = ""
+trSY.commemoration.text = ""
+trSY.commemoration.couplet1.title = 
+trSY.commemoration.couplet1.verse1 = ""
+trSY.commemoration.couplet1.verse2 = ""
+trSY.commemoration.narration.p01 = ""
+trSY.commemoration.narration.p02 = ""
+trSY.commemoration.narration.p03 = ""
+trSY.commemoration.narration.p04 = ""
+trSY.commemoration.narration.p05 = ""
+trSY.commemoration.narration.p06 = ""
+trSY.commemoration.narration.p07 = ""
+trSY.lastline = ""
 
 trMA.Ode7C1H.ode = misc_en_UK_ware.Ode7
 trMA.Ode7C1H.mode = misc_en_UK_ware.Mode8

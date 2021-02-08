@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = tr.d021_en_UK_ware
 
-trCommemoration.text = "" //full title of day
-trShortCommemoration1.text = ""
-trInsert1 = "" //for use in petitions and dismissal
-trInsert2 = "" //for use in petitions and dismissal
-trNote.text = ""
+trDA.commemoration.full = "" //full title of day
+trDA.commemoration.short = ""
+trDA.insert1 = "" //for use in petitions and dismissal
+trDA.insert2 = "" //for use in petitions and dismissal
+trDA.note = ""
 trHO.daytitle = ""
 trHO.commemorations = ""
 trHO.description1 = ""
@@ -525,25 +525,18 @@ trMA.Kontakion1.text = "As preachers of godliness, putting impiety to silence, T
 
 trMA.Oikos1.text = "I looked at the pleasures of this life and I considered their nature and effect; and, measuring the toil and suffering which they cause, I judged the life of mortal man to be full of misery. You alone would I call blessed, for ye have chosen the better part: to suffer with Christ and to remain with Him, and ever to sing with the prophet David: Alleluia."
 
-trMA.Synaxarion.commemoration.text = ""
-trMA.Synaxarion.couplet1.title = //titles_en_UK_ware.Stichoi
-trMA.Synaxarion.couplet1.verse1 = ""
-trMA.Synaxarion.couplet1.verse2 = ""
-trMA.Synaxarion.narration1.p01.text = ""
-trMA.Synaxarion.narration1.p02.text = ""
-trMA.Synaxarion.narration1.p03.text = ""
-trMA.Synaxarion.narration1.p04.text = ""
-trMA.Synaxarion.narration1.p05.text = ""
-trMA.Synaxarion.narration1.p06.text = ""
-trMA.Synaxarion.narration1.p07.text = ""
-trMA.Synaxarion.narration2.p01.text = ""
-trMA.Synaxarion.narration2.p02.text = ""
-trMA.Synaxarion.narration2.p03.text = ""
-trMA.Synaxarion.narration2.p04.text = ""
-trMA.Synaxarion.narration2.p05.text = ""
-trMA.Synaxarion.narration2.p06.text = ""
-trMA.Synaxarion.narration2.p07.text = ""
-trMA.Synaxarion.lastline.text = ""
+trSY.commemoration.text = ""
+trSY.commemoration.couplet1.title = //titles_en_UK_ware.Stichoi
+trSY.commemoration.couplet1.verse1 = ""
+trSY.commemoration.couplet1.verse2 = ""
+trSY.commemoration.narration.p01 = ""
+trSY.commemoration.narration.p02 = ""
+trSY.commemoration.narration.p03 = ""
+trSY.commemoration.narration.p04 = ""
+trSY.commemoration.narration.p05 = ""
+trSY.commemoration.narration.p06 = ""
+trSY.commemoration.narration.p07 = ""
+trSY.lastline = ""
 
 trMA.Ode7C1H.ode = misc_en_UK_ware.Ode7
 trMA.Ode7C1H.mode = misc_en_UK_ware.Mode8
