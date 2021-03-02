@@ -1,0 +1,581 @@
+{'id_' : 'me|m01|d06_en_UK_ware|meDate|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meCommemoration|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meShortCommemoration1|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meCom1|title', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meCom2|title', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meInsert1', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meInsert2', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meNote|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meLE|commemoration1', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meLE|commemoration2', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meHO|number', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meHO|rank', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meHO|commemorations', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meHO|note1', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meHO|note2', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meDismissal', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Stichera01|poet', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Stichera01|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Stichera01|melody', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Stichera01|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Stichera02|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Stichera02|melody', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Stichera02|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Stichera03|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Stichera03|melody', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Stichera03|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Stichera04|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Stichera04|melody', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Stichera04|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|MM|Stichera123as567|text', 'text' : 'For media only.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|MM|Stichera1234as78910|text', 'text' : 'For media only.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|SticGlory|poet', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|SticGlory|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|SticGlory|melody', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|SticGlory|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|ProphecyTroparion1|mode', 'text' : 'Tone Five.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|ProphecyTroparion1|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|ProphecyTroparion1Refrain|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|ProphecyTroparion2|mode', 'text' : 'Tone Six.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|ProphecyTroparion2|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|ProphecyTroparion2Refrain|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|TheotokosHymn|mode', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|TheotokosHymn|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|MM|CommunionHymn|text', 'text' : 'For media only.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|title', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|translator', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|Idiomelon1|poet', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|Idiomelon1|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|Idiomelon1|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|Idiomelon2|poet', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|Idiomelon2|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|Idiomelon2|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|Idiomelon3|poet', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|Idiomelon3|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|Idiomelon3|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|IdiomelonGlory|poet', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|IdiomelonGlory|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|IdiomelonGlory|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|R01', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|Prayer1|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|R02', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|Prayer2|poet', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|Prayer2|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|R03', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|Prayer31|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|Prayer32|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|Prayer33|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|Prayer34|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|Prayer35|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|Prayer36|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|Prayer37|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|Prayer38|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|R04', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|Prayer4|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|R05', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|Prayer5|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|R06', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|Apolytikion|mode', 'text' : 'Tone One.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|Apolytikion|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|R071', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|R072', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|R073', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|R08', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|Idiomelon4|mode', 'text' : 'Tone Six.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|Idiomelon4|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meGW|R09', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Lity1|poet', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Lity1|mode', 'text' : 'Tone Four.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Lity1|melody', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Lity1|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Lity2|mode', 'text' : 'Tone Four.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Lity2|melody', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Lity2|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Lity3|mode', 'text' : 'Tone Four.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Lity3|melody', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Lity3|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Lity4|mode', 'text' : 'Tone Four.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Lity4|melody', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Lity4|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Lity5|mode', 'text' : 'Tone Four.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Lity5|melody', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Lity5|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|LityGlory|poet', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|LityGlory|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|LityGlory|melody', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|LityGlory|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|LityBoth|poet', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|LityBoth|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|LityBoth|melody', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|LityBoth|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Aposticha1|poet', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Aposticha1|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Aposticha1|melody', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Aposticha1|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Aposticha2|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Aposticha2|melody', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Aposticha2|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Aposticha3|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Aposticha3|melody', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Aposticha3|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|AposGlory|poet', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|AposGlory|mode', 'text' : 'Tone Six.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|AposGlory|melody', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|AposGlory|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Apolytikion1|mode', 'text' : 'Tone One.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Apolytikion1|melody', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meVE|Apolytikion1|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Kathisma11|mode', 'text' : 'Tone Three.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Kathisma11|melody', 'text' : '(NM) Gabriel marvelled.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Kathisma11|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Kathisma21|mode', 'text' : 'Tone Four.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Kathisma21|melody', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Kathisma21|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Kathisma31|mode', 'text' : 'Tone Four.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Kathisma31|melody', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Kathisma31|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|MM|Prokeimenon|text', 'text' : 'For media only.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|PostGospelGlory|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|PostGospelGlory|melody', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|PostGospelGlory|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|PostGospelBoth|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|PostGospelBoth|melody', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|PostGospelBoth|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|PostGospelIdiomelon|mode', 'text' : 'Tone Six.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|PostGospelIdiomelon|melody', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|PostGospelIdiomelon|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|C1Poet', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|C1Acrostic|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|C2Poet', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|C2Acrostic|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|C2Acrostic1|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|C2Acrostic2|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|C2Acrostic5|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|C2Acrostic4|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|C2Acrostic5|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C1H|ode', 'text' : 'Canticle One.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C1H|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C1H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C1H|text', 'text' : 'The Lord mighty in battle uncovered the foundations of the deep and led His servants on dry ground; but He covered their adversaries with the waters, for he has been glorified.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|C1|title', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|C1|verse', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C11|ode', 'text' : 'Canticle One.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C11|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C11|melody', 'text' : '(NM) The Lord mighty in battle.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C11|text', 'text' : 'The Lord, King of the ages, in the streams of the Jordan formed Adam anew, who was fallen into corruption, and He broke in pieces the heads of the dragons that were hidden there: for He has been glorified.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C12|ode', 'text' : 'Canticle One.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C12|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C12|melody', 'text' : '(NM) The Lord mighty in battle.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C12|text', 'text' : 'The Lord, incarnate of the Virgin, having clothed material flesh with the immaterial fire of His divinity, wraps Himself in the waters of Jordan, for He has been glorified.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C13|ode', 'text' : 'Canticle One.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C13|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C13|melody', 'text' : '(NM) The Lord mighty in battle.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C13|text', 'text' : 'The Lord who purges away the filth of men was cleansed in Jordan for their sake, having of His own will made Himself like unto them, while still remaining that which He was; and He enlightens those in darkness, for He has been glorified.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C2H|ode', 'text' : 'Canticle One.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C2H|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C2H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C2H|text', 'text' : 'Israel passed through the storm-tossed deep of the sea, That God had turned into dry land: But the dark waters completely covered The chief captains of Egypt in a watery grave Through the mighty strength of the right hand of the Master.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C2H1|text', 'text' : 'Israel passed through the storm-tossed deep of the sea,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C2H2|text', 'text' : 'That God had turned into dry land:'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C2H3|text', 'text' : 'But the dark waters completely covered'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C2H4|text', 'text' : 'The chief captains of Egypt in a watery grave '}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C2H5|text', 'text' : 'Through the mighty strength of the right hand of the Master.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|C2|title', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|C2|verse', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C21|ode', 'text' : 'Canticle One.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C21|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C21|melody', 'text' : '(NM) Israel passed through.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C21|text', 'text' : 'When the Light of the Dawn shone forth upon mortal men, Coming from the desert to the streams of the Jordan, Thou, the King of the Sun, hast bowed Thy head before him, That so Thou mightest snatch our forefather from the land of darkness, And cleanse the creation from all its filth.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C211|text', 'text' : 'When the Light of the Dawn shone forth upon mortal men,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C212|text', 'text' : 'Coming from the desert to the streams of the Jordan,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C213|text', 'text' : 'Thou, the King of the Sun, hast bowed Thy head before him,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C214|text', 'text' : 'That so Thou mightest snatch our forefather from the land of darkness,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C215|text', 'text' : 'And cleanse the creation from all its filth.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C22|ode', 'text' : 'Canticle One.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C22|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C22|melody', 'text' : '(NM) Israel passed through.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C22|text', 'text' : 'O Word without beginning, Thou hast buried man with Thee in the stream: He was corrupted by error, but Thou makest Him new again. And the Father testified to Thee ineffably, Saying with mighty voice: ‘This is My beloved Child, equal to Me by nature.’'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C221|text', 'text' : 'O Word without beginning, Thou hast buried man with Thee in the stream:'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C222|text', 'text' : 'He was corrupted by error, but Thou makest Him new again.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C223|text', 'text' : 'And the Father testified to Thee ineffably,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C224|text', 'text' : 'Saying with mighty voice:'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode1C225|text', 'text' : '‘This is My beloved Child, equal to Me by nature.’'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode3C1H|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode3C1H|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode3C1H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode3C1H|text', 'text' : 'The Lord who gives strength to our kings and exalts the horn of His anointed, is born of a Virgin and comes to baptism. Therefore let us, the faithful, cry aloud: None is holy as our God and none is righteous save Thee, O Lord.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode3C11|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode3C11|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode3C11|melody', 'text' : '(NM) The Lord who gives strength.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode3C11|text', 'text' : 'Rejoice today, 0 Church of Christ, that before wast barren and sadly childless. For through water and the Spirit sons have been born to thee, who raise their cry in faith: None is holy as our God and none is righteous save Thee, O Lord.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode3C12|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode3C12|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode3C12|melody', 'text' : '(NM) The Lord who gives strength.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode3C12|text', 'text' : 'With a loud voice the Forerunner cries in the wilderness: ‘Prepare ye the way of Christ and make straight the paths for our God, raising your cry in faith: None is holy as our God and none is righteous save Thee, O Lord.’'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode3C2H|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode3C2H|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode3C2H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode3C2H|text', 'text' : 'From the ancient snares have we all been set loose, And the jaws of the devouring lions have been broken: Let us, then, rejoice exceedingly and open wide our mouths, Weaving with words a melody to the Word Whose delight it is to bestow gifts upon us.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode3C2H1|text', 'text' : 'From the ancient snares have we all been set loose,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode3C2H2|text', 'text' : 'And the jaws of the devouring lions have been broken:'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode3C2H3|text', 'text' : 'Let us, then, rejoice exceedingly and open wide our mouths,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode3C2H4|text', 'text' : 'Weaving with words a melody to the Word'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode3C2H5|text', 'text' : 'Whose delight it is to bestow gifts upon us.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode3C21|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode3C21|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode3C21|melody', 'text' : '(NM) From the ancient snares.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode3C21|text', 'text' : 'He who once assumed the appearance of a malignant serpent And implanted death in the creation, Is now cast into darkness by Christ’s coming in the flesh: And by assailing the Master, the Dawn that has shone forth upon us, He crushes his own hateful and loathsome head.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode3C211|text', 'text' : 'He who once assumed the appearance of a malignant serpent'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode3C212|text', 'text' : 'And implanted death in the creation,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode3C213|text', 'text' : 'Is now cast into darkness by Christ’s coming in the flesh:'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode3C214|text', 'text' : 'And by assailing the Master, the Dawn that has shone forth upon us,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode3C215|text', 'text' : 'He crushes his own hateful and loathsome head.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode3C22|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode3C22|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode3C22|melody', 'text' : '(NM) From the ancient snares.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode3C22|text', 'text' : 'The Master draws to Himself the nature made by God,
+Which had been overcome by the tyranny of greed.
+A new birth He grants to the dwellers upon earth, fashioning them afresh,
+Thereby accomplishing a glorious work:
+For He has come to deliver and protect mankind.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode3C221|text', 'text' : 'The Master draws to Himself the nature made by God,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode3C222|text', 'text' : 'Which had been overcome by the tyranny of greed.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode3C223|text', 'text' : 'A new birth He grants to the dwellers upon earth, fashioning them afresh,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode3C224|text', 'text' : 'Thereby accomplishing a glorious work:'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode3C225|text', 'text' : 'For He has come to deliver and protect mankind.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Hypakoe|mode', 'text' : 'Tone Five.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Hypakoe|melody', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Hypakoe|text', 'text' : 'When Thou broughtest light to all things by Thine Epiphany, the salt sea of unbelief fled and Jordan was turned back towards its source, thereby exalting us to heaven. By the height of Thy divine commandments, preserve us through the intercessions of the Theotokos, O Christ our God, and have mercy upon us.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C1H|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C1H|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C1H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C1H|text', 'text' : 'He whom Thou hast called, O Lord, ‘The voice of one crying in the wilderness’, heard Thy voice when Thou hast thundered upon many waters, bearing witness to Thy Son. Wholly filled with the Spirit that had come, he cried aloud: ‘Thou art Christ, the wisdom and the power of God.’'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C11|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C11|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C11|melody', 'text' : '(NM) He whom Thou hast called.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C11|text', 'text' : '‘Who has ever seen the sun that is bright by nature being cleansed?’ the Preacher cried. ‘How, then, shall I wash Thee in the waters, who art the Brightness of the Glory, the Image of the everlasting Father? How shall I that am grass touch with my hand the fire of Thy divinity? For Thou art Christ, the wisdom and the power of God.’'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C12|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C12|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C12|melody', 'text' : '(NM) He whom Thou hast called.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C12|text', 'text' : '‘Moses, when he came upon Thee, displayed the holy reverence that he felt: perceiving that it was Thy voice that spoke from the bush, he forthwith turned away his gaze. How then shall I behold Thee openly, how shall I lay my hand upon Thee? For Thou art Christ, the wisdom and the power of God.’'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C13|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C13|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C13|melody', 'text' : '(NM) He whom Thou hast called.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C13|text', 'text' : '‘Endowed with an understanding soul and honoured with the power of reason, I yet respect the things that have no soul. For if I baptize Thee, I shall have as my accusers the mountain that smoked with fire, the sea which fled on either side,5 and this same Jordan which turned back. For Thou art Christ, the wisdom and the power of God.’'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C2H|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C2H|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C2H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C2H|text', 'text' : 'Cleansed by the fire of a mystic vision The Prophet sang the praises of the renewal of mortal man. Filled with the inspiration of the Spirit, he raised his voice, Telling of the Incarnation of the ineffable Word, Who has shattered the dominion of the strong.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C2H1|text', 'text' : 'Cleansed by the fire of a mystic vision'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C2H2|text', 'text' : 'The Prophet sang the praises of the renewal of mortal man.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C2H3|text', 'text' : 'Filled with the inspiration of the Spirit, he raised his voice,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C2H4|text', 'text' : 'Telling of the Incarnation of the ineffable Word,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C2H5|text', 'text' : 'Who has shattered the dominion of the strong.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C21|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C21|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C21|melody', 'text' : '(NM) Cleansed by the fire.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C21|text', 'text' : 'O Word all-shining, sent forth from the Father, Thou art come to dispel utterly the dark and evil night And the sins of mortal men, And by Thy baptism to draw up with Thee, O blessed Lord, Bright sons from the streams of Jordan.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C211|text', 'text' : 'O Word all-shining, sent forth from the Father,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C212|text', 'text' : 'Thou art come to dispel utterly the dark and evil night'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C213|text', 'text' : 'And the sins of mortal men,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C214|text', 'text' : 'And by Thy baptism to draw up with Thee, O blessed Lord,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C215|text', 'text' : 'Bright sons from the streams of Jordan.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C22|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C22|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C22|melody', 'text' : '(NM) Cleansed by the fire.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C22|text', 'text' : 'When he saw in very truth the glorious Word, The Preacher cried out plainly to the creation: ‘This is He who was before me, though He comes after me according to the flesh. Like us in form, He has shone forth in the strength of the Godhead, To drive away our hateful sin.’'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C221|text', 'text' : 'When he saw in very truth the glorious Word,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C222|text', 'text' : 'The Preacher cried out plainly to the creation:'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C223|text', 'text' : '‘This is He who was before me, though He comes after me according to the flesh.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C224|text', 'text' : 'Like us in form, He has shone forth in the strength of the Godhead,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C225|text', 'text' : 'To drive away our hateful sin.’'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C23|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C23|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C23|melody', 'text' : '(NM) Cleansed by the fire.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C23|text', 'text' : 'That He may lead us back to the live-giving pastures of Paradise, God the Word goes searching for us in the lairs of the dragons. Destroying the terrible snares which the enemy had laid for man, He makes a prisoner of him who bruised all mankind in the heel, And so He saves the creation.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C231|text', 'text' : 'That He may lead us back to the live-giving pastures of Paradise,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C232|text', 'text' : 'God the Word goes searching for us in the lairs of the dragons.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C233|text', 'text' : 'Destroying the terrible snares which the enemy had laid for man,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C234|text', 'text' : 'He makes a prisoner of him who bruised all mankind in the heel,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode4C235|text', 'text' : 'And so He saves the creation.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode5C1H|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode5C1H|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode5C1H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode5C1H|text', 'text' : 'Jesus, the Prince of Life, has come to set loose from condemnation Adam the first-formed man; and though as God He needs no cleansing, yet for the sake of fallen man He is cleansed in the Jordan. In its streams He slew the enmity and grants the peace that passes all understanding.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode5C11|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode5C11|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode5C11|melody', 'text' : '(NM) Jesus, the Prince of Life.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode5C11|text', 'text' : 'A multitude without number came to be baptized by John; and standing in their midst he raised his voice, saying: ‘Ye disobedient, who has warned you to shun the wrath to come? Offer worthy fruits to Christ, for He is present now and grants peace.’'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode5C12|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode5C12|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode5C12|melody', 'text' : '(NM) Jesus, the Prince of Life.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode5C12|text', 'text' : 'The Husbandman and Creator stands in men’s midst as one of them and searches their hearts. In His hand He has taken the winnowing fan, and in the fullness of His wisdom He cleanses the threshing floor of the whole world, dividing wheat from chaff, burning the barren and granting eternal life to those that bring forth good fruit.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode5C2H|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode5C2H|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode5C2H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode5C2H|text', 'text' : 'By the cleansing of the Spirit have we been washed From the poison of the dark and unclean enemy, And we have set out upon a new path free from error, That leads to gladness of heart past all attainment, Which only they attain whom God has reconciled unto Himself.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode5C2H1|text', 'text' : 'By the cleansing of the Spirit have we been washed'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode5C2H2|text', 'text' : 'From the poison of the dark and unclean enemy,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode5C2H3|text', 'text' : 'And we have set out upon a new path free from error,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode5C2H4|text', 'text' : 'That leads to gladness of heart past all attainment,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode5C2H5|text', 'text' : 'Which only they attain whom God has reconciled unto Himself.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode5C21|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode5C21|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode5C21|melody', 'text' : '(NM) By the cleansing of the Spirit.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode5C21|text', 'text' : 'The Maker saw in the obscurity of sin, in bonds that knew no escape, The man whom He had formed with His own hand. Raising him up, He laid him on His shoulders, And now in abundant floods He washes him clean From the ancient shame of Adam’s sinfulness.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode5C211|text', 'text' : 'The Maker saw in the obscurity of sin, in bonds that knew no escape,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode5C212|text', 'text' : 'The man whom He had formed with His own hand.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode5C213|text', 'text' : 'Raising him up, He laid him on His shoulders,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode5C214|text', 'text' : 'And now in abundant floods He washes him clean'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode5C215|text', 'text' : 'From the ancient shame of Adam’s sinfulness.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode5C22|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode5C22|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode5C22|melody', 'text' : '(NM) By the cleansing of the Spirit.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode5C22|text', 'text' : 'In piety and eagerness let us run To the undefiled fountains of the stream of salvation, And let us look upon the Word who gives us to drink From pure waters that satisfy our holy thirst: And gently He heals the disease of the world.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode5C221|text', 'text' : 'In piety and eagerness let us run'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode5C222|text', 'text' : 'To the undefiled fountains of the stream of salvation,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode5C223|text', 'text' : 'And let us look upon the Word who gives us to drink'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode5C224|text', 'text' : 'From pure waters that satisfy our holy thirst:'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode5C225|text', 'text' : 'And gently He heals the disease of the world.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode6C1H|ode', 'text' : 'Canticle Six.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode6C1H|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode6C1H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode6C1H|text', 'text' : 'The Voice of the Word, the Candlestick of the Light, the Morning Star and Forerunner of the Sun, cried in the wilderness to all the peoples: ‘Repent and be cleansed while there is yet time. For lo, Christ is at hand, who delivers the world from corruption.’'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode6C11|ode', 'text' : 'Canticle Six.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode6C11|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode6C11|melody', 'text' : '(NM) The Voice of the Word.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode6C11|text', 'text' : 'Christ was begotten without change from God the Father, and made flesh without defilement from the Virgin: and as the Forerunner teaches, it is not possible to loose the latchet of His shoes, the bond that joins the Word to our nature. He it is who delivers those born on earth from error.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode6C12|ode', 'text' : 'Canticle Six.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode6C12|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode6C12|melody', 'text' : '(NM) The Voice of the Word.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode6C12|text', 'text' : 'Christ baptizes in the fire of the Last Day those who are disobedient and believe not that He is God: but through the Spirit and by the grace that comes through water He grants a new birth new birth to all who acknowledge His divinity, delivering them from their faults.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode6C2H|ode', 'text' : 'Canticle Six.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode6C2H|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode6C2H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode6C2H|text', 'text' : 'The Father in a voice full of joy Made manifest His Beloved whom He had begotten from the womb. ‘Verily,’ said He, ‘this is My offspring, of the same nature as Myself: Bearing light, He has come forth from mankind, My living Word, in divine providence made a mortal man.’'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode6C2H1|text', 'text' : 'The Father in a voice full of joy'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode6C2H2|text', 'text' : 'Made manifest His Beloved whom He had begotten from the womb.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode6C2H3|text', 'text' : '‘Verily,’ said He, ‘this is My offspring, of the same nature as Myself:'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode6C2H4|text', 'text' : 'Bearing light, He has come forth from mankind,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode6C2H5|text', 'text' : 'My living Word, in divine providence made a mortal man.’'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode6C21|ode', 'text' : 'Canticle Six.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode6C21|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode6C21|melody', 'text' : '(NM) The Father in a voice.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode6C21|text', 'text' : 'The Prophet, mysteriously swallowed up for the space of three nights
+In the belly of the sea monster,
+Came forth again, making manifest beforehand to all
+Our regeneration at the last times
+And our deliverance from the dragon that slays mankind.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode6C211|text', 'text' : 'The Prophet, mysteriously swallowed up for the space of three nights'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode6C212|text', 'text' : 'In the belly of the sea monster,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode6C213|text', 'text' : 'Came forth again, making manifest beforehand to all'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode6C214|text', 'text' : 'Our regeneration at the last times'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode6C215|text', 'text' : 'And our deliverance from the dragon that slays mankind.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode6C22|ode', 'text' : 'Canticle Six.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode6C22|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode6C22|melody', 'text' : '(NM) The Father in a voice.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode6C22|text', 'text' : 'When the shining vaults of heaven were opened, He who knew the mysteries saw the Spirit, Who proceeds from the Father and rests on the immaculate Word, Descending in ways past speech in the form of a dove: And he commanded the multitudes to hasten to the Master.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode6C221|text', 'text' : 'When the shining vaults of heaven were opened,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode6C222|text', 'text' : 'He who knew the mysteries saw the Spirit,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode6C223|text', 'text' : 'Who proceeds from the Father and rests on the immaculate Word,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode6C224|text', 'text' : 'Descending in ways past speech in the form of a dove:'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode6C225|text', 'text' : 'And he commanded the multitudes to hasten to the Master.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Kontakion1|poet', 'text' : 'by Romanos the Melodist'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Kontakion1|mode', 'text' : 'Tone Four.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Kontakion1|melody', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Kontakion1|text', 'text' : 'Thou hast appeared today to the inhabited earth, and Thy light, O Lord, has been marked upon us, who with knowledge sing Thy praise: Thou hast come, Thou art made manifest, the Light that no man can approach.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Oikos1|text', 'text' : 'Upon Galilee of the Gentiles, upon the land of Zabulon and the land of Nephthalim, as the prophet said, a great light has shone, even Christ. To those that sat in darkness a bright dawn has appeared as lightning from Bethlehem. The Lord born from Mary, the Sun of Righteousness, sheds His rays upon the whole inhabited earth. Come then, naked children of Adam, and let us clothe ourselves in Him, that we may warm ourselves. Thou who art a protection and veil to the naked, a light to those in darkness, Thou hast come, Thou art made manifest, the Light that no man can approach.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C1H|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C1H|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C1H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C1H|text', 'text' : 'The breath of the wind heavy with dew and the descent of the angel of God preserved the Holy Children from all harm, as they walked in the fiery furnace. Refreshed with dew in the flames, they sang in thanksgiving: ‘Blessed art Thou and praised above all, O Lord God of our fathers.’'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C11|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C11|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C11|melody', 'text' : '(NM) The breath of the wind.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C11|text', 'text' : 'ln trembling and wonder as if in heaven, the angelic powers stood by the Jordan, watching the great condescension of God: how He who holds dominion over the waters that are above the firmament stood in the waters in bodily form, He who is the God of our fathers.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C12|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C12|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C12|melody', 'text' : '(NM) The breath of the wind.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C12|text', 'text' : 'The sea and cloud in which the people of Israel were once baptized by Moses the Lawgiver, as they journeyed from Egypt, prefigured the wonder of the baptism of God. The sea was an image of the water and the cloud an image of the Spirit, whereby we are initiated and cry aloud: Blessed art Thou, O God of our fathers.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C13|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C13|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C13|melody', 'text' : '(NM) The breath of the wind.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C13|text', 'text' : 'O let us all, the faithful, discoursing on divine things, join the angels in never-silent hymns to glorify the God in whom we have received initiation, Father, Son, and Holy Spirit, the Trinity, consubstantial in Persons yet one God, to whom we sing: Blessed art Thou, O Lord God of our fathers.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C2H|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C2H|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C2H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C2H|text', 'text' : 'He who stilled the heat of the flame of the furnace That mounted high in the air and encircled the godly Children, Burnt the heads of the dragons in the stream of the Jordan: And with the dew of the Spirit He washes away All the stubborn obscurity of sin.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C2H1|text', 'text' : 'He who stilled the heat of the flame of the furnace '}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C2H2|text', 'text' : 'That mounted high in the air and encircled the godly Children,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C2H3|text', 'text' : 'Burnt the heads of the dragons in the stream of the Jordan:'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C2H4|text', 'text' : 'And with the dew of the Spirit He washes away'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C2H5|text', 'text' : 'All the stubborn obscurity of sin.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C21|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C21|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C21|melody', 'text' : '(NM) He who stilled the heat.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C21|text', 'text' : 'The fierce Assyrian flame that prefigured Thee Hast Thou quenched, changing it to dew: And now Thou hast clothed Thyself in water, O Christ, and so dost burn up The evil spoiler hidden in its depths, Who calls men to follow the path that leads to destruction.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C211|text', 'text' : 'The fierce Assyrian flame that prefigured Thee'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C212|text', 'text' : 'Hast Thou quenched, changing it to dew:'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C213|text', 'text' : 'And now Thou hast clothed Thyself in water, O Christ, and so dost burn up'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C214|text', 'text' : 'The evil spoiler hidden in its depths,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C215|text', 'text' : 'Who calls men to follow the path that leads to destruction.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C22|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C22|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C22|melody', 'text' : '(NM) He who stilled the heat.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C22|text', 'text' : 'Of old the Jordan was parted in two, And the people of Israel passed over on a narrow piece of dry land, Prefiguring Thee, O Lord most powerful, Who now makest haste to bear the creation down into the stream, Bringing it to a better and a changeless path.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C221|text', 'text' : 'Of old the Jordan was parted in two,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C222|text', 'text' : 'And the people of Israel passed over on a narrow piece of dry land,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C223|text', 'text' : 'Prefiguring Thee, O Lord most powerful,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C224|text', 'text' : 'Who now makest haste to bear the creation down into the stream,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C225|text', 'text' : 'Bringing it to a better and a changeless path.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C23|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C23|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C23|melody', 'text' : '(NM) He who stilled the heat.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C23|text', 'text' : 'We know that in the beginning Thou hast brought upon the world the all-ruining flood, Unto the lamentable destruction of all things, O God who revealest wonders most great and strange: And now, O Christ, Thou hast drowned sin in the waters Unto the comfort and salvation of mortal men.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C231|text', 'text' : 'We know that in the beginning Thou hast brought upon the world the all-ruining flood,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C232|text', 'text' : 'Unto the lamentable destruction of all things,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C233|text', 'text' : 'O God who revealest wonders most great and strange:'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C234|text', 'text' : 'And now, O Christ, Thou hast drowned sin in the waters'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode7C235|text', 'text' : 'Unto the comfort and salvation of mortal men.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C1H|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C1H|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C1H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C1H|text', 'text' : 'The Babylonian furnace, as it poured forth dew, foreshadowed a marvellous mystery: how the Jordan should receive in its streams the immaterial fire, and should encompass the Creator, when He was baptized in the flesh. Him do ye peoples bless and exalt above all for ever.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C11|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C11|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C11|melody', 'text' : '(NM) The Babylonian furnace.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C11|text', 'text' : 'The Deliverer said to the Forerunner: ‘Cast aside all fear and, obedient to My command, draw near Me, for by nature I am good and full of love. Yield to My ordinance and baptize Me, who have come down in condescension, whom the peoples bless and exalt above all for ever.’'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C12|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C12|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C12|melody', 'text' : '(NM) The Babylonian furnace.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C12|text', 'text' : 'When the Baptist heard the Master’s words, he stretched out his hand in trembling; and as he touched the head of his Creator, he cried aloud to Him who was baptized: ‘Sanctify me, for Thou art my God, whom the peoples bless and exalt above all for even’'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C13|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C13|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C13|melody', 'text' : '(NM) The Babylonian furnace.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C13|text', 'text' : 'The Trinity was made manifest in the Jordan. For, supreme in Godhead, the Father proclaimed, saying, ‘He who is here baptized is My beloved Son’, and the Spirit rested upon His Equal in Godhead, whom the peoples bless and exalt above all for ever.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C2H|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C2H|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C2H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C2H|text', 'text' : 'The creation finds itself set free, And those in darkness are now made sons of light: Alone the prince of darkness groans. Let all the inheritance of the nations, that was before in misery, Now bless with eagerness Him who has wrought this change.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C2H1|text', 'text' : 'The creation finds itself set free,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C2H2|text', 'text' : 'And those in darkness are now made sons of light:'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C2H3|text', 'text' : 'Alone the prince of darkness groans.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C2H4|text', 'text' : 'Let all the inheritance of the nations, that was before in misery,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C2H5|text', 'text' : 'Now bless with eagerness Him who has wrought this change.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C21|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C21|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C21|melody', 'text' : '(NM) The creation finds itself.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C21|text', 'text' : 'The three godly Children who were sprinkled with dew in the fire Plainly prefigured how the Most High God, Who shines with the bright rays of a threefold holiness, Should mingle with mortal men, to their great blessing, Consuming all deadly error in the fire of dew.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C211|text', 'text' : 'The three godly Children who were sprinkled with dew in the fire'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C212|text', 'text' : 'Plainly prefigured how the Most High God,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C213|text', 'text' : 'Who shines with the bright rays of a threefold holiness,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C214|text', 'text' : 'Should mingle with mortal men, to their great blessing,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C215|text', 'text' : 'Consuming all deadly error in the fire of dew.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C22|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C22|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C22|melody', 'text' : '(NM) The creation finds itself.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C22|text', 'text' : 'Let the whole earthly creation clothe itself in white, For this day it is raised up from its fall from heaven. The Word who preserves all things Has cleansed it in the flowing waters: Washed and resplendent, it has escaped from its former sins.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C221|text', 'text' : 'Let the whole earthly creation clothe itself in white,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C222|text', 'text' : 'For this day it is raised up from its fall from heaven.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C223|text', 'text' : 'The Word who preserves all things'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C224|text', 'text' : 'Has cleansed it in the flowing waters:'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode8C225|text', 'text' : 'Washed and resplendent, it has escaped from its former sins.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C1M01|text', 'text' : 'Magnify, O my soul, her who is greater in honour than the hosts on high.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C1M02|text', 'text' : 'Magnify, O my soul, Him who is come to be baptized in Jordan.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C1M03|text', 'text' : 'Magnify, O my soul, Him who receives baptism from the Forerunner.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C1M04|text', 'text' : 'Magnify, O my soul, Him to whom the voice of the Father bore witness.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C1M05|text', 'text' : 'Magnify, O my soul, one of the Trinity who bowed His head and received baptism.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C1M06|text', 'text' : '‘O Prophet, come to Me: stretch out thine hand and baptize Me swiftly.’'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C1M07|text', 'text' : '‘O Prophet, suffer it to be so now, and baptize me as | wish: for l have come to fulfil all righteousness.’'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C2M01|text', 'text' : 'Today the Master bows His head beneath the hand of the Forerunner.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C2M02|text', 'text' : 'Today John baptizes the Master in the streams of Jordan.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C2M03|text', 'text' : 'Today the Master buries in the waters the sin of mortal man.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C2M04|text', 'text' : 'Today the Master receives testimony from on high, that He is the beloved Son.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C2M05|text', 'text' : 'Today the Master has come to sanctify the nature of the waters.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C2M06|text', 'text' : 'Today the Master receives baptism at the hand of the Forerunner.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C2MTr|text', 'text' : 'Magnify, O my soul, the power of the undivided Godhead in three Persons.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C2MTh|text', 'text' : 'Magnify, O my soul, her that has delivered us from the curse.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C1H|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C1H|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C1H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C1H|text', 'text' : 'Every tongue is at a loss to praise thee as is due: even a spirit from the world above is filled with dizziness, when it seeks to sing thy praises, O Theotokos. But since Thou art good, accept our faith: Thou knowest well our love inspired by God, for thou art the Protector of Christians and we magnify thee.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C11|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C11|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C11|melody', 'text' : '(NM) Every tongue is at a loss.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C11|text', 'text' : 'O David, come in spirit to those who are now to be enlightened and sing: ‘Approach ye now to God in faith and receive enlightenment. Fallen Adam, the poor man, cried and the Lord heard him: He has come and in the streams of Jordan He has made him new again, who was sunk in corruption.’'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C12|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C12|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C12|melody', 'text' : '(NM) Every tongue is at a loss.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C12|text', 'text' : '‘Wash you, make you clean’, says Isaiah. ‘Put away the evil of your doings from before the Lord. Ho, everyone that thirsteth, come ye to the living waters: for Christ will sprinkle with the water of renewal those who hasten to Him in faith, and He baptizes them with the Spirit unto life that grows not old.’'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C13|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C13|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C13|melody', 'text' : '(NM) Every tongue is at a loss.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C13|text', 'text' : 'Let us, the faithful, keep ourselves safe through grace and through the seal of baptism. In the past the Hebrews fled destruction by marking the door posts with blood; so also this divine washing unto regeneration4 shall be our Exodus, and going hence, we shall behold the light of the Trinity that never sets.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C2H|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C2H|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C2H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C2H|text', 'text' : 'O most pure Bride, O blessed Mother, The wonders of Thy birthgiving pass all understanding. Through thee we have obtained salvation in all things, And, as is right and meet, we rejoice before thee our Benefactor, Bearing as gift a song of thanksgiving.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C2H1|text', 'text' : 'O most pure Bride, O blessed Mother,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C2H2|text', 'text' : 'The wonders of Thy birthgiving pass all understanding.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C2H3|text', 'text' : 'Through thee we have obtained salvation in all things,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C2H4|text', 'text' : 'And, as is right and meet, we rejoice before thee our Benefactor,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C2H5|text', 'text' : 'Bearing as gift a song of thanksgiving.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C21|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C21|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C21|melody', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C21|text', 'text' : 'That which was revealed to Moses in the bush We see accomplished here in strange manner. The Virgin bore Fire within her, yet was not consumed, When she gave birth to the Benefactor who brings us light, And the streams of Jordan suffered no harm when they received Him.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C211|text', 'text' : 'That which was revealed to Moses in the bush'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C212|text', 'text' : 'We see accomplished here in strange manner.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C213|text', 'text' : 'The Virgin bore Fire within her, yet was not consumed,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C214|text', 'text' : 'When she gave birth to the Benefactor who brings us light,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C215|text', 'text' : 'And the streams of Jordan suffered no harm when they received Him.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C22|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C22|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C22|melody', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C22|text', 'text' : 'O King without beginning, through the communion of the Spirit Thou dost anoint and make perfect the nature of mankind. Thou hast cleansed it in the undefiled streams, Putting to shame the arrogant force of darkness, And now Thou dost translate it unto endless life.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C221|text', 'text' : 'O King without beginning, through the communion of the Spirit'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C222|text', 'text' : 'Thou dost anoint and make perfect the nature of mankind.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C223|text', 'text' : 'Thou hast cleansed it in the undefiled streams,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C224|text', 'text' : 'Putting to shame the arrogant force of darkness,'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Ode9C225|text', 'text' : 'And now Thou dost translate it unto endless life.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Exaposteilarion1|poet', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Exaposteilarion1|mode', 'text' : 'Tone Three.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Exaposteilarion1|melody', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Exaposteilarion1|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Lauds1|poet', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Lauds1|mode', 'text' : 'Tone One.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Lauds1|melody', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Lauds1|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Lauds2|mode', 'text' : 'Tone One.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Lauds2|melody', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Lauds2|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Lauds3|mode', 'text' : 'Tone One.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Lauds3|melody', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Lauds3|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Lauds4|mode', 'text' : 'Tone One.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Lauds4|melody', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Lauds4|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Lauds5|poet', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Lauds5|mode', 'text' : 'Tone One.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Lauds5|melody', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|Lauds5|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|LaudsGlory|poet', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|LaudsGlory|mode', 'text' : 'Tone Six.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|LaudsGlory|melody', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|LaudsGlory|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|LaudsBoth|poet', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|LaudsBoth|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|LaudsBoth|melody', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|LaudsBoth|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meMA|MM|Lauds1234as5678|text', 'text' : 'For media only.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meLI|Antiphon2|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meLI|MM|EntranceHymn|text', 'text' : 'For media only.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meLI|MM|EntranceHymnSunday|text', 'text' : 'For media only.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meLI|Kontakion1|mode', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meLI|Kontakion1|melody', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meLI|Kontakion1|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meLI|TheotokosHymn|mode', 'text' : 'Tone Two'}
+{'id_' : 'me|m01|d06_en_UK_ware|meLI|TheotokosHymnVerse|text', 'text' : 'Magnify, O my soul, her who is greater in honour than the hosts on high.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meLI|TheotokosHymn|text', 'text' : ''}
+{'id_' : 'me|m01|d06_en_UK_ware|meLI|MM|CommunionHymn|text', 'text' : 'For media only.'}
+{'id_' : 'me|m01|d06_en_UK_ware|meMegalynarion|text', 'text' : ''}

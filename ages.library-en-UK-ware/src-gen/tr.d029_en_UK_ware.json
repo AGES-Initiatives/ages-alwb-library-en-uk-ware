@@ -1,0 +1,591 @@
+{'id_' : 'tr|d029_en_UK_ware|trCommemoration|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trShortCommemoration1|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trInsert1', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trInsert2', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trNote|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trHO|daytitle', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trHO|commemorations', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trHO|description1', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trHO|description2', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trHO|note1', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trHO|note2', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trDismissal', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trSV|poet', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trSV|Stichera1|mode', 'text' : 'Tone One.'}
+{'id_' : 'tr|d029_en_UK_ware|trSV|Stichera1|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trSV|Stichera1|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trSV|Stichera2|mode', 'text' : 'Tone One.'}
+{'id_' : 'tr|d029_en_UK_ware|trSV|Stichera2|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trSV|Stichera2|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trSV|Stichera3|mode', 'text' : 'Tone One.'}
+{'id_' : 'tr|d029_en_UK_ware|trSV|Stichera3|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trSV|Stichera3|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trSV|Stichera4|mode', 'text' : 'Tone One.'}
+{'id_' : 'tr|d029_en_UK_ware|trSV|Stichera4|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trSV|Stichera4|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trSV|SticGlory|mode', 'text' : 'Tone One.'}
+{'id_' : 'tr|d029_en_UK_ware|trSV|SticGlory|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trSV|SticGlory|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trSV|Aposticha1|mode', 'text' : 'Tone Two'}
+{'id_' : 'tr|d029_en_UK_ware|trSV|Aposticha1|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trSV|Aposticha1|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trSV|Aposticha2|mode', 'text' : 'Tone Two'}
+{'id_' : 'tr|d029_en_UK_ware|trSV|Aposticha2|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trSV|Aposticha2|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trSV|Aposticha3|mode', 'text' : 'Tone Two'}
+{'id_' : 'tr|d029_en_UK_ware|trSV|Aposticha3|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trSV|Aposticha3|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trSV|AposGlory|mode', 'text' : 'Tone Two'}
+{'id_' : 'tr|d029_en_UK_ware|trSV|AposGlory|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trSV|AposGlory|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trVE|Stichera01|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d029_en_UK_ware|trVE|Stichera01|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trVE|Stichera01|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trVE|Stichera02|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d029_en_UK_ware|trVE|Stichera02|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trVE|Stichera02|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trVE|Stichera03|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d029_en_UK_ware|trVE|Stichera03|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trVE|Stichera03|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trVE|Stichera04|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d029_en_UK_ware|trVE|Stichera04|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trVE|Stichera04|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trVE|SticGlory|mode', 'text' : 'Tone Two'}
+{'id_' : 'tr|d029_en_UK_ware|trVE|SticGlory|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trVE|SticGlory|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trVE|LityGlory|mode', 'text' : 'Tone Two'}
+{'id_' : 'tr|d029_en_UK_ware|trVE|LityGlory|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trVE|LityGlory|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trVE|LityBoth|mode', 'text' : 'Tone Two'}
+{'id_' : 'tr|d029_en_UK_ware|trVE|LityBoth|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trVE|LityBoth|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trVE|AposGlory|mode', 'text' : 'Tone Two'}
+{'id_' : 'tr|d029_en_UK_ware|trVE|AposGlory|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trVE|AposGlory|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trVE|AposTheotokion|mode', 'text' : 'Tone Two'}
+{'id_' : 'tr|d029_en_UK_ware|trVE|AposTheotokion|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trVE|AposTheotokion|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trVE|Apolytikion1|mode', 'text' : 'Tone Two'}
+{'id_' : 'tr|d029_en_UK_ware|trVE|Apolytikion1|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trVE|Apolytikion1|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trVE|ApolTheotokion|mode', 'text' : 'Tone Two'}
+{'id_' : 'tr|d029_en_UK_ware|trVE|ApolTheotokion|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trVE|ApolTheotokion|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|PostGospelGlory|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|PostGospelGlory|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|PostGospelGlory|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|PostGospelBoth|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|PostGospelBoth|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|PostGospelBoth|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|PostGospelIdiomelon|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|PostGospelIdiomelon|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|PostGospelIdiomelon|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|C1Poet', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|C1Acrostic|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|C1|title', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|C1|verse', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode1C11|ode', 'text' : 'Canticle One.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode1C11|mode', 'text' : 'Tone Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode1C11|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode1C11|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode1C12|ode', 'text' : 'Canticle One.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode1C12|mode', 'text' : 'Tone Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode1C12|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode1C12|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode1C13|ode', 'text' : 'Canticle One.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode1C13|mode', 'text' : 'Tone Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode1C13|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode1C13|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode1C14|ode', 'text' : 'Canticle One.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode1C14|mode', 'text' : 'Tone Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode1C14|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode1C14|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode1C1T|ode', 'text' : 'Canticle One.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode1C1T|mode', 'text' : 'Tone Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode1C1T|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode1C1T|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode3C11|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode3C11|mode', 'text' : 'Tone Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode3C11|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode3C11|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode3C12|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode3C12|mode', 'text' : 'Tone Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode3C12|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode3C12|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode3C13|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode3C13|mode', 'text' : 'Tone Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode3C13|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode3C13|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode3C14|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode3C14|mode', 'text' : 'Tone Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode3C14|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode3C14|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode3C1T|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode3C1T|mode', 'text' : 'Tone Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode3C1T|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode3C1T|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode3Kathisma1|mode', 'text' : 'Tone One.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode3Kathisma1|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode3Kathisma1|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode3Kathisma2|mode', 'text' : 'Tone One.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode3Kathisma2|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode3Kathisma2|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode3Kathisma3|mode', 'text' : 'Tone One.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode3Kathisma3|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode3Kathisma3|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode4C11|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode4C11|mode', 'text' : 'Tone Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode4C11|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode4C11|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode4C12|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode4C12|mode', 'text' : 'Tone Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode4C12|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode4C12|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode4C13|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode4C13|mode', 'text' : 'Tone Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode4C13|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode4C13|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode4C14|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode4C14|mode', 'text' : 'Tone Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode4C14|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode4C14|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode4C1T|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode4C1T|mode', 'text' : 'Tone Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode4C1T|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode4C1T|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode5C11|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode5C11|mode', 'text' : 'Tone Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode5C11|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode5C11|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode5C12|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode5C12|mode', 'text' : 'Tone Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode5C12|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode5C12|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode5C13|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode5C13|mode', 'text' : 'Tone Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode5C13|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode5C13|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode5C14|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode5C14|mode', 'text' : 'Tone Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode5C14|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode5C14|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode5C1T|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode5C1T|mode', 'text' : 'Tone Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode5C1T|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode5C1T|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode6C11|ode', 'text' : 'Canticle Six.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode6C11|mode', 'text' : 'Tone Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode6C11|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode6C11|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode6C12|ode', 'text' : 'Canticle Six.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode6C12|mode', 'text' : 'Tone Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode6C12|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode6C12|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode6C13|ode', 'text' : 'Canticle Six.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode6C13|mode', 'text' : 'Tone Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode6C13|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode6C13|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode6C1T|ode', 'text' : 'Canticle Six.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode6C1T|mode', 'text' : 'Tone Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode6C1T|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode6C1T|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Kontakion1|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Kontakion1|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Kontakion1|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Oikos1|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Synaxarion|commemoration|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Synaxarion|couplet1|title', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Synaxarion|couplet1|verse1', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Synaxarion|couplet1|verse2', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Synaxarion|narration1|p01|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Synaxarion|narration1|p02|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Synaxarion|narration1|p03|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Synaxarion|narration1|p04|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Synaxarion|narration1|p05|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Synaxarion|narration1|p06|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Synaxarion|narration1|p07|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Synaxarion|narration2|p01|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Synaxarion|narration2|p02|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Synaxarion|narration2|p03|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Synaxarion|narration2|p04|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Synaxarion|narration2|p05|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Synaxarion|narration2|p06|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Synaxarion|narration2|p07|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Synaxarion|lastline|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode7C11|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode7C11|mode', 'text' : 'Tone Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode7C11|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode7C11|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode7C12|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode7C12|mode', 'text' : 'Tone Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode7C12|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode7C12|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode7C13|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode7C13|mode', 'text' : 'Tone Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode7C13|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode7C13|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode7C1T|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode7C1T|mode', 'text' : 'Tone Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode7C1T|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode7C1T|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode8C11|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode8C11|mode', 'text' : 'Tone Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode8C11|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode8C11|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode8C12|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode8C12|mode', 'text' : 'Tone Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode8C12|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode8C12|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode8C13|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode8C13|mode', 'text' : 'Tone Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode8C13|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode8C13|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode8C1T|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode8C1T|mode', 'text' : 'Tone Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode8C1T|melody', 'text' : '(NM) '}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode8C1T|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode9C11|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode9C11|mode', 'text' : 'Tone Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode9C11|melody', 'text' : '(NM) Christ, the corner-stone.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode9C11|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode9C12|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode9C12|mode', 'text' : 'Tone Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode9C12|melody', 'text' : '(NM) Christ, the corner-stone.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode9C12|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode9C13|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode9C13|mode', 'text' : 'Tone Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode9C13|melody', 'text' : '(NM) Christ, the corner-stone.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode9C13|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode9C1T|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode9C1T|mode', 'text' : 'Tone Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode9C1T|melody', 'text' : '(NM) Christ, the corner-stone.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Ode9C1T|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Exaposteilarion1|mode', 'text' : 'Tone Two'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Exaposteilarion1|melody', 'text' : '(NM)'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Exaposteilarion1|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|ExapTheotokion|mode', 'text' : 'Tone Two'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|ExapTheotokion|melody', 'text' : '(NM)'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|ExapTheotokion|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Lauds1|mode', 'text' : 'Tone Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Lauds1|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Lauds1|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Lauds2|mode', 'text' : 'Tone Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Lauds2|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Lauds2|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Lauds3|mode', 'text' : 'Tone Four.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Lauds3|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|Lauds3|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|LaudsGlory|mode', 'text' : 'Tone Six.'}
+{'id_' : 'tr|d029_en_UK_ware|trMA|LaudsGlory|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|LaudsGlory|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|LaudsTheotokion|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|LaudsTheotokion|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trMA|LaudsTheotokion|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trLI|Antiphon2|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trLI|MM|EntranceHymn|text', 'text' : 'For media only.'}
+{'id_' : 'tr|d029_en_UK_ware|trLI|Kontakion1|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trLI|Kontakion1|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trLI|Kontakion1|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trLI|TheotokosHymn|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'tr|d029_en_UK_ware|trLI|TheotokosHymn|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trLI|MM|CommunionHymn|text', 'text' : 'For media only.'}
+{'id_' : 'tr|d029_en_UK_ware|trMegalynarion|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|poet', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode11|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode11|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode11|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode11|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode12|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode12|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode12|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode12|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode13|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode13|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode13|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode13|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode14|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode14|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode14|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode14|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode15|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode15|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode15|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode15|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode16|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode16|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode16|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode16|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode17|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode17|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode17|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode17|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode1Tr|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode1Tr|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode1Tr|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode1Tr|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode1T|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode1T|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode1T|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode1T|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode31|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode31|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode31|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode31|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode32|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode32|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode32|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode32|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode33|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode33|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode33|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode33|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode34|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode34|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode34|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode34|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode35|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode35|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode35|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode35|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode36|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode36|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode36|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode36|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode37|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode37|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode37|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode37|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode3Tr|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode3Tr|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode3Tr|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode3Tr|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode3T|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode3T|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode3T|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode3T|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode41|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode41|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode41|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode41|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode42|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode42|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode42|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode42|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode43|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode43|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode43|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode43|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode44|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode44|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode44|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode44|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode45|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode45|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode45|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode45|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode46|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode46|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode46|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode46|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode47|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode47|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode47|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode47|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode4Tr|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode4Tr|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode4Tr|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode4Tr|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode4T|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode4T|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode4T|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode4T|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode51|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode51|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode51|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode51|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode52|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode52|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode52|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode52|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode53|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode53|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode53|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode53|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode54|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode54|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode54|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode54|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode55|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode55|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode55|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode55|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode56|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode56|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode56|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode56|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode57|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode57|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode57|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode57|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode5Tr|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode5Tr|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode5Tr|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode5Tr|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode5T|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode5T|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode5T|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode5T|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode61|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode61|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode61|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode61|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode62|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode62|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode62|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode62|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode63|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode63|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode63|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode63|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode64|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode64|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode64|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode64|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode65|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode65|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode65|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode65|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode66|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode66|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode66|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode66|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode67|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode67|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode67|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode67|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode6Tr|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode6Tr|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode6Tr|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode6Tr|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode6T|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode6T|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode6T|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode6T|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode71|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode71|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode71|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode71|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode72|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode72|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode72|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode72|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode73|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode73|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode73|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode73|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode74|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode74|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode74|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode74|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode75|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode75|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode75|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode75|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode76|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode76|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode76|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode76|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode77|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode77|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode77|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode77|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode7Tr|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode7Tr|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode7Tr|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode7Tr|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode7T|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode7T|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode7T|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode7T|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode81|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode81|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode81|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode81|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode82|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode82|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode82|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode82|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode83|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode83|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode83|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode83|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode84|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode84|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode84|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode84|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode85|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode85|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode85|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode85|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode86|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode86|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode86|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode86|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode8Tr|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode8Tr|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode8Tr|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode8Tr|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode8T|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode8T|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode8T|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode8T|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode91|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode91|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode91|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode91|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode92|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode92|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode92|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode92|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode93|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode93|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode93|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode93|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode94|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode94|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode94|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode94|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode95|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode95|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode95|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode95|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode96|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode96|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode96|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode96|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode97|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode97|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode97|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode97|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode9Tr|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode9Tr|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode9Tr|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode9Tr|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode9T|ode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode9T|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode9T|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Ode9T|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Troparion1|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Troparion1|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Troparion1|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Troparion2|mode', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Troparion2|melody', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|trCA|Troparion2|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|tr|IconsProcession|title', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|tr|Synodikon|title', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|tr|Synodikon1|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|tr|Synodikon2|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|tr|Synodikon3|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|tr|Synodikon4|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|tr|Synodikon5|text', 'text' : ''}
+{'id_' : 'tr|d029_en_UK_ware|tr|Synodikon6|text', 'text' : ''}
