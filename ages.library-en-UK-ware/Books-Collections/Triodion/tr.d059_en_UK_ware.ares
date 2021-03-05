@@ -13,53 +13,53 @@ trHO.note1 = ""
 trHO.note2 = ""
 
 trVE.Stichera01.mode = misc_en_UK_ware.Mode6
-trVE.Stichera01.melody = he.a.m6_en_UK_ware.OlinApothemenoi.incipit
-trVE.Stichera01.incipit = "My strength is weakened by"
+trVE.Stichera01.melody = he.a.m6_en_UK_ware.OlinApothemenoi.name
+trVE.Stichera01.incipit = "My strength is weakened by…"
 trVE.Stichera01.text = "My strength is weakened by my many sins and by the pleasures of this life, and in my misery, O Master, I lie always on the bed of slothfulness; but I cry to Thee: With loving compassion come and visit me, granting me health and mercy. Forsake me not, lest I sleep in death and the enemy rejoices over my destruction: for he seeks to drag me down, O Saviour, into the fearful depths of hell."
 
 trVE.Stichera02.mode = misc_en_UK_ware.Mode6
-trVE.Stichera02.melody = he.a.m6_en_UK_ware.OlinApothemenoi.incipit
-trVE.Stichera02.incipit = "I have rivalled in foolishness"
+trVE.Stichera02.melody = he.a.m6_en_UK_ware.OlinApothemenoi.name
+trVE.Stichera02.incipit = "I have rivalled in foolishness…"
 trVE.Stichera02.text = "I have rivalled in foolishness the rich man who showed no love for others; overwhelmed by sensual pleasures and the passions, I live in luxury and self-indulgence. I see my mind, O Lord, lying always like Lazarus before the gates of repentance, but with indifference I pass it by, and leave it hungry, sick and wounded by the passions. Therefore I deserve to be condemned to the flames of Gehenna: but deliver me from them, O Master, for Thou alone art rich in mercy."
 
 trVE.Stichera03.mode = misc_en_UK_ware.Mode5
 trVE.Stichera03.melody = ""
-trVE.Stichera03.incipit = "O Lord, while dwelling in"
+trVE.Stichera03.incipit = "O Lord, while dwelling in…"
 trVE.Stichera03.text = "O Lord, while dwelling in the flesh on the other side of Jordan, Thou hast foretold that the sickness of Lazarus would not end in death, but that it had come to pass for Thy glory, O our God. Glory to Thy mighty acts and Thine all-sovereign power, for Thou hast destroyed death in Thy great mercy and Thy love for mankind."
 
 trVE.AposIdiomelon1.mode = misc_en_UK_ware.Mode4
 trVE.AposIdiomelon1.melody = misc_en_UK_ware.Idiomelon
-trVE.AposIdiomelon1.incipit = "Deliver us, O Saviour, from"
+trVE.AposIdiomelon1.incipit = "Deliver us, O Saviour, from…"
 trVE.AposIdiomelon1.text = "Deliver us, O Saviour, from soul-destroying greed, and give us a place with Lazarus the poor man in the bosom of Abraham. For Thou who art rich in mercy hast for our sakes willingly become poor, and Thou hast led us from corruption into incorruption, because Thou art a God of tender compassion and love for mankind."
 
 trVE.AposMartyric.mode = misc_en_UK_ware.Mode4
 trVE.AposMartyric.melody = ""
-trVE.AposMartyric.incipit = "Thou hast accepted the patient"
+trVE.AposMartyric.incipit = "Thou hast accepted the patient…"
 trVE.AposMartyric.text = "Thou hast accepted the patient sufferings of the holy martyrs: in Thy love accept our hymns of praise, and at their intercessions grant us Thy great mercy."
 
 trVE.AposTheotokion.mode = misc_en_UK_ware.Mode4
 trVE.AposTheotokion.melody = ""
-trVE.AposTheotokion.incipit = "Deliver us from our distress,"
+trVE.AposTheotokion.incipit = "Deliver us from our distress…"
 trVE.AposTheotokion.text = "Deliver us from our distress, O Mother of Christ our God, who gavest birth to the Creator of all, that we may ever cry to thee: Hail, protection of our souls!"
 
 trMA.Kathisma21.mode = misc_en_UK_ware.Mode6
-trMA.Kathisma21.melody = he.a.m6_en_UK_ware.AngelikaiDynameis.incipit
-trMA.Kathisma21.incipit = "Wasted by the disease of"
+trMA.Kathisma21.melody = he.a.m6_en_UK_ware.AngelikaiDynameis.name
+trMA.Kathisma21.incipit = "Wasted by the disease of…"
 trMA.Kathisma21.text = "Wasted by the disease of sin, I lie on the bed of despair. O Physician of the sick, visit me in Thy love for mankind; and, most merciful, let me not sleep shamefully in death, but enable me to cry with all my heart to Thee: Bestower of mercy, O Lord, glory to Thee."
 
 trMA.Kathisma22.mode = misc_en_UK_ware.Mode6
 trMA.Kathisma22.melody = ""
-trMA.Kathisma22.incipit = "Gabriel's message to the Virgin"
+trMA.Kathisma22.incipit = "Gabriel's message to the Virgin…"
 trMA.Kathisma22.text = "Gabriel's message to the Virgin was the beginning of salvation; for she heard his greeting 'Hail!' and did not reject his salutation. She did not doubt like Sarah in the tent, but she replied: 'Behold the handmaid of the Lord; be it unto me according to thy word."
 
 trMA.Kathisma31.mode = misc_en_UK_ware.Mode5
 trMA.Kathisma31.melody = ""
-trMA.Kathisma31.incipit = "Yesterday and today Lazarus is"
+trMA.Kathisma31.incipit = "Yesterday and today Lazarus is…"
 trMA.Kathisma31.text = "Yesterday and today Lazarus is sick, and his sisters make it known to Christ. Prepare thyself with joy, O Bethany, to welcome as thy guest the Lord and King, and to cry aloud with us: O Lord, glory to Thee."
 
 trMA.Kathisma32.mode = misc_en_UK_ware.Mode5
 trMA.Kathisma32.melody = ""
-trMA.Kathisma32.incipit = "Most Holy Mother of God,"
+trMA.Kathisma32.incipit = "Most Holy Mother of God…"
 trMA.Kathisma32.text = "Most Holy Mother of God, rampart of Christians, deliver us thy people who now and at all times call fervently upon thee. Make war upon our arrogant and shameful thoughts, that we may cry to thee: Hail, Ever-Virgin!"
 
 trMA.C1.poet = poets_en_UK_ware.Iosif
@@ -74,56 +74,56 @@ trMA.Ode2C1H.text = he.h.m6_en_UK_ware.IdeteIdete.text
 
 trMA.Ode2C11.ode = misc_en_UK_ware.Ode2
 trMA.Ode2C11.mode = misc_en_UK_ware.Mode6
-trMA.Ode2C11.melody = he.h.m6_en_UK_ware.IdeteIdete.incipit
-trMA.Ode2C11.incipit = "Rich by nature, O Christ,"
+trMA.Ode2C11.melody = he.h.m6_en_UK_ware.IdeteIdete.name
+trMA.Ode2C11.incipit = "Rich by nature, O Christ…"
 trMA.Ode2C11.text = "Rich by nature, O Christ, Thou hast by Thine own choice become poor; and Thou who fillest every living thing with plenteousness hast willingly gone hungry. I hunger for Thy grace, O Word of God: satisfy me and make me a partaker at Thy table in the Age to come."
 
 trMA.Ode2C12.ode = misc_en_UK_ware.Ode2
 trMA.Ode2C12.mode = misc_en_UK_ware.Mode6
-trMA.Ode2C12.melody = he.h.m6_en_UK_ware.IdeteIdete.incipit
-trMA.Ode2C12.incipit = "Make me, O Christ, poor"
+trMA.Ode2C12.melody = he.h.m6_en_UK_ware.IdeteIdete.name
+trMA.Ode2C12.incipit = "Make me, O Christ, poor…"
 trMA.Ode2C12.text = "Make me, O Christ, poor as Lazarus in sin, and scatter the wealth that I have gathered in wickedness; fill me with Thy perfect love, O merciful Lord, and deliver me from the fearful punishment that is to come."
 
 trMA.Ode2C13.ode = misc_en_UK_ware.Ode2
 trMA.Ode2C13.mode = misc_en_UK_ware.Mode6
-trMA.Ode2C13.melody = he.h.m6_en_UK_ware.IdeteIdete.incipit
-trMA.Ode2C13.incipit = "Once in Babylon fasting made"
+trMA.Ode2C13.melody = he.h.m6_en_UK_ware.IdeteIdete.name
+trMA.Ode2C13.incipit = "Once in Babylon fasting made…"
 trMA.Ode2C13.text = "Once in Babylon fasting made the Children stronger than the fire. Be not fainthearted, O my soul, but follow their example, and thou shalt quench the fire of sensual pleasure with the dew of the Spirit."
 
 trMA.Ode2C1T.ode = misc_en_UK_ware.Ode2
 trMA.Ode2C1T.mode = misc_en_UK_ware.Mode6
-trMA.Ode2C1T.melody = he.h.m6_en_UK_ware.IdeteIdete.incipit
-trMA.Ode2C1T.incipit = "We cry to thee 'Hail!',"
+trMA.Ode2C1T.melody = he.h.m6_en_UK_ware.IdeteIdete.name
+trMA.Ode2C1T.incipit = "We cry to thee 'Hail!'…"
 trMA.Ode2C1T.text = "We cry to thee 'Hail!', O Theotokos Virgin full of grace, who hast conceived our Joy. Pray to God whom thou hast borne, that we who at all times sing thy praises may be delivered from danger and corruption."
 
 trMA.Ode2C21.ode = misc_en_UK_ware.Ode2
 trMA.Ode2C21.mode = misc_en_UK_ware.Mode5
-trMA.Ode2C21.melody = he.h.m5_en_UK_ware.IdeteIdete.incipit
-trMA.Ode2C21.incipit = "See now, see that I"
+trMA.Ode2C21.melody = he.h.m5_en_UK_ware.IdeteIdete.name
+trMA.Ode2C21.incipit = "See now, see that I…"
 trMA.Ode2C21.text = "See now, see that I am God, who when I was dwelling on the far side of the Jordan heard that Lazarus was sick, and I said: 'He will not die, but this is for My glory.'"
 
 trMA.Ode2C22.ode = misc_en_UK_ware.Ode2
 trMA.Ode2C22.mode = misc_en_UK_ware.Mode5
-trMA.Ode2C22.melody = he.h.m5_en_UK_ware.IdeteIdete.incipit
-trMA.Ode2C22.incipit = "The sisters of Lazarus lament"
+trMA.Ode2C22.melody = he.h.m5_en_UK_ware.IdeteIdete.name
+trMA.Ode2C22.incipit = "The sisters of Lazarus lament…"
 trMA.Ode2C22.text = "The sisters of Lazarus lament and disclose their anguish to Thee who knowest all things. But Thou delayest a little, in order to perform the miracle and show to Thy disciples Thy dread power."
 
 trMA.Ode2C2Tr.ode = misc_en_UK_ware.Ode2
 trMA.Ode2C2Tr.mode = misc_en_UK_ware.Mode5
-trMA.Ode2C2Tr.melody = he.h.m5_en_UK_ware.IdeteIdete.incipit
-trMA.Ode2C2Tr.incipit = "Unity in three Persons, single"
+trMA.Ode2C2Tr.melody = he.h.m5_en_UK_ware.IdeteIdete.name
+trMA.Ode2C2Tr.incipit = "Unity in three Persons, single…"
 trMA.Ode2C2Tr.text = "Unity in three Persons, single sovereignty, kingdom ruling over the ages, Father, Son and Holy Spirit: the multitude of angels and all mankind glorify Thee."
 
 trMA.Ode2C2T.ode = misc_en_UK_ware.Ode2
 trMA.Ode2C2T.mode = misc_en_UK_ware.Mode5
-trMA.Ode2C2T.melody = he.h.m5_en_UK_ware.IdeteIdete.incipit
-trMA.Ode2C2T.incipit = "Who is not filled with"
+trMA.Ode2C2T.melody = he.h.m5_en_UK_ware.IdeteIdete.name
+trMA.Ode2C2T.incipit = "Who is not filled with…"
 trMA.Ode2C2T.text = "Who is not filled with wonder, O Virgin, beholding the Creator refashioning fallen Adam within thee, and born from thee in the flesh for our salvation, without undergoing change, through an ineffable union?"
 
 trMA.Ode2C2A1.ode = misc_en_UK_ware.Ode2
 trMA.Ode2C2A1.mode = misc_en_UK_ware.Mode5
-trMA.Ode2C2A1.melody = he.h.m5_en_UK_ware.IdeteIdete.incipit
-trMA.Ode2C2A1.incipit = "Prepare thyself now, O Bethany,"
+trMA.Ode2C2A1.melody = he.h.m5_en_UK_ware.IdeteIdete.name
+trMA.Ode2C2A1.incipit = "Prepare thyself now, O Bethany…"
 trMA.Ode2C2A1.text = "Prepare thyself now, O Bethany, and with joy make ready to receive the King of all: for He shall come to thee, to bring back Lazarus from corruption to life."
 
 trMA.Ode2C2H.ode = misc_en_UK_ware.Ode2
@@ -134,56 +134,56 @@ trMA.Ode2C2H.text = he.h.m5_en_UK_ware.IdeteIdete.text
 
 trMA.Ode8C11.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C11.mode = misc_en_UK_ware.Mode6
-trMA.Ode8C11.melody = he.h.m6_en_UK_ware.EkFlogosToisOsiois.incipit
-trMA.Ode8C11.incipit = "I think upon the multitude"
+trMA.Ode8C11.melody = he.h.m6_en_UK_ware.EkFlogosToisOsiois.name
+trMA.Ode8C11.incipit = "I think upon the multitude…"
 trMA.Ode8C11.text = "I think upon the multitude of my offences, and I am pierced by the sting of conscience; and in my misery I lament as though already in the flames of hell. Take pity on me, Word of God, in Thy mercy."
 
 trMA.Ode8C12.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C12.mode = misc_en_UK_ware.Mode6
-trMA.Ode8C12.melody = he.h.m6_en_UK_ware.EkFlogosToisOsiois.incipit
-trMA.Ode8C12.incipit = "I have neglected the virtuous"
+trMA.Ode8C12.melody = he.h.m6_en_UK_ware.EkFlogosToisOsiois.name
+trMA.Ode8C12.incipit = "I have neglected the virtuous…"
 trMA.Ode8C12.text = "I have neglected the virtuous actions of Lazarus and emulated the ways of the rich man who showed no love for others. O compassionate God, turn me back and take pity on me, that I may glorify Thee for ever."
 
 trMA.Ode8C13.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C13.mode = misc_en_UK_ware.Mode6
-trMA.Ode8C13.melody = he.h.m6_en_UK_ware.EkFlogosToisOsiois.incipit
-trMA.Ode8C13.incipit = "My soul is sick, and"
+trMA.Ode8C13.melody = he.h.m6_en_UK_ware.EkFlogosToisOsiois.name
+trMA.Ode8C13.incipit = "My soul is sick, and…"
 trMA.Ode8C13.text = "My soul is sick, and despair has brought me near to death. Come to me, O Jesus, I implore Thee, for Thy visitation gives life to those that call upon Thee."
 
 trMA.Ode8C1T.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C1T.mode = misc_en_UK_ware.Mode6
-trMA.Ode8C1T.melody = he.h.m6_en_UK_ware.EkFlogosToisOsiois.incipit
-trMA.Ode8C1T.incipit = "Save me and come to"
+trMA.Ode8C1T.melody = he.h.m6_en_UK_ware.EkFlogosToisOsiois.name
+trMA.Ode8C1T.incipit = "Save me and come to…"
 trMA.Ode8C1T.text = "Save me and come to the aid of my weakness, all-holy Virgin, for thou hast borne Him whose will it is to have mercy, and we exalt Him above all for ever."
 
 trMA.Ode8C21.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C21.mode = misc_en_UK_ware.Mode5
-trMA.Ode8C21.melody = he.h.m5_en_UK_ware.OiOsioiSouPaides.incipit
-trMA.Ode8C21.incipit = "O Bethany, home of Lazarus,"
+trMA.Ode8C21.melody = he.h.m5_en_UK_ware.OiOsioiSouPaides.name
+trMA.Ode8C21.incipit = "O Bethany, home of Lazarus…"
 trMA.Ode8C21.text = "O Bethany, home of Lazarus, rejoice. For Christ comes to thee and shall perform a mighty work, bringing Lazarus to life."
 
 trMA.Ode8C22.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C22.mode = misc_en_UK_ware.Mode5
-trMA.Ode8C22.melody = he.h.m5_en_UK_ware.OiOsioiSouPaides.incipit
-trMA.Ode8C22.incipit = "Lazarus falls sick that Thou,"
+trMA.Ode8C22.melody = he.h.m5_en_UK_ware.OiOsioiSouPaides.name
+trMA.Ode8C22.incipit = "Lazarus falls sick that Thou…"
 trMA.Ode8C22.text = "Lazarus falls sick that Thou, Son of God, mayest be glorified through him; and Thy works praise Thee, Lord, without ceasing."
 
 trMA.Ode8C2Tr.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C2Tr.mode = misc_en_UK_ware.Mode5
-trMA.Ode8C2Tr.melody = he.h.m5_en_UK_ware.OiOsioiSouPaides.incipit
-trMA.Ode8C2Tr.incipit = "We praise the all-holy Trinity,"
+trMA.Ode8C2Tr.melody = he.h.m5_en_UK_ware.OiOsioiSouPaides.name
+trMA.Ode8C2Tr.incipit = "We praise the all-holy Trinity…"
 trMA.Ode8C2Tr.text = "We praise the all-holy Trinity, Father, Son and Spirit, and we sing: O ye works of the Lord, bless ye the Lord."
 
 trMA.Ode8C2T.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C2T.mode = misc_en_UK_ware.Mode5
-trMA.Ode8C2T.melody = he.h.m5_en_UK_ware.OiOsioiSouPaides.incipit
-trMA.Ode8C2T.incipit = "With all mankind we sing"
+trMA.Ode8C2T.melody = he.h.m5_en_UK_ware.OiOsioiSouPaides.name
+trMA.Ode8C2T.incipit = "With all mankind we sing…"
 trMA.Ode8C2T.text = "With all mankind we sing the praises of thine ineffable childbearing, O pure Virgin; and honouring thy Son as God, we bless and praise Him without ceasing."
 
 trMA.Ode8C2A1.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C2A1.mode = misc_en_UK_ware.Mode5
-trMA.Ode8C2A1.melody = he.h.m5_en_UK_ware.OiOsioiSouPaides.incipit
-trMA.Ode8C2A1.incipit = "Preparing branches of virtue with"
+trMA.Ode8C2A1.melody = he.h.m5_en_UK_ware.OiOsioiSouPaides.name
+trMA.Ode8C2A1.incipit = "Preparing branches of virtue with…"
 trMA.Ode8C2A1.text = "Preparing branches of virtue with which to welcome Christ, we cry: O ye works of the Lord, bless ye the Lord."
 
 trMA.Ode8C2H.ode = misc_en_UK_ware.Ode8
@@ -194,56 +194,56 @@ trMA.Ode8C2H.text = he.h.m5_en_UK_ware.OiOsioiSouPaides.text
 
 trMA.Ode9C11.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C11.mode = misc_en_UK_ware.Mode6
-trMA.Ode9C11.melody = he.h.m6_en_UK_ware.TheonAnthropois.incipit
-trMA.Ode9C11.incipit = "Tasting once from the bitter"
+trMA.Ode9C11.melody = he.h.m6_en_UK_ware.TheonAnthropois.name
+trMA.Ode9C11.incipit = "Tasting once from the bitter…"
 trMA.Ode9C11.text = "Tasting once from the bitter fruit, the first-formed man was banished in grief from Paradise, and harnessed to the yoke of death. Fast, O my soul; flee from his example; flee from the pleasures of eating, for they are full of sorrow."
 
 trMA.Ode9C12.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C12.mode = misc_en_UK_ware.Mode6
-trMA.Ode9C12.melody = he.h.m6_en_UK_ware.TheonAnthropois.incipit
-trMA.Ode9C12.incipit = "I call to mind Thy"
+trMA.Ode9C12.melody = he.h.m6_en_UK_ware.TheonAnthropois.name
+trMA.Ode9C12.incipit = "I call to mind Thy…"
 trMA.Ode9C12.text = "I call to mind Thy judgement seat, and the fire that never shall be quenched; and before the judgement comes, I condemn myself, O righteous Judge. I fear and tremble, for I have sinned against Thee without measure, more that any other man on earth: therefore take pity on me."
 
 trMA.Ode9C13.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C13.mode = misc_en_UK_ware.Mode6
-trMA.Ode9C13.melody = he.h.m6_en_UK_ware.TheonAnthropois.incipit
-trMA.Ode9C13.incipit = "Let us wash away the"
+trMA.Ode9C13.melody = he.h.m6_en_UK_ware.TheonAnthropois.name
+trMA.Ode9C13.incipit = "Let us wash away the…"
 trMA.Ode9C13.text = "Let us wash away the darkness of the passions with prayers of light, and bearing branches of virtue let us hasten to welcome Christ, who soon will come riding upon a foal; and He makes ready to suffer for our salvation."
 
 trMA.Ode9C1T.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C1T.mode = misc_en_UK_ware.Mode6
-trMA.Ode9C1T.melody = he.h.m6_en_UK_ware.TheonAnthropois.incipit
-trMA.Ode9C1T.incipit = "Coming forth from thee, O"
+trMA.Ode9C1T.melody = he.h.m6_en_UK_ware.TheonAnthropois.name
+trMA.Ode9C1T.incipit = "Coming forth from thee, O…"
 trMA.Ode9C1T.text = "Coming forth from thee, O Virgin full of God's grace, Christ the Giver of light and peace has shone upon us, who are held fast by the night of the passions. He has set us free from the transgression that came through heedlessness, and He bestows redemption on us."
 
 trMA.Ode9C21.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C21.mode = misc_en_UK_ware.Mode5
-trMA.Ode9C21.melody = he.h.m5_en_UK_ware.IsaiaChoreve.incipit
-trMA.Ode9C21.incipit = "O wise Lazarus, prepare now"
+trMA.Ode9C21.melody = he.h.m5_en_UK_ware.IsaiaChoreve.name
+trMA.Ode9C21.incipit = "O wise Lazarus, prepare now…"
 trMA.Ode9C21.text = "O wise Lazarus, prepare now for thy burial; for tomorrow thou shalt die and leave this life. Look at the tomb in which thou shalt dwell. But Christ will bring thee back to life again, raising thee on the fourth day."
 
 trMA.Ode9C22.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C22.mode = misc_en_UK_ware.Mode5
-trMA.Ode9C22.melody = he.h.m5_en_UK_ware.IsaiaChoreve.incipit
-trMA.Ode9C22.incipit = "Be glad, O Bethany: for"
+trMA.Ode9C22.melody = he.h.m5_en_UK_ware.IsaiaChoreve.name
+trMA.Ode9C22.incipit = "Be glad, O Bethany: for…"
 trMA.Ode9C22.text = "Be glad, O Bethany: for Christ shall come to thee, performing in thee a great and fearful miracle. Binding death with fetters, as God of all He -will raise up Lazarus, who was dead and now magnifies the Creator."
 
 trMA.Ode9C2Tr.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C2Tr.mode = misc_en_UK_ware.Mode5
-trMA.Ode9C2Tr.melody = he.h.m5_en_UK_ware.IsaiaChoreve.incipit
-trMA.Ode9C2Tr.incipit = "O honoured Trinity, consubstantial, without"
+trMA.Ode9C2Tr.melody = he.h.m5_en_UK_ware.IsaiaChoreve.name
+trMA.Ode9C2Tr.incipit = "O honoured Trinity, consubstantial, without…"
 trMA.Ode9C2Tr.text = "O honoured Trinity, consubstantial, without beginning, source of life, O undivided Unity, I sing Thy praises: Father unbegotten, Word and Son begotten, and Holy Spirit, save us all who glorify Thee."
 
 trMA.Ode9C2T.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C2T.mode = misc_en_UK_ware.Mode5
-trMA.Ode9C2T.melody = he.h.m5_en_UK_ware.IsaiaChoreve.incipit
-trMA.Ode9C2T.incipit = "Beyond our understanding is thy"
+trMA.Ode9C2T.melody = he.h.m5_en_UK_ware.IsaiaChoreve.name
+trMA.Ode9C2T.incipit = "Beyond our understanding is thy…"
 trMA.Ode9C2T.text = "Beyond our understanding is thy childbearing, O Mother of God. For without man thou hast conceived, and in virginity thou hast given birth; and the Child that thou hast borne is God. We magnify Him, O Virgin, and we call thee blessed."
 
 trMA.Ode9C2A1.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C2A1.mode = misc_en_UK_ware.Mode5
-trMA.Ode9C2A1.melody = he.h.m5_en_UK_ware.IsaiaChoreve.incipit
-trMA.Ode9C2A1.incipit = "Come, let us make ready"
+trMA.Ode9C2A1.melody = he.h.m5_en_UK_ware.IsaiaChoreve.name
+trMA.Ode9C2A1.incipit = "Come, let us make ready…"
 trMA.Ode9C2A1.text = "Come, let us make ready to meet the Lord, bringing to Him palms of virtue. So shall we receive Him in our souls as in the city of Jerusalem, worshipping Him and singing his praises."
 
 trMA.Ode9C2H.ode = misc_en_UK_ware.Ode9
@@ -254,22 +254,22 @@ trMA.Ode9C2H.text = he.h.m5_en_UK_ware.IsaiaChoreve.text
 
 trMA.AposIdiomelon1.mode = misc_en_UK_ware.Mode5
 trMA.AposIdiomelon1.melody = misc_en_UK_ware.Idiomelon
-trMA.AposIdiomelon1.incipit = "Fallen into transgressions and bound"
+trMA.AposIdiomelon1.incipit = "Fallen into transgressions and bound…"
 trMA.AposIdiomelon1.text = "Fallen into transgressions and bound fast by the cords of sin, why art thou slothful, O my soul? Why art thou careless? Flee at all times from the burning of lasciviousness, as Lot fled from Sodom and Gomorrah; turn not back, lest thou become as a pillar of salt. Take refuge in the mountain of the virtues; run always from the flames that burnt the rich man because he was merciless and cruel. With the steps of humility advance like Lazarus, and go to dwell with Abraham, crying: My hope and refuge, O Lord, glory to Thee."
 
 trMA.AposMartyric.mode = misc_en_UK_ware.Mode5
 trMA.AposMartyric.melody = ""
-trMA.AposMartyric.incipit = "Thy victorious martyrs, O Lord,"
+trMA.AposMartyric.incipit = "Thy victorious martyrs, O Lord…"
 trMA.AposMartyric.text = "Thy victorious martyrs, O Lord, imitated the life of the angelic hosts: with patience they endured the tortures, as though they had no body, setting all their hope in the blessings Thou hast promised. At their prayers, O Christ our God, grant peace to Thy world, and to our souls great mercy."
 
 trMA.AposTheotokion.mode = misc_en_UK_ware.Mode5
 trMA.AposTheotokion.melody = ""
-trMA.AposTheotokion.incipit = "O blessed among women, we"
+trMA.AposTheotokion.incipit = "O blessed among women, we…"
 trMA.AposTheotokion.text = "O blessed among women, we entreat thee as the Mother of God: pray for the salvation of our souls." //oc.m5.d7_en_UK_ware.ocVE.AposTheotokion.text
 
 trTE.Troparion.mode = misc_en_UK_ware.Mode5
 trTE.Troparion.melody = ""
-trTE.Troparion.incipit = "Thou hast given to our"
+trTE.Troparion.incipit = "Thou hast given to our…"
 trTE.Troparion.text = "Thou hast given to our city an invincible rampart, even the Virgin who bore Thee. Through her we pray to Thee, Saviour: deliver our souls from the evils that assail us on every side."
-trTE.Troparion2.incipit = ""
+trTE.Troparion2.incipit = "…"
 trTE.Troparion2.text = ""

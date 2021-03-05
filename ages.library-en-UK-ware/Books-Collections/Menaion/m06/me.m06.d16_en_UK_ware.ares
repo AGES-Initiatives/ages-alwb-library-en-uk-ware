@@ -3,6 +3,6 @@ A_Resource_Whose_Name = me.m06.d16_en_UK_ware
 //This file is referred to by tr.d032
 
 meMA.Ode3KathismaSt.mode = misc_en_UK_ware.Mode3
-meMA.Ode3KathismaSt.melody = he.a.m3_en_UK_ware.TinOraiotita.incipit
-meMA.Ode3KathismaSt.incipit = "By Thine own free choice,"
+meMA.Ode3KathismaSt.melody = he.a.m3_en_UK_ware.TinOraiotita.name
+meMA.Ode3KathismaSt.incipit = "By Thine own free choice…"
 meMA.Ode3KathismaSt.text = "By Thine own free choice, O compassionate Christ, Thou hast endured a shameful death upon the Cross; and when Thy Mother saw Thee she was wounded in her heart and, beating her breast, with a mother's sorrow she lamented. At her prayers, through Thy tender mercy have pity on the world and save it, for Thou dost take away its sin."

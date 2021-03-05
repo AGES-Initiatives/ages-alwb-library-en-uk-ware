@@ -3,41 +3,51 @@ A_Resource_Whose_Name = he.a.m6_en_UK_ware
 he.title = ""
 
 AiAngelikai.mode = misc_en_UK_ware.Mode6
-AiAngelikai.incipit = ""
+AiAngelikai.name = ""
+AiAngelikai.incipit = "…"
 AiAngelikai.text = ""
 
 AngelikaiDynameis.mode = misc_en_UK_ware.Mode6
-AngelikaiDynameis.incipit = ""
+AngelikaiDynameis.name = ""
+AngelikaiDynameis.incipit = "…"
 AngelikaiDynameis.text = ""
 
 EkGastrosEtechthis.mode = misc_en_UK_ware.Mode6
-EkGastrosEtechthis.incipit = ""
+EkGastrosEtechthis.name = ""
+EkGastrosEtechthis.incipit = "…"
 EkGastrosEtechthis.text = ""
 
 ElpisTouKosmouAgathi.mode = misc_en_UK_ware.Mode6
-ElpisTouKosmouAgathi.incipit = ""
+ElpisTouKosmouAgathi.name = ""
+ElpisTouKosmouAgathi.incipit = "…"
 ElpisTouKosmouAgathi.text = ""
 
 IApegnosmeni.mode = misc_en_UK_ware.Mode6
-IApegnosmeni.incipit = ""
+IApegnosmeni.name = ""
+IApegnosmeni.incipit = "…"
 IApegnosmeni.text = ""
 
 KyrieEleisonImas.mode = misc_en_UK_ware.Mode6
-KyrieEleisonImas.incipit = ""
+KyrieEleisonImas.name = ""
+KyrieEleisonImas.incipit = "…"
 KyrieEleisonImas.text = ""
 
 OlinApothemenoi.mode = misc_en_UK_ware.Mode6
-OlinApothemenoi.incipit = ""
+OlinApothemenoi.name = ""
+OlinApothemenoi.incipit = "…"
 OlinApothemenoi.text = ""
 
 TinEnPresveiais.mode = misc_en_UK_ware.Mode6
-TinEnPresveiais.incipit = ""
+TinEnPresveiais.name = ""
+TinEnPresveiais.incipit = "…"
 TinEnPresveiais.text = ""
 
 TinYperImon.mode = misc_en_UK_ware.Mode6
-TinYperImon.incipit = ""
+TinYperImon.name = ""
+TinYperImon.incipit = "…"
 TinYperImon.text = ""
 
 TriimerosAnestis.mode = misc_en_UK_ware.Mode6
-TriimerosAnestis.incipit = "N/M"
+TriimerosAnestis.name = ""
+TriimerosAnestis.incipit = "…"
 TriimerosAnestis.text = ""

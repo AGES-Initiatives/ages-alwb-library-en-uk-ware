@@ -4,65 +4,78 @@ he.title = ""
 
 AnestisEkNekron.mode = misc_en_UK_ware.Mode8
 AnestisEkNekron.notmetered = "N/M (When You, the Life.)"
-AnestisEkNekron.incipit = "N/M (When You, the Life.)"
+AnestisEkNekron.name = "N/M (When You, the Life.)"
+AnestisEkNekron.incipit = "N/M (When You, the Life.)…"
 AnestisEkNekron.text = ""
 
 AvlonPoimenikon.mode = misc_en_UK_ware.Mode8
 AvlonPoimenikon.notmetered = "N/M (The army of the Angels.)"
-AvlonPoimenikon.incipit = ""
+AvlonPoimenikon.name = "N/M (The army of the Angels.)"
+AvlonPoimenikon.incipit = "…"
 AvlonPoimenikon.text = ""
 
 DefteApantesPistoi.mode = misc_en_UK_ware.Mode8
 DefteApantesPistoi.notmetered = "N/M (O believers one and all.)"
-DefteApantesPistoi.incipit = ""
+DefteApantesPistoi.name = "N/M (O believers one and all.)"
+DefteApantesPistoi.incipit = "…"
 DefteApantesPistoi.text = ""
 
 KyrieEiKaiKritirio.mode = misc_en_UK_ware.Mode8
 KyrieEiKaiKritirio.notmetered = "N/M (Lord, even if.)"
-KyrieEiKaiKritirio.incipit = ""
+KyrieEiKaiKritirio.name = "N/M (Lord, even if.)"
+KyrieEiKaiKritirio.incipit = "…"
 KyrieEiKaiKritirio.text = ""
 
 OAngelosSouKyrie.mode = misc_en_UK_ware.Mode8
 OAngelosSouKyrie.notmetered = "N/M (O Lord, Your angel.)"
-OAngelosSouKyrie.incipit = ""
+OAngelosSouKyrie.name = "N/M (O Lord, Your angel.)"
+OAngelosSouKyrie.incipit = "…"
 OAngelosSouKyrie.text = ""
 
 OEnEdemParadeisos.mode = misc_en_UK_ware.Mode8
 OEnEdemParadeisos.notmetered = "N/M (The paradise of Eden.)"
-OEnEdemParadeisos.incipit = ""
+OEnEdemParadeisos.name = "N/M (The paradise of Eden.)"
+OEnEdemParadeisos.incipit = "…"
 OEnEdemParadeisos.text = ""
 
 OTouParadoxou.mode = misc_en_UK_ware.Mode8
 OTouParadoxou.notmetered = "N/M (What a paradoxal.)"
-OTouParadoxou.incipit = ""
+OTouParadoxou.name = "N/M (What a paradoxal.)"
+OTouParadoxou.incipit = "…"
 OTouParadoxou.text = ""
 
 OiMartyresSouKyrie.mode = misc_en_UK_ware.Mode8
 OiMartyresSouKyrie.notmetered = "N/M (Your martyr Saints.)"
-OiMartyresSouKyrie.incipit = ""
+OiMartyresSouKyrie.name = "N/M (Your martyr Saints.)"
+OiMartyresSouKyrie.incipit = "…"
 OiMartyresSouKyrie.text = ""
 
 OsAparchas.mode = misc_en_UK_ware.Mode8
 OsAparchas.notmetered = "N/M (O Planter.)"
-OsAparchas.incipit = ""
+OsAparchas.name = "N/M (O Planter.)"
+OsAparchas.incipit = "…"
 OsAparchas.text = ""
 
 TiYmasKalesomen.mode = misc_en_UK_ware.Mode8
-TiYmasKalesomen.notmetered = "N/M (What...to call you.)"
-TiYmasKalesomen.incipit = "(NM) What shall we call you."
+TiYmasKalesomen.notmetered = "N/M (What…to call you.)"
+TiYmasKalesomen.name = "(NM) What shall we call you."
+TiYmasKalesomen.incipit = "(NM) What shall we call you…"
 TiYmasKalesomen.text = "What shall we call you, O saints? Cherubim, for Christ rested upon you? Seraphim, for ye glorified Him without ceasing? Angels, for ye have renounced the body? Powers, for ye perform miracles? Manifold are your names, but greater are your gifts of grace: pray for the salvation of our souls."
 
 TiYpermacho.mode = misc_en_UK_ware.Mode8
 TiYpermacho.notmetered = "N/M (O Champion General.)"
-TiYpermacho.incipit = ""
+TiYpermacho.name = "N/M (O Champion General.)"
+TiYpermacho.incipit = "…"
 TiYpermacho.text = ""
 
 TinSofianKaiLogon.mode = misc_en_UK_ware.Mode8
 TinSofianKaiLogon.notmetered = "N/M (By conceiving the wisdom.)"
-TinSofianKaiLogon.incipit = "(NM) O Mother of God, in thy womb."
+TinSofianKaiLogon.name = "(NM) O Mother of God, in thy womb."
+TinSofianKaiLogon.incipit = "(NM) O Mother of God, in thy womb…"
 TinSofianKaiLogon.text = "O Mother of God, in thy womb thou hast ineffably conceived the Wisdom and Word, and thou hast brought forth into the world Him that rules the world. In thine arms thou hast held Him that holds all things in unity, providing food for all, the Maker and the Lord. Therefore I entreat thee, O most holy Virgin, and with faith I glorify thee: may I be delivered from my trespasses when I stand before the face of my Creator. O Queen and Virgin pure and undefiled, grant me then thine aid: for all that thou desirest, thou hast power to do."
 
 ToProstachthen.mode = misc_en_UK_ware.Mode8
 ToProstachthen.notmetered = "N/M (When he perceived.)"
-ToProstachthen.incipit = ""
+ToProstachthen.name = "N/M (When he perceived.)"
+ToProstachthen.incipit = "…"
 ToProstachthen.text = ""

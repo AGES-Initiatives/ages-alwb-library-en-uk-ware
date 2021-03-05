@@ -15,37 +15,37 @@ trVL.header = "" //for pdf headers of presanctified and vesperal liturgies
 
 trVE.Stichera01.mode = misc_en_UK_ware.Mode1
 trVE.Stichera01.melody = ""
-trVE.Stichera01.incipit = ""
+trVE.Stichera01.incipit = "…"
 trVE.Stichera01.text = //oc.m1.d1_en_UK_ware.ocVE.Stichera1.text
 
 trVE.Stichera02.mode = misc_en_UK_ware.Mode1
 trVE.Stichera02.melody = ""
-trVE.Stichera02.incipit = ""
+trVE.Stichera02.incipit = "…"
 trVE.Stichera02.text = //oc.m1.d1_en_UK_ware.ocVE.Stichera2.text
 
 trVE.Stichera03.mode = misc_en_UK_ware.Mode1
 trVE.Stichera03.melody = ""
-trVE.Stichera03.incipit = ""
+trVE.Stichera03.incipit = "…"
 trVE.Stichera03.text = //oc.m1.d1_en_UK_ware.ocVE.Stichera3.text
 
 trVE.Stichera04.mode = misc_en_UK_ware.Mode1
 trVE.Stichera04.melody = ""
-trVE.Stichera04.incipit = ""
+trVE.Stichera04.incipit = "…"
 trVE.Stichera04.text = //oc.m1.d1_en_UK_ware.ocVE.Aposticha1.text
 
 trVE.Stichera05.mode = misc_en_UK_ware.Mode8
 trVE.Stichera05.melody = misc_en_UK_ware.Idiomelon
-trVE.Stichera05.incipit = ""
+trVE.Stichera05.incipit = "…"
 trVE.Stichera05.text = ""
 
 trVE.Stichera06.mode = misc_en_UK_ware.Mode8
 trVE.Stichera06.melody = misc_en_UK_ware.Idiomelon
-trVE.Stichera06.incipit = ""
+trVE.Stichera06.incipit = "…"
 trVE.Stichera06.text = ""
 
 trVE.Stichera07.mode = misc_en_UK_ware.Mode8
 trVE.Stichera07.melody = misc_en_UK_ware.Idiomelon
-trVE.Stichera07.incipit = ""
+trVE.Stichera07.incipit = "…"
 trVE.Stichera07.text = ""
 
 trVE.SticGlory.mode = misc_en_UK_ware.Mode6
@@ -55,7 +55,7 @@ trVE.SticGlory.text = tr.d070_en_UK_ware.trMA.LaudsGlory.text
 
 trVE.SticTheotokion.mode = misc_en_UK_ware.Mode1
 trVE.SticTheotokion.melody = ""
-trVE.SticTheotokion.incipit = ""
+trVE.SticTheotokion.incipit = "…"
 trVE.SticTheotokion.text = //oc.m1.d1_en_UK_ware.ocVE.SticTheotokion.text
 
 // Hymn of the Three Servants
@@ -67,18 +67,18 @@ trHW.SaturdayArise.text = properties_en_UK_ware.media.key
 
 trHW.CherubicHymn.title = ""
 trHW.CherubicHymn.mode = misc_en_UK_ware.Mode5
-trHW.CherubicHymnPart1.incipit = ""
+trHW.CherubicHymnPart1.incipit = "…"
 trHW.CherubicHymnPart1.text = ""
-trHW.CherubicHymnPart2.incipit = ""
+trHW.CherubicHymnPart2.incipit = "…"
 trHW.CherubicHymnPart2.text = ""
 
 trHW.TheotokosHymn.mode = misc_en_UK_ware.Mode8
-trHW.TheotokosHymn.incipit = ""
+trHW.TheotokosHymn.incipit = "…"
 trHW.TheotokosHymn.text = //oc.m8.d1_en_UK_ware.ocMA.Kathisma23.text
 
 trHW.CommunionHymn.text = properties_en_UK_ware.media.key
 
 trHW.AfterCommunion.mode = misc_en_UK_ware.Mode3
-trHW.AfterCommunion.incipit = ""
+trHW.AfterCommunion.incipit = "…"
 trHW.AfterCommunion.text = ""
 

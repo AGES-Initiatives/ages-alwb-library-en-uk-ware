@@ -15,47 +15,47 @@ trVL.header = "" //for pdf headers of presanctified and vesperal liturgies
 
 trVE.AposIdiomelon1.mode = misc_en_UK_ware.Mode8
 trVE.AposIdiomelon1.melody = misc_en_UK_ware.Idiomelon
-trVE.AposIdiomelon1.incipit = ""
+trVE.AposIdiomelon1.incipit = "…"
 trVE.AposIdiomelon1.text = ""
 
 trVE.AposMartyric.mode = misc_en_UK_ware.Mode8
 trVE.AposMartyric.melody = ""
-trVE.AposMartyric.incipit = ""
+trVE.AposMartyric.incipit = "…"
 trVE.AposMartyric.text = //oc.m8.d2_en_UK_ware.ocVE.Aposticha3.text
 
 trVE.Stichera01.mode = misc_en_UK_ware.Mode1
-trVE.Stichera01.melody = he.a.m1_en_UK_ware.PaneffimoiMartyres.incipit
-trVE.Stichera01.incipit = ""
+trVE.Stichera01.melody = he.a.m1_en_UK_ware.PaneffimoiMartyres.name
+trVE.Stichera01.incipit = "…"
 trVE.Stichera01.text = ""
 
 trVE.Stichera02.mode = misc_en_UK_ware.Mode1
-trVE.Stichera02.melody = he.a.m1_en_UK_ware.PaneffimoiMartyres.incipit
-trVE.Stichera02.incipit = ""
+trVE.Stichera02.melody = he.a.m1_en_UK_ware.PaneffimoiMartyres.name
+trVE.Stichera02.incipit = "…"
 trVE.Stichera02.text = ""
 
 trVE.Stichera03.mode = misc_en_UK_ware.Mode6
 trVE.Stichera03.melody = ""
-trVE.Stichera03.incipit = ""
+trVE.Stichera03.incipit = "…"
 trVE.Stichera03.text = ""
 
 trMA.Kathisma21.mode = misc_en_UK_ware.Mode1
-trMA.Kathisma21.melody = he.a.m1_en_UK_ware.TonTafonSouSotir.incipit
-trMA.Kathisma21.incipit = "O Christ, Thou hast stretched"
+trMA.Kathisma21.melody = he.a.m1_en_UK_ware.TonTafonSouSotir.name
+trMA.Kathisma21.incipit = "O Christ, Thou hast stretched…"
 trMA.Kathisma21.text = "O Christ, Thou hast stretched out Thine hands upon the Wood, by Thy wounds healing Adam's wound. I therefore pray Thee: heal the wounds that the deceiver has inflicted on my soul, and through prayer and fasting, Saviour, enable me to serve and worship Thee."
 
 trMA.Kathisma22.mode = misc_en_UK_ware.Mode1
-trMA.Kathisma22.melody = he.a.m1_en_UK_ware.TonTafonSouSotir.incipit
-trMA.Kathisma22.incipit = "Beholding Thee, O Christ, stretched"
+trMA.Kathisma22.melody = he.a.m1_en_UK_ware.TonTafonSouSotir.name
+trMA.Kathisma22.incipit = "Beholding Thee, O Christ, stretched…"
 trMA.Kathisma22.text = "Beholding Thee, O Christ, stretched dead upon the Cross, Thine all­ blameless Mother cried aloud: 'O my Son, coeternal with the Father and the Spirit, what is this ineffable act of love, whereby in Thy compassion Thou hast saved the creation of Thy holy hands?'"
 
 trMA.Kathisma31.mode = misc_en_UK_ware.Mode6
-trMA.Kathisma31.melody = he.a.m6_en_UK_ware.ElpisTouKosmouAgathi.incipit
-trMA.Kathisma31.incipit = "O Cross, guardian of the"
+trMA.Kathisma31.melody = he.a.m6_en_UK_ware.ElpisTouKosmouAgathi.name
+trMA.Kathisma31.incipit = "O Cross, guardian of the…"
 trMA.Kathisma31.text = "O Cross, guardian of the world, exorcist of devils, thee we have as our invincible protection in all things: grant that we may spend the remainder of the Fast with a pure conscience, and guide our souls to Christ, O blessed Wood."
 
 trMA.Kathisma32.mode = misc_en_UK_ware.Mode6
-trMA.Kathisma32.melody = he.a.m6_en_UK_ware.ElpisTouKosmouAgathi.incipit
-trMA.Kathisma32.incipit = "Pure and honoured Virgin, glory"
+trMA.Kathisma32.melody = he.a.m6_en_UK_ware.ElpisTouKosmouAgathi.name
+trMA.Kathisma32.incipit = "Pure and honoured Virgin, glory…"
 trMA.Kathisma32.text = "Pure and honoured Virgin, glory of the angels, standing by the Cross of thy Son and God, thou couldest not bear to listen to the drunken insults heaped upon Him by His enemies, but thou hast cried aloud, lamenting as a mother: 'O Lord who lovest mankind, how dost Thou endure their threatening? Glory be to Thy forbearance.'"
 
 trMA.C1.poet = poets_en_UK_ware.Iosif
@@ -64,56 +64,56 @@ trMA.C2.poet = poets_en_UK_ware.Theodorou
 
 trMA.Ode5C11.ode = misc_en_UK_ware.Ode5
 trMA.Ode5C11.mode = misc_en_UK_ware.Mode1
-trMA.Ode5C11.melody = he.h.m1_en_UK_ware.OFotisasTiEllampsei.incipit
-trMA.Ode5C11.incipit = "O Jesus, supreme in love,"
+trMA.Ode5C11.melody = he.h.m1_en_UK_ware.OFotisasTiEllampsei.name
+trMA.Ode5C11.incipit = "O Jesus, supreme in love…"
 trMA.Ode5C11.text = "O Jesus, supreme in love, who stretchest out the heavens like a curtain, Thou hast stretched out Thine hands upon the Cross. I therefore pray Thee: take pity on me, for I am stretched upon the rack and tormented by the enemy."
 
 trMA.Ode5C12.ode = misc_en_UK_ware.Ode5
 trMA.Ode5C12.mode = misc_en_UK_ware.Mode1
-trMA.Ode5C12.melody = he.h.m1_en_UK_ware.OFotisasTiEllampsei.incipit
-trMA.Ode5C12.incipit = "O Jesus, supreme in love,"
+trMA.Ode5C12.melody = he.h.m1_en_UK_ware.OFotisasTiEllampsei.name
+trMA.Ode5C12.incipit = "O Jesus, supreme in love…"
 trMA.Ode5C12.text = "O Jesus, supreme in love, Thou hast awoken from Thy sleep upon the Cross and roused us to salvation, when we lay sleeping in the lowest depths of destruction. Therefore we glorify Thee with faith."
 
 trMA.Ode5C13.ode = misc_en_UK_ware.Ode5
 trMA.Ode5C13.mode = misc_en_UK_ware.Mode1
-trMA.Ode5C13.melody = he.h.m1_en_UK_ware.OFotisasTiEllampsei.incipit
-trMA.Ode5C13.incipit = "O Saviour, give light to"
+trMA.Ode5C13.melody = he.h.m1_en_UK_ware.OFotisasTiEllampsei.name
+trMA.Ode5C13.incipit = "O Saviour, give light to…"
 trMA.Ode5C13.text = "O Saviour, give light to the hearts of Thy servants, and count us worthy to hehold the day of Thy Passion and Thy lifegiving Resurrection, as we praise the power of Thy Kingdom."
 
 trMA.Ode5C1T.ode = misc_en_UK_ware.Ode5
 trMA.Ode5C1T.mode = misc_en_UK_ware.Mode1
-trMA.Ode5C1T.melody = he.h.m1_en_UK_ware.OFotisasTiEllampsei.incipit
-trMA.Ode5C1T.incipit = "Seeing Thee nailed upon the"
+trMA.Ode5C1T.melody = he.h.m1_en_UK_ware.OFotisasTiEllampsei.name
+trMA.Ode5C1T.incipit = "Seeing Thee nailed upon the…"
 trMA.Ode5C1T.text = "Seeing Thee nailed upon the Cross, the all-pure Virgin was wounded to the heart and she cried in grief: 'O Lord, in Thy tender mercy Thou hast patiently endured Thy Passion, granting freedom from the passions unto all.'"
 
 trMA.Ode5C21.ode = misc_en_UK_ware.Ode5
 trMA.Ode5C21.mode = misc_en_UK_ware.Mode6
-trMA.Ode5C21.melody = he.h.m6_en_UK_ware.EkNyktosOrthrizonta.incipit
-trMA.Ode5C21.incipit = "In Thy love for mankind"
+trMA.Ode5C21.melody = he.h.m6_en_UK_ware.EkNyktosOrthrizonta.name
+trMA.Ode5C21.incipit = "In Thy love for mankind…"
 trMA.Ode5C21.text = "In Thy love for mankind Thou hast stretched out Thine hands, and the Jews nailed Thee to the Cross and pierced Thy side with a spear. All these things Thou dost endure, O Christ, for our salvation."
 
 trMA.Ode5C22.ode = misc_en_UK_ware.Ode5
 trMA.Ode5C22.mode = misc_en_UK_ware.Mode6
-trMA.Ode5C22.melody = he.h.m6_en_UK_ware.EkNyktosOrthrizonta.incipit
-trMA.Ode5C22.incipit = "Adam died of old through"
+trMA.Ode5C22.melody = he.h.m6_en_UK_ware.EkNyktosOrthrizonta.name
+trMA.Ode5C22.incipit = "Adam died of old through…"
 trMA.Ode5C22.text = "Adam died of old through eating from a tree, but he found life again through the tree of the Cross, O merciful Lord, and so he rejoiced once more in Paradise."
 
 trMA.Ode5C2Tr.ode = misc_en_UK_ware.Ode5
 trMA.Ode5C2Tr.mode = misc_en_UK_ware.Mode6
-trMA.Ode5C2Tr.melody = he.h.m6_en_UK_ware.EkNyktosOrthrizonta.incipit
-trMA.Ode5C2Tr.incipit = "O Trinity, I praise Thee"
+trMA.Ode5C2Tr.melody = he.h.m6_en_UK_ware.EkNyktosOrthrizonta.name
+trMA.Ode5C2Tr.incipit = "O Trinity, I praise Thee…"
 trMA.Ode5C2Tr.text = "O Trinity, I praise Thee as Unity by nature, without beginning, uncreated, supreme in sovereignty, beyond perfection, God and Light and Life, Creator of the world."
 
 trMA.Ode5C2T.ode = misc_en_UK_ware.Ode5
 trMA.Ode5C2T.mode = misc_en_UK_ware.Mode6
-trMA.Ode5C2T.melody = he.h.m6_en_UK_ware.EkNyktosOrthrizonta.incipit
-trMA.Ode5C2T.incipit = "In thy childbearing that surpasses"
+trMA.Ode5C2T.melody = he.h.m6_en_UK_ware.EkNyktosOrthrizonta.name
+trMA.Ode5C2T.incipit = "In thy childbearing that surpasses…"
 trMA.Ode5C2T.text = "In thy childbearing that surpasses nature, the laws of nature, holy Virgin, are plainly made void. For without seed thou hast given birth to God, begotten before all ages from the Father."
 
 trMA.Ode5C2A1.ode = misc_en_UK_ware.Ode5
 trMA.Ode5C2A1.mode = misc_en_UK_ware.Mode6
-trMA.Ode5C2A1.melody = he.h.m6_en_UK_ware.EkNyktosOrthrizonta.incipit
-trMA.Ode5C2A1.incipit = "O Christ my Master, I"
+trMA.Ode5C2A1.melody = he.h.m6_en_UK_ware.EkNyktosOrthrizonta.name
+trMA.Ode5C2A1.incipit = "O Christ my Master, I…"
 trMA.Ode5C2A1.text = "O Christ my Master, I honour Thy Cross, the spear and the nails, for through them Thou hast delivered us from corruption, making us immortal by Thy Passion."
 
 trMA.Ode5C2H.ode = misc_en_UK_ware.Ode5
@@ -124,56 +124,56 @@ trMA.Ode5C2H.text = he.h.m6_en_UK_ware.EkNyktosOrthrizonta.text
 
 trMA.Ode8C11.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C11.mode = misc_en_UK_ware.Mode1
-trMA.Ode8C11.melody = he.h.m1_en_UK_ware.ThavmatosYperfyous.incipit
-trMA.Ode8C11.incipit = "Thou wast fixed upon the"
+trMA.Ode8C11.melody = he.h.m1_en_UK_ware.ThavmatosYperfyous.name
+trMA.Ode8C11.incipit = "Thou wast fixed upon the…"
 trMA.Ode8C11.text = "Thou wast fixed upon the Cross with nails, O Saviour, and Thou hast blunted the sting of the evil one; a crown of thorns was placed upon Thy head in mockery, and Thou hast uprooted the thorns of man's transgression. We therefore sing Thy praises, and we cry: Let the whole creation bless the Lord and exalt Him above all for ever."
 
 trMA.Ode8C12.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C12.mode = misc_en_UK_ware.Mode1
-trMA.Ode8C12.melody = he.h.m1_en_UK_ware.ThavmatosYperfyous.incipit
-trMA.Ode8C12.incipit = "Thou hast stretched out Thine"
+trMA.Ode8C12.melody = he.h.m1_en_UK_ware.ThavmatosYperfyous.name
+trMA.Ode8C12.incipit = "Thou hast stretched out Thine…"
 trMA.Ode8C12.text = "Thou hast stretched out Thine hands upon the Cross, O Christ, gathering mankind to the knowledge of Thyself; Thou hast suffered Thy side to be pierced by the spear, causing a fountain of illumination to well up for us who sing: Let the whole creation bless the Lord and exalt Him above all for ever."
 
 trMA.Ode8C13.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C13.mode = misc_en_UK_ware.Mode1
-trMA.Ode8C13.melody = he.h.m1_en_UK_ware.ThavmatosYperfyous.incipit
-trMA.Ode8C13.incipit = "Merciful Lord, with the streams"
+trMA.Ode8C13.melody = he.h.m1_en_UK_ware.ThavmatosYperfyous.name
+trMA.Ode8C13.incipit = "Merciful Lord, with the streams…"
 trMA.Ode8C13.text = "Merciful Lord, with the streams of Thy compassion cleanse my heart that is defiled by the wounds of sin, and make the waters of contrition to spring up within me, that I may cry to Thee, O Jesus Christ: Let the whole creation bless the Lord and exalt Him above all for ever."
 
 trMA.Ode8C1T.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C1T.mode = misc_en_UK_ware.Mode1
-trMA.Ode8C1T.melody = he.h.m1_en_UK_ware.ThavmatosYperfyous.incipit
-trMA.Ode8C1T.incipit = "We acknowledge thee, O Virgin,"
+trMA.Ode8C1T.melody = he.h.m1_en_UK_ware.ThavmatosYperfyous.name
+trMA.Ode8C1T.incipit = "We acknowledge thee, O Virgin…"
 trMA.Ode8C1T.text = "We acknowledge thee, O Virgin, as the sacred Vessel that held the manna of the Deity, as Ark and Table, Candlestick and Throne of God, Pavilion and Bridge that brings us to divine life; and we sing: Let the whole creation bless the Lord and exalt Him above all for ever."
 
 trMA.Ode8C21.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C21.mode = misc_en_UK_ware.Mode6
-trMA.Ode8C21.melody = he.h.m6_en_UK_ware.TonPaidonTinOdin.incipit
-trMA.Ode8C21.incipit = "Christ is crucified and I"
+trMA.Ode8C21.melody = he.h.m6_en_UK_ware.TonPaidonTinOdin.name
+trMA.Ode8C21.incipit = "Christ is crucified and I…"
 trMA.Ode8C21.text = "Christ is crucified and I am restored to life; and with the Children I sing: O all ye works of the Lord, bless ye the Lord."
 
 trMA.Ode8C22.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C22.mode = misc_en_UK_ware.Mode6
-trMA.Ode8C22.melody = he.h.m6_en_UK_ware.TonPaidonTinOdin.incipit
-trMA.Ode8C22.incipit = "By Thy death upon the"
+trMA.Ode8C22.melody = he.h.m6_en_UK_ware.TonPaidonTinOdin.name
+trMA.Ode8C22.incipit = "By Thy death upon the…"
 trMA.Ode8C22.text = "By Thy death upon the Cross the world is delivered from corruption, and with the Children it sings: O all ye works of the Lord, bless ye the Lord."
 
 trMA.Ode8C2Tr.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C2Tr.mode = misc_en_UK_ware.Mode6
-trMA.Ode8C2Tr.melody = he.h.m6_en_UK_ware.TonPaidonTinOdin.incipit
-trMA.Ode8C2Tr.incipit = "Trinity equal in honour, consubstantial"
+trMA.Ode8C2Tr.melody = he.h.m6_en_UK_ware.TonPaidonTinOdin.name
+trMA.Ode8C2Tr.incipit = "Trinity equal in honour, consubstantial…"
 trMA.Ode8C2Tr.text = "Trinity equal in honour, consubstantial Unity, Father, Son and Spirit, save me, for I sing Thy praises with faith."
 
 trMA.Ode8C2T.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C2T.mode = misc_en_UK_ware.Mode6
-trMA.Ode8C2T.melody = he.h.m6_en_UK_ware.TonPaidonTinOdin.incipit
-trMA.Ode8C2T.incipit = "I venerate the childbirth of"
+trMA.Ode8C2T.melody = he.h.m6_en_UK_ware.TonPaidonTinOdin.name
+trMA.Ode8C2T.incipit = "I venerate the childbirth of…"
 trMA.Ode8C2T.text = "I venerate the childbirth of the pure Theotokos, and with the Children I sing: O all ye works of the Lord, bless ye the Lord."
 
 trMA.Ode8C2A1.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C2A1.mode = misc_en_UK_ware.Mode6
-trMA.Ode8C2A1.melody = he.h.m6_en_UK_ware.TonPaidonTinOdin.incipit
-trMA.Ode8C2A1.incipit = "I praise Thy Cross, O"
+trMA.Ode8C2A1.melody = he.h.m6_en_UK_ware.TonPaidonTinOdin.name
+trMA.Ode8C2A1.incipit = "I praise Thy Cross, O…"
 trMA.Ode8C2A1.text = "I praise Thy Cross, O Saviour, whereby I have been saved, and with the Children I sing: O all ye works of the Lord, bless ye the Lord."
 
 trMA.Ode8C2H.ode = misc_en_UK_ware.Ode8
@@ -184,56 +184,56 @@ trMA.Ode8C2H.text = he.h.m6_en_UK_ware.TonPaidonTinOdin.text
 
 trMA.Ode9C11.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C11.mode = misc_en_UK_ware.Mode1
-trMA.Ode9C11.melody = he.h.m1_en_UK_ware.TyponTisAgnis.incipit
-trMA.Ode9C11.incipit = "Elijah gave lightness to his"
+trMA.Ode9C11.melody = he.h.m1_en_UK_ware.TyponTisAgnis.name
+trMA.Ode9C11.incipit = "Elijah gave lightness to his…"
 trMA.Ode9C11.text = "Elijah gave lightness to his flesh by increasing his prayer and fasting, and then he beheld the Lord in a light and gentle breeze. Follow his example, O my soul: cast aside the grossness of sensual pleasures, and so behold Him who is thy true desire."
 
 trMA.Ode9C12.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C12.mode = misc_en_UK_ware.Mode1
-trMA.Ode9C12.melody = he.h.m1_en_UK_ware.TyponTisAgnis.incipit
-trMA.Ode9C12.incipit = "Moses once lifted up the"
+trMA.Ode9C12.melody = he.h.m1_en_UK_ware.TyponTisAgnis.name
+trMA.Ode9C12.incipit = "Moses once lifted up the…"
 trMA.Ode9C12.text = "Moses once lifted up the serpent on a wooden staff, and thus prefigured Thine exaltation on the Cross, O Saviour supreme in love. For through the Cross Thou hast delivered from the poisonous malice of the serpent all the nations that worship Thee."
 
 trMA.Ode9C13.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C13.mode = misc_en_UK_ware.Mode1
-trMA.Ode9C13.melody = he.h.m1_en_UK_ware.TyponTisAgnis.incipit
-trMA.Ode9C13.incipit = "I lie in the tomb"
+trMA.Ode9C13.melody = he.h.m1_en_UK_ware.TyponTisAgnis.name
+trMA.Ode9C13.incipit = "I lie in the tomb…"
 trMA.Ode9C13.text = "I lie in the tomb of slothfulness, and the hardness of my heart weighs upon me like a stone. I have no understanding of Thine ever-living word and no feeling of Thy fear, O Saviour. In Thine abundant mercy take pity on me and save me."
 
 trMA.Ode9C1T.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C1T.mode = misc_en_UK_ware.Mode1
-trMA.Ode9C1T.melody = he.h.m1_en_UK_ware.TyponTisAgnis.incipit
-trMA.Ode9C1T.incipit = "Lady, exalted above all things,"
+trMA.Ode9C1T.melody = he.h.m1_en_UK_ware.TyponTisAgnis.name
+trMA.Ode9C1T.incipit = "Lady, exalted above all things…"
 trMA.Ode9C1T.text = "Lady, exalted above all things, raise me high above the sinful passions; for I glorify thee as true Theotokos, and I sing the praises of thy childbearing that is honoured as a mystery beyond our understanding, O Virgin undefiled, full of God's grace."
 
 trMA.Ode9C21.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C21.mode = misc_en_UK_ware.Mode6
-trMA.Ode9C21.melody = he.h.m6_en_UK_ware.AsporouSyllipseos.incipit
-trMA.Ode9C21.incipit = "Thou art crucified and Thou"
+trMA.Ode9C21.melody = he.h.m6_en_UK_ware.AsporouSyllipseos.name
+trMA.Ode9C21.incipit = "Thou art crucified and Thou…"
 trMA.Ode9C21.text = "Thou art crucified and Thou dost save me; Thou dost die and give me life. O depth of love and tender mercy! Who has ever seen or heard of a master who chooses openly to die for his servants? But glory be to Thine ineffable goodness, O Lord."
 
 trMA.Ode9C22.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C22.mode = misc_en_UK_ware.Mode6
-trMA.Ode9C22.melody = he.h.m6_en_UK_ware.AsporouSyllipseos.incipit
-trMA.Ode9C22.incipit = "The sun set when it"
+trMA.Ode9C22.melody = he.h.m6_en_UK_ware.AsporouSyllipseos.name
+trMA.Ode9C22.incipit = "The sun set when it…"
 trMA.Ode9C22.text = "The sun set when it saw Thee crucified: for how should it not hide its light, beholding the outrage suffered by its Maker? All creation was shaken, and in silence cried aloud to those who crucified Thee, that Thou art the God of all."
 
 trMA.Ode9C2Tr.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C2Tr.mode = misc_en_UK_ware.Mode6
-trMA.Ode9C2Tr.melody = he.h.m6_en_UK_ware.AsporouSyllipseos.incipit
-trMA.Ode9C2Tr.incipit = "O Father, single only-Begetter of"
+trMA.Ode9C2Tr.melody = he.h.m6_en_UK_ware.AsporouSyllipseos.name
+trMA.Ode9C2Tr.incipit = "O Father, single only-Begetter of…"
 trMA.Ode9C2Tr.text = "O Father, single only-Begetter of the only-Begotten Son; O only Light and Brightness from the one and only Light; and Thou, one and only Holy Spirit from the one God, true Lord from the Lord: O holy Three in One, save me as I tell of Thy divinity."
 
 trMA.Ode9C2T.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C2T.mode = misc_en_UK_ware.Mode6
-trMA.Ode9C2T.melody = he.h.m6_en_UK_ware.AsporouSyllipseos.incipit
-trMA.Ode9C2T.incipit = "The marvel of thy childbearing"
+trMA.Ode9C2T.melody = he.h.m6_en_UK_ware.AsporouSyllipseos.name
+trMA.Ode9C2T.incipit = "The marvel of thy childbearing…"
 trMA.Ode9C2T.text = "The marvel of thy childbearing fills me with wonder, O all-blameless Lady. How hast thou conceived without seed Him whom none can comprehend? How hast thou remained a Virgin and yet become a Mother? 'Accept the miracle with faith, and worship the Child that is born; for all that He wills, He has the power to do.'"
 
 trMA.Ode9C2A1.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C2A1.mode = misc_en_UK_ware.Mode6
-trMA.Ode9C2A1.melody = he.h.m6_en_UK_ware.AsporouSyllipseos.incipit
-trMA.Ode9C2A1.incipit = "For our sake has each"
+trMA.Ode9C2A1.melody = he.h.m6_en_UK_ware.AsporouSyllipseos.name
+trMA.Ode9C2A1.incipit = "For our sake has each…"
 trMA.Ode9C2A1.text = "For our sake has each one of Thy members endured suffering: Thy head suffered blows and Thy cheek buffeting; Thy hands suffered the nails and Thy side the spear; and so Thou hast undergone all the agony of the Cross. Bur glory be to Thine ineffable compassion, O our Saviour."
 
 trMA.Ode9C2H.ode = misc_en_UK_ware.Ode9
@@ -244,7 +244,7 @@ trMA.Ode9C2H.text = he.h.m6_en_UK_ware.AsporouSyllipseos.text
 
 trMA.AposIdiomelon1.mode = misc_en_UK_ware.Mode8
 trMA.AposIdiomelon1.melody = misc_en_UK_ware.Idiomelon
-trMA.AposIdiomelon1.incipit = "Thou wast crucified with the"
+trMA.AposIdiomelon1.incipit = "Thou wast crucified with the…"
 trMA.AposIdiomelon1.text = "Thou wast crucified with the thieves, O Christ our God, and Thou hast healed man's nature by Thy wounds. I have fallen among invisible robbers, among bodiless thieves; they have stripped me of virtue and grievously wounded me. O despise me not: none of the saints can heal me; I lie half dead and have but little life remaining in me. Thou art my only hope, who hast restored the dead to life: bind up my wounds, pouring upon me the oil of Thy compassion, for Thou alone lovest mankind."
 
 trMA.AposMartyric.mode = misc_en_UK_ware.Mode8
@@ -253,13 +253,13 @@ trMA.AposMartyric.incipit = he.a.m8_en_UK_ware.TiYmasKalesomen.incipit
 trMA.AposMartyric.text = he.a.m8_en_UK_ware.TiYmasKalesomen.text
 
 trMA.AposTheotokion.mode = misc_en_UK_ware.Mode8
-trMA.AposTheotokion.melody = he.a.m8_en_UK_ware.OTouParadoxou.incipit
-trMA.AposTheotokion.incipit = "'O marvellous wonder! O strange"
+trMA.AposTheotokion.melody = he.a.m8_en_UK_ware.OTouParadoxou.name
+trMA.AposTheotokion.incipit = "'O marvellous wonder! O strange…"
 trMA.AposTheotokion.text = "'O marvellous wonder! O strange mystery! O fearful enterprise!' said the Virgin as she looked on Thee, and saw Thee hanging between two evildoers on the Cross, the Child whom she had borne without travail and inviolate. 'O sweetest Jesus, my best-beloved, how has the lawless and ungrateful people nailed Thee to the Cross?'"
 
 trTE.Troparion.mode = misc_en_UK_ware.Mode5
 trTE.Troparion.melody = ""
-trTE.Troparion.incipit = "Thou art praised above all,"
+trTE.Troparion.incipit = "Thou art praised above all…"
 trTE.Troparion.text = "Thou art praised above all, O Christ our God, who shakest the earth, that the dwellers upon it may turn and be saved: and Thou makest it firm once more in Thy love and ineffable compassion. At the prayers of the Theotokos, have mercy upon us."
-trTE.Troparion2.incipit = ""
+trTE.Troparion2.incipit = "…"
 trTE.Troparion2.text = ""
