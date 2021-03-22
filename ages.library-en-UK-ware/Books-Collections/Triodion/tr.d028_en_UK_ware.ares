@@ -445,12 +445,12 @@ trMA.Ode3Kathisma1.text = "Putting on the whole armour of God, thou hast overthr
 trMA.Ode3Kathisma2.mode = misc_en_UK_ware.Mode8
 trMA.Ode3Kathisma2.melody = he.a.m8_en_UK_ware.TinSofianKaiLogon.name
 trMA.Ode3Kathisma2.incipit = "Thou wast not weakened by…"
-trMA.Ode3Kathisma2.text = "Thou wast not weakened by the flattery of Maximin; but, endued with courage by the words of Christ, thou hast reduced to ashes the temple of the idols. Thou hast bravely overcome the adversary, passing, as the Psalmist says, through the fire as though it had been water. Therefore, as a just reward for aII thy sufferings, thou hast become a source of healing for those who pray to thee with faith.O victorious martyr Theodore, intercede with Christ our God, that we who celebrate thy holy memory with love may receive remission of our sins."
+trMA.Ode3Kathisma2.text = "Thou wast not weakened by the flattery of Maximin; but, endued with courage by the words of Christ, thou hast reduced to ashes the temple of the idols. Thou hast bravely overcome the adversary, passing, as the Psalmist says, through the fire as though it had been water. Therefore, as a just reward for all thy sufferings, thou hast become a source of healing for those who pray to thee with faith.O victorious martyr Theodore, intercede with Christ our God, that we who celebrate thy holy memory with love may receive remission of our sins."
 
 trMA.Ode3Kathisma3.mode = misc_en_UK_ware.Mode8
 trMA.Ode3Kathisma3.melody = he.a.m8_en_UK_ware.TinSofianKaiLogon.name
 trMA.Ode3Kathisma3.incipit = "Thou art the undefiled Bride…"
-trMA.Ode3Kathisma3.text = "Thou art the undefiled Bride of the Creator, the Virgin Mother of the Redeemer, the Tabernacle of the Most High. I am the shameful dwelling-place of sin, and in full knowledge have become the play­ thing of the demons. 0 hasten to deliver me from their wickedness, making me through virtue a temple of glory.0 pure Receiver of the Light, drive away the dark cloud of the passions, and bestow on me the brightness from on high, the pure radiance of thy light that knows no evening."
+trMA.Ode3Kathisma3.text = "Thou art the undefiled Bride of the Creator, the Virgin Mother of the Redeemer, the Tabernacle of the Most High. I am the shameful dwelling-place of sin, and in full knowledge have become the play­ thing of the demons. 0 hasten to deliver me from their wickedness, making me through virtue a temple of glory. O pure Receiver of the Light, drive away the dark cloud of the passions, and bestow on me the brightness from on high, the pure radiance of thy light that knows no evening."
 
 trMA.Ode4C1H.ode = misc_en_UK_ware.Ode4
 trMA.Ode4C1H.mode = misc_en_UK_ware.Mode4
@@ -468,7 +468,7 @@ trMA.Ode4C12.ode = misc_en_UK_ware.Ode4
 trMA.Ode4C12.mode = misc_en_UK_ware.Mode4
 trMA.Ode4C12.melody = he.h.m4_en_UK_ware.OKathimenosEnDoxi.name
 trMA.Ode4C12.incipit = "See how Christ's soldier loved…"
-trMA.Ode4C12.text = "See how Christ's soldier loved his Master! For in his zeal he consumed the enemies of Christ with: fire, and as his final feat eagerly he offered himself as an acceptable sacrifice to his Lord."
+trMA.Ode4C12.text = "See how Christ's soldier loved his Master! For in his zeal he consumed the enemies of Christ with fire, and as his final feat eagerly he offered himself as an acceptable sacrifice to his Lord."
 
 trMA.Ode4C13.ode = misc_en_UK_ware.Ode4
 trMA.Ode4C13.mode = misc_en_UK_ware.Mode4
