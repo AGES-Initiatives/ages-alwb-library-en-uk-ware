@@ -1,0 +1,35 @@
+A_Resource_Whose_Name = me.m12.d24_en_UK_ware
+
+meDA.date = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = "" //full title of day
+meDA.commemoration.first = ""
+meDA.commemoration.first_short = ""
+meDA.commemoration.second_short = ""
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" //for use in petitions and dismissal
+meDA.insert2 = "" //for use in petitions and dismissal
+meDA.note = ""
+meLE.commemoration1 = ""
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
+
+meVE.Stichera01.mode = misc_en_UK_ware.Mode4
+meVE.Stichera01.melody = he.a.m4_en_UK_ware.OsGennaionEnMartysi.name
+meVE.Stichera01.incipit = "Let us sound the cymbals…"
+meVE.Stichera01.text = "Let us sound the cymbals: let us shout aloud in songs. The revelation of Christ is now made manifest: the preachings of the prophets have received their fulfilment. For He of whom they spoke, foretelling His appearance in the flesh to mortal men, is born in a holy cave and is laid as a babe in a manger, and as a child He is wrapped in swaddling clothes"
+
+meVE.Stichera02.mode = misc_en_UK_ware.Mode4
+meVE.Stichera02.melody = he.a.m4_en_UK_ware.OsGennaionEnMartysi.name
+meVE.Stichera02.incipit = "With uprightness of mind…"
+meVE.Stichera02.text = "With uprightness of mind let us lift up our voice in song, celebrating the Forefeast of Christ's Nativity. For He who is equal in honour with the Father and the Spirit, has from compassion clothed Himself in our substance, and makes ready to be born in the city of Bethlehern. The praises of His Nativity past speech the shephe:rds and the angels sing. "
+
+meVE.Stichera03.mode = misc_en_UK_ware.Mode4
+meVE.Stichera03.melody = he.a.m4_en_UK_ware.OsGennaionEnMartysi.name
+meVE.Stichera03.incipit = "The Virgin was amazed…"
+meVE.Stichera03.text = "The Virgin was amazed, as she beheld a conception past telling and a birth past utterance. Rejoicing at once and weeping, she raised her voice and said: 'Shall Ι give my breast to Thee, who givest nourishment to all the world, or shall Ι sing Thy praise as my Son and my God? What manner of name shall Ι find to call Thee, Ο Lord whom none can name?'"
+
