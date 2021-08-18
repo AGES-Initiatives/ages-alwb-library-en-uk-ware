@@ -1,5 +1,7 @@
 A_Resource_Whose_Name = oc.m1.d4_en_UK_ware
 
+ocBK.ModeNaked = misc_en_UK_ware.Mode1.naked
+
 ocVE.Stichera1.mode = misc_en_UK_ware.Mode1
 ocVE.Stichera1.melody = he.a.m1_en_UK_ware.PaneffimoiMartyres.name
 ocVE.Stichera1.incipit = "…"
