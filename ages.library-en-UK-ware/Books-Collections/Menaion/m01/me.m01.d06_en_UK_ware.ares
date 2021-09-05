@@ -244,7 +244,7 @@ meMA.C2.Acrostic5.acrostic = ""
 
 meMA.Ode1C1H.ode = misc_en_UK_ware.Ode1
 meMA.Ode1C1H.mode = misc_en_UK_ware.Mode2
-meMA.Ode1C1H.melody = misc_en_UK_ware.Heirmos
+meMA.Ode1C1H.melody = he.h.m2_en_UK_ware.VythouAnekalypse.melody
 meMA.Ode1C1H.incipit = he.h.m2_en_UK_ware.VythouAnekalypse.incipit
 meMA.Ode1C1H.text = he.h.m2_en_UK_ware.VythouAnekalypse.text
 
@@ -271,7 +271,7 @@ meMA.Ode1C13.text = "The Lord who purges away the filth of men was cleansed in J
 
 meMA.Ode1C2H.ode = misc_en_UK_ware.Ode1
 meMA.Ode1C2H.mode = misc_en_UK_ware.Mode2
-meMA.Ode1C2H.melody = misc_en_UK_ware.Heirmos
+meMA.Ode1C2H.melody = he.h.m2_en_UK_ware.SteiveiThalassis.melody
 meMA.Ode1C2H.incipit = he.h.m2_en_UK_ware.SteiveiThalassis.incipit
 meMA.Ode1C2H.text = he.h.m2_en_UK_ware.SteiveiThalassis.text
 meMA.Ode1C2H1.text = he.h.m2_en_UK_ware.SteiveiThalassis1.text
@@ -307,7 +307,7 @@ meMA.Ode1C225.text = "‘This is My beloved Child, equal to Me by nature.’"
 
 meMA.Ode3C1H.ode = misc_en_UK_ware.Ode3
 meMA.Ode3C1H.mode = misc_en_UK_ware.Mode2
-meMA.Ode3C1H.melody = misc_en_UK_ware.Heirmos
+meMA.Ode3C1H.melody = he.h.m2_en_UK_ware.IschynODidous.melody
 meMA.Ode3C1H.incipit = he.h.m2_en_UK_ware.IschynODidous.incipit
 meMA.Ode3C1H.text = he.h.m2_en_UK_ware.IschynODidous.text
 
@@ -325,7 +325,7 @@ meMA.Ode3C12.text = "With a loud voice the Forerunner cries in the wilderness: �
 
 meMA.Ode3C2H.ode = misc_en_UK_ware.Ode3
 meMA.Ode3C2H.mode = misc_en_UK_ware.Mode2
-meMA.Ode3C2H.melody = misc_en_UK_ware.Heirmos
+meMA.Ode3C2H.melody = he.h.m2_en_UK_ware.OsoiPalaion.melody
 meMA.Ode3C2H.incipit = he.h.m2_en_UK_ware.OsoiPalaion.incipit
 meMA.Ode3C2H.text = he.h.m2_en_UK_ware.OsoiPalaion.text
 meMA.Ode3C2H1.text = he.h.m2_en_UK_ware.OsoiPalaion1.text
@@ -363,7 +363,7 @@ meMA.Hypakoe.text = "When Thou broughtest light to all things by Thine Epiphany,
 
 meMA.Ode4C1H.ode = misc_en_UK_ware.Ode4
 meMA.Ode4C1H.mode = misc_en_UK_ware.Mode2
-meMA.Ode4C1H.melody = misc_en_UK_ware.Heirmos
+meMA.Ode4C1H.melody = he.h.m2_en_UK_ware.AkikoeKyrieFonisSou.melody
 meMA.Ode4C1H.incipit = he.h.m2_en_UK_ware.AkikoeKyrieFonisSou.incipit
 meMA.Ode4C1H.text = he.h.m2_en_UK_ware.AkikoeKyrieFonisSou.text
 
@@ -387,7 +387,7 @@ meMA.Ode4C13.text = "‘Endowed with an understanding soul and honoured with the
 
 meMA.Ode4C2H.ode = misc_en_UK_ware.Ode4
 meMA.Ode4C2H.mode = misc_en_UK_ware.Mode2
-meMA.Ode4C2H.melody = misc_en_UK_ware.Heirmos
+meMA.Ode4C2H.melody = he.h.m2_en_UK_ware.PyrsoKathartheis.melody
 meMA.Ode4C2H.incipit = he.h.m2_en_UK_ware.PyrsoKathartheis.incipit
 meMA.Ode4C2H.text = he.h.m2_en_UK_ware.PyrsoKathartheis.text
 meMA.Ode4C2H1.text = he.h.m2_en_UK_ware.PyrsoKathartheis1.text
@@ -431,7 +431,7 @@ meMA.Ode4C235.text = "And so He saves the creation."
 
 meMA.Ode5C1H.ode = misc_en_UK_ware.Ode5
 meMA.Ode5C1H.mode = misc_en_UK_ware.Mode2
-meMA.Ode5C1H.melody = misc_en_UK_ware.Heirmos
+meMA.Ode5C1H.melody = he.h.m2_en_UK_ware.IisousOZoisArchigos.melody
 meMA.Ode5C1H.incipit = he.h.m2_en_UK_ware.IisousOZoisArchigos.incipit
 meMA.Ode5C1H.text = he.h.m2_en_UK_ware.IisousOZoisArchigos.text
 
@@ -449,7 +449,7 @@ meMA.Ode5C12.text = "The Husbandman and Creator stands in men’s midst as one o
 
 meMA.Ode5C2H.ode = misc_en_UK_ware.Ode5
 meMA.Ode5C2H.mode = misc_en_UK_ware.Mode2
-meMA.Ode5C2H.melody = misc_en_UK_ware.Heirmos
+meMA.Ode5C2H.melody = he.h.m2_en_UK_ware.EchthrouZofodous.melody
 meMA.Ode5C2H.incipit = he.h.m2_en_UK_ware.EchthrouZofodous.incipit
 meMA.Ode5C2H.text = he.h.m2_en_UK_ware.EchthrouZofodous.text
 meMA.Ode5C2H1.text = he.h.m2_en_UK_ware.EchthrouZofodous1.text
@@ -482,7 +482,7 @@ meMA.Ode5C225.text = "And gently He heals the disease of the world."
 
 meMA.Ode6C1H.ode = misc_en_UK_ware.Ode6
 meMA.Ode6C1H.mode = misc_en_UK_ware.Mode2
-meMA.Ode6C1H.melody = misc_en_UK_ware.Heirmos
+meMA.Ode6C1H.melody = he.h.m2_en_UK_ware.IFoniTouLogou.melody
 meMA.Ode6C1H.incipit = he.h.m2_en_UK_ware.IFoniTouLogou.incipit
 meMA.Ode6C1H.text = he.h.m2_en_UK_ware.IFoniTouLogou.text
 
@@ -500,7 +500,7 @@ meMA.Ode6C12.text = "Christ baptizes in the fire of the Last Day those who are d
 
 meMA.Ode6C2H.ode = misc_en_UK_ware.Ode6
 meMA.Ode6C2H.mode = misc_en_UK_ware.Mode2
-meMA.Ode6C2H.melody = misc_en_UK_ware.Heirmos
+meMA.Ode6C2H.melody = he.h.m2_en_UK_ware.ImertonExefine.melody
 meMA.Ode6C2H.incipit = he.h.m2_en_UK_ware.ImertonExefine.incipit
 meMA.Ode6C2H.text = he.h.m2_en_UK_ware.ImertonExefine.text
 meMA.Ode6C2H1.text = he.h.m2_en_UK_ware.ImertonExefine1.text
@@ -541,7 +541,7 @@ meMA.Oikos1.text = "Upon Galilee of the Gentiles, upon the land of Zabulon and t
 
 meMA.Ode7C1H.ode = misc_en_UK_ware.Ode7
 meMA.Ode7C1H.mode = misc_en_UK_ware.Mode2
-meMA.Ode7C1H.melody = misc_en_UK_ware.Heirmos
+meMA.Ode7C1H.melody = he.h.m2_en_UK_ware.NeousEfseveis.melody
 meMA.Ode7C1H.incipit = he.h.m2_en_UK_ware.NeousEfseveis.incipit
 meMA.Ode7C1H.text = he.h.m2_en_UK_ware.NeousEfseveis.text
 
@@ -565,7 +565,7 @@ meMA.Ode7C13.text = "O let us all, the faithful, discoursing on divine things, j
 
 meMA.Ode7C2H.ode = misc_en_UK_ware.Ode7
 meMA.Ode7C2H.mode = misc_en_UK_ware.Mode2
-meMA.Ode7C2H.melody = misc_en_UK_ware.Heirmos
+meMA.Ode7C2H.melody = he.h.m2_en_UK_ware.EflexeReithro.melody
 meMA.Ode7C2H.incipit = he.h.m2_en_UK_ware.EflexeReithro.incipit
 meMA.Ode7C2H.text = he.h.m2_en_UK_ware.EflexeReithro.text
 meMA.Ode7C2H1.text = he.h.m2_en_UK_ware.EflexeReithro1.text
@@ -609,7 +609,7 @@ meMA.Ode7C235.text = "Unto the comfort and salvation of mortal men."
 
 meMA.Ode8C1H.ode = misc_en_UK_ware.Ode8
 meMA.Ode8C1H.mode = misc_en_UK_ware.Mode2
-meMA.Ode8C1H.melody = misc_en_UK_ware.Heirmos
+meMA.Ode8C1H.melody = he.h.m2_en_UK_ware.MystirionParadoxon.melody
 meMA.Ode8C1H.incipit = he.h.m2_en_UK_ware.MystirionParadoxon.incipit
 meMA.Ode8C1H.text = he.h.m2_en_UK_ware.MystirionParadoxon.text
 
@@ -633,7 +633,7 @@ meMA.Ode8C13.text = "The Trinity was made manifest in the Jordan. For, supreme i
 
 meMA.Ode8C2H.ode = misc_en_UK_ware.Ode8
 meMA.Ode8C2H.mode = misc_en_UK_ware.Mode2
-meMA.Ode8C2H.melody = misc_en_UK_ware.Heirmos
+meMA.Ode8C2H.melody = he.h.m2_en_UK_ware.EleftheraMenIKtisis.melody
 meMA.Ode8C2H.incipit = he.h.m2_en_UK_ware.EleftheraMenIKtisis.incipit
 meMA.Ode8C2H.text = he.h.m2_en_UK_ware.EleftheraMenIKtisis.text
 meMA.Ode8C2H1.text = he.h.m2_en_UK_ware.EleftheraMenIKtisis1.text
@@ -698,7 +698,7 @@ meMA.Ode9C2MTh.text = "Magnify, O my soul, her that has delivered us from the cu
 
 meMA.Ode9C1H.ode = misc_en_UK_ware.Ode9
 meMA.Ode9C1H.mode = misc_en_UK_ware.Mode2
-meMA.Ode9C1H.melody = misc_en_UK_ware.Heirmos
+meMA.Ode9C1H.melody = he.h.m2_en_UK_ware.AporeiPasaGlossa.melody
 meMA.Ode9C1H.incipit = he.h.m2_en_UK_ware.AporeiPasaGlossa.incipit
 meMA.Ode9C1H.text = he.h.m2_en_UK_ware.AporeiPasaGlossa.text
 
@@ -722,7 +722,7 @@ meMA.Ode9C13.text = "Let us, the faithful, keep ourselves safe through grace and
 
 meMA.Ode9C2H.ode = misc_en_UK_ware.Ode9
 meMA.Ode9C2H.mode = misc_en_UK_ware.Mode2
-meMA.Ode9C2H.melody = misc_en_UK_ware.Heirmos
+meMA.Ode9C2H.melody = he.h.m2_en_UK_ware.OTonYperNoun.melody
 meMA.Ode9C2H.incipit = he.h.m2_en_UK_ware.OTonYperNoun.incipit
 meMA.Ode9C2H.text = he.h.m2_en_UK_ware.OTonYperNoun.text
 meMA.Ode9C2H1.text = he.h.m2_en_UK_ware.OTonYperNoun1.text

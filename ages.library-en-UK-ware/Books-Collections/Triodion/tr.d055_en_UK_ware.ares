@@ -118,7 +118,7 @@ trMA.Ode5C2A1.text = "O Christ my Master, I honour Thy Cross, the spear and the 
 
 trMA.Ode5C2H.ode = misc_en_UK_ware.Ode5
 trMA.Ode5C2H.mode = misc_en_UK_ware.Mode6
-trMA.Ode5C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode5C2H.melody = he.h.m6_en_UK_ware.EkNyktosOrthrizonta.melody
 trMA.Ode5C2H.incipit = he.h.m6_en_UK_ware.EkNyktosOrthrizonta.incipit
 trMA.Ode5C2H.text = he.h.m6_en_UK_ware.EkNyktosOrthrizonta.text
 
@@ -178,7 +178,7 @@ trMA.Ode8C2A1.text = "I praise Thy Cross, O Saviour, whereby I have been saved, 
 
 trMA.Ode8C2H.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C2H.mode = misc_en_UK_ware.Mode6
-trMA.Ode8C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode8C2H.melody = he.h.m6_en_UK_ware.TonPaidonTinOdin.melody
 trMA.Ode8C2H.incipit = he.h.m6_en_UK_ware.TonPaidonTinOdin.incipit
 trMA.Ode8C2H.text = he.h.m6_en_UK_ware.TonPaidonTinOdin.text
 
@@ -238,7 +238,7 @@ trMA.Ode9C2A1.text = "For our sake has each one of Thy members endured suffering
 
 trMA.Ode9C2H.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C2H.mode = misc_en_UK_ware.Mode6
-trMA.Ode9C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode9C2H.melody = he.h.m6_en_UK_ware.AsporouSyllipseos.melody
 trMA.Ode9C2H.incipit = he.h.m6_en_UK_ware.AsporouSyllipseos.incipit
 trMA.Ode9C2H.text = he.h.m6_en_UK_ware.AsporouSyllipseos.text
 

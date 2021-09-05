@@ -276,7 +276,7 @@ trMA.C1.acrostic = ""
 
 trMA.Ode3C1H.ode = misc_en_UK_ware.Ode3
 trMA.Ode3C1H.mode = misc_en_UK_ware.Mode2
-trMA.Ode3C1H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode3C1H.melody = he.h.m2_en_UK_ware.TisPisteosEnPetra.melody
 trMA.Ode3C1H.incipit = he.h.m2_en_UK_ware.TisPisteosEnPetra.incipit
 trMA.Ode3C1H.text = he.h.m2_en_UK_ware.TisPisteosEnPetra.text
 
@@ -320,7 +320,7 @@ trSY.lastline = ""
 
 trMA.Ode8C1H.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C1H.mode = misc_en_UK_ware.Mode2
-trMA.Ode8C1H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode8C1H.melody = he.h.m2_en_UK_ware.RimaTyrannou.melody
 trMA.Ode8C1H.incipit = he.h.m2_en_UK_ware.RimaTyrannou.incipit
 trMA.Ode8C1H.text = he.h.m2_en_UK_ware.RimaTyrannou.text
 
@@ -350,7 +350,7 @@ trMA.Ode8K.text = he.h.m2_en_UK_ware.RimaTyrannou.text
 
 trMA.Ode9C1H.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C1H.mode = misc_en_UK_ware.Mode2
-trMA.Ode9C1H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode9C1H.melody = he.h.m2_en_UK_ware.PsychaisKatharais.melody
 trMA.Ode9C1H.incipit = he.h.m2_en_UK_ware.PsychaisKatharais.incipit
 trMA.Ode9C1H.text = he.h.m2_en_UK_ware.PsychaisKatharais.text
 

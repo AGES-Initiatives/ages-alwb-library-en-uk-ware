@@ -130,7 +130,7 @@ trMA.Ode1C2A1.text = "O my Christ, how shall I bear Thine anger when Thou comest
 
 trMA.Ode1C2H.ode = misc_en_UK_ware.Ode1
 trMA.Ode1C2H.mode = misc_en_UK_ware.Mode6
-trMA.Ode1C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode1C2H.melody = he.h.m6_en_UK_ware.VoithosKaiSkepastis.melody
 trMA.Ode1C2H.incipit = he.h.m6_en_UK_ware.VoithosKaiSkepastis.incipit
 trMA.Ode1C2H.text = he.h.m6_en_UK_ware.VoithosKaiSkepastis.text
 
@@ -190,7 +190,7 @@ trMA.Ode8C2A1.text = "No man became foolish through drinking water, but thou, O 
 
 trMA.Ode8C2H.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C2H.mode = misc_en_UK_ware.Mode6
-trMA.Ode8C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode8C2H.melody = he.h.m6_en_UK_ware.OnStratiaiOuranon.melody
 trMA.Ode8C2H.incipit = he.h.m6_en_UK_ware.OnStratiaiOuranon.incipit
 trMA.Ode8C2H.text = he.h.m6_en_UK_ware.OnStratiaiOuranon.text
 
@@ -250,7 +250,7 @@ trMA.Ode9C2A1.text = "O my soul, because of fasting Moses beheld God; because of
 
 trMA.Ode9C2H.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C2H.mode = misc_en_UK_ware.Mode6
-trMA.Ode9C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode9C2H.melody = he.h.m6_en_UK_ware.AsporouSyllipseos.melody
 trMA.Ode9C2H.incipit = he.h.m6_en_UK_ware.AsporouSyllipseos.incipit
 trMA.Ode9C2H.text = he.h.m6_en_UK_ware.AsporouSyllipseos.text
 

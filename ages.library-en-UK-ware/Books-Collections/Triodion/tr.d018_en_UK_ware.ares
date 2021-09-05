@@ -43,7 +43,7 @@ trMA.C2.poet = poets_en_UK_ware.KyriouIosif
 
 trMA.Ode1C1H.ode = misc_en_UK_ware.Ode1
 trMA.Ode1C1H.mode = misc_en_UK_ware.Mode4
-trMA.Ode1C1H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode1C1H.melody = he.h.m4_en_UK_ware.AsomaiSoiKyrie.melody
 trMA.Ode1C1H.incipit = he.h.m4_en_UK_ware.AsomaiSoiKyrie.incipit
 trMA.Ode1C1H.text = he.h.m4_en_UK_ware.AsomaiSoiKyrie.text
 
@@ -76,7 +76,7 @@ trMA.Ode1C1T.text = "To thee we all run, Theotokos, for thou art our sure def en
 
 trMA.Ode3C1H.ode = misc_en_UK_ware.Ode3
 trMA.Ode3C1H.mode = misc_en_UK_ware.Mode4
-trMA.Ode3C1H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode3C1H.melody = he.h.m4_en_UK_ware.EnKyrioTheoMou.melody
 trMA.Ode3C1H.incipit = he.h.m4_en_UK_ware.EnKyrioTheoMou.incipit
 trMA.Ode3C1H.text = he.h.m4_en_UK_ware.EnKyrioTheoMou.text
 
@@ -178,7 +178,7 @@ trMA.Ode3C3A1.text = "By Thy power, O Christ, sanctify the season of the Fast; a
 
 trMA.Ode3C3H.ode = misc_en_UK_ware.Ode3
 trMA.Ode3C3H.mode = misc_en_UK_ware.Mode2
-trMA.Ode3C3H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode3C3H.melody = he.h.m2_en_UK_ware.SteirothentaMouTonNoun.melody
 trMA.Ode3C3H.incipit = he.h.m2_en_UK_ware.SteirothentaMouTonNoun.incipit
 trMA.Ode3C3H.text = he.h.m2_en_UK_ware.SteirothentaMouTonNoun.text
 
@@ -256,7 +256,7 @@ trMA.Ode6C1T.text = "In ways past speech thou hast borne Christ our God, the Sav
 
 trMA.Ode6C1H.ode = misc_en_UK_ware.Ode6
 trMA.Ode6C1H.mode = misc_en_UK_ware.Mode4
-trMA.Ode6C1H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode6C1H.melody = he.h.m4_en_UK_ware.OsIonanTonProfitin.melody
 trMA.Ode6C1H.incipit = he.h.m4_en_UK_ware.OsIonanTonProfitin.incipit
 trMA.Ode6C1H.text = he.h.m4_en_UK_ware.OsIonanTonProfitin.text
 
@@ -286,7 +286,7 @@ trMA.Ode7C1T.text = "O pure Virgin Mother, from thee the pre-eternal Word took f
 
 trMA.Ode8C1H.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C1H.mode = misc_en_UK_ware.Mode4
-trMA.Ode8C1H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode8C1H.melody = he.h.m4_en_UK_ware.TonVasileaChriston.melody
 trMA.Ode8C1H.incipit = he.h.m4_en_UK_ware.TonVasileaChriston.incipit
 trMA.Ode8C1H.text = he.h.m4_en_UK_ware.TonVasileaChriston.text
 
@@ -388,13 +388,13 @@ trMA.Ode8C3A1.text = "O Cross, hope of the faithful, weapon of kings, glory of p
 
 trMA.Ode8C3H.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C3H.mode = misc_en_UK_ware.Mode2
-trMA.Ode8C3H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode8C3H.melody = he.h.m2_en_UK_ware.TonEnTiVatoMosi.melody
 trMA.Ode8C3H.incipit = he.h.m2_en_UK_ware.TonEnTiVatoMosi.incipit
 trMA.Ode8C3H.text = he.h.m2_en_UK_ware.TonEnTiVatoMosi.text
 
 trMA.Ode9C1H.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C1H.mode = misc_en_UK_ware.Mode4
-trMA.Ode9C1H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode9C1H.melody = he.h.m4_en_UK_ware.MegalynomenPantes.melody
 trMA.Ode9C1H.incipit = he.h.m4_en_UK_ware.MegalynomenPantes.incipit
 trMA.Ode9C1H.text = he.h.m4_en_UK_ware.MegalynomenPantes.text
 
@@ -490,7 +490,7 @@ trMA.Ode9C3A1.text = "By thy power, O Cross, grant to those who venerate thee th
 
 trMA.Ode9C3H.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C3H.mode = misc_en_UK_ware.Mode2
-trMA.Ode9C3H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode9C3H.melody = he.h.m2_en_UK_ware.TinYperfyosSarki.melody
 trMA.Ode9C3H.incipit = he.h.m2_en_UK_ware.TinYperfyosSarki.incipit
 trMA.Ode9C3H.text = he.h.m2_en_UK_ware.TinYperfyosSarki.text
 

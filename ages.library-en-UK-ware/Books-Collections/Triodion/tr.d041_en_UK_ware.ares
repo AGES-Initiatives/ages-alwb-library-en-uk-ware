@@ -124,7 +124,7 @@ trMA.Ode5C2A1.text = "O precious Cross, guardian and salvation of the world, wat
 
 trMA.Ode5C2H.ode = misc_en_UK_ware.Ode5
 trMA.Ode5C2H.mode = misc_en_UK_ware.Mode1
-trMA.Ode5C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode5C2H.melody = he.h.m1_en_UK_ware.EkNyktosOrthrizontes.melody
 trMA.Ode5C2H.incipit = he.h.m1_en_UK_ware.EkNyktosOrthrizontes.incipit
 trMA.Ode5C2H.text = he.h.m1_en_UK_ware.EkNyktosOrthrizontes.text
 
@@ -184,7 +184,7 @@ trMA.Ode8C2A1.text = "O thrice-blessed Cross of Christ, while hidden in the eart
 
 trMA.Ode8C2H.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C2H.mode = misc_en_UK_ware.Mode1
-trMA.Ode8C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode8C2H.melody = he.h.m1_en_UK_ware.TonTousYmnologousEnKamino.melody
 trMA.Ode8C2H.incipit = he.h.m1_en_UK_ware.TonTousYmnologousEnKamino.incipit
 trMA.Ode8C2H.text = he.h.m1_en_UK_ware.TonTousYmnologousEnKamino.text
 
@@ -244,7 +244,7 @@ trMA.Ode9C2A1.text = "O Lord, through abstinence enable us to run swiftly to Thy
 
 trMA.Ode9C2H.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C2H.mode = misc_en_UK_ware.Mode1
-trMA.Ode9C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode9C2H.melody = he.h.m1_en_UK_ware.SeInPerEideMoysis.melody
 trMA.Ode9C2H.incipit = he.h.m1_en_UK_ware.SeInPerEideMoysis.incipit
 trMA.Ode9C2H.text = he.h.m1_en_UK_ware.SeInPerEideMoysis.text
 

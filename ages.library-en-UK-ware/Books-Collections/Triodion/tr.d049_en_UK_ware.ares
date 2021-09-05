@@ -116,7 +116,7 @@ trMA.Ode6C2A2.text = "Thou hast formed me from the earth and given me life, and 
 
 trMA.Ode6C2H.ode = misc_en_UK_ware.Ode6
 trMA.Ode6C2H.mode = misc_en_UK_ware.Mode4
-trMA.Ode6C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode6C2H.melody = he.h.m4_en_UK_ware.TonPtaismatonTiZali.melody
 trMA.Ode6C2H.incipit = he.h.m4_en_UK_ware.TonPtaismatonTiZali.incipit
 trMA.Ode6C2H.text = he.h.m4_en_UK_ware.TonPtaismatonTiZali.text
 
@@ -182,7 +182,7 @@ trMA.Ode7C2A2.text = "Where Thy living light shines upon them, make Thy faithful
 
 trMA.Ode7C2H.ode = misc_en_UK_ware.Ode7
 trMA.Ode7C2H.mode = misc_en_UK_ware.Mode4
-trMA.Ode7C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode7C2H.melody = he.h.m4_en_UK_ware.OEnToOreiToMosei.melody
 trMA.Ode7C2H.incipit = he.h.m4_en_UK_ware.OEnToOreiToMosei.incipit
 trMA.Ode7C2H.text = he.h.m4_en_UK_ware.OEnToOreiToMosei.text
 
@@ -248,7 +248,7 @@ trMA.Ode8C2A2.text = "Thou art the Lord and God of death and life, who dost rais
 
 trMA.Ode8C2H.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C2H.mode = misc_en_UK_ware.Mode4
-trMA.Ode8C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode8C2H.melody = he.h.m4_en_UK_ware.GiKaiPantaTaEnAfti.melody
 trMA.Ode8C2H.incipit = he.h.m4_en_UK_ware.GiKaiPantaTaEnAfti.incipit
 trMA.Ode8C2H.text = he.h.m4_en_UK_ware.GiKaiPantaTaEnAfti.text
 
@@ -314,7 +314,7 @@ trMA.Ode9C2A2.text = "In Thy compassion and love for mankind, forgive and pardon
 
 trMA.Ode9C2H.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C2H.mode = misc_en_UK_ware.Mode4
-trMA.Ode9C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode9C2H.melody = he.h.m4_en_UK_ware.MegalynomenPantes.melody
 trMA.Ode9C2H.incipit = he.h.m4_en_UK_ware.MegalynomenPantes.incipit
 trMA.Ode9C2H.text = he.h.m4_en_UK_ware.MegalynomenPantes.text
 

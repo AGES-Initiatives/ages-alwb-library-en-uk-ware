@@ -116,7 +116,7 @@ trMA.Ode6C2A2.text = "Free among the dead, as Ruler over life and death, do Thou
 
 trMA.Ode6C2H.ode = misc_en_UK_ware.Ode6
 trMA.Ode6C2H.mode = misc_en_UK_ware.Mode8
-trMA.Ode6C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode6C2H.melody = he.h.m8_en_UK_ware.SynechomenonDexaiMe.melody
 trMA.Ode6C2H.incipit = he.h.m8_en_UK_ware.SynechomenonDexaiMe.incipit
 trMA.Ode6C2H.text = he.h.m8_en_UK_ware.SynechomenonDexaiMe.text
 
@@ -182,7 +182,7 @@ trMA.Ode7C2A2.text = "Giver of life, immortal King, grant Thine eternal life to 
 
 trMA.Ode7C2H.ode = misc_en_UK_ware.Ode7
 trMA.Ode7C2H.mode = misc_en_UK_ware.Mode8
-trMA.Ode7C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode7C2H.melody = he.h.m8_en_UK_ware.ODiAngelouPaidas.melody
 trMA.Ode7C2H.incipit = he.h.m8_en_UK_ware.ODiAngelouPaidas.incipit
 trMA.Ode7C2H.text = he.h.m8_en_UK_ware.ODiAngelouPaidas.text
 
@@ -248,7 +248,7 @@ trMA.Ode8C2A2.text = "Thou hast destroyed the power of death by Thy Rising from 
 
 trMA.Ode8C2H.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C2H.mode = misc_en_UK_ware.Mode8
-trMA.Ode8C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode8C2H.melody = he.h.m8_en_UK_ware.OiTheorrimonesPaides.melody
 trMA.Ode8C2H.incipit = he.h.m8_en_UK_ware.OiTheorrimonesPaides.incipit
 trMA.Ode8C2H.text = he.h.m8_en_UK_ware.OiTheorrimonesPaides.text
 
@@ -314,7 +314,7 @@ trMA.Ode9C2A2.text = "Make Thy departed servants to dwell, O Son of God, where t
 
 trMA.Ode9C2H.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C2H.mode = misc_en_UK_ware.Mode8
-trMA.Ode9C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode9C2H.melody = he.h.m8_en_UK_ware.MegalynomenSeTinMiteraTouFotos.melody
 trMA.Ode9C2H.incipit = he.h.m8_en_UK_ware.MegalynomenSeTinMiteraTouFotos.incipit
 trMA.Ode9C2H.text = he.h.m8_en_UK_ware.MegalynomenSeTinMiteraTouFotos.text
 

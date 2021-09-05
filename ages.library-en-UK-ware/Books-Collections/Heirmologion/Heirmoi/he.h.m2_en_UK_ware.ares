@@ -2,60 +2,70 @@ A_Resource_Whose_Name = he.h.m2_en_UK_ware
 
 AkikoaKyrieTinEndoxon.name = "(NM)"
 AkikoaKyrieTinEndoxon.incipit = "(NM)…"
+AkikoaKyrieTinEndoxon.melody = misc_en_UK_ware.HeirmosNotMetered
 AkikoaKyrieTinEndoxon.mode = misc_en_UK_ware.Mode2
 AkikoaKyrieTinEndoxon.ode = misc_en_UK_ware.Ode4
 AkikoaKyrieTinEndoxon.text = ""
 
 AkikoeKyrieFonisSou.name = "(NM) He whom Thou hast called."
 AkikoeKyrieFonisSou.incipit = "(NM) He whom Thou hast called…"
+AkikoeKyrieFonisSou.melody = misc_en_UK_ware.HeirmosNotMetered
 AkikoeKyrieFonisSou.mode = misc_en_UK_ware.Mode2
 AkikoeKyrieFonisSou.ode = misc_en_UK_ware.Ode4
 AkikoeKyrieFonisSou.text = "He whom Thou hast called, O Lord, ‘The voice of one crying in the wilderness’, heard Thy voice when Thou hast thundered upon many waters, bearing witness to Thy Son. Wholly filled with the Spirit that had come, he cried aloud: ‘Thou art Christ, the wisdom and the power of God.’"
 
 AnarchouGennitoros.name = "(NM)"
 AnarchouGennitoros.incipit = "(NM)…"
+AnarchouGennitoros.melody = misc_en_UK_ware.HeirmosNotMetered
 AnarchouGennitoros.mode = misc_en_UK_ware.Mode2
 AnarchouGennitoros.ode = misc_en_UK_ware.Ode9
 AnarchouGennitoros.text = ""
 
 AntitheonProstagma.name = "(NM)"
 AntitheonProstagma.incipit = "(NM)…"
+AntitheonProstagma.melody = misc_en_UK_ware.HeirmosNotMetered
 AntitheonProstagma.mode = misc_en_UK_ware.Mode2
 AntitheonProstagma.ode = misc_en_UK_ware.Ode7
 AntitheonProstagma.text = ""
 
 AporeiPasaGlossa.name = "(NM) Every tongue is at a loss."
 AporeiPasaGlossa.incipit = "(NM) Every tongue is at a loss…"
+AporeiPasaGlossa.melody = misc_en_UK_ware.HeirmosNotMetered
 AporeiPasaGlossa.mode = misc_en_UK_ware.Mode2
 AporeiPasaGlossa.ode = misc_en_UK_ware.Ode9
 AporeiPasaGlossa.text = "Every tongue is at a loss to praise thee as is due: even a spirit from the world above is filled with dizziness, when it seeks to sing thy praises, O Theotokos. But since Thou art good, accept our faith: Thou knowest well our love inspired by God, for thou art the Protector of Christians and we magnify thee."
 
 AsomenToKyrio.name = "(NM)"
 AsomenToKyrio.incipit = "(NM)…"
+AsomenToKyrio.melody = misc_en_UK_ware.HeirmosNotMetered
 AsomenToKyrio.mode = misc_en_UK_ware.Mode2
 AsomenToKyrio.ode = misc_en_UK_ware.Ode1
 AsomenToKyrio.text = ""
 
 AtriptonAsynithi.name = "(NM)"
 AtriptonAsynithi.incipit = "(NM)…"
+AtriptonAsynithi.melody = misc_en_UK_ware.HeirmosNotMetered
 AtriptonAsynithi.mode = misc_en_UK_ware.Mode2
 AtriptonAsynithi.ode = misc_en_UK_ware.Ode1
 AtriptonAsynithi.text = ""
 
 AvyssosAmartimaton.name = "(NM)"
 AvyssosAmartimaton.incipit = "(NM)…"
+AvyssosAmartimaton.melody = misc_en_UK_ware.HeirmosNotMetered
 AvyssosAmartimaton.mode = misc_en_UK_ware.Mode2
 AvyssosAmartimaton.ode = misc_en_UK_ware.Ode2
 AvyssosAmartimaton.text = ""
 
 DefteLaoi.name = "(NM)"
 DefteLaoi.incipit = "(NM)…"
+DefteLaoi.melody = misc_en_UK_ware.HeirmosNotMetered
 DefteLaoi.mode = misc_en_UK_ware.Mode2
 DefteLaoi.ode = misc_en_UK_ware.Ode1
 DefteLaoi.text = ""
 
 EchthrouZofodous.name = "(NM) By the cleansing of the Spirit."
 EchthrouZofodous.incipit = "(NM) By the cleansing of the Spirit…"
+EchthrouZofodous.melody = misc_en_UK_ware.HeirmosNotMetered
 EchthrouZofodous.mode = misc_en_UK_ware.Mode2
 EchthrouZofodous.ode = misc_en_UK_ware.Ode5
 EchthrouZofodous.text = "By the cleansing of the Spirit have we been washed From the poison of the dark and unclean enemy, And we have set out upon a new path free from error, That leads to gladness of heart past all attainment, Which only they attain whom God has reconciled unto Himself."
@@ -67,6 +77,7 @@ EchthrouZofodous5.text = "Which only they attain whom God has reconciled unto Hi
 
 EflexeReithro.name = "(NM) He who stilled the heat."
 EflexeReithro.incipit = "(NM) He who stilled the heat…"
+EflexeReithro.melody = misc_en_UK_ware.HeirmosNotMetered
 EflexeReithro.mode = misc_en_UK_ware.Mode2
 EflexeReithro.ode = misc_en_UK_ware.Ode7
 EflexeReithro.text = "He who stilled the heat of the flame of the furnace That mounted high in the air and encircled the godly Children, Burnt the heads of the dragons in the stream of the Jordan: And with the dew of the Spirit He washes away All the stubborn obscurity of sin."
@@ -78,24 +89,28 @@ EflexeReithro5.text = "All the stubborn obscurity of sin."
 
 EfrixePaidonEvagon.name = "(NM) The unwearied fire."
 EfrixePaidonEvagon.incipit = "(NM) The unwearied fire…"
+EfrixePaidonEvagon.melody = misc_en_UK_ware.HeirmosNotMetered
 EfrixePaidonEvagon.mode = misc_en_UK_ware.Mode2
 EfrixePaidonEvagon.ode = misc_en_UK_ware.Ode8
 EfrixePaidonEvagon.text = "The unwearied fire, fed with endless fuel, drew back in fear before the pure bodies and pure souls of the holy Children; and as the undying flame decreased in strength, they sang an everlasting song: O all ye works, praise ye the Lord and exalt Him above all for ever."
 
 EikonosChrysis.name = "(NM)"
 EikonosChrysis.incipit = "(NM)…"
+EikonosChrysis.melody = misc_en_UK_ware.HeirmosNotMetered
 EikonosChrysis.mode = misc_en_UK_ware.Mode2
 EikonosChrysis.ode = misc_en_UK_ware.Ode7
 EikonosChrysis.text = ""
 
 EisakikoaKyrieTinAkoin.name = "(NM)"
 EisakikoaKyrieTinAkoin.incipit = "(NM)…"
+EisakikoaKyrieTinAkoin.melody = misc_en_UK_ware.HeirmosNotMetered
 EisakikoaKyrieTinAkoin.mode = misc_en_UK_ware.Mode2
 EisakikoaKyrieTinAkoin.ode = misc_en_UK_ware.Ode4
 EisakikoaKyrieTinAkoin.text = ""
 
 EleftheraMenIKtisis.name = "(NM) The creation finds itself."
 EleftheraMenIKtisis.incipit = "(NM) The creation finds itself…"
+EleftheraMenIKtisis.melody = misc_en_UK_ware.HeirmosNotMetered
 EleftheraMenIKtisis.mode = misc_en_UK_ware.Mode2
 EleftheraMenIKtisis.ode = misc_en_UK_ware.Ode8
 EleftheraMenIKtisis.text = "The creation finds itself set free, And those in darkness are now made sons of light: Alone the prince of darkness groans. Let all the inheritance of the nations, that was before in misery, Now bless with eagerness Him who has wrought this change."
@@ -107,90 +122,105 @@ EleftheraMenIKtisis5.text = "Now bless with eagerness Him who has wrought this c
 
 ElilythasEkParthenou.name = "(NM) Thou hast come forth from a Virgin."
 ElilythasEkParthenou.incipit = "Thou hast come forth from a Virgin…"
+ElilythasEkParthenou.melody = misc_en_UK_ware.HeirmosNotMetered
 ElilythasEkParthenou.mode = misc_en_UK_ware.Mode2
 ElilythasEkParthenou.ode = misc_en_UK_ware.Ode4
 ElilythasEkParthenou.text = "Thou hast come forth from a Virgin, neither angel nor ambassador, but the Lord Himself made flesh, and all my human nature Thou hast saved. Therefore I cry unto Thee: Glory to Thy power, O Lord."
 
 EmegalynasChriste.name = "(NM)"
 EmegalynasChriste.incipit = "(NM)…"
+EmegalynasChriste.melody = misc_en_UK_ware.HeirmosNotMetered
 EmegalynasChriste.mode = misc_en_UK_ware.Mode2
 EmegalynasChriste.ode = misc_en_UK_ware.Ode9
 EmegalynasChriste.text = ""
 
 EnAvyssoPtaismaton.name = "(NM)"
 EnAvyssoPtaismaton.incipit = "(NM)…"
+EnAvyssoPtaismaton.melody = misc_en_UK_ware.HeirmosNotMetered
 EnAvyssoPtaismaton.mode = misc_en_UK_ware.Mode2
 EnAvyssoPtaismaton.ode = misc_en_UK_ware.Ode6
 EnAvyssoPtaismaton.text = ""
 
 EnPetraMeTisPisteos.name = "(NM) On the rock of faith."
 EnPetraMeTisPisteos.incipit = "(NM) On the rock of faith…"
+EnPetraMeTisPisteos.melody = misc_en_UK_ware.HeirmosNotMetered
 EnPetraMeTisPisteos.mode = misc_en_UK_ware.Mode2
 EnPetraMeTisPisteos.ode = misc_en_UK_ware.Ode3
 EnPetraMeTisPisteos.text = ""
 
 EnTiKamino.name = "(NM)"
 EnTiKamino.incipit = "(NM)…"
+EnTiKamino.melody = misc_en_UK_ware.HeirmosNotMetered
 EnTiKamino.mode = misc_en_UK_ware.Mode2
 EnTiKamino.ode = misc_en_UK_ware.Ode8
 EnTiKamino.text = ""
 
 EnVythoKatestrose.name = "(NM)"
 EnVythoKatestrose.incipit = "(NM)…"
+EnVythoKatestrose.melody = misc_en_UK_ware.HeirmosNotMetered
 EnVythoKatestrose.mode = misc_en_UK_ware.Mode2
 EnVythoKatestrose.ode = misc_en_UK_ware.Ode1
 EnVythoKatestrose.text = ""
 
 ExinthisenIErimos.name = "(NM)"
 ExinthisenIErimos.incipit = "(NM)…"
+ExinthisenIErimos.melody = misc_en_UK_ware.HeirmosNotMetered
 ExinthisenIErimos.mode = misc_en_UK_ware.Mode2
 ExinthisenIErimos.ode = misc_en_UK_ware.Ode3
 ExinthisenIErimos.text = ""
 
 IEnOuranois.name = "(NM)"
 IEnOuranois.incipit = "(NM)…"
+IEnOuranois.melody = misc_en_UK_ware.HeirmosNotMetered
 IEnOuranois.mode = misc_en_UK_ware.Mode2
 IEnOuranois.ode = misc_en_UK_ware.Ode9
 IEnOuranois.text = ""
 
 IFoniTouLogou.name = "(NM) The Voice of the Word."
 IFoniTouLogou.incipit = "(NM) The Voice of the Word…"
+IFoniTouLogou.melody = misc_en_UK_ware.HeirmosNotMetered
 IFoniTouLogou.mode = misc_en_UK_ware.Mode2
 IFoniTouLogou.ode = misc_en_UK_ware.Ode6
 IFoniTouLogou.text = "The Voice of the Word, the Candlestick of the Light, the Morning Star and Forerunner of the Sun, cried in the wilderness to all the peoples: ‘Repent and be cleansed while there is yet time. For lo, Christ is at hand, who delivers the world from corruption.’"
 
 ITonAchoritonTheon.name = "(NM) Thou hast enclosed."
 ITonAchoritonTheon.incipit = "(NM) Thou hast enclosed…"
+ITonAchoritonTheon.melody = misc_en_UK_ware.HeirmosNotMetered
 ITonAchoritonTheon.mode = misc_en_UK_ware.Mode2
 ITonAchoritonTheon.ode = misc_en_UK_ware.Ode9
 ITonAchoritonTheon.text = "Thou hast enclosed within thy womb the God whom nothing can enclose, and thou hast brought joy into the world. We sing thy praises, O most holy Virgin."
 
 ITonProIliouFostira.name = "(NM)"
 ITonProIliouFostira.incipit = "(NM)…"
+ITonProIliouFostira.melody = misc_en_UK_ware.HeirmosNotMetered
 ITonProIliouFostira.mode = misc_en_UK_ware.Mode2
 ITonProIliouFostira.ode = misc_en_UK_ware.Ode9
 ITonProIliouFostira.text = ""
 
 IchouRimatonDeiseos.name = "(NM)"
 IchouRimatonDeiseos.incipit = "(NM)…"
+IchouRimatonDeiseos.melody = misc_en_UK_ware.HeirmosNotMetered
 IchouRimatonDeiseos.mode = misc_en_UK_ware.Mode2
 IchouRimatonDeiseos.ode = misc_en_UK_ware.Ode6
 IchouRimatonDeiseos.text = ""
 
 IdeteIdeteOEnThalassi.name = "(NM)"
 IdeteIdeteOEnThalassi.incipit = "(NM)…"
+IdeteIdeteOEnThalassi.melody = misc_en_UK_ware.HeirmosNotMetered
 IdeteIdeteOEnThalassi.mode = misc_en_UK_ware.Mode2
 IdeteIdeteOEnThalassi.ode = misc_en_UK_ware.Ode2
 IdeteIdeteOEnThalassi.text = ""
 
 IisousOZoisArchigos.name = "(NM) Jesus, the Prince of Life."
 IisousOZoisArchigos.incipit = "(NM) Jesus, the Prince of Life…"
+IisousOZoisArchigos.melody = misc_en_UK_ware.HeirmosNotMetered
 IisousOZoisArchigos.mode = misc_en_UK_ware.Mode2
 IisousOZoisArchigos.ode = misc_en_UK_ware.Ode5
 IisousOZoisArchigos.text = "Jesus, the Prince of Life, has come to set loose from condemnation Adam the first-formed man; and though as God He needs no cleansing, yet for the sake of fallen man He is cleansed in the Jordan. In its streams He slew the enmity and grants the peace that passes all understanding."
 
 ImertonExefine.name = "(NM) The Father in a voice."
 ImertonExefine.incipit = "(NM) The Father in a voice…"
+ImertonExefine.melody = misc_en_UK_ware.HeirmosNotMetered
 ImertonExefine.mode = misc_en_UK_ware.Mode2
 ImertonExefine.ode = misc_en_UK_ware.Ode6
 ImertonExefine.text = "The Father in a voice full of joy Made manifest His Beloved whom He had begotten from the womb. ‘Verily,’ said He, ‘this is My offspring, of the same nature as Myself: Bearing light, He has come forth from mankind, My living Word, in divine providence made a mortal man.’"
@@ -202,66 +232,77 @@ ImertonExefine5.text = "My living Word, in divine providence made a mortal man.�
 
 IndalmatosChrysou.name = "(NM)"
 IndalmatosChrysou.incipit = "(NM)…"
+IndalmatosChrysou.melody = misc_en_UK_ware.HeirmosNotMetered
 IndalmatosChrysou.mode = misc_en_UK_ware.Mode2
 IndalmatosChrysou.ode = misc_en_UK_ware.Ode8
 IndalmatosChrysou.text = ""
 
 IschynODidous.name = "(NM) The Lord who gives strength."
 IschynODidous.incipit = "(NM) The Lord who gives strength…"
+IschynODidous.melody = misc_en_UK_ware.HeirmosNotMetered
 IschynODidous.mode = misc_en_UK_ware.Mode2
 IschynODidous.ode = misc_en_UK_ware.Ode3
 IschynODidous.text = "The Lord who gives strength to our kings and exalts the horn of His anointed, is born of a Virgin and comes to baptism. Therefore let us, the faithful, cry aloud: None is holy as our God and none is righteous save Thee, O Lord."
 
 KaminosPote.name = "(NM)"
 KaminosPote.incipit = "(NM)…"
+KaminosPote.melody = misc_en_UK_ware.HeirmosNotMetered
 KaminosPote.mode = misc_en_UK_ware.Mode2
 KaminosPote.ode = misc_en_UK_ware.Ode8
 KaminosPote.text = ""
 
 MesitisTheou.name = "(NM)"
 MesitisTheou.incipit = "(NM)…"
+MesitisTheou.melody = misc_en_UK_ware.HeirmosNotMetered
 MesitisTheou.mode = misc_en_UK_ware.Mode2
 MesitisTheou.ode = misc_en_UK_ware.Ode5
 MesitisTheou.text = ""
 
 MystirionParadoxon.name = "(NM) The Babylonian furnace."
 MystirionParadoxon.incipit = "(NM) The Babylonian furnace…"
+MystirionParadoxon.melody = misc_en_UK_ware.HeirmosNotMetered
 MystirionParadoxon.mode = misc_en_UK_ware.Mode2
 MystirionParadoxon.ode = misc_en_UK_ware.Ode8
 MystirionParadoxon.text = "The Babylonian furnace, as it poured forth dew, foreshadowed a marvellous mystery: how the Jordan should receive in its streams the immaterial fire, and should encompass the Creator, when He was baptized in the flesh. Him do ye peoples bless and exalt above all for ever."
 
 NeousEfseveis.name = "(NM) The breath of the wind."
 NeousEfseveis.incipit = "(NM) The breath of the wind…"
+NeousEfseveis.melody = misc_en_UK_ware.HeirmosNotMetered
 NeousEfseveis.mode = misc_en_UK_ware.Mode2
 NeousEfseveis.ode = misc_en_UK_ware.Ode7
 NeousEfseveis.text = "The breath of the wind heavy with dew and the descent of the angel of God preserved the Holy Children from all harm, as they walked in the fiery furnace. Refreshed with dew in the flames, they sang in thanksgiving: ‘Blessed art Thou and praised above all, O Lord God of our fathers.’"
 
 OAnthraxToIsaia.name = "(NM)"
 OAnthraxToIsaia.incipit = "(NM)…"
+OAnthraxToIsaia.melody = misc_en_UK_ware.HeirmosNotMetered
 OAnthraxToIsaia.mode = misc_en_UK_ware.Mode2
 OAnthraxToIsaia.ode = misc_en_UK_ware.Ode5
 OAnthraxToIsaia.text = ""
 
 OFotismos.name = "(NM)"
 OFotismos.incipit = "(NM)…"
+OFotismos.melody = misc_en_UK_ware.HeirmosNotMetered
 OFotismos.mode = misc_en_UK_ware.Mode2
 OFotismos.ode = misc_en_UK_ware.Ode5
 OFotismos.text = ""
 
 OSkiografonAchlyn.name = "(NM)"
 OSkiografonAchlyn.incipit = "(NM)…"
+OSkiografonAchlyn.melody = misc_en_UK_ware.HeirmosNotMetered
 OSkiografonAchlyn.mode = misc_en_UK_ware.Mode2
 OSkiografonAchlyn.ode = misc_en_UK_ware.Ode5
 OSkiografonAchlyn.text = ""
 
 OTinKaminonPalai.name = "(NM)"
 OTinKaminonPalai.incipit = "(NM)…"
+OTinKaminonPalai.melody = misc_en_UK_ware.HeirmosNotMetered
 OTinKaminonPalai.mode = misc_en_UK_ware.Mode2
 OTinKaminonPalai.ode = misc_en_UK_ware.Ode7
 OTinKaminonPalai.text = ""
 
 OTonYperNoun.name = "(NM) O most pure Bride."
 OTonYperNoun.incipit = "(NM) O most pure Bride…"
+OTonYperNoun.melody = misc_en_UK_ware.HeirmosNotMetered
 OTonYperNoun.mode = misc_en_UK_ware.Mode2
 OTonYperNoun.ode = misc_en_UK_ware.Ode9
 OTonYperNoun.text = "O most pure Bride, O blessed Mother, The wonders of Thy birthgiving pass all understanding. Through thee we have obtained salvation in all things, And, as is right and meet, we rejoice before thee our Benefactor, Bearing as gift a song of thanksgiving."
@@ -273,18 +314,21 @@ OTonYperNoun5.text = "Bearing as gift a song of thanksgiving."
 
 OTouFotosChorigos.name = "(NM)"
 OTouFotosChorigos.incipit = "(NM)…"
+OTouFotosChorigos.melody = misc_en_UK_ware.HeirmosNotMetered
 OTouFotosChorigos.mode = misc_en_UK_ware.Mode2
 OTouFotosChorigos.ode = misc_en_UK_ware.Ode5
 OTouFotosChorigos.text = ""
 
 OlosYparcheisEfesis.name = "(NM)."
 OlosYparcheisEfesis.incipit = "(NM)…"
+OlosYparcheisEfesis.melody = misc_en_UK_ware.HeirmosNotMetered
 OlosYparcheisEfesis.mode = misc_en_UK_ware.Mode2
 OlosYparcheisEfesis.ode = misc_en_UK_ware.Ode9
 OlosYparcheisEfesis.text = ""
 
 OsoiPalaion.name = "(NM) From the ancient snares."
 OsoiPalaion.incipit = "(NM) From the ancient snares…"
+OsoiPalaion.melody = misc_en_UK_ware.HeirmosNotMetered
 OsoiPalaion.mode = misc_en_UK_ware.Mode2
 OsoiPalaion.ode = misc_en_UK_ware.Ode3
 OsoiPalaion.text = "From the ancient snares have we all been set loose, And the jaws of the devouring lions have been broken: Let us, then, rejoice exceedingly and open wide our mouths, Weaving with words a melody to the Word Whose delight it is to bestow gifts upon us."
@@ -296,18 +340,21 @@ OsoiPalaion5.text = "Whose delight it is to bestow gifts upon us."
 
 ProsKyrionEkKitous.name = "(NM)"
 ProsKyrionEkKitous.incipit = "(NM)…"
+ProsKyrionEkKitous.melody = misc_en_UK_ware.HeirmosNotMetered
 ProsKyrionEkKitous.mode = misc_en_UK_ware.Mode2
 ProsKyrionEkKitous.ode = misc_en_UK_ware.Ode6
 ProsKyrionEkKitous.text = ""
 
 ProsecheteLaoi.name = "(NM) Attend, O ye peoples."
 ProsecheteLaoi.incipit = "(NM) Attend, O ye peoples…"
+ProsecheteLaoi.melody = misc_en_UK_ware.HeirmosNotMetered
 ProsecheteLaoi.mode = misc_en_UK_ware.Mode2
 ProsecheteLaoi.ode = misc_en_UK_ware.Ode2
 ProsecheteLaoi.text = "Attend, O ye peoples, to the wonders worked by My divine power, and know from this that I only am the God of all."
 
 ProsecheteLaosMou.name = "(NM) Attend, O my people."
 ProsecheteLaosMou.incipit = "(NM) Attend, O my people…"
+ProsecheteLaosMou.melody = misc_en_UK_ware.HeirmosNotMetered
 ProsecheteLaosMou.mode = misc_en_UK_ware.Mode2
 ProsecheteLaosMou.ode = misc_en_UK_ware.Ode2
 ProsecheteLaosMou.text = "Attend, O my people, unto my law; incline your ear unto the words of my mouth, for I have called upon Thy Name,
@@ -316,12 +363,14 @@ O Lord."
 
 PsychaisKatharais.name = "(NM)"
 PsychaisKatharais.incipit = "(NM)…"
+PsychaisKatharais.melody = misc_en_UK_ware.HeirmosNotMetered
 PsychaisKatharais.mode = misc_en_UK_ware.Mode2
 PsychaisKatharais.ode = misc_en_UK_ware.Ode9
 PsychaisKatharais.text = ""
 
 PyrsoKathartheis.name = "(NM) Cleansed by the fire."
 PyrsoKathartheis.incipit = "(NM) Cleansed by the fire…"
+PyrsoKathartheis.melody = misc_en_UK_ware.HeirmosNotMetered
 PyrsoKathartheis.mode = misc_en_UK_ware.Mode2
 PyrsoKathartheis.ode = misc_en_UK_ware.Ode4
 PyrsoKathartheis.text = "Cleansed by the fire of a mystic vision The Prophet sang the praises of the renewal of mortal man. Filled with the inspiration of the Spirit, he raised his voice, Telling of the Incarnation of the ineffable Word, Who has shattered the dominion of the strong."
@@ -333,36 +382,42 @@ PyrsoKathartheis5.text = "Who has shattered the dominion of the strong."
 
 RimaTyrannou.name = "(NM)"
 RimaTyrannou.incipit = "(NM)…"
+RimaTyrannou.melody = misc_en_UK_ware.HeirmosNotMetered
 RimaTyrannou.mode = misc_en_UK_ware.Mode2
 RimaTyrannou.ode = misc_en_UK_ware.Ode8
 RimaTyrannou.text = ""
 
 RitoresAnedeichthisanPaides.name = "(NM)"
 RitoresAnedeichthisanPaides.incipit = "(NM)…"
+RitoresAnedeichthisanPaides.melody = misc_en_UK_ware.HeirmosNotMetered
 RitoresAnedeichthisanPaides.mode = misc_en_UK_ware.Mode2
 RitoresAnedeichthisanPaides.ode = misc_en_UK_ware.Ode7
 RitoresAnedeichthisanPaides.text = ""
 
 SeTinNoitin.name = "(NM) Thou art the living spiritual ladder."
 SeTinNoitin.incipit = "(NM) Thou art the living spiritual ladder…"
+SeTinNoitin.melody = misc_en_UK_ware.HeirmosNotMetered
 SeTinNoitin.mode = misc_en_UK_ware.Mode2
 SeTinNoitin.ode = misc_en_UK_ware.Ode9
 SeTinNoitin.text = "Thou art the living spiritual ladder, whereby our God came down: through Him we have found the way of ascent to heaven, and with never-silent hymns we magnify thee."
 
 SteirothentaMouTonNoun.name = "(NM) O God, the husbandman."
 SteirothentaMouTonNoun.incipit = "(NM) O God, the husbandman…"
+SteirothentaMouTonNoun.melody = misc_en_UK_ware.HeirmosNotMetered
 SteirothentaMouTonNoun.mode = misc_en_UK_ware.Mode2
 SteirothentaMouTonNoun.ode = misc_en_UK_ware.Ode3
 SteirothentaMouTonNoun.text = "O God, the husbandman of all good trees and fruit, make fruitful my barren mind in Thy compassion."
 
 StereosonImasEnSoiKyrie.name = "(NM) O Lord, who hast put sin to death."
 StereosonImasEnSoiKyrie.incipit = "(NM) O Lord, who hast put sin to death…"
+StereosonImasEnSoiKyrie.melody = misc_en_UK_ware.HeirmosNotMetered
 StereosonImasEnSoiKyrie.mode = misc_en_UK_ware.Mode2
 StereosonImasEnSoiKyrie.ode = misc_en_UK_ware.Ode3
 StereosonImasEnSoiKyrie.text = "O Lord, who hast put sin to death by the Wood of the Cross, be Thou our strength and our support, and graft Thy fear in our hearts, as we sing in praise of Thee."
 
 SteiveiThalassis.name = "(NM) Israel passed through."
 SteiveiThalassis.incipit = "(NM) Israel passed through…"
+SteiveiThalassis.melody = misc_en_UK_ware.HeirmosNotMetered
 SteiveiThalassis.mode = misc_en_UK_ware.Mode2
 SteiveiThalassis.ode = misc_en_UK_ware.Ode1
 SteiveiThalassis.text = "Israel passed through the storm-tossed deep of the sea, That God had turned into dry land: But the dark waters completely covered The chief captains of Egypt in a watery grave Through the mighty strength of the right hand of the Master."
@@ -374,144 +429,168 @@ SteiveiThalassis5.text = "Through the mighty strength of the right hand of the M
 
 SyToLogoSouKyrie.name = "(NM)"
 SyToLogoSouKyrie.incipit = "(NM)…"
+SyToLogoSouKyrie.melody = misc_en_UK_ware.HeirmosNotMetered
 SyToLogoSouKyrie.mode = misc_en_UK_ware.Mode2
 SyToLogoSouKyrie.ode = misc_en_UK_ware.Ode3
 SyToLogoSouKyrie.text = ""
 
 TaCherouvimMimoumenoi.name = "(NM)"
 TaCherouvimMimoumenoi.incipit = "(NM)…"
+TaCherouvimMimoumenoi.melody = misc_en_UK_ware.HeirmosNotMetered
 TaCherouvimMimoumenoi.mode = misc_en_UK_ware.Mode2
 TaCherouvimMimoumenoi.ode = misc_en_UK_ware.Ode7
 TaCherouvimMimoumenoi.text = ""
 
 TinAchlynTisPsychisMou.name = "(NM)"
 TinAchlynTisPsychisMou.incipit = "(NM)…"
+TinAchlynTisPsychisMou.melody = misc_en_UK_ware.HeirmosNotMetered
 TinAchlynTisPsychisMou.mode = misc_en_UK_ware.Mode2
 TinAchlynTisPsychisMou.ode = misc_en_UK_ware.Ode5
 TinAchlynTisPsychisMou.text = ""
 
 TinAgninKaiAchranton.name = "(NM)"
 TinAgninKaiAchranton.incipit = "(NM)…"
+TinAgninKaiAchranton.melody = misc_en_UK_ware.HeirmosNotMetered
 TinAgninKaiAchranton.mode = misc_en_UK_ware.Mode2
 TinAgninKaiAchranton.ode = misc_en_UK_ware.Ode9
 TinAgninKaiAchranton.text = ""
 
 TinEkParthenou.name = "(NM)"
 TinEkParthenou.incipit = "(NM)…"
+TinEkParthenou.melody = misc_en_UK_ware.HeirmosNotMetered
 TinEkParthenou.mode = misc_en_UK_ware.Mode2
 TinEkParthenou.ode = misc_en_UK_ware.Ode4
 TinEkParthenou.text = ""
 
 TinMoseosOdin.name = "(NM)"
 TinMoseosOdin.incipit = "(NM)…"
+TinMoseosOdin.melody = misc_en_UK_ware.HeirmosNotMetered
 TinMoseosOdin.mode = misc_en_UK_ware.Mode2
 TinMoseosOdin.ode = misc_en_UK_ware.Ode1
 TinMoseosOdin.text = ""
 
 TinParthenianSou.name = "(NM) O Theotokos undefiled."
 TinParthenianSou.incipit = "(NM) O Theotokos undefiled…"
+TinParthenianSou.melody = misc_en_UK_ware.HeirmosNotMetered
 TinParthenianSou.mode = misc_en_UK_ware.Mode2
 TinParthenianSou.ode = misc_en_UK_ware.Ode9
 TinParthenianSou.text = "O Theotokos undefiled, we magnify for ever thy virginity, that was not burnt by the fire of the Godhead." //O Theotokos undefiled, with never-silent hymns we magnify thy virginity, that was not burnt by the fire of the Godhead.
 
 TinYperfyosSarki.name = "(NM) With faith let us magnify."
 TinYperfyosSarki.incipit = "(NM) With faith let us magnify…"
+TinYperfyosSarki.melody = misc_en_UK_ware.HeirmosNotMetered
 TinYperfyosSarki.mode = misc_en_UK_ware.Mode2
 TinYperfyosSarki.ode = misc_en_UK_ware.Ode9
 TinYperfyosSarki.text = "With faith let us magnify the only Theotokos, for in ways surpassing nature she has conceived within her womb, according to the flesh, the Word that outside time shone forth from the Father." // O ye faithful, let us magnify the Virgin with never-silent hymns, for in ways surpassing nature she has conceived within her womb, according to the flesh, the Word that outside time shone forth from the Father.
 
 TisNyktosDielthousis.name = "(NM)"
 TisNyktosDielthousis.incipit = "(NM)…"
+TisNyktosDielthousis.melody = misc_en_UK_ware.HeirmosNotMetered
 TisNyktosDielthousis.mode = misc_en_UK_ware.Mode2
 TisNyktosDielthousis.ode = misc_en_UK_ware.Ode5
 TisNyktosDielthousis.text = ""
 
 TisPisteosEnPetra.name = "(NM)"
 TisPisteosEnPetra.incipit = "(NM)…"
+TisPisteosEnPetra.melody = misc_en_UK_ware.HeirmosNotMetered
 TisPisteosEnPetra.mode = misc_en_UK_ware.Mode2
 TisPisteosEnPetra.ode = misc_en_UK_ware.Ode3
 TisPisteosEnPetra.text = ""
 
 ToDogmatiToTyranniko.name = "(NM)"
 ToDogmatiToTyranniko.incipit = "(NM)…"
+ToDogmatiToTyranniko.melody = misc_en_UK_ware.HeirmosNotMetered
 ToDogmatiToTyranniko.mode = misc_en_UK_ware.Mode2
 ToDogmatiToTyranniko.ode = misc_en_UK_ware.Ode8
 ToDogmatiToTyranniko.text = ""
 
 ToTinAvaton.name = "(NM)"
 ToTinAvaton.incipit = "(NM)…"
+ToTinAvaton.melody = misc_en_UK_ware.HeirmosNotMetered
 ToTinAvaton.mode = misc_en_UK_ware.Mode2
 ToTinAvaton.ode = misc_en_UK_ware.Ode1
 ToTinAvaton.text = ""
 
 TonArritoSofia.name = "(NM)"
 TonArritoSofia.incipit = "(NM)…"
+TonArritoSofia.melody = misc_en_UK_ware.HeirmosNotMetered
 TonArritoSofia.mode = misc_en_UK_ware.Mode2
 TonArritoSofia.ode = misc_en_UK_ware.Ode8
 TonArritoSofia.text = ""
 
 TonEkTheouTheonLogon.name = "(NM) God, the Word from God."
 TonEkTheouTheonLogon.incipit = "(NM) God, the Word from God…"
+TonEkTheouTheonLogon.melody = misc_en_UK_ware.HeirmosNotMetered
 TonEkTheouTheonLogon.mode = misc_en_UK_ware.Mode2
 TonEkTheouTheonLogon.ode = misc_en_UK_ware.Ode9
 TonEkTheouTheonLogon.text = ""
 
 TonEnFonaisAngelikais.name = "(NM) With every mortal."
 TonEnFonaisAngelikais.incipit = "(NM) With every mortal…"
+TonEnFonaisAngelikais.melody = misc_en_UK_ware.HeirmosNotMetered
 TonEnFonaisAngelikais.mode = misc_en_UK_ware.Mode2
 TonEnFonaisAngelikais.ode = misc_en_UK_ware.Ode8
 TonEnFonaisAngelikais.text = "With every mortal born on earth, let us sing to God who is glorified in heaven by the voices of the angels; and let us praise Him unto all eternity."
 
 TonEnKaminoTouPyros.name = "(NM) God came down to the children."
 TonEnKaminoTouPyros.incipit = "(NM) God came down to the children…"
+TonEnKaminoTouPyros.melody = misc_en_UK_ware.HeirmosNotMetered
 TonEnKaminoTouPyros.mode = misc_en_UK_ware.Mode2
 TonEnKaminoTouPyros.ode = misc_en_UK_ware.Ode8
 TonEnKaminoTouPyros.text = ""
 
 TonEnTiVatoMosi.name = "(NM) The Lord of old foreshadowed."
 TonEnTiVatoMosi.incipit = "(NM) The Lord of old foreshadowed…"
+TonEnTiVatoMosi.melody = misc_en_UK_ware.HeirmosNotMetered
 TonEnTiVatoMosi.mode = misc_en_UK_ware.Mode2
 TonEnTiVatoMosi.ode = misc_en_UK_ware.Ode8
 TonEnTiVatoMosi.text = "The Lord of old foreshadowed the miracle of the Virgin to Moses in the bush upon Mount Sinai: let us praise, bless and exalt Him above all forever."
 
 TonGigenonTisIkouse.name = "(NM)"
 TonGigenonTisIkouse.incipit = "(NM)…"
+TonGigenonTisIkouse.melody = misc_en_UK_ware.HeirmosNotMetered
 TonGigenonTisIkouse.mode = misc_en_UK_ware.Mode2
 TonGigenonTisIkouse.ode = misc_en_UK_ware.Ode9
 TonGigenonTisIkouse.text = ""
 
 TonPalaiDrosisanta.name = "(NM) By a strange miracle."
 TonPalaiDrosisanta.incipit = "(NM) By a strange miracle…"
+TonPalaiDrosisanta.melody = misc_en_UK_ware.HeirmosNotMetered
 TonPalaiDrosisanta.mode = misc_en_UK_ware.Mode2
 TonPalaiDrosisanta.ode = misc_en_UK_ware.Ode8
 TonPalaiDrosisanta.text = "By a strange miracle the Lord of old refreshed with dew the Children of the Hebrews in the fire, yet burnt the Chaldaeans. Let us sing His praises, saying: Bless and exalt Him above all for ever."
 
 ToxonSynetriviDynaston.name = "(NM)"
 ToxonSynetriviDynaston.incipit = "(NM)…"
+ToxonSynetriviDynaston.melody = misc_en_UK_ware.HeirmosNotMetered
 ToxonSynetriviDynaston.mode = misc_en_UK_ware.Mode2
 ToxonSynetriviDynaston.ode = misc_en_UK_ware.Ode3
 ToxonSynetriviDynaston.text = ""
 
 VatosEnOrei.name = "(NM)"
 VatosEnOrei.incipit = "(NM)…"
+VatosEnOrei.melody = misc_en_UK_ware.HeirmosNotMetered
 VatosEnOrei.mode = misc_en_UK_ware.Mode2
 VatosEnOrei.ode = misc_en_UK_ware.Ode7
 VatosEnOrei.text = ""
 
 VythoAmartimaton.name = "(NM)"
 VythoAmartimaton.incipit = "(NM)…"
+VythoAmartimaton.melody = misc_en_UK_ware.HeirmosNotMetered
 VythoAmartimaton.mode = misc_en_UK_ware.Mode2
 VythoAmartimaton.ode = misc_en_UK_ware.Ode6
 VythoAmartimaton.text = ""
 
 VythouAnekalypse.name = "(NM) The Lord mighty in battle."
 VythouAnekalypse.incipit = "(NM) The Lord mighty in battle…"
+VythouAnekalypse.melody = misc_en_UK_ware.HeirmosNotMetered
 VythouAnekalypse.mode = misc_en_UK_ware.Mode2
 VythouAnekalypse.ode = misc_en_UK_ware.Ode1
 VythouAnekalypse.text = "The Lord mighty in battle uncovered the foundations of the deep and led His servants on dry ground; but He covered their adversaries with the waters, for he has been glorified."
 
 YmnoSeAkoi.name = "(NM)"
 YmnoSeAkoi.incipit = "(NM)…"
+YmnoSeAkoi.melody = misc_en_UK_ware.HeirmosNotMetered
 YmnoSeAkoi.mode = misc_en_UK_ware.Mode2
 YmnoSeAkoi.ode = misc_en_UK_ware.Ode4
 YmnoSeAkoi.text = ""

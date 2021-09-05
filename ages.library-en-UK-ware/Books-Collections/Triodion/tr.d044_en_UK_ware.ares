@@ -128,7 +128,7 @@ trMA.Ode1C2A1.text = "Reaching the middle of the forty days' Fast, with eager he
 
 trMA.Ode1C2H.ode = misc_en_UK_ware.Ode1
 trMA.Ode1C2H.mode = misc_en_UK_ware.Mode3
-trMA.Ode1C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode1C2H.melody = he.h.m3_en_UK_ware.AsomenToKyrio.melody
 trMA.Ode1C2H.incipit = he.h.m3_en_UK_ware.AsomenToKyrio.incipit
 trMA.Ode1C2H.text = he.h.m3_en_UK_ware.AsomenToKyrio.text
 
@@ -188,7 +188,7 @@ trMA.Ode8C2A1.text = "O brethren, having come to the middle of the Fast, in good
 
 trMA.Ode8C2H.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C2H.mode = misc_en_UK_ware.Mode3
-trMA.Ode8C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode8C2H.melody = he.h.m3_en_UK_ware.TonYpAngelon.melody
 trMA.Ode8C2H.incipit = he.h.m3_en_UK_ware.TonYpAngelon.incipit
 trMA.Ode8C2H.text = he.h.m3_en_UK_ware.TonYpAngelon.text
 
@@ -248,7 +248,7 @@ trMA.Ode9C2A1.text = "With all mankind let us offer thankful praise to God, as w
 
 trMA.Ode9C2H.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C2H.mode = misc_en_UK_ware.Mode3
-trMA.Ode9C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode9C2H.melody = he.h.m3_en_UK_ware.EnSinaioToOrei.melody
 trMA.Ode9C2H.incipit = he.h.m3_en_UK_ware.EnSinaioToOrei.incipit
 trMA.Ode9C2H.text = he.h.m3_en_UK_ware.EnSinaioToOrei.text
 

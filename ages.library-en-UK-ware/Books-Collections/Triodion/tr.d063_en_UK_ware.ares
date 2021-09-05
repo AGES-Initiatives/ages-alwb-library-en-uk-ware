@@ -602,7 +602,7 @@ trMA.C2.poet = poets_en_UK_ware.KosmaMonachou
 
 trMA.Ode1C1H.ode = misc_en_UK_ware.Ode1
 trMA.Ode1C1H.mode = misc_en_UK_ware.Mode8
-trMA.Ode1C1H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode1C1H.melody = he.h.m8_en_UK_ware.AsomenToKyrio.melody
 trMA.Ode1C1H.incipit = he.h.m8_en_UK_ware.AsomenToKyrio.incipit
 trMA.Ode1C1H.text = he.h.m8_en_UK_ware.AsomenToKyrio.text
 
@@ -668,7 +668,7 @@ trMA.Ode1K.text = he.h.m8_en_UK_ware.YgranDiodefsas.text
 
 trMA.Ode3C1H.ode = misc_en_UK_ware.Ode3
 trMA.Ode3C1H.mode = misc_en_UK_ware.Mode8
-trMA.Ode3C1H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode3C1H.melody = he.h.m8_en_UK_ware.SyEiToStereoma.melody
 trMA.Ode3C1H.incipit = he.h.m8_en_UK_ware.SyEiToStereoma.incipit
 trMA.Ode3C1H.text = he.h.m8_en_UK_ware.SyEiToStereoma.text
 
@@ -738,7 +738,7 @@ trMA.Ode3Kathisma2.text = "Foreknowing all things as Creator, Thou hast warned t
 
 trMA.Ode4C1H.ode = misc_en_UK_ware.Ode4
 trMA.Ode4C1H.mode = misc_en_UK_ware.Mode8
-trMA.Ode4C1H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode4C1H.melody = he.h.m8_en_UK_ware.EisakikoaKyrie.melody
 trMA.Ode4C1H.incipit = he.h.m8_en_UK_ware.EisakikoaKyrie.incipit
 trMA.Ode4C1H.text = he.h.m8_en_UK_ware.EisakikoaKyrie.text
 
@@ -798,7 +798,7 @@ trMA.Ode4K.text = he.h.m8_en_UK_ware.SyMouIschys.text
 
 trMA.Ode5C1H.ode = misc_en_UK_ware.Ode5
 trMA.Ode5C1H.mode = misc_en_UK_ware.Mode8
-trMA.Ode5C1H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode5C1H.melody = he.h.m8_en_UK_ware.InaTiMeAposo.melody
 trMA.Ode5C1H.incipit = he.h.m8_en_UK_ware.InaTiMeAposo.incipit
 trMA.Ode5C1H.text = he.h.m8_en_UK_ware.InaTiMeAposo.text
 
@@ -856,7 +856,7 @@ trMA.C4.poet = poets_en_UK_ware.IoannouMonachou
 
 trMA.Ode6C1H.ode = misc_en_UK_ware.Ode6
 trMA.Ode6C1H.mode = misc_en_UK_ware.Mode8
-trMA.Ode6C1H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode6C1H.melody = he.h.m8_en_UK_ware.TonIonanEnToKitei.melody
 trMA.Ode6C1H.incipit = he.h.m8_en_UK_ware.TonIonanEnToKitei.incipit
 trMA.Ode6C1H.text = he.h.m8_en_UK_ware.TonIonanEnToKitei.text
 
@@ -912,7 +912,7 @@ trSY.lastline = ""
 
 trMA.Ode7C1H.ode = misc_en_UK_ware.Ode7
 trMA.Ode7C1H.mode = misc_en_UK_ware.Mode8
-trMA.Ode7C1H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode7C1H.melody = he.h.m8_en_UK_ware.PaidesEvraion.melody
 trMA.Ode7C1H.incipit = he.h.m8_en_UK_ware.PaidesEvraion.incipit
 trMA.Ode7C1H.text = he.h.m8_en_UK_ware.PaidesEvraion.text
 
@@ -954,7 +954,7 @@ trMA.Ode7K.text = he.h.m8_en_UK_ware.OiEkTisIoudaias.text
 
 trMA.Ode8C1H.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C1H.mode = misc_en_UK_ware.Mode8
-trMA.Ode8C1H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode8C1H.melody = he.h.m8_en_UK_ware.MousikonOrganon.melody
 trMA.Ode8C1H.incipit = he.h.m8_en_UK_ware.MousikonOrganon.incipit
 trMA.Ode8C1H.text = he.h.m8_en_UK_ware.MousikonOrganon.text
 
@@ -996,7 +996,7 @@ trMA.Ode8K.text = he.h.m8_en_UK_ware.TonVasileaTonOuranon.text
 
 trMA.Ode9C1H.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C1H.mode = misc_en_UK_ware.Mode8
-trMA.Ode9C1H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode9C1H.melody = he.h.m8_en_UK_ware.TinAgninEndoxos.melody
 trMA.Ode9C1H.incipit = he.h.m8_en_UK_ware.TinAgninEndoxos.incipit
 trMA.Ode9C1H.text = he.h.m8_en_UK_ware.TinAgninEndoxos.text
 

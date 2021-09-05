@@ -128,7 +128,7 @@ trMA.Ode1C2A1.text = "Behold, Christ has come to the city of Bethphage. Rejoice,
 
 trMA.Ode1C2H.ode = misc_en_UK_ware.Ode1
 trMA.Ode1C2H.mode = misc_en_UK_ware.Mode1
-trMA.Ode1C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode1C2H.melody = he.h.m1_en_UK_ware.ToVoithisantiTheo.melody
 trMA.Ode1C2H.incipit = he.h.m1_en_UK_ware.ToVoithisantiTheo.incipit
 trMA.Ode1C2H.text = he.h.m1_en_UK_ware.ToVoithisantiTheo.text
 
@@ -188,7 +188,7 @@ trMA.Ode8C2A1.text = "We offer unto Thee a hymn; for Thou who ridest on high upo
 
 trMA.Ode8C2H.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C2H.mode = misc_en_UK_ware.Mode1
-trMA.Ode8C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode8C2H.melody = he.h.m1_en_UK_ware.YmnonSoiProsferomen.melody
 trMA.Ode8C2H.incipit = he.h.m1_en_UK_ware.YmnonSoiProsferomen.incipit
 trMA.Ode8C2H.text = he.h.m1_en_UK_ware.YmnonSoiProsferomen.text
 
@@ -248,7 +248,7 @@ trMA.Ode9C2A1.text = "Bearing the branches of our generosity and the palms of ou
 
 trMA.Ode9C2H.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C2H.mode = misc_en_UK_ware.Mode1
-trMA.Ode9C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode9C2H.melody = he.h.m1_en_UK_ware.SeTinOratheisan.melody
 trMA.Ode9C2H.incipit = he.h.m1_en_UK_ware.SeTinOratheisan.incipit
 trMA.Ode9C2H.text = he.h.m1_en_UK_ware.SeTinOratheisan.text
 

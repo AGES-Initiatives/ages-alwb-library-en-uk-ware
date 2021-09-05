@@ -457,7 +457,7 @@ meMA.Ode3C3T.text = ""
 
 meMA.Ode3H.ode = misc_en_UK_ware.Ode3
 meMA.Ode3H.mode = misc_en_UK_ware.Mode7
-meMA.Ode3H.melody = misc_en_UK_ware.Heirmos
+meMA.Ode3H.melody = he.h.m7_en_UK_ware.EstereothiIKardiaMou.melody
 meMA.Ode3H.incipit = he.h.m7_en_UK_ware.EstereothiIKardiaMou.incipit
 meMA.Ode3H.text = he.h.m7_en_UK_ware.EstereothiIKardiaMou.text
 
@@ -694,7 +694,7 @@ meMA.Ode6C3T.text = ""
 
 meMA.Ode6H.ode = misc_en_UK_ware.Ode6
 meMA.Ode6H.mode = misc_en_UK_ware.Mode7
-meMA.Ode6H.melody = misc_en_UK_ware.Heirmos
+meMA.Ode6H.melody = he.h.m7_en_UK_ware.OIonasEkKoilias.melody
 meMA.Ode6H.incipit = he.h.m7_en_UK_ware.OIonasEkKoilias.incipit
 meMA.Ode6H.text = he.h.m7_en_UK_ware.OIonasEkKoilias.text
 
@@ -851,7 +851,7 @@ meMA.Ode8C3T.text = ""
 
 meMA.Ode8H.ode = misc_en_UK_ware.Ode8
 meMA.Ode8H.mode = misc_en_UK_ware.Mode7
-meMA.Ode8H.melody = misc_en_UK_ware.Heirmos
+meMA.Ode8H.melody = he.h.m7_en_UK_ware.TonMononAnarchon.melody
 meMA.Ode8H.incipit = he.h.m7_en_UK_ware.TonMononAnarchon.incipit
 meMA.Ode8H.text = he.h.m7_en_UK_ware.TonMononAnarchon.text
 
@@ -935,7 +935,7 @@ meMA.Ode9C3T.text = ""
 
 meMA.Ode9H.ode = misc_en_UK_ware.Ode9
 meMA.Ode9H.mode = misc_en_UK_ware.Mode7
-meMA.Ode9H.melody = misc_en_UK_ware.Heirmos
+meMA.Ode9H.melody = he.h.m7_en_UK_ware.TinYperFysinMitera.melody
 meMA.Ode9H.incipit = he.h.m7_en_UK_ware.TinYperFysinMitera.incipit
 meMA.Ode9H.text = he.h.m7_en_UK_ware.TinYperFysinMitera.text
 

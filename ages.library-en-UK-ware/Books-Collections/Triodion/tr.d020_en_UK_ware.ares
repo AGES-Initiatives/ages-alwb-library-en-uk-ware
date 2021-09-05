@@ -94,13 +94,13 @@ trMA.Ode3C1T.text = "Thou art the cause of all good things, O Lady. We entreat t
 
 trMA.Ode3C1H.ode = misc_en_UK_ware.Ode3
 trMA.Ode3C1H.mode = misc_en_UK_ware.Mode8
-trMA.Ode3C1H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode3C1H.melody = he.h.m8_en_UK_ware.OuraniasApsidos.melody
 trMA.Ode3C1H.incipit = he.h.m8_en_UK_ware.OuraniasApsidos.incipit
 trMA.Ode3C1H.text = he.h.m8_en_UK_ware.OuraniasApsidos.text
 
 trMA.Ode4C1H.ode = misc_en_UK_ware.Ode4
 trMA.Ode4C1H.mode = misc_en_UK_ware.Mode8
-trMA.Ode4C1H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode4C1H.melody = he.h.m8_en_UK_ware.EisakikoaKyrie.melody
 trMA.Ode4C1H.incipit = he.h.m8_en_UK_ware.EisakikoaKyrie.incipit
 trMA.Ode4C1H.text = he.h.m8_en_UK_ware.EisakikoaKyrie.text
 
@@ -130,7 +130,7 @@ trMA.Ode4C1T.text = "O pure mercy-seat of sinners, Holy Lady, through thy mediat
 
 trMA.Ode5C1H.ode = misc_en_UK_ware.Ode5
 trMA.Ode5C1H.mode = misc_en_UK_ware.Mode8
-trMA.Ode5C1H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode5C1H.melody = he.h.m8_en_UK_ware.InaTiMeAposo.melody
 trMA.Ode5C1H.incipit = he.h.m8_en_UK_ware.InaTiMeAposo.incipit
 trMA.Ode5C1H.text = he.h.m8_en_UK_ware.InaTiMeAposo.text
 
@@ -226,7 +226,7 @@ trMA.Ode5C3A1.text = "O Lord, direct on Thy straight path all Thy servants who h
 
 trMA.Ode5C3H.ode = misc_en_UK_ware.Ode5
 trMA.Ode5C3H.mode = misc_en_UK_ware.Mode8
-trMA.Ode5C3H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode5C3H.melody = he.h.m8_en_UK_ware.InaTiMeAposo.melody
 trMA.Ode5C3H.incipit = he.h.m8_en_UK_ware.InaTiMeAposo.incipit
 trMA.Ode5C3H.text = he.h.m8_en_UK_ware.InaTiMeAposo.text
 
@@ -256,7 +256,7 @@ trMA.Ode6C1T.text = "O pure Virgin, thou alone hast brought strength to the weak
 
 trMA.Ode6C1H.ode = misc_en_UK_ware.Ode6
 trMA.Ode6C1H.mode = misc_en_UK_ware.Mode8
-trMA.Ode6C1H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode6C1H.melody = he.h.m8_en_UK_ware.IlasthitiMoiSotir.melody
 trMA.Ode6C1H.incipit = he.h.m8_en_UK_ware.IlasthitiMoiSotir.incipit
 trMA.Ode6C1H.text = he.h.m8_en_UK_ware.IlasthitiMoiSotir.text
 
@@ -286,7 +286,7 @@ trMA.Ode7C1T.text = "O only help of men, be the succour of us thy servants in th
 
 trMA.Ode8C1H.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C1H.mode = misc_en_UK_ware.Mode8
-trMA.Ode8C1H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode8C1H.melody = he.h.m8_en_UK_ware.EptaplasiosKaminon.melody
 trMA.Ode8C1H.incipit = he.h.m8_en_UK_ware.EptaplasiosKaminon.incipit
 trMA.Ode8C1H.text = he.h.m8_en_UK_ware.EptaplasiosKaminon.text
 
@@ -382,13 +382,13 @@ trMA.Ode8C3A1.text = "Accept our penitence, O Lord, for Thou art by nature full 
 
 trMA.Ode8C3H.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C3H.mode = misc_en_UK_ware.Mode8
-trMA.Ode8C3H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode8C3H.melody = he.h.m8_en_UK_ware.AngeloiKaiOuranoi.melody
 trMA.Ode8C3H.incipit = he.h.m8_en_UK_ware.AngeloiKaiOuranoi.incipit
 trMA.Ode8C3H.text = he.h.m8_en_UK_ware.AngeloiKaiOuranoi.text
 
 trMA.Ode9C1H.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C1H.mode = misc_en_UK_ware.Mode8
-trMA.Ode9C1H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode9C1H.melody = he.h.m8_en_UK_ware.ExestiEpiTouto.melody
 trMA.Ode9C1H.incipit = he.h.m8_en_UK_ware.ExestiEpiTouto.incipit
 trMA.Ode9C1H.text = he.h.m8_en_UK_ware.ExestiEpiTouto.text
 
@@ -491,7 +491,7 @@ trMA.Ode9C3A1.text = ""
 
 trMA.Ode9C3H.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C3H.mode = misc_en_UK_ware.Mode8
-trMA.Ode9C3H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode9C3H.melody = he.h.m8_en_UK_ware.AllotrionTonMiteron.melody
 trMA.Ode9C3H.incipit = he.h.m8_en_UK_ware.AllotrionTonMiteron.incipit
 trMA.Ode9C3H.text = he.h.m8_en_UK_ware.AllotrionTonMiteron.text
 

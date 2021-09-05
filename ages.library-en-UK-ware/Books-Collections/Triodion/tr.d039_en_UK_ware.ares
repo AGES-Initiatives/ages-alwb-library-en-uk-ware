@@ -124,7 +124,7 @@ trMA.Ode3C2A1.text = "The grace of the Cross shines out upon the world, O mercif
 
 trMA.Ode3C2H.ode = misc_en_UK_ware.Ode3
 trMA.Ode3C2H.mode = misc_en_UK_ware.Mode2
-trMA.Ode3C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode3C2H.melody = he.h.m2_en_UK_ware.StereosonImasEnSoiKyrie.melody
 trMA.Ode3C2H.incipit = he.h.m2_en_UK_ware.StereosonImasEnSoiKyrie.incipit
 trMA.Ode3C2H.text = he.h.m2_en_UK_ware.StereosonImasEnSoiKyrie.text
 
@@ -184,7 +184,7 @@ trMA.Ode8C2A1.text = "Thy Cross, O Christ, is the glory of priests, the strength
 
 trMA.Ode8C2H.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C2H.mode = misc_en_UK_ware.Mode2
-trMA.Ode8C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode8C2H.melody = he.h.m2_en_UK_ware.TonEnTiVatoMosi.melody
 trMA.Ode8C2H.incipit = he.h.m2_en_UK_ware.TonEnTiVatoMosi.incipit
 trMA.Ode8C2H.text = he.h.m2_en_UK_ware.TonEnTiVatoMosi.text
 
@@ -244,7 +244,7 @@ trMA.Ode9C2A1.text = "O Cross of Christ, thou art our light, our holy token and 
 
 trMA.Ode9C2H.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C2H.mode = misc_en_UK_ware.Mode2
-trMA.Ode9C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode9C2H.melody = he.h.m2_en_UK_ware.SeTinNoitin.melody
 trMA.Ode9C2H.incipit = he.h.m2_en_UK_ware.SeTinNoitin.incipit
 trMA.Ode9C2H.text = he.h.m2_en_UK_ware.SeTinNoitin.text
 

@@ -73,7 +73,7 @@ trMA.C2.poet = poets_en_UK_ware.Theodorou
 
 trMA.Ode2C1H.ode = misc_en_UK_ware.Ode2
 trMA.Ode2C1H.mode = misc_en_UK_ware.Mode3
-trMA.Ode2C1H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode2C1H.melody = he.h.m3_en_UK_ware.ProsecheGiKaiOurane.melody
 trMA.Ode2C1H.incipit = he.h.m3_en_UK_ware.ProsecheGiKaiOurane.incipit
 trMA.Ode2C1H.text = he.h.m3_en_UK_ware.ProsecheGiKaiOurane.text
 
@@ -133,7 +133,7 @@ trMA.Ode2C2A1.text = "O my Christ, Thou hast healed the woman with an issue of b
 
 trMA.Ode2C2H.ode = misc_en_UK_ware.Ode2
 trMA.Ode2C2H.mode = misc_en_UK_ware.Mode2
-trMA.Ode2C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode2C2H.melody = he.h.m2_en_UK_ware.ProsecheteLaoi.melody
 trMA.Ode2C2H.incipit = he.h.m2_en_UK_ware.ProsecheteLaoi.incipit
 trMA.Ode2C2H.text = he.h.m2_en_UK_ware.ProsecheteLaoi.text
 
@@ -193,7 +193,7 @@ trMA.Ode8C2A1.text = "Open the deaf ears of my soul, O Christ, and make my tongu
 
 trMA.Ode8C2H.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C2H.mode = misc_en_UK_ware.Mode2
-trMA.Ode8C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode8C2H.melody = he.h.m2_en_UK_ware.TonPalaiDrosisanta.melody
 trMA.Ode8C2H.incipit = he.h.m2_en_UK_ware.TonPalaiDrosisanta.incipit
 trMA.Ode8C2H.text = he.h.m2_en_UK_ware.TonPalaiDrosisanta.text
 
@@ -253,7 +253,7 @@ trMA.Ode9C2A1.text = "The passions have defiled my soul, and I have been robbed 
 
 trMA.Ode9C2H.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C2H.mode = misc_en_UK_ware.Mode2
-trMA.Ode9C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode9C2H.melody = he.h.m2_en_UK_ware.TinYperfyosSarki.melody
 trMA.Ode9C2H.incipit = he.h.m2_en_UK_ware.TinYperfyosSarki.incipit
 trMA.Ode9C2H.text = he.h.m2_en_UK_ware.TinYperfyosSarki.text
 

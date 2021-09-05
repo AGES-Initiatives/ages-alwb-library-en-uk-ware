@@ -118,7 +118,7 @@ trMA.Ode4C2A1.text = ""
 
 trMA.Ode4C2H.ode = misc_en_UK_ware.Ode4
 trMA.Ode4C2H.mode = misc_en_UK_ware.Mode5
-trMA.Ode4C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode4C2H.melody = he.h.m5_en_UK_ware.TaErgaTisOikonomias.melody
 trMA.Ode4C2H.incipit = he.h.m5_en_UK_ware.TaErgaTisOikonomias.incipit
 trMA.Ode4C2H.text = he.h.m5_en_UK_ware.TaErgaTisOikonomias.text
 
@@ -178,7 +178,7 @@ trMA.Ode8C2A1.text = ""
 
 trMA.Ode8C2H.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C2H.mode = misc_en_UK_ware.Mode5
-trMA.Ode8C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode8C2H.melody = he.h.m5_en_UK_ware.OiOsioiSouPaides.melody
 trMA.Ode8C2H.incipit = he.h.m5_en_UK_ware.OiOsioiSouPaides.incipit
 trMA.Ode8C2H.text = he.h.m5_en_UK_ware.OiOsioiSouPaides.text
 
@@ -238,7 +238,7 @@ trMA.Ode9C2A1.text = ""
 
 trMA.Ode9C2H.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C2H.mode = misc_en_UK_ware.Mode5
-trMA.Ode9C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode9C2H.melody = he.h.m5_en_UK_ware.MegalynomenChriste.melody
 trMA.Ode9C2H.incipit = he.h.m5_en_UK_ware.MegalynomenChriste.incipit
 trMA.Ode9C2H.text = he.h.m5_en_UK_ware.MegalynomenChriste.text
 

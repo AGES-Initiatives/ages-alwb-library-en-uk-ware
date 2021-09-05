@@ -70,7 +70,7 @@ trMA.C2.poet = poets_en_UK_ware.Theodorou
 
 trMA.Ode2C1H.ode = misc_en_UK_ware.Ode2
 trMA.Ode2C1H.mode = misc_en_UK_ware.Mode8
-trMA.Ode2C1H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode2C1H.melody = he.h.m8_en_UK_ware.IdeteIdeteOProTonAionon.melody
 trMA.Ode2C1H.incipit = he.h.m8_en_UK_ware.IdeteIdeteOProTonAionon.incipit
 trMA.Ode2C1H.text = he.h.m8_en_UK_ware.IdeteIdeteOProTonAionon.text
 
@@ -130,7 +130,7 @@ trMA.Ode2C2A1.text = "When the men of Nineveh repented and fasted, Thou hast del
 
 trMA.Ode2C2H.ode = misc_en_UK_ware.Ode2
 trMA.Ode2C2H.mode = misc_en_UK_ware.Mode8
-trMA.Ode2C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode2C2H.melody = he.h.m8_en_UK_ware.IdeteIdeteOKathierosas.melody
 trMA.Ode2C2H.incipit = he.h.m8_en_UK_ware.IdeteIdeteOKathierosas.incipit
 trMA.Ode2C2H.text = he.h.m8_en_UK_ware.IdeteIdeteOKathierosas.text
 
@@ -190,7 +190,7 @@ trMA.Ode8C2A1.text = "Come, ye people, let us greet the Fast with love, for it i
 
 trMA.Ode8C2H.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C2H.mode = misc_en_UK_ware.Mode8
-trMA.Ode8C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode8C2H.melody = he.h.m8_en_UK_ware.TonEnOreiAgio.melody
 trMA.Ode8C2H.incipit = he.h.m8_en_UK_ware.TonEnOreiAgio.incipit
 trMA.Ode8C2H.text = he.h.m8_en_UK_ware.TonEnOreiAgio.text
 
@@ -250,7 +250,7 @@ trMA.Ode9C2A1.text = "The Holy Spirit calls us to the rich banquet of the Fast: 
 
 trMA.Ode9C2H.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C2H.mode = misc_en_UK_ware.Mode8
-trMA.Ode9C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode9C2H.melody = he.h.m8_en_UK_ware.TonProdilothenta.melody
 trMA.Ode9C2H.incipit = he.h.m8_en_UK_ware.TonProdilothenta.incipit
 trMA.Ode9C2H.text = he.h.m8_en_UK_ware.TonProdilothenta.text
 

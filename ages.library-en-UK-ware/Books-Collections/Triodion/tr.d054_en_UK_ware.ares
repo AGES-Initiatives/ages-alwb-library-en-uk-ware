@@ -867,7 +867,7 @@ trMA.C1.poet = poets_en_UK_ware.Iosif
 
 trMA.Ode4C1H.ode = misc_en_UK_ware.Ode4
 trMA.Ode4C1H.mode = misc_en_UK_ware.Mode8
-trMA.Ode4C1H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode4C1H.melody = he.h.m8_en_UK_ware.EisakikoaKyrie.melody
 trMA.Ode4C1H.incipit = he.h.m8_en_UK_ware.EisakikoaKyrie.incipit
 trMA.Ode4C1H.text = he.h.m8_en_UK_ware.EisakikoaKyrie.text
 
@@ -899,7 +899,7 @@ trMA.C2.poet = poets_en_UK_ware.Theodorou
 
 trMA.Ode4C2H.ode = misc_en_UK_ware.Ode4
 trMA.Ode4C2H.mode = misc_en_UK_ware.Mode8
-trMA.Ode4C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode4C2H.melody = he.h.m8_en_UK_ware.EisakikoaKyrieTinAkoinSou.melody
 trMA.Ode4C2H.incipit = he.h.m8_en_UK_ware.EisakikoaKyrieTinAkoinSou.incipit
 trMA.Ode4C2H.text = he.h.m8_en_UK_ware.EisakikoaKyrieTinAkoinSou.text
 
@@ -1682,7 +1682,7 @@ trGC.Ode7C2T.text = ""
 
 trMA.Ode8C1H.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C1H.mode = misc_en_UK_ware.Mode8
-trMA.Ode8C1H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode8C1H.melody = he.h.m8_en_UK_ware.TonAnarchonVasilea.melody
 trMA.Ode8C1H.incipit = he.h.m8_en_UK_ware.TonAnarchonVasilea.incipit
 trMA.Ode8C1H.text = he.h.m8_en_UK_ware.TonAnarchonVasilea.text
 
@@ -1908,7 +1908,7 @@ trGC.Ode8C2H.text = he.h.m6_en_UK_ware.OnStratiaiOuranon.text
 
 trMA.Ode9C1H.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C1H.mode = misc_en_UK_ware.Mode8
-trMA.Ode9C1H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode9C1H.melody = he.h.m8_en_UK_ware.KyriosTheotokon.melody
 trMA.Ode9C1H.incipit = he.h.m8_en_UK_ware.KyriosTheotokon.incipit
 trMA.Ode9C1H.text = he.h.m8_en_UK_ware.KyriosTheotokon.text
 
@@ -1938,7 +1938,7 @@ trMA.Ode9C1T.text = "O Lady, thou hast brought forth our Joy: grant me the spiri
 
 trMA.Ode9C2H.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C2H.mode = misc_en_UK_ware.Mode8
-trMA.Ode9C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode9C2H.melody = he.h.m8_en_UK_ware.SeTinOuranou.melody
 trMA.Ode9C2H.incipit = he.h.m8_en_UK_ware.SeTinOuranou.incipit
 trMA.Ode9C2H.text = he.h.m8_en_UK_ware.SeTinOuranou.text
 

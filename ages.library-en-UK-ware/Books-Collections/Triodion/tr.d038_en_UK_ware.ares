@@ -70,7 +70,7 @@ trMA.C2.poet = poets_en_UK_ware.Theodorou
 
 trMA.Ode2C1H.ode = misc_en_UK_ware.Ode2
 trMA.Ode2C1H.mode = misc_en_UK_ware.Mode1
-trMA.Ode2C1H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode2C1H.melody = he.h.m1_en_UK_ware.IdeteIdete.melody
 trMA.Ode2C1H.incipit = he.h.m1_en_UK_ware.IdeteIdete.incipit
 trMA.Ode2C1H.text = he.h.m1_en_UK_ware.IdeteIdete.text
 
@@ -130,7 +130,7 @@ trMA.Ode2C2A1.text = "Great art Thou, O Lord, and marvellous are Thy works: of o
 
 trMA.Ode2C2H.ode = misc_en_UK_ware.Ode2
 trMA.Ode2C2H.mode = misc_en_UK_ware.Mode3
-trMA.Ode2C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode2C2H.melody = he.h.m3_en_UK_ware.IdeteIdete.melody
 trMA.Ode2C2H.incipit = he.h.m3_en_UK_ware.IdeteIdete.incipit
 trMA.Ode2C2H.text = he.h.m3_en_UK_ware.IdeteIdete.text
 
@@ -190,7 +190,7 @@ trMA.Ode8C2A1.text = "O brethren, let not one of us be sunk in idleness and slot
 
 trMA.Ode8C2H.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C2H.mode = misc_en_UK_ware.Mode3
-trMA.Ode8C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode8C2H.melody = he.h.m3_en_UK_ware.TonEnFlogi.melody
 trMA.Ode8C2H.incipit = he.h.m3_en_UK_ware.TonEnFlogi.incipit
 trMA.Ode8C2H.text = he.h.m3_en_UK_ware.TonEnFlogi.text
 
@@ -250,7 +250,7 @@ trMA.Ode9C2A1.text = "O Lord, since Thy wrath against sinners is not to be endur
 
 trMA.Ode9C2H.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C2H.mode = misc_en_UK_ware.Mode3
-trMA.Ode9C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode9C2H.melody = he.h.m3_en_UK_ware.EnSinaioToOrei.melody
 trMA.Ode9C2H.incipit = he.h.m3_en_UK_ware.EnSinaioToOrei.incipit
 trMA.Ode9C2H.text = he.h.m3_en_UK_ware.EnSinaioToOrei.text
 

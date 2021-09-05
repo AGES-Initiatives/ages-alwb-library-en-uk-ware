@@ -68,7 +68,7 @@ trMA.C2.poet = poets_en_UK_ware.Theodorou
 
 trMA.Ode2C1H.ode = misc_en_UK_ware.Ode2
 trMA.Ode2C1H.mode = misc_en_UK_ware.Mode6
-trMA.Ode2C1H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode2C1H.melody = he.h.m6_en_UK_ware.IdeteIdete.melody
 trMA.Ode2C1H.incipit = he.h.m6_en_UK_ware.IdeteIdete.incipit
 trMA.Ode2C1H.text = he.h.m6_en_UK_ware.IdeteIdete.text
 
@@ -128,7 +128,7 @@ trMA.Ode2C2A1.text = "Prepare thyself now, O Bethany, and with joy make ready to
 
 trMA.Ode2C2H.ode = misc_en_UK_ware.Ode2
 trMA.Ode2C2H.mode = misc_en_UK_ware.Mode5
-trMA.Ode2C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode2C2H.melody = he.h.m5_en_UK_ware.IdeteIdete.melody
 trMA.Ode2C2H.incipit = he.h.m5_en_UK_ware.IdeteIdete.incipit
 trMA.Ode2C2H.text = he.h.m5_en_UK_ware.IdeteIdete.text
 
@@ -188,7 +188,7 @@ trMA.Ode8C2A1.text = "Preparing branches of virtue with which to welcome Christ,
 
 trMA.Ode8C2H.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C2H.mode = misc_en_UK_ware.Mode5
-trMA.Ode8C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode8C2H.melody = he.h.m5_en_UK_ware.OiOsioiSouPaides.melody
 trMA.Ode8C2H.incipit = he.h.m5_en_UK_ware.OiOsioiSouPaides.incipit
 trMA.Ode8C2H.text = he.h.m5_en_UK_ware.OiOsioiSouPaides.text
 
@@ -248,7 +248,7 @@ trMA.Ode9C2A1.text = "Come, let us make ready to meet the Lord, bringing to Him 
 
 trMA.Ode9C2H.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C2H.mode = misc_en_UK_ware.Mode5
-trMA.Ode9C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode9C2H.melody = he.h.m5_en_UK_ware.IsaiaChoreve.melody
 trMA.Ode9C2H.incipit = he.h.m5_en_UK_ware.IsaiaChoreve.incipit
 trMA.Ode9C2H.text = he.h.m5_en_UK_ware.IsaiaChoreve.text
 

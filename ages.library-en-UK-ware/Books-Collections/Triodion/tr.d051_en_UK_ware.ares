@@ -134,7 +134,7 @@ trMA.Ode1C2A1.text = "When Thou comest, O Christ, in glory with the angels to ju
 
 trMA.Ode1C2H.ode = misc_en_UK_ware.Ode1
 trMA.Ode1C2H.mode = misc_en_UK_ware.Mode7
-trMA.Ode1C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode1C2H.melody = he.h.m7_en_UK_ware.AsomenToKyrio.melody
 trMA.Ode1C2H.incipit = he.h.m7_en_UK_ware.AsomenToKyrio.incipit
 trMA.Ode1C2H.text = he.h.m7_en_UK_ware.AsomenToKyrio.text
 
@@ -194,7 +194,7 @@ trMA.Ode8C2A1.text = "When I think of the dread trial before Thee, O Christ, I a
 
 trMA.Ode8C2H.ode = misc_en_UK_ware.Ode8
 trMA.Ode8C2H.mode = misc_en_UK_ware.Mode7
-trMA.Ode8C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode8C2H.melody = he.h.m7_en_UK_ware.TonFoveronToisCherouvim.melody
 trMA.Ode8C2H.incipit = he.h.m7_en_UK_ware.TonFoveronToisCherouvim.incipit
 trMA.Ode8C2H.text = he.h.m7_en_UK_ware.TonFoveronToisCherouvim.text
 
@@ -254,7 +254,7 @@ trMA.Ode9C2A1.text = "Thou hast justified the Publican when he cried: 'Be mercif
 
 trMA.Ode9C2H.ode = misc_en_UK_ware.Ode9
 trMA.Ode9C2H.mode = misc_en_UK_ware.Mode7
-trMA.Ode9C2H.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode9C2H.melody = he.h.m7_en_UK_ware.TinYperFysinMitera.melody
 trMA.Ode9C2H.incipit = he.h.m7_en_UK_ware.TinYperFysinMitera.incipit
 trMA.Ode9C2H.text = he.h.m7_en_UK_ware.TinYperFysinMitera.text
 
