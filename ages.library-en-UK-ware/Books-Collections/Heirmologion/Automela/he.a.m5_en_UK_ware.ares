@@ -4,20 +4,20 @@ he.title = ""
 
 ChairoisAskitikon.mode = misc_en_UK_ware.Mode5
 ChairoisAskitikon.name = "(NM)"
-ChairoisAskitikon.incipit = "(NM)…"
+ChairoisAskitikon.incipit = "…"
 ChairoisAskitikon.text = ""
 
 LampeiSimeron.mode = misc_en_UK_ware.Mode5
 LampeiSimeron.name = "(NM)."
-LampeiSimeron.incipit = "(NM)…"
+LampeiSimeron.incipit = "…"
 LampeiSimeron.text = ""
 
 OsiePater.mode = misc_en_UK_ware.Mode5
 OsiePater.name = "(NM)"
-OsiePater.incipit = "(NM)…"
+OsiePater.incipit = "…"
 OsiePater.text = ""
 
 TonSynanarchonLogon.mode = misc_en_UK_ware.Mode5
 TonSynanarchonLogon.name = "(NM)"
-TonSynanarchonLogon.incipit = "(NM)…"
+TonSynanarchonLogon.incipit = "…"
 TonSynanarchonLogon.text = ""
