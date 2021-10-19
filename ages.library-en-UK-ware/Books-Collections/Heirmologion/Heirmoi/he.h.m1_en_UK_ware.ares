@@ -110,6 +110,14 @@ EkNyktosOrthrizontes.mode = misc_en_UK_ware.Mode1
 EkNyktosOrthrizontes.ode = misc_en_UK_ware.Ode5
 EkNyktosOrthrizontes.text = "Seeking Thee early in the morning, we sing Thy praises, Christ our God, who hast for our sakes become poor and in Thy flesh endured the Cross and death."
 
+EkNyktosOrthrizontesYmnoumenSe.notmetered = "N/M (Rising from the night, we sing.)"
+EkNyktosOrthrizontesYmnoumenSe.name = "N/M"
+EkNyktosOrthrizontesYmnoumenSe.incipit = "…"
+EkNyktosOrthrizontesYmnoumenSe.melody = misc_en_UK_ware.Heirmos
+EkNyktosOrthrizontesYmnoumenSe.mode = misc_en_UK_ware.Mode1
+EkNyktosOrthrizontesYmnoumenSe.ode = misc_en_UK_ware.Ode5
+EkNyktosOrthrizontesYmnoumenSe.text = ""
+
 EkyklosenImas.name = "(NM)"
 EkyklosenImas.incipit = "…"
 EkyklosenImas.melody = misc_en_UK_ware.HeirmosNotMetered
