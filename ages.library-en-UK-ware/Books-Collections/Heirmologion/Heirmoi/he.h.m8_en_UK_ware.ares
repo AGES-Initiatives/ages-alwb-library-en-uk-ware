@@ -441,6 +441,9 @@ OukEstinAgios.mode = misc_en_UK_ware.Mode8
 OukEstinAgios.ode = misc_en_UK_ware.Ode3
 OukEstinAgios.text = "None is holy as the Lord, and none is righteous as our God, whom all creation praises: none is holy save Thee, O Lord who lovest mankind."
 
+OukEstinAgiosOsOTheos.name = ""
+
+
 OuraniasApsidos.name = "(NM) O Lord, Thou Builder"
 OuraniasApsidos.incipit = "(NM) O Lord, Thou Builder…"
 OuraniasApsidos.melody = misc_en_UK_ware.HeirmosNotMetered
