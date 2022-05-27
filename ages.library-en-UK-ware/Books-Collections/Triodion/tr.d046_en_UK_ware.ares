@@ -84,6 +84,10 @@ trMA.Kathisma32.incipit = "Beholding Thee, O Christ, stretched…"
 trMA.Kathisma32.text = "Beholding Thee, O Christ, stretched dead upon the Cross, Thine all­ blameless Mother cried aloud: 'O my Son, coeternal with the Father and the Spirit, what is this ineffable act of love, whereby in Thy compassion Thou hast saved the creation of Thy holy hands?'"
 
 trMA.C1.poet = poets_en_UK_ware.KyriouTheofanous
+trMA.C1.acrostic.title = ""
+trMA.C1.acrostic.notice1 = ""
+trMA.C1.acrostic.text = ""
+//trMA.C1.acrostic.notice2 = ""
 trMA.C1.acrostic = ""
 
 trMA.C2.poet = poets_en_UK_ware.Iosif

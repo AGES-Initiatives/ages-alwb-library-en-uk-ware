@@ -71,6 +71,10 @@ trMA.Kathisma22.melody = ""
 trMA.Kathisma22.incipit = "O Christ our God who…"
 trMA.Kathisma22.text = "O Christ our God who from a Virgin hast shone forth upon the world, and through her hast made us sons of light, have mercy on us." //oc.m5.d2_en_UK_ware.ocMA.ApolTheotokion.text
 
+trMA.C1.acrostic.title = ""
+trMA.C1.acrostic.notice1 = ""
+trMA.C1.acrostic.text = ""
+//trMA.C1.acrostic.notice2 = ""
 trMA.C1.acrostic = ""
 
 trMA.Ode1C1H.ode = misc_en_UK_ware.Ode1

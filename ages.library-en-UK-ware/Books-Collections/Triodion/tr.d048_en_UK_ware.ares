@@ -63,6 +63,10 @@ trMA.Kathisma32.melody = he.a.m4_en_UK_ware.TachyProkatalave.name
 trMA.Kathisma32.incipit = "When the Virgin Mother saw…"
 trMA.Kathisma32.text = "When the Virgin Mother saw Thee raised upon the Cross, O Word of God, with a mother's grief she cried: 'What is this new and strange wonder, O my Son? How canst Thou suffer death, O Life of all? It is because in Thy compassion Thou dost will to bring the dead to life.'"
 
+trMA.C1.acrostic.title = ""
+trMA.C1.acrostic.notice1 = ""
+trMA.C1.acrostic.text = ""
+//trMA.C1.acrostic.notice2 = ""
 trMA.C1.acrostic = ""
 
 trMA.C2.poet = poets_en_UK_ware.Iosif
