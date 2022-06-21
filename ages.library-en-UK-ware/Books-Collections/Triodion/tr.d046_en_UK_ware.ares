@@ -83,25 +83,26 @@ trMA.Kathisma32.melody = he.a.m1_en_UK_ware.TonTafonSouSotir.name
 trMA.Kathisma32.incipit = "Beholding Thee, O Christ, stretched…"
 trMA.Kathisma32.text = "Beholding Thee, O Christ, stretched dead upon the Cross, Thine all­ blameless Mother cried aloud: 'O my Son, coeternal with the Father and the Spirit, what is this ineffable act of love, whereby in Thy compassion Thou hast saved the creation of Thy holy hands?'"
 
-trMA.C1.poet = poets_en_UK_ware.KyriouTheofanous
-trMA.C1.acrostic.title = ""
+trMA.C1.acrostic.title = "Canon for the Cross."
 trMA.C1.acrostic.notice1 = ""
 trMA.C1.acrostic.text = ""
-//trMA.C1.acrostic.notice2 = ""
-trMA.C1.acrostic = ""
+trMA.C1.poet = poets_en_UK_ware.KyriouTheofanous
+trMA.C1.title = //titles_en_UK_ware.KanonATouTriodiou
+trMA.C1.verse = //prayers_en_UK_ware.verse_Cross.text
 
 trMA.C2.poet = poets_en_UK_ware.Iosif
+trMA.C2.title = "Three-ode Canon."
+trMA.C2.verse = //prayers_en_UK_ware.verse_Cross.text
 
 trMA.C3.poet = poets_en_UK_ware.Theodorou
+trMA.C3.title = "Another three-ode Canon."
+trMA.C3.verse = //prayers_en_UK_ware.verse_Cross.text
 
 trMA.Ode1C1H.ode = misc_en_UK_ware.Ode1
 trMA.Ode1C1H.mode = misc_en_UK_ware.Mode4
 trMA.Ode1C1H.melody = he.h.m4_en_UK_ware.AnoixoToStomaMou.melody
 trMA.Ode1C1H.incipit = he.h.m4_en_UK_ware.AnoixoToStomaMou.incipit
 trMA.Ode1C1H.text = he.h.m4_en_UK_ware.AnoixoToStomaMou.text
-
-trMA.C1.title = ""
-trMA.C1.verse = ""
 
 trMA.Ode1C11.ode = misc_en_UK_ware.Ode1
 trMA.Ode1C11.mode = misc_en_UK_ware.Mode4

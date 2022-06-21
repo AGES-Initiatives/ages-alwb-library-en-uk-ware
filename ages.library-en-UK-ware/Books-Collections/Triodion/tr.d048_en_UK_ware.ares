@@ -66,21 +66,16 @@ trMA.Kathisma32.text = "When the Virgin Mother saw Thee raised upon the Cross, O
 trMA.C1.acrostic.title = ""
 trMA.C1.acrostic.notice1 = ""
 trMA.C1.acrostic.text = ""
-//trMA.C1.acrostic.notice2 = ""
-trMA.C1.acrostic = ""
-
-trMA.C2.poet = poets_en_UK_ware.Iosif
-
-trMA.C3.poet = poets_en_UK_ware.Theodorou
-
-trMA.Ode1C1H.ode = misc_en_UK_ware.Ode1
-trMA.Ode1C1H.mode = misc_en_UK_ware.Mode8
-trMA.Ode1C1H.melody = he.h.m8_en_UK_ware.ArmatilatinFarao.melody
-trMA.Ode1C1H.incipit = he.h.m8_en_UK_ware.ArmatilatinFarao.incipit
-trMA.Ode1C1H.text = he.h.m8_en_UK_ware.ArmatilatinFarao.text
-
 trMA.C1.title = //titles_en_UK_ware.KanonATouTriodiou
 trMA.C1.verse = //prayers_en_UK_ware.verse_Cross.text
+
+trMA.C2.poet = poets_en_UK_ware.Iosif
+trMA.C2.title = ""
+trMA.C2.verse = //prayers_en_UK_ware.verse_Cross.text
+
+trMA.C3.poet = poets_en_UK_ware.Theodorou
+trMA.C3.title = ""
+trMA.C3.verse = //prayers_en_UK_ware.verse_Cross.text
 
 trMA.Ode1C11.ode = misc_en_UK_ware.Ode1
 trMA.Ode1C11.mode = misc_en_UK_ware.Mode8

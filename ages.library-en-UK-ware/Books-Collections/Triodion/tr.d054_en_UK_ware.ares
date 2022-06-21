@@ -42,7 +42,7 @@ trVE.Stichera03.incipit = "…"
 trVE.Stichera03.text = ""
 
 trGC.Stichera.poet = poets_en_UK_ware.SymeonTouMetafrastou
-trGC.Stichera.acrostic = ""
+trGC.Stichera.acrostic.title = ""
 
 trGC.Stichera01.mode = misc_en_UK_ware.Mode4
 trGC.Stichera01.melody = he.a.m4_en_UK_ware.IthelonDakrysinExaleipsai.name
@@ -867,6 +867,10 @@ trMA.Ode3Kathisma3.text = "The son and Word of God whom nothing can contain, in 
 // Ode 4 Triodion
 
 trMA.C1.poet = poets_en_UK_ware.Iosif
+trMA.C1.title = "Three-ode Canon."
+
+trMA.C2.poet = poets_en_UK_ware.Theodorou
+trMA.C2.title = "Another three-ode Canon."
 
 trMA.Ode4C1H.ode = misc_en_UK_ware.Ode4
 trMA.Ode4C1H.mode = misc_en_UK_ware.Mode8
@@ -897,8 +901,6 @@ trMA.Ode4C1T.mode = misc_en_UK_ware.Mode8
 trMA.Ode4C1T.melody = he.h.m8_en_UK_ware.EisakikoaKyrie.name
 trMA.Ode4C1T.incipit = "I have passed my life…"
 trMA.Ode4C1T.text = "I have passed my life in arrogance: make me humble and save me, all-pure Lady, for thou hast borne the Lord who has exalted our humiliated nature."
-
-trMA.C2.poet = poets_en_UK_ware.Theodorou
 
 trMA.Ode4C2H.ode = misc_en_UK_ware.Ode4
 trMA.Ode4C2H.mode = misc_en_UK_ware.Mode8
