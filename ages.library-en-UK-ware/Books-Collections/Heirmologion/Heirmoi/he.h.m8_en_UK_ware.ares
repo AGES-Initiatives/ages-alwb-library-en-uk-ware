@@ -35,7 +35,7 @@ AseveiasOrgana.mode = misc_en_UK_ware.Mode8
 AseveiasOrgana.ode = misc_en_UK_ware.Ode8
 AseveiasOrgana.text = ""
 
-AsmaAnapempsomen.name = "(NM) O ye people, let us raise a song"
+AsmaAnapempsomen.name = "All you people."
 AsmaAnapempsomen.incipit = "(NM) O ye people, let us raise a song…"
 AsmaAnapempsomen.melody = misc_en_UK_ware.HeirmosNotMetered
 AsmaAnapempsomen.mode = misc_en_UK_ware.Mode8
