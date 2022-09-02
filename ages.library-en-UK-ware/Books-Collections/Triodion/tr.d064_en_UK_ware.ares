@@ -430,7 +430,6 @@ trMA.LaudsGlory.melody = misc_en_UK_ware.Idiomelon
 trMA.LaudsGlory.incipit = trVE.Stichera05.incipit
 trMA.LaudsGlory.text = trVE.Stichera05.text
 
-trLI.Antiphon2.text = ""
 
 trLI.MM.EntranceHymn.text = properties_en_UK_ware.media.key
 
