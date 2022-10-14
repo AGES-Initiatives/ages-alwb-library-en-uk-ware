@@ -357,9 +357,7 @@ ProsecheteLaosMou.incipit = "(NM) Attend, O my people…"
 ProsecheteLaosMou.melody = misc_en_UK_ware.HeirmosNotMetered
 ProsecheteLaosMou.mode = misc_en_UK_ware.Mode2
 ProsecheteLaosMou.ode = misc_en_UK_ware.Ode2
-ProsecheteLaosMou.text = "Attend, O my people, unto my law; incline your ear unto the words of my mouth, for I have called upon Thy Name,
-
-O Lord."
+ProsecheteLaosMou.text = "Attend, O my people, unto my law; incline your ear unto the words of my mouth, for I have called upon Thy Name, O Lord."
 
 PsychaisKatharais.name = "(NM)"
 PsychaisKatharais.incipit = "…"
