@@ -2,6 +2,7 @@ A_Resource_Whose_Name = tr.d054_en_UK_ware
 
 trDA.commemoration.full = "" // full title of day
 trDA.commemoration.short = ""
+trDA.title = ""
 trDA.insert1 = "" // for use in petitions and dismissal
 trDA.insert2 = "" // for use in petitions and dismissal
 trDA.note = ""
@@ -1444,6 +1445,7 @@ trMA.Kontakion1.text = "My soul, O my soul, rise up! Why art thou sleeping? The 
 trMA.Oikos1.text = "Seeing Christ's house of healing opened, and health flowing down from it upon Adam, the devil suffered and was wounded; and as one in mortal danger he lamented, crying to his friends: 'What shall I do to the Son of Mary? I am slain by the Man from Bethlehem, who is everywhere present and fills all things.'"
 
 trSY.commemoration.text = ""
+trSY.commemoration.onotherday.text = ""
 trSY.commemoration.couplet1.title = //titles_en_UK_ware.Stichoi
 trSY.commemoration.couplet1.verse1 = ""
 trSY.commemoration.couplet1.verse2 = ""

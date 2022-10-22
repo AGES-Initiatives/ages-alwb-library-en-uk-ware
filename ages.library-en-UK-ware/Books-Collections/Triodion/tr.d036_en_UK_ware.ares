@@ -2,6 +2,7 @@ A_Resource_Whose_Name = tr.d036_en_UK_ware
 
 trDA.commemoration.full = "" //full title of day
 trDA.commemoration.short = ""
+trDA.title = ""
 trDA.insert1 = "" //for use in petitions and dismissal
 trDA.insert2 = "" //for use in petitions and dismissal
 trDA.note = ""
@@ -217,6 +218,7 @@ trMA.Oikos17.text = ""
 trMA.Oikos18.text = ""
 
 trSY.commemoration.text = ""
+trSY.commemoration.onotherday.text = ""
 trSY.commemoration.couplet1.title = //titles_en_UK_ware.Stichoi
 trSY.commemoration.couplet1.verse1 = ""
 trSY.commemoration.couplet1.verse2 = ""
