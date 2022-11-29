@@ -82,7 +82,7 @@ meVE.Apolytikion1.text = ""
 meCO.C1.acrostic.title = ""
 meCO.C1.acrostic.notice1 = ""
 meCO.C1.acrostic.text = ""
-meCO.C1.title = //titles_en_UK_ware.OKanon
+meCO.C1.title = //titles_en_UK_ware.ti.TheCanon
 meCO.C1.verse = //prayers_en_UK_ware.verse_God.text
 
 meCO.Ode1C1H.ode = misc_en_UK_ware.Ode1
@@ -304,13 +304,13 @@ meMA.Kathisma22.incipit = "…"
 meMA.Kathisma22.text = ""
 
 meMA.C1.poet = poets_en_UK_ware.Iosif
-meMA.C1.title = //titles_en_UK_ware.KanonProeortios
+meMA.C1.title = //titles_en_UK_ware.ti.CanonForefeast
 meMA.C1.verse = //prayers_en_UK_ware.verse_God.text
 
-meMA.C2.title = //titles_en_UK_ware.KanonTisOsias
+meMA.C2.title = //titles_en_UK_ware.ti.CanonDevoutW
 meMA.C2.verse = //prayers_en_UK_ware.verse_DevoutWoman.text
 
-meMA.C3.title = //titles_en_UK_ware.KanonTonMartyron
+meMA.C3.title = //titles_en_UK_ware.ti.CanonMartyrs
 meMA.C3.verse = //prayers_en_UK_ware.verse_SaintsM.text
 
 meMA.Ode1C1H.ode = misc_en_UK_ware.Ode1

@@ -70,7 +70,7 @@ trMA.PostGospelIdiomelon.melody = ""
 trMA.PostGospelIdiomelon.incipit = tr.d001_en_UK_ware.trMA.PostGospelIdiomelon.incipit
 trMA.PostGospelIdiomelon.text = tr.d001_en_UK_ware.trMA.PostGospelIdiomelon.text
 
-trMA.C1.title = //titles_en_UK_ware.KanonTouTriodiou
+trMA.C1.title = //titles_en_UK_ware.ti.CanonTriodion
 trMA.C1.verse = //prayers_en_UK_ware.verse_God.text
 
 trMA.Ode1C11.ode = misc_en_UK_ware.Ode1
@@ -97,7 +97,7 @@ trMA.Ode1C1T.melody = he.h.m8_en_UK_ware.YgranDiodefsas.name
 trMA.Ode1C1T.incipit = "…"
 trMA.Ode1C1T.text = ""
 
-trMA.C2.title = //titles_en_UK_ware.KanonTisOsias
+trMA.C2.title = //titles_en_UK_ware.ti.CanonDevoutW
 trMA.C2.verse = //prayers_en_UK_ware.verse_DevoutWoman.text
 
 trMA.Ode1C21.ode = misc_en_UK_ware.Ode1
@@ -335,7 +335,7 @@ trMA.Oikos1.text = ""
 
 trSY.commemoration.text = ""
 trSY.commemoration.onotherday.text = ""
-trSY.commemoration.couplet1.title = //titles_en_UK_ware.Stichoi
+trSY.commemoration.couplet1.title = //titles_en_UK_ware.ti.Verses
 trSY.commemoration.couplet1.verse1 = ""
 trSY.commemoration.couplet1.verse2 = ""
 trSY.commemoration.narration.p01 = ""

@@ -237,7 +237,7 @@ meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
 meMA.C1.poet = poets_en_UK_ware.Kosma
-meMA.C1.title = //titles_en_UK_ware.KanonATisEortis
+meMA.C1.title = //titles_en_UK_ware.ti.Canon1Feast
 meMA.C1.verse = //prayers_en_UK_ware.verse_God.text
 
 meMA.C2.acrostic.title = ""
@@ -248,7 +248,7 @@ meMA.C2.acrostic.line2.text = ""
 meMA.C2.acrostic.line3.text = ""
 meMA.C2.acrostic.line4.text = ""
 meMA.C2.poet = poets_en_UK_ware.IoannouTouDamaskinou
-meMA.C2.title = //titles_en_UK_ware.KanonIamvikos
+meMA.C2.title = //titles_en_UK_ware.ti.IambicCanon
 meMA.C2.verse = //prayers_en_UK_ware.verse_God.text
 
 meMA.Ode1C1H.ode = misc_en_UK_ware.Ode1

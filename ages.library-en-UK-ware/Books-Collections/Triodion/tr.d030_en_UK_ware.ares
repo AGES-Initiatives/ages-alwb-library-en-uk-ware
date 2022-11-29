@@ -70,7 +70,7 @@ trMA.C1.poet = poets_en_UK_ware.Iosif
 
 trMA.C2.poet = poets_en_UK_ware.Theodorou
 
-trMA.C1.title = //titles_en_UK_ware.KanonATouTriodiou
+trMA.C1.title = //titles_en_UK_ware.ti.Canon1Triodion
 trMA.C1.verse = ""
 
 trMA.Ode1C11.ode = misc_en_UK_ware.Ode1
@@ -97,7 +97,7 @@ trMA.Ode1C1T.melody = he.h.m4_en_UK_ware.TristatasKrataious.name
 trMA.Ode1C1T.incipit = "O most holy Virgin, Tabernacle…"
 trMA.Ode1C1T.text = "O most holy Virgin, Tabernacle undefiled, with the fountain of thy mercy wash me clean from the defilement of evil passions: destroy the sin that lies deep within me, O Lady, and grant me many tears of compunction."
 
-trMA.C2.title = //titles_en_UK_ware.KanonBTouTriodiou
+trMA.C2.title = //titles_en_UK_ware.ti.Canon2Triodion
 trMA.C2.verse = ""
 
 trMA.Ode1C21.ode = misc_en_UK_ware.Ode1

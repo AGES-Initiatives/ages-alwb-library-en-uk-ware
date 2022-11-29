@@ -608,7 +608,7 @@ trMA.Ode1C1H.melody = he.h.m8_en_UK_ware.AsomenToKyrio.melody
 trMA.Ode1C1H.incipit = he.h.m8_en_UK_ware.AsomenToKyrio.incipit
 trMA.Ode1C1H.text = he.h.m8_en_UK_ware.AsomenToKyrio.text
 
-trMA.C1.title = //titles_en_UK_ware.Kanon1
+trMA.C1.title = //titles_en_UK_ware.ti.Canon1
 trMA.C1.verse = //prayers_en_UK_ware.verse_God.text
 
 trMA.Ode1C11.ode = misc_en_UK_ware.Ode1

@@ -680,7 +680,7 @@ trMA.Oikos1.text = ""
 trMA.Oikos12.text = ""
 
 trSY.commemoration.text = ""
-trSY.commemoration.couplet1.title = //titles_en_UK_ware.Stichoi
+trSY.commemoration.couplet1.title = //titles_en_UK_ware.ti.Verses
 trSY.commemoration.couplet1.verse1 = ""
 trSY.commemoration.couplet1.verse2 = ""
 trSY.commemoration.narration.p01 = ""

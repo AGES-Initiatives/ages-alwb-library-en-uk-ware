@@ -100,7 +100,7 @@ trMA.Ode1C1H.melody = he.h.m8_en_UK_ware.AsmaAnapempsomen.melody
 trMA.Ode1C1H.incipit = he.h.m8_en_UK_ware.AsmaAnapempsomen.incipit
 trMA.Ode1C1H.text = he.h.m8_en_UK_ware.AsmaAnapempsomen.text
 
-trMA.C1.title = //titles_en_UK_ware.KanonTonPateron
+trMA.C1.title = //titles_en_UK_ware.ti.CanonFathers
 trMA.C1.verse = //prayers_en_UK_ware.verse_DevoutMen.text
 
 trMA.Ode1C11.ode = misc_en_UK_ware.Ode1
@@ -528,7 +528,7 @@ trMA.Kontakion1.text = "As preachers of godliness, putting impiety to silence, T
 trMA.Oikos1.text = "I looked at the pleasures of this life and I considered their nature and effect; and, measuring the toil and suffering which they cause, I judged the life of mortal man to be full of misery. You alone would I call blessed, for ye have chosen the better part: to suffer with Christ and to remain with Him, and ever to sing with the prophet David: Alleluia."
 
 trSY.commemoration.text = ""
-trSY.commemoration.couplet1.title = //titles_en_UK_ware.Stichoi
+trSY.commemoration.couplet1.title = //titles_en_UK_ware.ti.Verses
 trSY.commemoration.couplet1.verse1 = ""
 trSY.commemoration.couplet1.verse2 = ""
 trSY.commemoration.narration.p01 = ""
