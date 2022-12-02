@@ -15,12 +15,12 @@ trHO.note2 = ""
 trCO.header = ""
 
 trVE.Stichera01.mode = miscellanea_en_UK_ware.misc.Mode3
-trVE.Stichera01.melody = he.a.m3_en_UK_ware.StavrofanosMoysis.name
+trVE.Stichera01.melody = he.a.m3_en_UK_ware.heAU.StavrofanosMoysis.name
 trVE.Stichera01.incipit = " O Word of God…"
 trVE.Stichera01.text = " O Word of God, Thou hast given us the time of the Fast, that we may turn again and live, and in no way perish. Grant that all of us may please Thee, O Christ, and serve Thee with fervent compunction, like the wise and holy harlot: for, because of the sweet-smelling ointment and the warm tears which she shed, she received forgiveness of her sins."
 
 trVE.Stichera02.mode = miscellanea_en_UK_ware.misc.Mode3
-trVE.Stichera02.melody = he.a.m3_en_UK_ware.StavrofanosMoysis.name
+trVE.Stichera02.melody = he.a.m3_en_UK_ware.heAU.StavrofanosMoysis.name
 trVE.Stichera02.incipit = "Like the blind man, from…"
 trVE.Stichera02.text = "Like the blind man, from my heart I call upon Thee: Son of God, give light to the eyes of my heart. Like the faithful woman of Canaan, I cry to Thee: Have mercy on me, compassionate Saviour, for my soul is vexed by the devil of pleasure. But do Thou free it from the darkness of tbe passions and make me live the remainder of my life in purity, that I may glorify Thy great love."
 
@@ -50,12 +50,12 @@ trVE.AposTheotokion.incipit = "O blessed Theotokos, protect thy…"
 trVE.AposTheotokion.text = "O blessed Theotokos, protect thy servants from every kind of peril, that we may glorify thee, the hope of our souls." //oc.m4.d2_en_UK_ware.ocMA.AposTheotokion.text
 
 trMA.Kathisma21.mode = miscellanea_en_UK_ware.misc.Mode3
-trMA.Kathisma21.melody = he.a.m3_en_UK_ware.TheiasPisteos.name
+trMA.Kathisma21.melody = he.a.m3_en_UK_ware.heAU.TheiasPisteos.name
 trMA.Kathisma21.incipit = "In fervent faith let us…"
 trMA.Kathisma21.text = "In fervent faith let us burn up with abstinence the lustful passions, and flee from the icy cold of sin; with the streams of our tears let us quench the everlasting flame, crying aloud: We have sinned against Thee, O most loving Lord; forgive us and grant us Thy great mercy."
 
 trMA.Kathisma22.mode = miscellanea_en_UK_ware.misc.Mode3
-trMA.Kathisma22.melody = he.a.m3_en_UK_ware.TheiasPisteos.name
+trMA.Kathisma22.melody = he.a.m3_en_UK_ware.heAU.TheiasPisteos.name
 trMA.Kathisma22.incipit = "Thou hast become the divine…"
 trMA.Kathisma22.text = "Thou hast become the divine dwelling of the Word, O Virgin Mother alone all-holy, exalted high above the angels in thy purity. I am become more filthy than all men, defiled by the sins of the flesh: through thine intercessions cleanse me in divine waters, granting me great mercy." //oc.m3.d2_en_UK_ware.ocMA.Kathisma23.text
 
@@ -75,189 +75,189 @@ trMA.C2.poet = poets_en_UK_ware.po.Theodorou
 
 trMA.Ode2C1H.ode = miscellanea_en_UK_ware.misc.Ode2
 trMA.Ode2C1H.mode = miscellanea_en_UK_ware.misc.Mode3
-trMA.Ode2C1H.melody = he.h.m3_en_UK_ware.ProsecheGiKaiOurane.melody
-trMA.Ode2C1H.incipit = he.h.m3_en_UK_ware.ProsecheGiKaiOurane.incipit
-trMA.Ode2C1H.text = he.h.m3_en_UK_ware.ProsecheGiKaiOurane.text
+trMA.Ode2C1H.melody = he.h.m3_en_UK_ware.heHE.ProsecheGiKaiOurane.melody
+trMA.Ode2C1H.incipit = he.h.m3_en_UK_ware.heHE.ProsecheGiKaiOurane.incipit
+trMA.Ode2C1H.text = he.h.m3_en_UK_ware.heHE.ProsecheGiKaiOurane.text
 
 trMA.Ode2C11.ode = miscellanea_en_UK_ware.misc.Ode2
 trMA.Ode2C11.mode = miscellanea_en_UK_ware.misc.Mode3
-trMA.Ode2C11.melody = he.h.m3_en_UK_ware.ProsecheGiKaiOurane.name
+trMA.Ode2C11.melody = he.h.m3_en_UK_ware.heHE.ProsecheGiKaiOurane.name
 trMA.Ode2C11.incipit = "Through unceasing prayer and abstinence…"
 trMA.Ode2C11.text = "Through unceasing prayer and abstinence and contemplation, let us give wings to our souls and raise them to the love of God."
 
 trMA.Ode2C12.ode = miscellanea_en_UK_ware.misc.Ode2
 trMA.Ode2C12.mode = miscellanea_en_UK_ware.misc.Mode3
-trMA.Ode2C12.melody = he.h.m3_en_UK_ware.ProsecheGiKaiOurane.name
+trMA.Ode2C12.melody = he.h.m3_en_UK_ware.heHE.ProsecheGiKaiOurane.name
 trMA.Ode2C12.incipit = "Fleeing from the icy cold…"
 trMA.Ode2C12.text = "Fleeing from the icy cold of self-indulgence, let us all warm ourselves with the light of abstinence and the Holy Spirit."
 
 trMA.Ode2C13.ode = miscellanea_en_UK_ware.misc.Ode2
 trMA.Ode2C13.mode = miscellanea_en_UK_ware.misc.Mode3
-trMA.Ode2C13.melody = he.h.m3_en_UK_ware.ProsecheGiKaiOurane.name
+trMA.Ode2C13.melody = he.h.m3_en_UK_ware.heHE.ProsecheGiKaiOurane.name
 trMA.Ode2C13.incipit = "O my soul, drive away…"
 trMA.Ode2C13.text = "O my soul, drive away the putrefaction of sin with the salt of the divine virtues, and cleave to God."
 
 trMA.Ode2C1T.ode = miscellanea_en_UK_ware.misc.Ode2
 trMA.Ode2C1T.mode = miscellanea_en_UK_ware.misc.Mode3
-trMA.Ode2C1T.melody = he.h.m3_en_UK_ware.ProsecheGiKaiOurane.name
+trMA.Ode2C1T.melody = he.h.m3_en_UK_ware.heHE.ProsecheGiKaiOurane.name
 trMA.Ode2C1T.incipit = "Christ came to dwell in…"
 trMA.Ode2C1T.text = "Christ came to dwell in thee who alone art blessed, and He took from thee the flesh He made His own."
 
 trMA.Ode2C21.ode = miscellanea_en_UK_ware.misc.Ode2
 trMA.Ode2C21.mode = miscellanea_en_UK_ware.misc.Mode2
-trMA.Ode2C21.melody = he.h.m2_en_UK_ware.ProsecheteLaoi.name
+trMA.Ode2C21.melody = he.h.m2_en_UK_ware.heHE.ProsecheteLaoi.name
 trMA.Ode2C21.incipit = "Let us make our own…"
 trMA.Ode2C21.text = "Let us make our own pure fasting, prayer, tears, meditation on holy things, and every other virtue; and let us bring them now as an offering to God our Master."
 
 trMA.Ode2C22.ode = miscellanea_en_UK_ware.misc.Ode2
 trMA.Ode2C22.mode = miscellanea_en_UK_ware.misc.Mode2
-trMA.Ode2C22.melody = he.h.m2_en_UK_ware.ProsecheteLaoi.name
+trMA.Ode2C22.melody = he.h.m2_en_UK_ware.heHE.ProsecheteLaoi.name
 trMA.Ode2C22.incipit = "Eve was taken captive by…"
 trMA.Ode2C22.text = "Eve was taken captive by the fruit. O my soul, consider this and be not deceived if ever the serpent tempts thee, urging thee to eat the fruits of lust."
 
 trMA.Ode2C2Tr.ode = miscellanea_en_UK_ware.misc.Ode2
 trMA.Ode2C2Tr.mode = miscellanea_en_UK_ware.misc.Mode2
-trMA.Ode2C2Tr.melody = he.h.m2_en_UK_ware.ProsecheteLaoi.name
+trMA.Ode2C2Tr.melody = he.h.m2_en_UK_ware.heHE.ProsecheteLaoi.name
 trMA.Ode2C2Tr.incipit = "I glorify three Persons in…"
 trMA.Ode2C2Tr.text = "I glorify three Persons in one Nature, Father, Son and Spirit, the one Power of the Godhead, one Kingdom over all and one Brightness."
 
 trMA.Ode2C2T.ode = miscellanea_en_UK_ware.misc.Ode2
 trMA.Ode2C2T.mode = miscellanea_en_UK_ware.misc.Mode2
-trMA.Ode2C2T.melody = he.h.m2_en_UK_ware.ProsecheteLaoi.name
+trMA.Ode2C2T.melody = he.h.m2_en_UK_ware.heHE.ProsecheteLaoi.name
 trMA.Ode2C2T.incipit = "Thy childbearing, O pure Lady…"
 trMA.Ode2C2T.text = "Thy childbearing, O pure Lady, fills our hearts with fear. For it is God who has become man, begotten outside time from the Father and in the last days brought forth by thee through a virgin birth."
 
 trMA.Ode2C2A1.ode = miscellanea_en_UK_ware.misc.Ode2
 trMA.Ode2C2A1.mode = miscellanea_en_UK_ware.misc.Mode2
-trMA.Ode2C2A1.melody = he.h.m2_en_UK_ware.ProsecheteLaoi.name
+trMA.Ode2C2A1.melody = he.h.m2_en_UK_ware.heHE.ProsecheteLaoi.name
 trMA.Ode2C2A1.incipit = "O my Christ, Thou hast…"
 trMA.Ode2C2A1.text = "O my Christ, Thou hast healed the woman with an issue of blood when she touched the hem of Thy garment. Trusting in Thy mercy, I too stretch out my hand to touch Thee: heal me from the passions."
 
 trMA.Ode2C2H.ode = miscellanea_en_UK_ware.misc.Ode2
 trMA.Ode2C2H.mode = miscellanea_en_UK_ware.misc.Mode2
-trMA.Ode2C2H.melody = he.h.m2_en_UK_ware.ProsecheteLaoi.melody
-trMA.Ode2C2H.incipit = he.h.m2_en_UK_ware.ProsecheteLaoi.incipit
-trMA.Ode2C2H.text = he.h.m2_en_UK_ware.ProsecheteLaoi.text
+trMA.Ode2C2H.melody = he.h.m2_en_UK_ware.heHE.ProsecheteLaoi.melody
+trMA.Ode2C2H.incipit = he.h.m2_en_UK_ware.heHE.ProsecheteLaoi.incipit
+trMA.Ode2C2H.text = he.h.m2_en_UK_ware.heHE.ProsecheteLaoi.text
 
 trMA.Ode8C11.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C11.mode = miscellanea_en_UK_ware.misc.Mode3
-trMA.Ode8C11.melody = he.h.m3_en_UK_ware.TonYpAngelon.name
+trMA.Ode8C11.melody = he.h.m3_en_UK_ware.heHE.TonYpAngelon.name
 trMA.Ode8C11.incipit = "The evil one secretly lies…"
 trMA.Ode8C11.text = "The evil one secretly lies in wait for me each day, seeking to catch me and devour me. Deliver me, O Saviour, from his malice, as Thou hast saved Jonah from the whale."
 
 trMA.Ode8C12.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C12.mode = miscellanea_en_UK_ware.misc.Mode3
-trMA.Ode8C12.melody = he.h.m3_en_UK_ware.TonYpAngelon.name
+trMA.Ode8C12.melody = he.h.m3_en_UK_ware.heHE.TonYpAngelon.name
 trMA.Ode8C12.incipit = "Cleansed through fasting, let us…"
 trMA.Ode8C12.text = "Cleansed through fasting, let us draw near to the mountain of the virtues and let us clearly hear what God will say within us; for He will speak to us of peace and illumination and the healing of our broken souls."
 
 trMA.Ode8C13.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C13.mode = miscellanea_en_UK_ware.misc.Mode3
-trMA.Ode8C13.melody = he.h.m3_en_UK_ware.TonYpAngelon.name
+trMA.Ode8C13.melody = he.h.m3_en_UK_ware.heHE.TonYpAngelon.name
 trMA.Ode8C13.incipit = "Blinded each day by the…"
 trMA.Ode8C13.text = "Blinded each day by the darkness of my sins, I cannot perceive Thy wonders, O Lord: but do Thou open the eyes of my heart, O Jesus Giver of Light."
 
 trMA.Ode8C1T.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C1T.mode = miscellanea_en_UK_ware.misc.Mode3
-trMA.Ode8C1T.melody = he.h.m3_en_UK_ware.TonYpAngelon.name
+trMA.Ode8C1T.melody = he.h.m3_en_UK_ware.heHE.TonYpAngelon.name
 trMA.Ode8C1T.incipit = "O Ever-Virgin undefiled, with the…"
 trMA.Ode8C1T.text = "O Ever-Virgin undefiled, with the waters of thy mercy wash from my heart the defilement of the passions, and give me streams of tears to cleanse my soul."
 
 trMA.Ode8C21.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C21.mode = miscellanea_en_UK_ware.misc.Mode2
-trMA.Ode8C21.melody = he.h.m2_en_UK_ware.TonPalaiDrosisanta.name
+trMA.Ode8C21.melody = he.h.m2_en_UK_ware.heHE.TonPalaiDrosisanta.name
 trMA.Ode8C21.incipit = "The fire shall not be…"
 trMA.Ode8C21.text = "The fire shall not be quenched, so it is written, and the worm shall not die. Fear the threat, my soul, and serve Christ, that thou mayest find joy in the dwelling-place of all those who rejoice."
 
 trMA.Ode8C22.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C22.mode = miscellanea_en_UK_ware.misc.Mode2
-trMA.Ode8C22.melody = he.h.m2_en_UK_ware.TonPalaiDrosisanta.name
+trMA.Ode8C22.melody = he.h.m2_en_UK_ware.heHE.TonPalaiDrosisanta.name
 trMA.Ode8C22.incipit = "My soul burns with the…"
 trMA.Ode8C22.text = "My soul burns with the fever of lust: by Thy touch, I pray Thee, raise it up, as Thou hast raised the mother-in-law of Peter; so shall I be enabled to serve Thee acceptably, returning thanks to Thee for ever."
 
 trMA.Ode8C2Tr.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C2Tr.mode = miscellanea_en_UK_ware.misc.Mode2
-trMA.Ode8C2Tr.melody = he.h.m2_en_UK_ware.TonPalaiDrosisanta.name
+trMA.Ode8C2Tr.melody = he.h.m2_en_UK_ware.heHE.TonPalaiDrosisanta.name
 trMA.Ode8C2Tr.incipit = " O ye faithful, let…"
 trMA.Ode8C2Tr.text = " O ye faithful, let us sing in praise to the Father, eternal and without beginning, and to His coeternal Son, and to the Spirit that shines forth from the Father, three consubstantial Persons but one in sovereign power and rule."
 
 trMA.Ode8C2T.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C2T.mode = miscellanea_en_UK_ware.misc.Mode2
-trMA.Ode8C2T.melody = he.h.m2_en_UK_ware.TonPalaiDrosisanta.name
+trMA.Ode8C2T.melody = he.h.m2_en_UK_ware.heHE.TonPalaiDrosisanta.name
 trMA.Ode8C2T.incipit = "O Mary, called by God…"
 trMA.Ode8C2T.text = "O Mary, called by God, truly thou art the mercy-seat of the faithful: for through thee forgiveness is freely bestowed upon all. Cease not to intercede before thy Son and Lord, gaining His gracious favour for us who sing thy praises."
 
 trMA.Ode8C2A1.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C2A1.mode = miscellanea_en_UK_ware.misc.Mode2
-trMA.Ode8C2A1.melody = he.h.m2_en_UK_ware.TonPalaiDrosisanta.name
+trMA.Ode8C2A1.melody = he.h.m2_en_UK_ware.heHE.TonPalaiDrosisanta.name
 trMA.Ode8C2A1.incipit = "Open the deaf ears of…"
 trMA.Ode8C2A1.text = "Open the deaf ears of my soul, O Christ, and make my tongue to speak clearly, as once Thou hast done to the deaf man who had an impediment in his speech: so shall I listen to Thy voice and sing to Thee with my tongue, praising Thee for ever."
 
 trMA.Ode8C2H.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C2H.mode = miscellanea_en_UK_ware.misc.Mode2
-trMA.Ode8C2H.melody = he.h.m2_en_UK_ware.TonPalaiDrosisanta.melody
-trMA.Ode8C2H.incipit = he.h.m2_en_UK_ware.TonPalaiDrosisanta.incipit
-trMA.Ode8C2H.text = he.h.m2_en_UK_ware.TonPalaiDrosisanta.text
+trMA.Ode8C2H.melody = he.h.m2_en_UK_ware.heHE.TonPalaiDrosisanta.melody
+trMA.Ode8C2H.incipit = he.h.m2_en_UK_ware.heHE.TonPalaiDrosisanta.incipit
+trMA.Ode8C2H.text = he.h.m2_en_UK_ware.heHE.TonPalaiDrosisanta.text
 
 trMA.Ode9C11.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_UK_ware.misc.Mode3
-trMA.Ode9C11.melody = he.h.m3_en_UK_ware.SeTinAkataflekton.name
+trMA.Ode9C11.melody = he.h.m3_en_UK_ware.heHE.SeTinAkataflekton.name
 trMA.Ode9C11.incipit = "Calling to mind the flames…"
 trMA.Ode9C11.text = "Calling to mind the flames of the fire that never shall be quenched, with fervent hearts let us draw near to the fire of repentance and burn up the passions."
 
 trMA.Ode9C12.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C12.mode = miscellanea_en_UK_ware.misc.Mode3
-trMA.Ode9C12.melody = he.h.m3_en_UK_ware.SeTinAkataflekton.name
+trMA.Ode9C12.melody = he.h.m3_en_UK_ware.heHE.SeTinAkataflekton.name
 trMA.Ode9C12.incipit = "Words of fire came forth…"
 trMA.Ode9C12.text = "Words of fire came forth of old from the mouth of him who fasted, and overwhelmed the elements. Emulate his zeal, my soul, and live rightly."
 
 trMA.Ode9C13.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C13.mode = miscellanea_en_UK_ware.misc.Mode3
-trMA.Ode9C13.melody = he.h.m3_en_UK_ware.SeTinAkataflekton.name
+trMA.Ode9C13.melody = he.h.m3_en_UK_ware.heHE.SeTinAkataflekton.name
 trMA.Ode9C13.incipit = "Keeping in mind the fearful…"
 trMA.Ode9C13.text = "Keeping in mind the fearful judgement seat, my wretched soul, always guide thy steps to the accomplishment of the Redeemer's will."
 
 trMA.Ode9C1T.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C1T.mode = miscellanea_en_UK_ware.misc.Mode3
-trMA.Ode9C1T.melody = he.h.m3_en_UK_ware.SeTinAkataflekton.name
+trMA.Ode9C1T.melody = he.h.m3_en_UK_ware.heHE.SeTinAkataflekton.name
 trMA.Ode9C1T.incipit = "My soul is darkened by…"
 trMA.Ode9C1T.text = "My soul is darkened by the pleasures; give light to it, pure Virgin, who hast borne the Light, that with fear and faith I may for ever magnify thee."
 
 trMA.Ode9C21.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C21.mode = miscellanea_en_UK_ware.misc.Mode2
-trMA.Ode9C21.melody = he.h.m2_en_UK_ware.TinYperfyosSarki.name
+trMA.Ode9C21.melody = he.h.m2_en_UK_ware.heHE.TinYperfyosSarki.name
 trMA.Ode9C21.incipit = "Let us offer to Christ…"
 trMA.Ode9C21.text = "Let us offer to Christ all the members of our body as weapons of righteousness, 'lifting up', as it is written, 'holy hands, without wrath and doubting'."
 
 trMA.Ode9C22.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C22.mode = miscellanea_en_UK_ware.misc.Mode2
-trMA.Ode9C22.melody = he.h.m2_en_UK_ware.TinYperfyosSarki.name
+trMA.Ode9C22.melody = he.h.m2_en_UK_ware.heHE.TinYperfyosSarki.name
 trMA.Ode9C22.incipit = "Coming once to the disciples…"
 trMA.Ode9C22.text = "Coming once to the disciples in the boat, my Christ, Thou hast stilled the raging sea: do Thou also still the tempest of my thoughts."
 
 trMA.Ode9C2Tr.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C2Tr.mode = miscellanea_en_UK_ware.misc.Mode2
-trMA.Ode9C2Tr.melody = he.h.m2_en_UK_ware.TinYperfyosSarki.name
+trMA.Ode9C2Tr.melody = he.h.m2_en_UK_ware.heHE.TinYperfyosSarki.name
 trMA.Ode9C2Tr.incipit = "I worship one Nature, I…"
 trMA.Ode9C2Tr.text = "I worship one Nature, I sing the praises of three Persons, one God of all, Father, Son and Holy Spirit, sovereignty eternal."
 
 trMA.Ode9C2T.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C2T.mode = miscellanea_en_UK_ware.misc.Mode2
-trMA.Ode9C2T.melody = he.h.m2_en_UK_ware.TinYperfyosSarki.name
+trMA.Ode9C2T.melody = he.h.m2_en_UK_ware.heHE.TinYperfyosSarki.name
 trMA.Ode9C2T.incipit = "Though a pure maiden thou…"
 trMA.Ode9C2T.text = "Though a pure maiden thou hearest child, and though a virgin thou givest suck. How can these things be found together? How dost thou give birth and yet remain virgin? 'It is God who has brought this to pass; ask me not how.'"
 
 trMA.Ode9C2A1.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C2A1.mode = miscellanea_en_UK_ware.misc.Mode2
-trMA.Ode9C2A1.melody = he.h.m2_en_UK_ware.TinYperfyosSarki.name
+trMA.Ode9C2A1.melody = he.h.m2_en_UK_ware.heHE.TinYperfyosSarki.name
 trMA.Ode9C2A1.incipit = "The passions have defiled my…"
 trMA.Ode9C2A1.text = "The passions have defiled my soul, and I have been robbed like the man who fell among thieves. But heal me, O my Christ, and pour Thy mercy upon me."
 
 trMA.Ode9C2H.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C2H.mode = miscellanea_en_UK_ware.misc.Mode2
-trMA.Ode9C2H.melody = he.h.m2_en_UK_ware.TinYperfyosSarki.melody
-trMA.Ode9C2H.incipit = he.h.m2_en_UK_ware.TinYperfyosSarki.incipit
-trMA.Ode9C2H.text = he.h.m2_en_UK_ware.TinYperfyosSarki.text
+trMA.Ode9C2H.melody = he.h.m2_en_UK_ware.heHE.TinYperfyosSarki.melody
+trMA.Ode9C2H.incipit = he.h.m2_en_UK_ware.heHE.TinYperfyosSarki.incipit
+trMA.Ode9C2H.text = he.h.m2_en_UK_ware.heHE.TinYperfyosSarki.text
 
 trMA.AposIdiomelon1.mode = miscellanea_en_UK_ware.misc.Mode7
 trMA.AposIdiomelon1.melody = miscellanea_en_UK_ware.misc.Idiomelon

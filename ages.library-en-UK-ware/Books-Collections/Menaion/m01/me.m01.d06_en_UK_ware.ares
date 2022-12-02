@@ -202,17 +202,17 @@ meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
 meMA.Kathisma11.mode = miscellanea_en_UK_ware.misc.Mode3
-meMA.Kathisma11.melody = he.a.m3_en_UK_ware.TinOraiotita.name
+meMA.Kathisma11.melody = he.a.m3_en_UK_ware.heAU.TinOraiotita.name
 meMA.Kathisma11.incipit = "…"
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma21.mode = miscellanea_en_UK_ware.misc.Mode4
-meMA.Kathisma21.melody = he.a.m4_en_UK_ware.KateplagiIosif.name
+meMA.Kathisma21.melody = he.a.m4_en_UK_ware.heAU.KateplagiIosif.name
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
 
 meMA.Kathisma31.mode = miscellanea_en_UK_ware.misc.Mode4
-meMA.Kathisma31.melody = he.a.m4_en_UK_ware.TachyProkatalave.name
+meMA.Kathisma31.melody = he.a.m4_en_UK_ware.heAU.TachyProkatalave.name
 meMA.Kathisma31.incipit = "…"
 meMA.Kathisma31.text = ""
 
@@ -253,42 +253,42 @@ meMA.C2.verse = //prayers_en_UK_ware.pr.verse_God.text
 
 meMA.Ode1C1H.ode = miscellanea_en_UK_ware.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode1C1H.melody = he.h.m2_en_UK_ware.VythouAnekalypse.melody
-meMA.Ode1C1H.incipit = he.h.m2_en_UK_ware.VythouAnekalypse.incipit
-meMA.Ode1C1H.text = he.h.m2_en_UK_ware.VythouAnekalypse.text
+meMA.Ode1C1H.melody = he.h.m2_en_UK_ware.heHE.VythouAnekalypse.melody
+meMA.Ode1C1H.incipit = he.h.m2_en_UK_ware.heHE.VythouAnekalypse.incipit
+meMA.Ode1C1H.text = he.h.m2_en_UK_ware.heHE.VythouAnekalypse.text
 
 meMA.Ode1C11.ode = miscellanea_en_UK_ware.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode1C11.melody = he.h.m2_en_UK_ware.VythouAnekalypse.name
+meMA.Ode1C11.melody = he.h.m2_en_UK_ware.heHE.VythouAnekalypse.name
 meMA.Ode1C11.incipit = "The Lord, King of the…"
 meMA.Ode1C11.text = "The Lord, King of the ages, in the streams of the Jordan formed Adam anew, who was fallen into corruption, and He broke in pieces the heads of the dragons that were hidden there: for He has been glorified."
 
 meMA.Ode1C12.ode = miscellanea_en_UK_ware.misc.Ode1
 meMA.Ode1C12.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode1C12.melody = he.h.m2_en_UK_ware.VythouAnekalypse.name
+meMA.Ode1C12.melody = he.h.m2_en_UK_ware.heHE.VythouAnekalypse.name
 meMA.Ode1C12.incipit = "The Lord, incarnate of the…"
 meMA.Ode1C12.text = "The Lord, incarnate of the Virgin, having clothed material flesh with the immaterial fire of His divinity, wraps Himself in the waters of Jordan, for He has been glorified."
 
 meMA.Ode1C13.ode = miscellanea_en_UK_ware.misc.Ode1
 meMA.Ode1C13.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode1C13.melody = he.h.m2_en_UK_ware.VythouAnekalypse.name
+meMA.Ode1C13.melody = he.h.m2_en_UK_ware.heHE.VythouAnekalypse.name
 meMA.Ode1C13.incipit = "The Lord who purges away…"
 meMA.Ode1C13.text = "The Lord who purges away the filth of men was cleansed in Jordan for their sake, having of His own will made Himself like unto them, while still remaining that which He was; and He enlightens those in darkness, for He has been glorified."
 
 meMA.Ode1C2H.ode = miscellanea_en_UK_ware.misc.Ode1
 meMA.Ode1C2H.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode1C2H.melody = he.h.m2_en_UK_ware.SteiveiThalassis.melody
-meMA.Ode1C2H.incipit = he.h.m2_en_UK_ware.SteiveiThalassis.incipit
-meMA.Ode1C2H.text = he.h.m2_en_UK_ware.SteiveiThalassis.text
-meMA.Ode1C2H1.text = he.h.m2_en_UK_ware.SteiveiThalassis1.text
-meMA.Ode1C2H2.text = he.h.m2_en_UK_ware.SteiveiThalassis2.text
-meMA.Ode1C2H3.text = he.h.m2_en_UK_ware.SteiveiThalassis3.text
-meMA.Ode1C2H4.text = he.h.m2_en_UK_ware.SteiveiThalassis4.text
-meMA.Ode1C2H5.text = he.h.m2_en_UK_ware.SteiveiThalassis5.text
+meMA.Ode1C2H.melody = he.h.m2_en_UK_ware.heHE.SteiveiThalassis.melody
+meMA.Ode1C2H.incipit = he.h.m2_en_UK_ware.heHE.SteiveiThalassis.incipit
+meMA.Ode1C2H.text = he.h.m2_en_UK_ware.heHE.SteiveiThalassis.text
+meMA.Ode1C2H1.text = he.h.m2_en_UK_ware.heHE.SteiveiThalassis1.text
+meMA.Ode1C2H2.text = he.h.m2_en_UK_ware.heHE.SteiveiThalassis2.text
+meMA.Ode1C2H3.text = he.h.m2_en_UK_ware.heHE.SteiveiThalassis3.text
+meMA.Ode1C2H4.text = he.h.m2_en_UK_ware.heHE.SteiveiThalassis4.text
+meMA.Ode1C2H5.text = he.h.m2_en_UK_ware.heHE.SteiveiThalassis5.text
 
 meMA.Ode1C21.ode = miscellanea_en_UK_ware.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode1C21.melody = he.h.m2_en_UK_ware.SteiveiThalassis.name
+meMA.Ode1C21.melody = he.h.m2_en_UK_ware.heHE.SteiveiThalassis.name
 meMA.Ode1C21.incipit = "When the Light of the…"
 meMA.Ode1C21.text = "When the Light of the Dawn shone forth upon mortal men, Coming from the desert to the streams of the Jordan, Thou, the King of the Sun, hast bowed Thy head before him, That so Thou mightest snatch our forefather from the land of darkness, And cleanse the creation from all its filth."
 meMA.Ode1C211.text = "When the Light of the Dawn shone forth upon mortal men,"
@@ -299,7 +299,7 @@ meMA.Ode1C215.text = "And cleanse the creation from all its filth."
 
 meMA.Ode1C22.ode = miscellanea_en_UK_ware.misc.Ode1
 meMA.Ode1C22.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode1C22.melody = he.h.m2_en_UK_ware.SteiveiThalassis.name
+meMA.Ode1C22.melody = he.h.m2_en_UK_ware.heHE.SteiveiThalassis.name
 meMA.Ode1C22.incipit = "O Word without beginning, Thou…"
 meMA.Ode1C22.text = "O Word without beginning, Thou hast buried man with Thee in the stream: He was corrupted by error, but Thou makest Him new again. And the Father testified to Thee ineffably, Saying with mighty voice: ‘This is My beloved Child, equal to Me by nature.’"
 meMA.Ode1C221.text = "O Word without beginning, Thou hast buried man with Thee in the stream:"
@@ -310,36 +310,36 @@ meMA.Ode1C225.text = "‘This is My beloved Child, equal to Me by nature.’"
 
 meMA.Ode3C1H.ode = miscellanea_en_UK_ware.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode3C1H.melody = he.h.m2_en_UK_ware.IschynODidous.melody
-meMA.Ode3C1H.incipit = he.h.m2_en_UK_ware.IschynODidous.incipit
-meMA.Ode3C1H.text = he.h.m2_en_UK_ware.IschynODidous.text
+meMA.Ode3C1H.melody = he.h.m2_en_UK_ware.heHE.IschynODidous.melody
+meMA.Ode3C1H.incipit = he.h.m2_en_UK_ware.heHE.IschynODidous.incipit
+meMA.Ode3C1H.text = he.h.m2_en_UK_ware.heHE.IschynODidous.text
 
 meMA.Ode3C11.ode = miscellanea_en_UK_ware.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode3C11.melody = he.h.m2_en_UK_ware.IschynODidous.name
+meMA.Ode3C11.melody = he.h.m2_en_UK_ware.heHE.IschynODidous.name
 meMA.Ode3C11.incipit = "Rejoice today, 0 Church of…"
 meMA.Ode3C11.text = "Rejoice today, 0 Church of Christ, that before wast barren and sadly childless. For through water and the Spirit sons have been born to thee, who raise their cry in faith: None is holy as our God and none is righteous save Thee, O Lord."
 
 meMA.Ode3C12.ode = miscellanea_en_UK_ware.misc.Ode3
 meMA.Ode3C12.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode3C12.melody = he.h.m2_en_UK_ware.IschynODidous.name
+meMA.Ode3C12.melody = he.h.m2_en_UK_ware.heHE.IschynODidous.name
 meMA.Ode3C12.incipit = "With a loud voice the…"
 meMA.Ode3C12.text = "With a loud voice the Forerunner cries in the wilderness: ‘Prepare ye the way of Christ and make straight the paths for our God, raising your cry in faith: None is holy as our God and none is righteous save Thee, O Lord.’"
 
 meMA.Ode3C2H.ode = miscellanea_en_UK_ware.misc.Ode3
 meMA.Ode3C2H.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode3C2H.melody = he.h.m2_en_UK_ware.OsoiPalaion.melody
-meMA.Ode3C2H.incipit = he.h.m2_en_UK_ware.OsoiPalaion.incipit
-meMA.Ode3C2H.text = he.h.m2_en_UK_ware.OsoiPalaion.text
-meMA.Ode3C2H1.text = he.h.m2_en_UK_ware.OsoiPalaion1.text
-meMA.Ode3C2H2.text = he.h.m2_en_UK_ware.OsoiPalaion2.text
-meMA.Ode3C2H3.text = he.h.m2_en_UK_ware.OsoiPalaion3.text
-meMA.Ode3C2H4.text = he.h.m2_en_UK_ware.OsoiPalaion4.text
-meMA.Ode3C2H5.text = he.h.m2_en_UK_ware.OsoiPalaion5.text
+meMA.Ode3C2H.melody = he.h.m2_en_UK_ware.heHE.OsoiPalaion.melody
+meMA.Ode3C2H.incipit = he.h.m2_en_UK_ware.heHE.OsoiPalaion.incipit
+meMA.Ode3C2H.text = he.h.m2_en_UK_ware.heHE.OsoiPalaion.text
+meMA.Ode3C2H1.text = he.h.m2_en_UK_ware.heHE.OsoiPalaion1.text
+meMA.Ode3C2H2.text = he.h.m2_en_UK_ware.heHE.OsoiPalaion2.text
+meMA.Ode3C2H3.text = he.h.m2_en_UK_ware.heHE.OsoiPalaion3.text
+meMA.Ode3C2H4.text = he.h.m2_en_UK_ware.heHE.OsoiPalaion4.text
+meMA.Ode3C2H5.text = he.h.m2_en_UK_ware.heHE.OsoiPalaion5.text
 
 meMA.Ode3C21.ode = miscellanea_en_UK_ware.misc.Ode3
 meMA.Ode3C21.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode3C21.melody = he.h.m2_en_UK_ware.OsoiPalaion.name
+meMA.Ode3C21.melody = he.h.m2_en_UK_ware.heHE.OsoiPalaion.name
 meMA.Ode3C21.incipit = "He who once assumed the…"
 meMA.Ode3C21.text = "He who once assumed the appearance of a malignant serpent And implanted death in the creation, Is now cast into darkness by Christ’s coming in the flesh: And by assailing the Master, the Dawn that has shone forth upon us, He crushes his own hateful and loathsome head."
 meMA.Ode3C211.text = "He who once assumed the appearance of a malignant serpent"
@@ -350,7 +350,7 @@ meMA.Ode3C215.text = "He crushes his own hateful and loathsome head."
 
 meMA.Ode3C22.ode = miscellanea_en_UK_ware.misc.Ode3
 meMA.Ode3C22.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode3C22.melody = he.h.m2_en_UK_ware.OsoiPalaion.name
+meMA.Ode3C22.melody = he.h.m2_en_UK_ware.heHE.OsoiPalaion.name
 meMA.Ode3C22.incipit = "The Master draws to Himself…"
 meMA.Ode3C22.text = "The Master draws to Himself the nature made by God, Which had been overcome by the tyranny of greed. A new birth He grants to the dwellers upon earth, fashioning them afresh, Thereby accomplishing a glorious work: For He has come to deliver and protect mankind."
 meMA.Ode3C221.text = "The Master draws to Himself the nature made by God,"
@@ -366,42 +366,42 @@ meMA.Hypakoe.text = "When Thou broughtest light to all things by Thine Epiphany,
 
 meMA.Ode4C1H.ode = miscellanea_en_UK_ware.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode4C1H.melody = he.h.m2_en_UK_ware.AkikoeKyrieFonisSou.melody
-meMA.Ode4C1H.incipit = he.h.m2_en_UK_ware.AkikoeKyrieFonisSou.incipit
-meMA.Ode4C1H.text = he.h.m2_en_UK_ware.AkikoeKyrieFonisSou.text
+meMA.Ode4C1H.melody = he.h.m2_en_UK_ware.heHE.AkikoeKyrieFonisSou.melody
+meMA.Ode4C1H.incipit = he.h.m2_en_UK_ware.heHE.AkikoeKyrieFonisSou.incipit
+meMA.Ode4C1H.text = he.h.m2_en_UK_ware.heHE.AkikoeKyrieFonisSou.text
 
 meMA.Ode4C11.ode = miscellanea_en_UK_ware.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode4C11.melody = he.h.m2_en_UK_ware.AkikoeKyrieFonisSou.name
+meMA.Ode4C11.melody = he.h.m2_en_UK_ware.heHE.AkikoeKyrieFonisSou.name
 meMA.Ode4C11.incipit = "‘Who has ever seen the…"
 meMA.Ode4C11.text = "‘Who has ever seen the sun that is bright by nature being cleansed?’ the Preacher cried. ‘How, then, shall I wash Thee in the waters, who art the Brightness of the Glory, the Image of the everlasting Father? How shall I that am grass touch with my hand the fire of Thy divinity? For Thou art Christ, the wisdom and the power of God.’"
 
 meMA.Ode4C12.ode = miscellanea_en_UK_ware.misc.Ode4
 meMA.Ode4C12.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode4C12.melody = he.h.m2_en_UK_ware.AkikoeKyrieFonisSou.name
+meMA.Ode4C12.melody = he.h.m2_en_UK_ware.heHE.AkikoeKyrieFonisSou.name
 meMA.Ode4C12.incipit = "‘Moses, when he came upon…"
 meMA.Ode4C12.text = "‘Moses, when he came upon Thee, displayed the holy reverence that he felt: perceiving that it was Thy voice that spoke from the bush, he forthwith turned away his gaze. How then shall I behold Thee openly, how shall I lay my hand upon Thee? For Thou art Christ, the wisdom and the power of God.’"
 
 meMA.Ode4C13.ode = miscellanea_en_UK_ware.misc.Ode4
 meMA.Ode4C13.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode4C13.melody = he.h.m2_en_UK_ware.AkikoeKyrieFonisSou.name
+meMA.Ode4C13.melody = he.h.m2_en_UK_ware.heHE.AkikoeKyrieFonisSou.name
 meMA.Ode4C13.incipit = "‘Endowed with an understanding soul…"
 meMA.Ode4C13.text = "‘Endowed with an understanding soul and honoured with the power of reason, I yet respect the things that have no soul. For if I baptize Thee, I shall have as my accusers the mountain that smoked with fire, the sea which fled on either side,5 and this same Jordan which turned back. For Thou art Christ, the wisdom and the power of God.’"
 
 meMA.Ode4C2H.ode = miscellanea_en_UK_ware.misc.Ode4
 meMA.Ode4C2H.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode4C2H.melody = he.h.m2_en_UK_ware.PyrsoKathartheis.melody
-meMA.Ode4C2H.incipit = he.h.m2_en_UK_ware.PyrsoKathartheis.incipit
-meMA.Ode4C2H.text = he.h.m2_en_UK_ware.PyrsoKathartheis.text
-meMA.Ode4C2H1.text = he.h.m2_en_UK_ware.PyrsoKathartheis1.text
-meMA.Ode4C2H2.text = he.h.m2_en_UK_ware.PyrsoKathartheis2.text
-meMA.Ode4C2H3.text = he.h.m2_en_UK_ware.PyrsoKathartheis3.text
-meMA.Ode4C2H4.text = he.h.m2_en_UK_ware.PyrsoKathartheis4.text
-meMA.Ode4C2H5.text = he.h.m2_en_UK_ware.PyrsoKathartheis5.text
+meMA.Ode4C2H.melody = he.h.m2_en_UK_ware.heHE.PyrsoKathartheis.melody
+meMA.Ode4C2H.incipit = he.h.m2_en_UK_ware.heHE.PyrsoKathartheis.incipit
+meMA.Ode4C2H.text = he.h.m2_en_UK_ware.heHE.PyrsoKathartheis.text
+meMA.Ode4C2H1.text = he.h.m2_en_UK_ware.heHE.PyrsoKathartheis1.text
+meMA.Ode4C2H2.text = he.h.m2_en_UK_ware.heHE.PyrsoKathartheis2.text
+meMA.Ode4C2H3.text = he.h.m2_en_UK_ware.heHE.PyrsoKathartheis3.text
+meMA.Ode4C2H4.text = he.h.m2_en_UK_ware.heHE.PyrsoKathartheis4.text
+meMA.Ode4C2H5.text = he.h.m2_en_UK_ware.heHE.PyrsoKathartheis5.text
 
 meMA.Ode4C21.ode = miscellanea_en_UK_ware.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode4C21.melody = he.h.m2_en_UK_ware.PyrsoKathartheis.name
+meMA.Ode4C21.melody = he.h.m2_en_UK_ware.heHE.PyrsoKathartheis.name
 meMA.Ode4C21.incipit = "O Word all-shining, sent forth…"
 meMA.Ode4C21.text = "O Word all-shining, sent forth from the Father, Thou art come to dispel utterly the dark and evil night And the sins of mortal men, And by Thy baptism to draw up with Thee, O blessed Lord, Bright sons from the streams of Jordan."
 meMA.Ode4C211.text = "O Word all-shining, sent forth from the Father,"
@@ -412,7 +412,7 @@ meMA.Ode4C215.text = "Bright sons from the streams of Jordan."
 
 meMA.Ode4C22.ode = miscellanea_en_UK_ware.misc.Ode4
 meMA.Ode4C22.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode4C22.melody = he.h.m2_en_UK_ware.PyrsoKathartheis.name
+meMA.Ode4C22.melody = he.h.m2_en_UK_ware.heHE.PyrsoKathartheis.name
 meMA.Ode4C22.incipit = "When he saw in very…"
 meMA.Ode4C22.text = "When he saw in very truth the glorious Word, The Preacher cried out plainly to the creation: ‘This is He who was before me, though He comes after me according to the flesh. Like us in form, He has shone forth in the strength of the Godhead, To drive away our hateful sin.’"
 meMA.Ode4C221.text = "When he saw in very truth the glorious Word,"
@@ -423,7 +423,7 @@ meMA.Ode4C225.text = "To drive away our hateful sin.’"
 
 meMA.Ode4C23.ode = miscellanea_en_UK_ware.misc.Ode4
 meMA.Ode4C23.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode4C23.melody = he.h.m2_en_UK_ware.PyrsoKathartheis.name
+meMA.Ode4C23.melody = he.h.m2_en_UK_ware.heHE.PyrsoKathartheis.name
 meMA.Ode4C23.incipit = "That He may lead us…"
 meMA.Ode4C23.text = "That He may lead us back to the live-giving pastures of Paradise, God the Word goes searching for us in the lairs of the dragons. Destroying the terrible snares which the enemy had laid for man, He makes a prisoner of him who bruised all mankind in the heel, And so He saves the creation."
 meMA.Ode4C231.text = "That He may lead us back to the live-giving pastures of Paradise,"
@@ -434,36 +434,36 @@ meMA.Ode4C235.text = "And so He saves the creation."
 
 meMA.Ode5C1H.ode = miscellanea_en_UK_ware.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode5C1H.melody = he.h.m2_en_UK_ware.IisousOZoisArchigos.melody
-meMA.Ode5C1H.incipit = he.h.m2_en_UK_ware.IisousOZoisArchigos.incipit
-meMA.Ode5C1H.text = he.h.m2_en_UK_ware.IisousOZoisArchigos.text
+meMA.Ode5C1H.melody = he.h.m2_en_UK_ware.heHE.IisousOZoisArchigos.melody
+meMA.Ode5C1H.incipit = he.h.m2_en_UK_ware.heHE.IisousOZoisArchigos.incipit
+meMA.Ode5C1H.text = he.h.m2_en_UK_ware.heHE.IisousOZoisArchigos.text
 
 meMA.Ode5C11.ode = miscellanea_en_UK_ware.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode5C11.melody = he.h.m2_en_UK_ware.IisousOZoisArchigos.name
+meMA.Ode5C11.melody = he.h.m2_en_UK_ware.heHE.IisousOZoisArchigos.name
 meMA.Ode5C11.incipit = "A multitude without number came…"
 meMA.Ode5C11.text = "A multitude without number came to be baptized by John; and standing in their midst he raised his voice, saying: ‘Ye disobedient, who has warned you to shun the wrath to come? Offer worthy fruits to Christ, for He is present now and grants peace.’"
 
 meMA.Ode5C12.ode = miscellanea_en_UK_ware.misc.Ode5
 meMA.Ode5C12.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode5C12.melody = he.h.m2_en_UK_ware.IisousOZoisArchigos.name
+meMA.Ode5C12.melody = he.h.m2_en_UK_ware.heHE.IisousOZoisArchigos.name
 meMA.Ode5C12.incipit = "The Husbandman and Creator stands…"
 meMA.Ode5C12.text = "The Husbandman and Creator stands in men’s midst as one of them and searches their hearts. In His hand He has taken the winnowing fan, and in the fullness of His wisdom He cleanses the threshing floor of the whole world, dividing wheat from chaff, burning the barren and granting eternal life to those that bring forth good fruit."
 
 meMA.Ode5C2H.ode = miscellanea_en_UK_ware.misc.Ode5
 meMA.Ode5C2H.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode5C2H.melody = he.h.m2_en_UK_ware.EchthrouZofodous.melody
-meMA.Ode5C2H.incipit = he.h.m2_en_UK_ware.EchthrouZofodous.incipit
-meMA.Ode5C2H.text = he.h.m2_en_UK_ware.EchthrouZofodous.text
-meMA.Ode5C2H1.text = he.h.m2_en_UK_ware.EchthrouZofodous1.text
-meMA.Ode5C2H2.text = he.h.m2_en_UK_ware.EchthrouZofodous2.text
-meMA.Ode5C2H3.text = he.h.m2_en_UK_ware.EchthrouZofodous3.text
-meMA.Ode5C2H4.text = he.h.m2_en_UK_ware.EchthrouZofodous4.text
-meMA.Ode5C2H5.text = he.h.m2_en_UK_ware.EchthrouZofodous5.text
+meMA.Ode5C2H.melody = he.h.m2_en_UK_ware.heHE.EchthrouZofodous.melody
+meMA.Ode5C2H.incipit = he.h.m2_en_UK_ware.heHE.EchthrouZofodous.incipit
+meMA.Ode5C2H.text = he.h.m2_en_UK_ware.heHE.EchthrouZofodous.text
+meMA.Ode5C2H1.text = he.h.m2_en_UK_ware.heHE.EchthrouZofodous1.text
+meMA.Ode5C2H2.text = he.h.m2_en_UK_ware.heHE.EchthrouZofodous2.text
+meMA.Ode5C2H3.text = he.h.m2_en_UK_ware.heHE.EchthrouZofodous3.text
+meMA.Ode5C2H4.text = he.h.m2_en_UK_ware.heHE.EchthrouZofodous4.text
+meMA.Ode5C2H5.text = he.h.m2_en_UK_ware.heHE.EchthrouZofodous5.text
 
 meMA.Ode5C21.ode = miscellanea_en_UK_ware.misc.Ode5
 meMA.Ode5C21.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode5C21.melody = he.h.m2_en_UK_ware.EchthrouZofodous.name
+meMA.Ode5C21.melody = he.h.m2_en_UK_ware.heHE.EchthrouZofodous.name
 meMA.Ode5C21.incipit = "The Maker saw in the…"
 meMA.Ode5C21.text = "The Maker saw in the obscurity of sin, in bonds that knew no escape, The man whom He had formed with His own hand. Raising him up, He laid him on His shoulders, And now in abundant floods He washes him clean From the ancient shame of Adam’s sinfulness."
 meMA.Ode5C211.text = "The Maker saw in the obscurity of sin, in bonds that knew no escape,"
@@ -474,7 +474,7 @@ meMA.Ode5C215.text = "From the ancient shame of Adam’s sinfulness."
 
 meMA.Ode5C22.ode = miscellanea_en_UK_ware.misc.Ode5
 meMA.Ode5C22.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode5C22.melody = he.h.m2_en_UK_ware.EchthrouZofodous.name
+meMA.Ode5C22.melody = he.h.m2_en_UK_ware.heHE.EchthrouZofodous.name
 meMA.Ode5C22.incipit = "In piety and eagerness let…"
 meMA.Ode5C22.text = "In piety and eagerness let us run To the undefiled fountains of the stream of salvation, And let us look upon the Word who gives us to drink From pure waters that satisfy our holy thirst: And gently He heals the disease of the world."
 meMA.Ode5C221.text = "In piety and eagerness let us run"
@@ -485,36 +485,36 @@ meMA.Ode5C225.text = "And gently He heals the disease of the world."
 
 meMA.Ode6C1H.ode = miscellanea_en_UK_ware.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode6C1H.melody = he.h.m2_en_UK_ware.IFoniTouLogou.melody
-meMA.Ode6C1H.incipit = he.h.m2_en_UK_ware.IFoniTouLogou.incipit
-meMA.Ode6C1H.text = he.h.m2_en_UK_ware.IFoniTouLogou.text
+meMA.Ode6C1H.melody = he.h.m2_en_UK_ware.heHE.IFoniTouLogou.melody
+meMA.Ode6C1H.incipit = he.h.m2_en_UK_ware.heHE.IFoniTouLogou.incipit
+meMA.Ode6C1H.text = he.h.m2_en_UK_ware.heHE.IFoniTouLogou.text
 
 meMA.Ode6C11.ode = miscellanea_en_UK_ware.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode6C11.melody = he.h.m2_en_UK_ware.IFoniTouLogou.name
+meMA.Ode6C11.melody = he.h.m2_en_UK_ware.heHE.IFoniTouLogou.name
 meMA.Ode6C11.incipit = "Christ was begotten without change…"
 meMA.Ode6C11.text = "Christ was begotten without change from God the Father, and made flesh without defilement from the Virgin: and as the Forerunner teaches, it is not possible to loose the latchet of His shoes, the bond that joins the Word to our nature. He it is who delivers those born on earth from error."
 
 meMA.Ode6C12.ode = miscellanea_en_UK_ware.misc.Ode6
 meMA.Ode6C12.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode6C12.melody = he.h.m2_en_UK_ware.IFoniTouLogou.name
+meMA.Ode6C12.melody = he.h.m2_en_UK_ware.heHE.IFoniTouLogou.name
 meMA.Ode6C12.incipit = "Christ baptizes in the fire…"
 meMA.Ode6C12.text = "Christ baptizes in the fire of the Last Day those who are disobedient and believe not that He is God: but through the Spirit and by the grace that comes through water He grants a new birth new birth to all who acknowledge His divinity, delivering them from their faults."
 
 meMA.Ode6C2H.ode = miscellanea_en_UK_ware.misc.Ode6
 meMA.Ode6C2H.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode6C2H.melody = he.h.m2_en_UK_ware.ImertonExefine.melody
-meMA.Ode6C2H.incipit = he.h.m2_en_UK_ware.ImertonExefine.incipit
-meMA.Ode6C2H.text = he.h.m2_en_UK_ware.ImertonExefine.text
-meMA.Ode6C2H1.text = he.h.m2_en_UK_ware.ImertonExefine1.text
-meMA.Ode6C2H2.text = he.h.m2_en_UK_ware.ImertonExefine2.text
-meMA.Ode6C2H3.text = he.h.m2_en_UK_ware.ImertonExefine3.text
-meMA.Ode6C2H4.text = he.h.m2_en_UK_ware.ImertonExefine4.text
-meMA.Ode6C2H5.text = he.h.m2_en_UK_ware.ImertonExefine5.text
+meMA.Ode6C2H.melody = he.h.m2_en_UK_ware.heHE.ImertonExefine.melody
+meMA.Ode6C2H.incipit = he.h.m2_en_UK_ware.heHE.ImertonExefine.incipit
+meMA.Ode6C2H.text = he.h.m2_en_UK_ware.heHE.ImertonExefine.text
+meMA.Ode6C2H1.text = he.h.m2_en_UK_ware.heHE.ImertonExefine1.text
+meMA.Ode6C2H2.text = he.h.m2_en_UK_ware.heHE.ImertonExefine2.text
+meMA.Ode6C2H3.text = he.h.m2_en_UK_ware.heHE.ImertonExefine3.text
+meMA.Ode6C2H4.text = he.h.m2_en_UK_ware.heHE.ImertonExefine4.text
+meMA.Ode6C2H5.text = he.h.m2_en_UK_ware.heHE.ImertonExefine5.text
 
 meMA.Ode6C21.ode = miscellanea_en_UK_ware.misc.Ode6
 meMA.Ode6C21.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode6C21.melody = he.h.m2_en_UK_ware.ImertonExefine.name
+meMA.Ode6C21.melody = he.h.m2_en_UK_ware.heHE.ImertonExefine.name
 meMA.Ode6C21.incipit = "The Prophet, mysteriously swallowed up…"
 meMA.Ode6C21.text = "The Prophet, mysteriously swallowed up for the space of three nights In the belly of the sea monster, Came forth again, making manifest beforehand to all Our regeneration at the last times And our deliverance from the dragon that slays mankind."
 meMA.Ode6C211.text = "The Prophet, mysteriously swallowed up for the space of three nights"
@@ -525,7 +525,7 @@ meMA.Ode6C215.text = "And our deliverance from the dragon that slays mankind."
 
 meMA.Ode6C22.ode = miscellanea_en_UK_ware.misc.Ode6
 meMA.Ode6C22.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode6C22.melody = he.h.m2_en_UK_ware.ImertonExefine.name
+meMA.Ode6C22.melody = he.h.m2_en_UK_ware.heHE.ImertonExefine.name
 meMA.Ode6C22.incipit = "When the shining vaults of…"
 meMA.Ode6C22.text = "When the shining vaults of heaven were opened, He who knew the mysteries saw the Spirit, Who proceeds from the Father and rests on the immaculate Word, Descending in ways past speech in the form of a dove: And he commanded the multitudes to hasten to the Master."
 meMA.Ode6C221.text = "When the shining vaults of heaven were opened,"
@@ -537,49 +537,49 @@ meMA.Ode6C225.text = "And he commanded the multitudes to hasten to the Master."
 meMA.Kontakion1.poet = poets_en_UK_ware.po.RomanouTouMelodou
 meMA.Kontakion1.mode = miscellanea_en_UK_ware.misc.Mode4
 meMA.Kontakion1.melody = miscellanea_en_UK_ware.misc.Automelon
-meMA.Kontakion1.incipit = he.a.m4_en_UK_ware.EpefanisSimeron.incipit
-meMA.Kontakion1.text = he.a.m4_en_UK_ware.EpefanisSimeron.text
+meMA.Kontakion1.incipit = he.a.m4_en_UK_ware.heAU.EpefanisSimeron.incipit
+meMA.Kontakion1.text = he.a.m4_en_UK_ware.heAU.EpefanisSimeron.text
 
 meMA.Oikos1.text = "Upon Galilee of the Gentiles, upon the land of Zabulon and the land of Nephthalim, as the prophet said, a great light has shone, even Christ. To those that sat in darkness a bright dawn has appeared as lightning from Bethlehem. The Lord born from Mary, the Sun of Righteousness, sheds His rays upon the whole inhabited earth. Come then, naked children of Adam, and let us clothe ourselves in Him, that we may warm ourselves. Thou who art a protection and veil to the naked, a light to those in darkness, Thou hast come, Thou art made manifest, the Light that no man can approach."
 
 meMA.Ode7C1H.ode = miscellanea_en_UK_ware.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode7C1H.melody = he.h.m2_en_UK_ware.NeousEfseveis.melody
-meMA.Ode7C1H.incipit = he.h.m2_en_UK_ware.NeousEfseveis.incipit
-meMA.Ode7C1H.text = he.h.m2_en_UK_ware.NeousEfseveis.text
+meMA.Ode7C1H.melody = he.h.m2_en_UK_ware.heHE.NeousEfseveis.melody
+meMA.Ode7C1H.incipit = he.h.m2_en_UK_ware.heHE.NeousEfseveis.incipit
+meMA.Ode7C1H.text = he.h.m2_en_UK_ware.heHE.NeousEfseveis.text
 
 meMA.Ode7C11.ode = miscellanea_en_UK_ware.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode7C11.melody = he.h.m2_en_UK_ware.NeousEfseveis.name
+meMA.Ode7C11.melody = he.h.m2_en_UK_ware.heHE.NeousEfseveis.name
 meMA.Ode7C11.incipit = "ln trembling and wonder as…"
 meMA.Ode7C11.text = "ln trembling and wonder as if in heaven, the angelic powers stood by the Jordan, watching the great condescension of God: how He who holds dominion over the waters that are above the firmament stood in the waters in bodily form, He who is the God of our fathers."
 
 meMA.Ode7C12.ode = miscellanea_en_UK_ware.misc.Ode7
 meMA.Ode7C12.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode7C12.melody = he.h.m2_en_UK_ware.NeousEfseveis.name
+meMA.Ode7C12.melody = he.h.m2_en_UK_ware.heHE.NeousEfseveis.name
 meMA.Ode7C12.incipit = "The sea and cloud in…"
 meMA.Ode7C12.text = "The sea and cloud in which the people of Israel were once baptized by Moses the Lawgiver, as they journeyed from Egypt, prefigured the wonder of the baptism of God. The sea was an image of the water and the cloud an image of the Spirit, whereby we are initiated and cry aloud: Blessed art Thou, O God of our fathers."
 
 meMA.Ode7C13.ode = miscellanea_en_UK_ware.misc.Ode7
 meMA.Ode7C13.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode7C13.melody = he.h.m2_en_UK_ware.NeousEfseveis.name
+meMA.Ode7C13.melody = he.h.m2_en_UK_ware.heHE.NeousEfseveis.name
 meMA.Ode7C13.incipit = "O let us all, the…"
 meMA.Ode7C13.text = "O let us all, the faithful, discoursing on divine things, join the angels in never-silent hymns to glorify the God in whom we have received initiation, Father, Son, and Holy Spirit, the Trinity, consubstantial in Persons yet one God, to whom we sing: Blessed art Thou, O Lord God of our fathers."
 
 meMA.Ode7C2H.ode = miscellanea_en_UK_ware.misc.Ode7
 meMA.Ode7C2H.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode7C2H.melody = he.h.m2_en_UK_ware.EflexeReithro.melody
-meMA.Ode7C2H.incipit = he.h.m2_en_UK_ware.EflexeReithro.incipit
-meMA.Ode7C2H.text = he.h.m2_en_UK_ware.EflexeReithro.text
-meMA.Ode7C2H1.text = he.h.m2_en_UK_ware.EflexeReithro1.text
-meMA.Ode7C2H2.text = he.h.m2_en_UK_ware.EflexeReithro2.text
-meMA.Ode7C2H3.text = he.h.m2_en_UK_ware.EflexeReithro3.text
-meMA.Ode7C2H4.text = he.h.m2_en_UK_ware.EflexeReithro4.text
-meMA.Ode7C2H5.text = he.h.m2_en_UK_ware.EflexeReithro5.text
+meMA.Ode7C2H.melody = he.h.m2_en_UK_ware.heHE.EflexeReithro.melody
+meMA.Ode7C2H.incipit = he.h.m2_en_UK_ware.heHE.EflexeReithro.incipit
+meMA.Ode7C2H.text = he.h.m2_en_UK_ware.heHE.EflexeReithro.text
+meMA.Ode7C2H1.text = he.h.m2_en_UK_ware.heHE.EflexeReithro1.text
+meMA.Ode7C2H2.text = he.h.m2_en_UK_ware.heHE.EflexeReithro2.text
+meMA.Ode7C2H3.text = he.h.m2_en_UK_ware.heHE.EflexeReithro3.text
+meMA.Ode7C2H4.text = he.h.m2_en_UK_ware.heHE.EflexeReithro4.text
+meMA.Ode7C2H5.text = he.h.m2_en_UK_ware.heHE.EflexeReithro5.text
 
 meMA.Ode7C21.ode = miscellanea_en_UK_ware.misc.Ode7
 meMA.Ode7C21.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode7C21.melody = he.h.m2_en_UK_ware.EflexeReithro.name
+meMA.Ode7C21.melody = he.h.m2_en_UK_ware.heHE.EflexeReithro.name
 meMA.Ode7C21.incipit = "The fierce Assyrian flame that…"
 meMA.Ode7C21.text = "The fierce Assyrian flame that prefigured Thee Hast Thou quenched, changing it to dew: And now Thou hast clothed Thyself in water, O Christ, and so dost burn up The evil spoiler hidden in its depths, Who calls men to follow the path that leads to destruction."
 meMA.Ode7C211.text = "The fierce Assyrian flame that prefigured Thee"
@@ -590,7 +590,7 @@ meMA.Ode7C215.text = "Who calls men to follow the path that leads to destruction
 
 meMA.Ode7C22.ode = miscellanea_en_UK_ware.misc.Ode7
 meMA.Ode7C22.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode7C22.melody = he.h.m2_en_UK_ware.EflexeReithro.name
+meMA.Ode7C22.melody = he.h.m2_en_UK_ware.heHE.EflexeReithro.name
 meMA.Ode7C22.incipit = "Of old the Jordan was…"
 meMA.Ode7C22.text = "Of old the Jordan was parted in two, And the people of Israel passed over on a narrow piece of dry land, Prefiguring Thee, O Lord most powerful, Who now makest haste to bear the creation down into the stream, Bringing it to a better and a changeless path."
 meMA.Ode7C221.text = "Of old the Jordan was parted in two,"
@@ -601,7 +601,7 @@ meMA.Ode7C225.text = "Bringing it to a better and a changeless path."
 
 meMA.Ode7C23.ode = miscellanea_en_UK_ware.misc.Ode7
 meMA.Ode7C23.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode7C23.melody = he.h.m2_en_UK_ware.EflexeReithro.name
+meMA.Ode7C23.melody = he.h.m2_en_UK_ware.heHE.EflexeReithro.name
 meMA.Ode7C23.incipit = "We know that in the…"
 meMA.Ode7C23.text = "We know that in the beginning Thou hast brought upon the world the all-ruining flood, Unto the lamentable destruction of all things, O God who revealest wonders most great and strange: And now, O Christ, Thou hast drowned sin in the waters Unto the comfort and salvation of mortal men."
 meMA.Ode7C231.text = "We know that in the beginning Thou hast brought upon the world the all-ruining flood,"
@@ -612,42 +612,42 @@ meMA.Ode7C235.text = "Unto the comfort and salvation of mortal men."
 
 meMA.Ode8C1H.ode = miscellanea_en_UK_ware.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode8C1H.melody = he.h.m2_en_UK_ware.MystirionParadoxon.melody
-meMA.Ode8C1H.incipit = he.h.m2_en_UK_ware.MystirionParadoxon.incipit
-meMA.Ode8C1H.text = he.h.m2_en_UK_ware.MystirionParadoxon.text
+meMA.Ode8C1H.melody = he.h.m2_en_UK_ware.heHE.MystirionParadoxon.melody
+meMA.Ode8C1H.incipit = he.h.m2_en_UK_ware.heHE.MystirionParadoxon.incipit
+meMA.Ode8C1H.text = he.h.m2_en_UK_ware.heHE.MystirionParadoxon.text
 
 meMA.Ode8C11.ode = miscellanea_en_UK_ware.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode8C11.melody = he.h.m2_en_UK_ware.MystirionParadoxon.name
+meMA.Ode8C11.melody = he.h.m2_en_UK_ware.heHE.MystirionParadoxon.name
 meMA.Ode8C11.incipit = "The Deliverer said to the…"
 meMA.Ode8C11.text = "The Deliverer said to the Forerunner: ‘Cast aside all fear and, obedient to My command, draw near Me, for by nature I am good and full of love. Yield to My ordinance and baptize Me, who have come down in condescension, whom the peoples bless and exalt above all for ever.’"
 
 meMA.Ode8C12.ode = miscellanea_en_UK_ware.misc.Ode8
 meMA.Ode8C12.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode8C12.melody = he.h.m2_en_UK_ware.MystirionParadoxon.name
+meMA.Ode8C12.melody = he.h.m2_en_UK_ware.heHE.MystirionParadoxon.name
 meMA.Ode8C12.incipit = "When the Baptist heard the…"
 meMA.Ode8C12.text = "When the Baptist heard the Master’s words, he stretched out his hand in trembling; and as he touched the head of his Creator, he cried aloud to Him who was baptized: ‘Sanctify me, for Thou art my God, whom the peoples bless and exalt above all for even’"
 
 meMA.Ode8C13.ode = miscellanea_en_UK_ware.misc.Ode8
 meMA.Ode8C13.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode8C13.melody = he.h.m2_en_UK_ware.MystirionParadoxon.name
+meMA.Ode8C13.melody = he.h.m2_en_UK_ware.heHE.MystirionParadoxon.name
 meMA.Ode8C13.incipit = "The Trinity was made manifest…"
 meMA.Ode8C13.text = "The Trinity was made manifest in the Jordan. For, supreme in Godhead, the Father proclaimed, saying, ‘He who is here baptized is My beloved Son’, and the Spirit rested upon His Equal in Godhead, whom the peoples bless and exalt above all for ever."
 
 meMA.Ode8C2H.ode = miscellanea_en_UK_ware.misc.Ode8
 meMA.Ode8C2H.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode8C2H.melody = he.h.m2_en_UK_ware.EleftheraMenIKtisis.melody
-meMA.Ode8C2H.incipit = he.h.m2_en_UK_ware.EleftheraMenIKtisis.incipit
-meMA.Ode8C2H.text = he.h.m2_en_UK_ware.EleftheraMenIKtisis.text
-meMA.Ode8C2H1.text = he.h.m2_en_UK_ware.EleftheraMenIKtisis1.text
-meMA.Ode8C2H2.text = he.h.m2_en_UK_ware.EleftheraMenIKtisis2.text
-meMA.Ode8C2H3.text = he.h.m2_en_UK_ware.EleftheraMenIKtisis3.text
-meMA.Ode8C2H4.text = he.h.m2_en_UK_ware.EleftheraMenIKtisis4.text
-meMA.Ode8C2H5.text = he.h.m2_en_UK_ware.EleftheraMenIKtisis5.text
+meMA.Ode8C2H.melody = he.h.m2_en_UK_ware.heHE.EleftheraMenIKtisis.melody
+meMA.Ode8C2H.incipit = he.h.m2_en_UK_ware.heHE.EleftheraMenIKtisis.incipit
+meMA.Ode8C2H.text = he.h.m2_en_UK_ware.heHE.EleftheraMenIKtisis.text
+meMA.Ode8C2H1.text = he.h.m2_en_UK_ware.heHE.EleftheraMenIKtisis1.text
+meMA.Ode8C2H2.text = he.h.m2_en_UK_ware.heHE.EleftheraMenIKtisis2.text
+meMA.Ode8C2H3.text = he.h.m2_en_UK_ware.heHE.EleftheraMenIKtisis3.text
+meMA.Ode8C2H4.text = he.h.m2_en_UK_ware.heHE.EleftheraMenIKtisis4.text
+meMA.Ode8C2H5.text = he.h.m2_en_UK_ware.heHE.EleftheraMenIKtisis5.text
 
 meMA.Ode8C21.ode = miscellanea_en_UK_ware.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode8C21.melody = he.h.m2_en_UK_ware.EleftheraMenIKtisis.name
+meMA.Ode8C21.melody = he.h.m2_en_UK_ware.heHE.EleftheraMenIKtisis.name
 meMA.Ode8C21.incipit = "The three godly Children who…"
 meMA.Ode8C21.text = "The three godly Children who were sprinkled with dew in the fire Plainly prefigured how the Most High God, Who shines with the bright rays of a threefold holiness, Should mingle with mortal men, to their great blessing, Consuming all deadly error in the fire of dew."
 meMA.Ode8C211.text = "The three godly Children who were sprinkled with dew in the fire"
@@ -658,7 +658,7 @@ meMA.Ode8C215.text = "Consuming all deadly error in the fire of dew."
 
 meMA.Ode8C22.ode = miscellanea_en_UK_ware.misc.Ode8
 meMA.Ode8C22.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode8C22.melody = he.h.m2_en_UK_ware.EleftheraMenIKtisis.name
+meMA.Ode8C22.melody = he.h.m2_en_UK_ware.heHE.EleftheraMenIKtisis.name
 meMA.Ode8C22.incipit = "Let the whole earthly creation…"
 meMA.Ode8C22.text = "Let the whole earthly creation clothe itself in white, For this day it is raised up from its fall from heaven. The Word who preserves all things Has cleansed it in the flowing waters: Washed and resplendent, it has escaped from its former sins."
 meMA.Ode8C221.text = "Let the whole earthly creation clothe itself in white,"
@@ -701,42 +701,42 @@ meMA.Ode9C2MTh.text = "Magnify, O my soul, her that has delivered us from the cu
 
 meMA.Ode9C1H.ode = miscellanea_en_UK_ware.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode9C1H.melody = he.h.m2_en_UK_ware.AporeiPasaGlossa.melody
-meMA.Ode9C1H.incipit = he.h.m2_en_UK_ware.AporeiPasaGlossa.incipit
-meMA.Ode9C1H.text = he.h.m2_en_UK_ware.AporeiPasaGlossa.text
+meMA.Ode9C1H.melody = he.h.m2_en_UK_ware.heHE.AporeiPasaGlossa.melody
+meMA.Ode9C1H.incipit = he.h.m2_en_UK_ware.heHE.AporeiPasaGlossa.incipit
+meMA.Ode9C1H.text = he.h.m2_en_UK_ware.heHE.AporeiPasaGlossa.text
 
 meMA.Ode9C11.ode = miscellanea_en_UK_ware.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode9C11.melody = he.h.m2_en_UK_ware.AporeiPasaGlossa.name
+meMA.Ode9C11.melody = he.h.m2_en_UK_ware.heHE.AporeiPasaGlossa.name
 meMA.Ode9C11.incipit = "O David, come in spirit…"
 meMA.Ode9C11.text = "O David, come in spirit to those who are now to be enlightened and sing: ‘Approach ye now to God in faith and receive enlightenment. Fallen Adam, the poor man, cried and the Lord heard him: He has come and in the streams of Jordan He has made him new again, who was sunk in corruption.’"
 
 meMA.Ode9C12.ode = miscellanea_en_UK_ware.misc.Ode9
 meMA.Ode9C12.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode9C12.melody = he.h.m2_en_UK_ware.AporeiPasaGlossa.name
+meMA.Ode9C12.melody = he.h.m2_en_UK_ware.heHE.AporeiPasaGlossa.name
 meMA.Ode9C12.incipit = "‘Wash you, make you clean’…"
 meMA.Ode9C12.text = "‘Wash you, make you clean’, says Isaiah. ‘Put away the evil of your doings from before the Lord. Ho, everyone that thirsteth, come ye to the living waters: for Christ will sprinkle with the water of renewal those who hasten to Him in faith, and He baptizes them with the Spirit unto life that grows not old.’"
 
 meMA.Ode9C13.ode = miscellanea_en_UK_ware.misc.Ode9
 meMA.Ode9C13.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode9C13.melody = he.h.m2_en_UK_ware.AporeiPasaGlossa.name
+meMA.Ode9C13.melody = he.h.m2_en_UK_ware.heHE.AporeiPasaGlossa.name
 meMA.Ode9C13.incipit = "Let us, the faithful, keep…"
 meMA.Ode9C13.text = "Let us, the faithful, keep ourselves safe through grace and through the seal of baptism. In the past the Hebrews fled destruction by marking the door posts with blood; so also this divine washing unto regeneration4 shall be our Exodus, and going hence, we shall behold the light of the Trinity that never sets."
 
 meMA.Ode9C2H.ode = miscellanea_en_UK_ware.misc.Ode9
 meMA.Ode9C2H.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode9C2H.melody = he.h.m2_en_UK_ware.OTonYperNoun.melody
-meMA.Ode9C2H.incipit = he.h.m2_en_UK_ware.OTonYperNoun.incipit
-meMA.Ode9C2H.text = he.h.m2_en_UK_ware.OTonYperNoun.text
-meMA.Ode9C2H1.text = he.h.m2_en_UK_ware.OTonYperNoun1.text
-meMA.Ode9C2H2.text = he.h.m2_en_UK_ware.OTonYperNoun2.text
-meMA.Ode9C2H3.text = he.h.m2_en_UK_ware.OTonYperNoun3.text
-meMA.Ode9C2H4.text = he.h.m2_en_UK_ware.OTonYperNoun4.text
-meMA.Ode9C2H5.text = he.h.m2_en_UK_ware.OTonYperNoun5.text
+meMA.Ode9C2H.melody = he.h.m2_en_UK_ware.heHE.OTonYperNoun.melody
+meMA.Ode9C2H.incipit = he.h.m2_en_UK_ware.heHE.OTonYperNoun.incipit
+meMA.Ode9C2H.text = he.h.m2_en_UK_ware.heHE.OTonYperNoun.text
+meMA.Ode9C2H1.text = he.h.m2_en_UK_ware.heHE.OTonYperNoun1.text
+meMA.Ode9C2H2.text = he.h.m2_en_UK_ware.heHE.OTonYperNoun2.text
+meMA.Ode9C2H3.text = he.h.m2_en_UK_ware.heHE.OTonYperNoun3.text
+meMA.Ode9C2H4.text = he.h.m2_en_UK_ware.heHE.OTonYperNoun4.text
+meMA.Ode9C2H5.text = he.h.m2_en_UK_ware.heHE.OTonYperNoun5.text
 
 meMA.Ode9C21.ode = miscellanea_en_UK_ware.misc.Ode9
 meMA.Ode9C21.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode9C21.melody = he.h.m2_en_UK_ware.OTonYperNoun.name
+meMA.Ode9C21.melody = he.h.m2_en_UK_ware.heHE.OTonYperNoun.name
 meMA.Ode9C21.incipit = "That which was revealed to…"
 meMA.Ode9C21.text = "That which was revealed to Moses in the bush We see accomplished here in strange manner. The Virgin bore Fire within her, yet was not consumed, When she gave birth to the Benefactor who brings us light, And the streams of Jordan suffered no harm when they received Him."
 meMA.Ode9C211.text = "That which was revealed to Moses in the bush"
@@ -747,7 +747,7 @@ meMA.Ode9C215.text = "And the streams of Jordan suffered no harm when they recei
 
 meMA.Ode9C22.ode = miscellanea_en_UK_ware.misc.Ode9
 meMA.Ode9C22.mode = miscellanea_en_UK_ware.misc.Mode2
-meMA.Ode9C22.melody = he.h.m2_en_UK_ware.OTonYperNoun.name
+meMA.Ode9C22.melody = he.h.m2_en_UK_ware.heHE.OTonYperNoun.name
 meMA.Ode9C22.incipit = "O King without beginning, through…"
 meMA.Ode9C22.text = "O King without beginning, through the communion of the Spirit Thou dost anoint and make perfect the nature of mankind. Thou hast cleansed it in the undefiled streams, Putting to shame the arrogant force of darkness, And now Thou dost translate it unto endless life."
 meMA.Ode9C221.text = "O King without beginning, through the communion of the Spirit"
@@ -759,8 +759,8 @@ meMA.Ode9C225.text = "And now Thou dost translate it unto endless life."
 meMA.Exaposteilarion1.poet = ""
 meMA.Exaposteilarion1.mode = miscellanea_en_UK_ware.misc.Mode3
 meMA.Exaposteilarion1.melody = miscellanea_en_UK_ware.misc.Automelon
-meMA.Exaposteilarion1.incipit = he.a.m3_en_UK_ware.EpefaniOSotir.incipit
-meMA.Exaposteilarion1.text = he.a.m3_en_UK_ware.EpefaniOSotir.text
+meMA.Exaposteilarion1.incipit = he.a.m3_en_UK_ware.heAU.EpefaniOSotir.incipit
+meMA.Exaposteilarion1.text = he.a.m3_en_UK_ware.heAU.EpefaniOSotir.text
 
 meMA.Lauds1.poet = poets_en_UK_ware.po.GermanouPatriarchou
 meMA.Lauds1.mode = miscellanea_en_UK_ware.misc.Mode1

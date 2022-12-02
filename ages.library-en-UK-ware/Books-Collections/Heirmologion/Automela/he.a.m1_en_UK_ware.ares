@@ -1,48 +1,48 @@
 A_Resource_Whose_Name = he.a.m1_en_UK_ware
 
-he.title = ""
+heAU.title = ""
 
-ChorosAngelikos.mode = miscellanea_en_UK_ware.misc.Mode1
-ChorosAngelikos.name = ""
-ChorosAngelikos.incipit = "…"
-ChorosAngelikos.text = ""
+heAU.ChorosAngelikos.mode = miscellanea_en_UK_ware.misc.Mode1
+heAU.ChorosAngelikos.name = ""
+heAU.ChorosAngelikos.incipit = "…"
+heAU.ChorosAngelikos.text = ""
 
-NefelinSeFotos.mode = miscellanea_en_UK_ware.misc.Mode1
-NefelinSeFotos.name = ""
-NefelinSeFotos.incipit = "…"
-NefelinSeFotos.text = ""
+heAU.NefelinSeFotos.mode = miscellanea_en_UK_ware.misc.Mode1
+heAU.NefelinSeFotos.name = ""
+heAU.NefelinSeFotos.incipit = "…"
+heAU.NefelinSeFotos.text = ""
 
-OTouParadoxouThavmatos.mode = miscellanea_en_UK_ware.misc.Mode1
-OTouParadoxouThavmatos.name = ""
-OTouParadoxouThavmatos.incipit = "…"
-OTouParadoxouThavmatos.text = ""
+heAU.OTouParadoxouThavmatos.mode = miscellanea_en_UK_ware.misc.Mode1
+heAU.OTouParadoxouThavmatos.name = ""
+heAU.OTouParadoxouThavmatos.incipit = "…"
+heAU.OTouParadoxouThavmatos.text = ""
 
-OtanElthisOTheos.mode = miscellanea_en_UK_ware.misc.Mode1
-OtanElthisOTheos.name = ""
-OtanElthisOTheos.incipit = "…"
-OtanElthisOTheos.text = ""
+heAU.OtanElthisOTheos.mode = miscellanea_en_UK_ware.misc.Mode1
+heAU.OtanElthisOTheos.name = ""
+heAU.OtanElthisOTheos.incipit = "…"
+heAU.OtanElthisOTheos.text = ""
 
-PaneffimoiMartyres.mode = miscellanea_en_UK_ware.misc.Mode1
-PaneffimoiMartyres.name = "(NM) O martyrs worthy of all praise."
-PaneffimoiMartyres.incipit = "(NM) O martyrs worthy of all praise…"
-PaneffimoiMartyres.text = "O martyrs worthy of all praise, your bodies were not buried in the earth, yet heaven has received you; the gates of Paradise were opened to you, and entering within ye have eaten from the Tree of Life. Pray to Christ that He may grant peace and mercy to our souls."
+heAU.PaneffimoiMartyres.mode = miscellanea_en_UK_ware.misc.Mode1
+heAU.PaneffimoiMartyres.name = "(NM) O martyrs worthy of all praise."
+heAU.PaneffimoiMartyres.incipit = "(NM) O martyrs worthy of all praise…"
+heAU.PaneffimoiMartyres.text = "O martyrs worthy of all praise, your bodies were not buried in the earth, yet heaven has received you; the gates of Paradise were opened to you, and entering within ye have eaten from the Tree of Life. Pray to Christ that He may grant peace and mercy to our souls."
 
-TisErimouPolitis.mode = miscellanea_en_UK_ware.misc.Mode1
-TisErimouPolitis.name = ""
-TisErimouPolitis.incipit = "…"
-TisErimouPolitis.text = ""
+heAU.TisErimouPolitis.mode = miscellanea_en_UK_ware.misc.Mode1
+heAU.TisErimouPolitis.name = ""
+heAU.TisErimouPolitis.incipit = "…"
+heAU.TisErimouPolitis.text = ""
 
-TonOuranionTagmaton.mode = miscellanea_en_UK_ware.misc.Mode1
-TonOuranionTagmaton.name = ""
-TonOuranionTagmaton.incipit = "…"
-TonOuranionTagmaton.text = ""
+heAU.TonOuranionTagmaton.mode = miscellanea_en_UK_ware.misc.Mode1
+heAU.TonOuranionTagmaton.name = ""
+heAU.TonOuranionTagmaton.incipit = "…"
+heAU.TonOuranionTagmaton.text = ""
 
-TonTafonSouSotir.mode = miscellanea_en_UK_ware.misc.Mode1
-TonTafonSouSotir.name = "(N/M)"
-TonTafonSouSotir.incipit = "(N/M)…"
-TonTafonSouSotir.text = ""
+heAU.TonTafonSouSotir.mode = miscellanea_en_UK_ware.misc.Mode1
+heAU.TonTafonSouSotir.name = "(N/M)"
+heAU.TonTafonSouSotir.incipit = "(N/M)…"
+heAU.TonTafonSouSotir.text = ""
 
-TouLithouSfragisthentos.mode = miscellanea_en_UK_ware.misc.Mode1
-TouLithouSfragisthentos.name = "(NM)"
-TouLithouSfragisthentos.incipit = "…"
-TouLithouSfragisthentos.text = ""
+heAU.TouLithouSfragisthentos.mode = miscellanea_en_UK_ware.misc.Mode1
+heAU.TouLithouSfragisthentos.name = "(NM)"
+heAU.TouLithouSfragisthentos.incipit = "…"
+heAU.TouLithouSfragisthentos.text = ""

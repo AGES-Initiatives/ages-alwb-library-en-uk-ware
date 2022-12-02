@@ -1,64 +1,64 @@
 A_Resource_Whose_Name = he.a.m2_en_UK_ware
 
-he.title = ""
+heAU.title = ""
 
-EfsplagchniasYparchousa.mode = miscellanea_en_UK_ware.misc.Mode2
-EfsplagchniasYparchousa.name = ""
-EfsplagchniasYparchousa.incipit = "…"
-EfsplagchniasYparchousa.text = ""
+heAU.EfsplagchniasYparchousa.mode = miscellanea_en_UK_ware.misc.Mode2
+heAU.EfsplagchniasYparchousa.name = ""
+heAU.EfsplagchniasYparchousa.incipit = "…"
+heAU.EfsplagchniasYparchousa.text = ""
 
-GynaikesAkoutisthite.mode = miscellanea_en_UK_ware.misc.Mode2
-GynaikesAkoutisthite.name = "(NM)"
-GynaikesAkoutisthite.incipit = "…"
-GynaikesAkoutisthite.text = ""
+heAU.GynaikesAkoutisthite.mode = miscellanea_en_UK_ware.misc.Mode2
+heAU.GynaikesAkoutisthite.name = "(NM)"
+heAU.GynaikesAkoutisthite.incipit = "…"
+heAU.GynaikesAkoutisthite.text = ""
 
-OikosTouEfratha.mode = miscellanea_en_UK_ware.misc.Mode2
-OikosTouEfratha.name = ""
-OikosTouEfratha.incipit = "…"
-OikosTouEfratha.text = ""
+heAU.OikosTouEfratha.mode = miscellanea_en_UK_ware.misc.Mode2
+heAU.OikosTouEfratha.name = ""
+heAU.OikosTouEfratha.incipit = "…"
+heAU.OikosTouEfratha.text = ""
 
-OteEkTouXylou.mode = miscellanea_en_UK_ware.misc.Mode2
-OteEkTouXylou.name = "N/M (Joseph took You.)"
-OteEkTouXylou.incipit = "N/M (Joseph took You.)…"
-OteEkTouXylou.text = ""
+heAU.OteEkTouXylou.mode = miscellanea_en_UK_ware.misc.Mode2
+heAU.OteEkTouXylou.name = "N/M (Joseph took You.)"
+heAU.OteEkTouXylou.incipit = "N/M (Joseph took You.)…"
+heAU.OteEkTouXylou.text = ""
 
-PoioisEffimionStemmasin.mode = miscellanea_en_UK_ware.misc.Mode2
-PoioisEffimionStemmasin.name = ""
-PoioisEffimionStemmasin.incipit = "…"
-PoioisEffimionStemmasin.text = ""
+heAU.PoioisEffimionStemmasin.mode = miscellanea_en_UK_ware.misc.Mode2
+heAU.PoioisEffimionStemmasin.name = ""
+heAU.PoioisEffimionStemmasin.incipit = "…"
+heAU.PoioisEffimionStemmasin.text = ""
 
-SarkiYpnosas.mode = miscellanea_en_UK_ware.misc.Mode2
-SarkiYpnosas.name = ""
-SarkiYpnosas.incipit = "…"
-SarkiYpnosas.text = ""
+heAU.SarkiYpnosas.mode = miscellanea_en_UK_ware.misc.Mode2
+heAU.SarkiYpnosas.name = ""
+heAU.SarkiYpnosas.incipit = "…"
+heAU.SarkiYpnosas.text = ""
 
-StavrosOFylax.mode = miscellanea_en_UK_ware.misc.Mode2
-StavrosOFylax.name = ""
-StavrosOFylax.incipit = "…"
-StavrosOFylax.text = ""
+heAU.StavrosOFylax.mode = miscellanea_en_UK_ware.misc.Mode2
+heAU.StavrosOFylax.name = ""
+heAU.StavrosOFylax.incipit = "…"
+heAU.StavrosOFylax.text = ""
 
-TaAnoZiton.mode = miscellanea_en_UK_ware.misc.Mode2
-TaAnoZiton.notmetered = "N/M (In seeking the heights.)"
-TaAnoZiton.name = "N/M (In seeking the heights.)"
-TaAnoZiton.incipit = "N/M (In seeking the heights.)…"
-TaAnoZiton.text = ""
+heAU.TaAnoZiton.mode = miscellanea_en_UK_ware.misc.Mode2
+heAU.TaAnoZiton.notmetered = "N/M (In seeking the heights.)"
+heAU.TaAnoZiton.name = "N/M (In seeking the heights.)"
+heAU.TaAnoZiton.incipit = "N/M (In seeking the heights.)…"
+heAU.TaAnoZiton.text = ""
 
-ToisMathitaisSynelthomen.mode = miscellanea_en_UK_ware.misc.Mode2
-ToisMathitaisSynelthomen.name = ""
-ToisMathitaisSynelthomen.incipit = "…"
-ToisMathitaisSynelthomen.text = ""
+heAU.ToisMathitaisSynelthomen.mode = miscellanea_en_UK_ware.misc.Mode2
+heAU.ToisMathitaisSynelthomen.name = ""
+heAU.ToisMathitaisSynelthomen.incipit = "…"
+heAU.ToisMathitaisSynelthomen.text = ""
 
-ToisTonAimatonSou.mode = miscellanea_en_UK_ware.misc.Mode2
-ToisTonAimatonSou.name = ""
-ToisTonAimatonSou.incipit = "…"
-ToisTonAimatonSou.text = ""
+heAU.ToisTonAimatonSou.mode = miscellanea_en_UK_ware.misc.Mode2
+heAU.ToisTonAimatonSou.name = ""
+heAU.ToisTonAimatonSou.incipit = "…"
+heAU.ToisTonAimatonSou.text = ""
 
-TonMathitonOrontonSe.mode = miscellanea_en_UK_ware.misc.Mode2
-TonMathitonOrontonSe.name = ""
-TonMathitonOrontonSe.incipit = "…"
-TonMathitonOrontonSe.text = ""
+heAU.TonMathitonOrontonSe.mode = miscellanea_en_UK_ware.misc.Mode2
+heAU.TonMathitonOrontonSe.name = ""
+heAU.TonMathitonOrontonSe.incipit = "…"
+heAU.TonMathitonOrontonSe.text = ""
 
-TousAsfaleis.mode = miscellanea_en_UK_ware.misc.Mode2
-TousAsfaleis.name = ""
-TousAsfaleis.incipit = "…"
-TousAsfaleis.text = ""
+heAU.TousAsfaleis.mode = miscellanea_en_UK_ware.misc.Mode2
+heAU.TousAsfaleis.name = ""
+heAU.TousAsfaleis.incipit = "…"
+heAU.TousAsfaleis.text = ""
