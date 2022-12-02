@@ -17,258 +17,258 @@ trVL.header = "" //for pdf headers of presanctified and vesperal liturgies
 trEM.header = "" //for pdf evening Matins
 trDA.dismissal = dismissals_en_UK_ware.dis00.bridegroom
 
-trVE.Stichera01.mode = misc_en_UK_ware.Mode1
-trVE.Stichera01.melody = misc_en_UK_ware.Idiomelon
+trVE.Stichera01.mode = miscellanea_en_UK_ware.misc.Mode1
+trVE.Stichera01.melody = miscellanea_en_UK_ware.misc.Idiomelon
 trVE.Stichera01.incipit = tr.d066_en_UK_ware.trMA.Lauds1.incipit
 trVE.Stichera01.text = tr.d066_en_UK_ware.trMA.Lauds1.text
 
-trVE.Stichera02.mode = misc_en_UK_ware.Mode2
-trVE.Stichera02.melody = misc_en_UK_ware.Idiomelon
+trVE.Stichera02.mode = miscellanea_en_UK_ware.misc.Mode2
+trVE.Stichera02.melody = miscellanea_en_UK_ware.misc.Idiomelon
 trVE.Stichera02.incipit = tr.d066_en_UK_ware.trMA.Lauds2.incipit
 trVE.Stichera02.text = tr.d066_en_UK_ware.trMA.Lauds2.text
 
-trVE.Stichera03.mode = misc_en_UK_ware.Mode4
-trVE.Stichera03.melody = misc_en_UK_ware.Idiomelon
+trVE.Stichera03.mode = miscellanea_en_UK_ware.misc.Mode4
+trVE.Stichera03.melody = miscellanea_en_UK_ware.misc.Idiomelon
 trVE.Stichera03.incipit = tr.d066_en_UK_ware.trMA.LaudsGlory.incipit
 trVE.Stichera03.text = tr.d066_en_UK_ware.trMA.LaudsGlory.text
 
-trVE.Stichera04.mode = misc_en_UK_ware.Mode6
-trVE.Stichera04.melody = misc_en_UK_ware.Idiomelon
+trVE.Stichera04.mode = miscellanea_en_UK_ware.misc.Mode6
+trVE.Stichera04.melody = miscellanea_en_UK_ware.misc.Idiomelon
 trVE.Stichera04.incipit = tr.d066_en_UK_ware.trMA.Aposticha1.incipit
 trVE.Stichera04.text = tr.d066_en_UK_ware.trMA.Aposticha1.text
 
-trVE.Stichera05.mode = misc_en_UK_ware.Mode6
-trVE.Stichera05.melody = misc_en_UK_ware.Idiomelon
+trVE.Stichera05.mode = miscellanea_en_UK_ware.misc.Mode6
+trVE.Stichera05.melody = miscellanea_en_UK_ware.misc.Idiomelon
 trVE.Stichera05.incipit = tr.d066_en_UK_ware.trMA.Aposticha2.incipit
 trVE.Stichera05.text = tr.d066_en_UK_ware.trMA.Aposticha2.text
 
-trVE.Stichera06.mode = misc_en_UK_ware.Mode6
-trVE.Stichera06.melody = misc_en_UK_ware.Idiomelon
+trVE.Stichera06.mode = miscellanea_en_UK_ware.misc.Mode6
+trVE.Stichera06.melody = miscellanea_en_UK_ware.misc.Idiomelon
 trVE.Stichera06.incipit = tr.d066_en_UK_ware.trMA.Aposticha3.incipit
 trVE.Stichera06.text = tr.d066_en_UK_ware.trMA.Aposticha3.text
 
-trVE.SticGlory.mode = misc_en_UK_ware.Mode7
-trVE.SticGlory.melody = misc_en_UK_ware.Idiomelon
+trVE.SticGlory.mode = miscellanea_en_UK_ware.misc.Mode7
+trVE.SticGlory.melody = miscellanea_en_UK_ware.misc.Idiomelon
 trVE.SticGlory.incipit = tr.d066_en_UK_ware.trMA.AposGlory.incipit
 trVE.SticGlory.text = tr.d066_en_UK_ware.trMA.AposGlory.text
 
-trCO.C1.poet = poets_en_UK_ware.AndreouKritis
+trCO.C1.poet = poets_en_UK_ware.po.AndreouKritis
 
-trCO.Ode3C1H.ode = misc_en_UK_ware.Ode3
-trCO.Ode3C1H.mode = misc_en_UK_ware.Mode2
-trCO.Ode3C1H.melody = misc_en_UK_ware.HeirmosNotMetered
+trCO.Ode3C1H.ode = miscellanea_en_UK_ware.misc.Ode3
+trCO.Ode3C1H.mode = miscellanea_en_UK_ware.misc.Mode2
+trCO.Ode3C1H.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 trCO.Ode3C1H.incipit = he.h.m2_en_UK_ware.SteirothentaMouTonNoun.incipit
 trCO.Ode3C1H.text = he.h.m2_en_UK_ware.SteirothentaMouTonNoun.text
 
-trCO.Ode3C11.ode = misc_en_UK_ware.Ode3
-trCO.Ode3C11.mode = misc_en_UK_ware.Mode2
+trCO.Ode3C11.ode = miscellanea_en_UK_ware.misc.Ode3
+trCO.Ode3C11.mode = miscellanea_en_UK_ware.misc.Mode2
 trCO.Ode3C11.melody = he.h.m2_en_UK_ware.SteirothentaMouTonNoun.name
 trCO.Ode3C11.incipit = "It is the moment of…"
 trCO.Ode3C11.text = "It is the moment of the end: let us turn back, attentive to Christ's teaching. For He shall come in the twinkling of an eye; He shall come and shall not tarry, to judge His world."
 
-trCO.Ode3C12.ode = misc_en_UK_ware.Ode3
-trCO.Ode3C12.mode = misc_en_UK_ware.Mode2
+trCO.Ode3C12.ode = miscellanea_en_UK_ware.misc.Ode3
+trCO.Ode3C12.mode = miscellanea_en_UK_ware.misc.Mode2
 trCO.Ode3C12.melody = he.h.m2_en_UK_ware.SteirothentaMouTonNoun.name
 trCO.Ode3C12.incipit = "To show us how sudden…"
 trCO.Ode3C12.text = "To show us how sudden will be His Coming, Christ spoke of the unforeseen destruction that overwhelmed the earth in the days of Noah."
 
-trCO.Ode3C13.ode = misc_en_UK_ware.Ode3
-trCO.Ode3C13.mode = misc_en_UK_ware.Mode2
+trCO.Ode3C13.ode = miscellanea_en_UK_ware.misc.Ode3
+trCO.Ode3C13.mode = miscellanea_en_UK_ware.misc.Mode2
 trCO.Ode3C13.melody = he.h.m2_en_UK_ware.SteirothentaMouTonNoun.name
 trCO.Ode3C13.incipit = "The door of the bridal…"
 trCO.Ode3C13.text = "The door of the bridal chamber is open; God's wedding feast has been prepared within; the Bridegroom is at hand and calls us. Let us then make ready."
 
-trCO.Ode3C14.ode = misc_en_UK_ware.Ode3
-trCO.Ode3C14.mode = misc_en_UK_ware.Mode2
+trCO.Ode3C14.ode = miscellanea_en_UK_ware.misc.Ode3
+trCO.Ode3C14.mode = miscellanea_en_UK_ware.misc.Mode2
 trCO.Ode3C14.melody = he.h.m2_en_UK_ware.SteirothentaMouTonNoun.name
 trCO.Ode3C14.incipit = "The house of Simon contained…"
 trCO.Ode3C14.text = "The house of Simon contained Thee whom nothing can contain, O Jesus our King, and the woman who was a sinner anointed Thee with oil of myrrh."
 
-trCO.Ode3C15.ode = misc_en_UK_ware.Ode3
-trCO.Ode3C15.mode = misc_en_UK_ware.Mode2
+trCO.Ode3C15.ode = miscellanea_en_UK_ware.misc.Ode3
+trCO.Ode3C15.mode = miscellanea_en_UK_ware.misc.Mode2
 trCO.Ode3C15.melody = he.h.m2_en_UK_ware.SteirothentaMouTonNoun.name
 trCO.Ode3C15.incipit = "The woman was filled with…"
 trCO.Ode3C15.text = "The woman was filled with a mystical fragrance and was delivered from the stench of her many sins, O Saviour: for from Thee flows the myrrh of life."
 
-trCO.Ode3C16.ode = misc_en_UK_ware.Ode3
-trCO.Ode3C16.mode = misc_en_UK_ware.Mode2
+trCO.Ode3C16.ode = miscellanea_en_UK_ware.misc.Ode3
+trCO.Ode3C16.mode = miscellanea_en_UK_ware.misc.Mode2
 trCO.Ode3C16.melody = he.h.m2_en_UK_ware.SteirothentaMouTonNoun.name
 trCO.Ode3C16.incipit = "In loving self-abasement, O Christ…"
 trCO.Ode3C16.text = "In loving self-abasement, O Christ, Thou hast eaten with men, although Thou art Thyself the heavenly food and the Life of those that hunger."
 
-trCO.Ode3C17.ode = misc_en_UK_ware.Ode3
-trCO.Ode3C17.mode = misc_en_UK_ware.Mode2
+trCO.Ode3C17.ode = miscellanea_en_UK_ware.misc.Ode3
+trCO.Ode3C17.mode = miscellanea_en_UK_ware.misc.Mode2
 trCO.Ode3C17.melody = he.h.m2_en_UK_ware.SteirothentaMouTonNoun.name
 trCO.Ode3C17.incipit = "The ungrateful disciple turned traitor…"
 trCO.Ode3C17.text = "The ungrateful disciple turned traitor and denied Thee, O Christ; and taking the whole band of wicked men, he brought them to seize Thee."
 
-trCO.Ode3C1Tr.ode = misc_en_UK_ware.Ode3
-trCO.Ode3C1Tr.mode = misc_en_UK_ware.Mode2
+trCO.Ode3C1Tr.ode = miscellanea_en_UK_ware.misc.Ode3
+trCO.Ode3C1Tr.mode = miscellanea_en_UK_ware.misc.Mode2
 trCO.Ode3C1Tr.melody = he.h.m2_en_UK_ware.SteirothentaMouTonNoun.name
 trCO.Ode3C1Tr.incipit = "I worship Thee, O Son…"
 trCO.Ode3C1Tr.text = "I worship Thee, O Son, with the Father and the Spirit of righteousness: I sing in praise of the one Nature, distinguishing the Persons but uniting the Essence."
 
-trCO.Ode3C1T.ode = misc_en_UK_ware.Ode3
-trCO.Ode3C1T.mode = misc_en_UK_ware.Mode2
+trCO.Ode3C1T.ode = miscellanea_en_UK_ware.misc.Ode3
+trCO.Ode3C1T.mode = miscellanea_en_UK_ware.misc.Mode2
 trCO.Ode3C1T.melody = he.h.m2_en_UK_ware.SteirothentaMouTonNoun.name
 trCO.Ode3C1T.incipit = "The Ewe that bore Thee…"
 trCO.Ode3C1T.text = "The Ewe that bore Thee, O Jesus my God, Shepherd and Lamb, ever makes intercession for all those born on earth who believe in Thee."
 
-trCO.Kathisma11.mode = misc_en_UK_ware.Mode1
+trCO.Kathisma11.mode = miscellanea_en_UK_ware.misc.Mode1
 trCO.Kathisma11.melody = he.a.m1_en_UK_ware.ChorosAngelikos.name
 trCO.Kathisma11.incipit = "Lo, the evil council has…"
 trCO.Kathisma11.text = "Lo, the evil council has gathered in hatred to condemn the Lord who sits on high as Judge of all. Herod and Pilate, Annas and Caiaphas now join together, to try Him who alone is longsuffering."
 
-trCO.Ode8C1H.ode = misc_en_UK_ware.Ode8
-trCO.Ode8C1H.mode = misc_en_UK_ware.Mode2
-trCO.Ode8C1H.melody = misc_en_UK_ware.HeirmosNotMetered
+trCO.Ode8C1H.ode = miscellanea_en_UK_ware.misc.Ode8
+trCO.Ode8C1H.mode = miscellanea_en_UK_ware.misc.Mode2
+trCO.Ode8C1H.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 trCO.Ode8C1H.incipit = he.h.m2_en_UK_ware.TonEnTiVatoMosi.incipit
 trCO.Ode8C1H.text = he.h.m2_en_UK_ware.TonEnTiVatoMosi.text
 
-trCO.Ode8C11.ode = misc_en_UK_ware.Ode8
-trCO.Ode8C11.mode = misc_en_UK_ware.Mode2
+trCO.Ode8C11.ode = miscellanea_en_UK_ware.misc.Ode8
+trCO.Ode8C11.mode = miscellanea_en_UK_ware.misc.Mode2
 trCO.Ode8C11.melody = he.h.m2_en_UK_ware.TonEnTiVatoMosi.name
 trCO.Ode8C11.incipit = "Although Thou wast not ignorant…"
 trCO.Ode8C11.text = "Although Thou wast not ignorant of the time of our end, for Thou dost watch over all the ages, yet Thou hast said Thou knewest not that day; and so Thou hast set bounds to all men's knowledge, to keep them in humbleness of mind."
 
-trCO.Ode8C12.ode = misc_en_UK_ware.Ode8
-trCO.Ode8C12.mode = misc_en_UK_ware.Mode2
+trCO.Ode8C12.ode = miscellanea_en_UK_ware.misc.Ode8
+trCO.Ode8C12.mode = miscellanea_en_UK_ware.misc.Mode2
 trCO.Ode8C12.melody = he.h.m2_en_UK_ware.TonEnTiVatoMosi.name
 trCO.Ode8C12.incipit = "When Thou sittest in judgement…"
 trCO.Ode8C12.text = "When Thou sittest in judgement, like a shepherd dividing the sheep from the goats, as Thou hast said, then deprive us not, O Saviour, of a place at Thy divine right hand."
 
-trCO.Ode8C13.ode = misc_en_UK_ware.Ode8
-trCO.Ode8C13.mode = misc_en_UK_ware.Mode2
+trCO.Ode8C13.ode = miscellanea_en_UK_ware.misc.Ode8
+trCO.Ode8C13.mode = miscellanea_en_UK_ware.misc.Mode2
 trCO.Ode8C13.melody = he.h.m2_en_UK_ware.TonEnTiVatoMosi.name
 trCO.Ode8C13.incipit = "O Christ, Thou art our…"
 trCO.Ode8C13.text = "O Christ, Thou art our Passover, sacrificed as Lamb and Victim on behalf of all; Thou art the propitiation for our sins; and we exalt Thy divine Passion above all forever."
 
-trCO.Ode8C14.ode = misc_en_UK_ware.Ode8
-trCO.Ode8C14.mode = misc_en_UK_ware.Mode2
+trCO.Ode8C14.ode = miscellanea_en_UK_ware.misc.Ode8
+trCO.Ode8C14.mode = miscellanea_en_UK_ware.misc.Mode2
 trCO.Ode8C14.melody = he.h.m2_en_UK_ware.TonEnTiVatoMosi.name
 trCO.Ode8C14.incipit = "All thy life, my soul…"
 trCO.Ode8C14.text = "All thy life, my soul, is like a mill, a field, and a house: therefore acquire a heart ready for God, that the corruption of the flesh may not hold thee back."
 
-trCO.Ode8C15.ode = misc_en_UK_ware.Ode8
-trCO.Ode8C15.mode = misc_en_UK_ware.Mode2
+trCO.Ode8C15.ode = miscellanea_en_UK_ware.misc.Ode8
+trCO.Ode8C15.mode = miscellanea_en_UK_ware.misc.Mode2
 trCO.Ode8C15.melody = he.h.m2_en_UK_ware.TonEnTiVatoMosi.name
 trCO.Ode8C15.incipit = "Not only with Pharisees, O…"
 trCO.Ode8C15.text = "Not only with Pharisees, O Saviour, not only with Simon wast Thou pleased to eat as guest; but publicans and harlots also share in Thy compassion."
 
-trCO.Ode8C16.ode = misc_en_UK_ware.Ode8
-trCO.Ode8C16.mode = misc_en_UK_ware.Mode2
+trCO.Ode8C16.ode = miscellanea_en_UK_ware.misc.Ode8
+trCO.Ode8C16.mode = miscellanea_en_UK_ware.misc.Mode2
 trCO.Ode8C16.melody = he.h.m2_en_UK_ware.TonEnTiVatoMosi.name
 trCO.Ode8C16.incipit = "In his love for money…"
 trCO.Ode8C16.text = "In his love for money the traitor Judas, when the ointment was poured out, took thought how he might sell the Master; and going to wicked men he agreed with them upon the price."
 
-trCO.Ode8C17.ode = misc_en_UK_ware.Ode8
-trCO.Ode8C17.mode = misc_en_UK_ware.Mode2
+trCO.Ode8C17.ode = miscellanea_en_UK_ware.misc.Ode8
+trCO.Ode8C17.mode = miscellanea_en_UK_ware.misc.Mode2
 trCO.Ode8C17.melody = he.h.m2_en_UK_ware.TonEnTiVatoMosi.name
 trCO.Ode8C17.incipit = "O blessed hands, O blessed…"
 trCO.Ode8C17.text = "O blessed hands, O blessed hair and lips of the chaste harlot! With her hands, O Saviour, she poured out the ointment on Thy feet, and she wiped them with her hair, and kissed them often with her lips."
 
-trCO.Ode8C18.ode = misc_en_UK_ware.Ode8
-trCO.Ode8C18.mode = misc_en_UK_ware.Mode2
+trCO.Ode8C18.ode = miscellanea_en_UK_ware.misc.Ode8
+trCO.Ode8C18.mode = miscellanea_en_UK_ware.misc.Mode2
 trCO.Ode8C18.melody = he.h.m2_en_UK_ware.TonEnTiVatoMosi.name
 trCO.Ode8C18.incipit = "As Thou was sitting at…"
 trCO.Ode8C18.text = "As Thou was sitting at supper, O Word, a woman came to Thee; and, weeping at Thy feet, she took the alabaster box and poured the oil of myrrh upon Thy head, who art the myrrh of immortality."
 
-trCO.Ode8C1Tr.ode = misc_en_UK_ware.Ode8
-trCO.Ode8C1Tr.mode = misc_en_UK_ware.Mode2
+trCO.Ode8C1Tr.ode = miscellanea_en_UK_ware.misc.Ode8
+trCO.Ode8C1Tr.mode = miscellanea_en_UK_ware.misc.Mode2
 trCO.Ode8C1Tr.melody = he.h.m2_en_UK_ware.TonEnTiVatoMosi.name
 trCO.Ode8C1Tr.incipit = "With the Father we glorify…"
 trCO.Ode8C1Tr.text = "With the Father we glorify the Son and the Holy Spirit, the Holy Trinity one in Godhead, and we cry: Holy, holy, holy art Thou unto all ages."
 
-trCO.Ode8C1T.ode = misc_en_UK_ware.Ode8
-trCO.Ode8C1T.mode = misc_en_UK_ware.Mode2
+trCO.Ode8C1T.ode = miscellanea_en_UK_ware.misc.Ode8
+trCO.Ode8C1T.mode = miscellanea_en_UK_ware.misc.Mode2
 trCO.Ode8C1T.melody = he.h.m2_en_UK_ware.TonEnTiVatoMosi.name
 trCO.Ode8C1T.incipit = "At the prayers of Thy…"
 trCO.Ode8C1T.text = "At the prayers of Thy most pure Mother and of Thine apostles, O Saviour, send down Thy mercy on us in abundance and grant Thy peace to Thy people."
 
-trCO.Ode9C1H.ode = misc_en_UK_ware.Ode9
-trCO.Ode9C1H.mode = misc_en_UK_ware.Mode2
-trCO.Ode9C1H.melody = misc_en_UK_ware.HeirmosNotMetered
+trCO.Ode9C1H.ode = miscellanea_en_UK_ware.misc.Ode9
+trCO.Ode9C1H.mode = miscellanea_en_UK_ware.misc.Mode2
+trCO.Ode9C1H.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 trCO.Ode9C1H.incipit = he.h.m2_en_UK_ware.TinYperfyosSarki.incipit
 trCO.Ode9C1H.text = he.h.m2_en_UK_ware.TinYperfyosSarki.text
 
-trCO.Ode9C11.ode = misc_en_UK_ware.Ode9
-trCO.Ode9C11.mode = misc_en_UK_ware.Mode2
+trCO.Ode9C11.ode = miscellanea_en_UK_ware.misc.Ode9
+trCO.Ode9C11.mode = miscellanea_en_UK_ware.misc.Mode2
 trCO.Ode9C11.melody = he.h.m2_en_UK_ware.TinYperfyosSarki.name
 trCO.Ode9C11.incipit = "It is the time for…"
 trCO.Ode9C11.text = "It is the time for work: our aim is salvation. O my soul, take thy talent, the image that was given to thee of old, and by trading gain eternal life."
 
-trCO.Ode9C12.ode = misc_en_UK_ware.Ode9
-trCO.Ode9C12.mode = misc_en_UK_ware.Mode2
+trCO.Ode9C12.ode = miscellanea_en_UK_ware.misc.Ode9
+trCO.Ode9C12.mode = miscellanea_en_UK_ware.misc.Mode2
 trCO.Ode9C12.melody = he.h.m2_en_UK_ware.TinYperfyosSarki.name
 trCO.Ode9C12.incipit = "Let us prepare our souls…"
 trCO.Ode9C12.text = "Let us prepare our souls like shining lamps, and when the Bride­ groom comes, let us enter with Him into the eternal marriage feast, before the door is shut."
 
-trCO.Ode9C13.ode = misc_en_UK_ware.Ode9
-trCO.Ode9C13.mode = misc_en_UK_ware.Mode2
+trCO.Ode9C13.ode = miscellanea_en_UK_ware.misc.Ode9
+trCO.Ode9C13.mode = miscellanea_en_UK_ware.misc.Mode2
 trCO.Ode9C13.melody = he.h.m2_en_UK_ware.TinYperfyosSarki.name
 trCO.Ode9C13.incipit = "O Jesus, wishing to show…"
 trCO.Ode9C13.text = "O Jesus, wishing to show Thy surpassing humility unto all, Thou who art food to the hungry hast eaten in the house of Simon."
 
-trCO.Ode9C14.ode = misc_en_UK_ware.Ode9
-trCO.Ode9C14.mode = misc_en_UK_ware.Mode2
+trCO.Ode9C14.ode = miscellanea_en_UK_ware.misc.Ode9
+trCO.Ode9C14.mode = miscellanea_en_UK_ware.misc.Mode2
 trCO.Ode9C14.melody = he.h.m2_en_UK_ware.TinYperfyosSarki.name
 trCO.Ode9C14.incipit = "O Jesus, life-giving bread, Thou…"
 trCO.Ode9C14.text = "O Jesus, life-giving bread, Thou hast eaten with Simon the Pharisee, that the harlot might gain Thy grace that is beyond all price, by pouring out the ointment on Thy head."
 
-trCO.Ode9C15.ode = misc_en_UK_ware.Ode9
-trCO.Ode9C15.mode = misc_en_UK_ware.Mode2
+trCO.Ode9C15.ode = miscellanea_en_UK_ware.misc.Ode9
+trCO.Ode9C15.mode = miscellanea_en_UK_ware.misc.Mode2
 trCO.Ode9C15.melody = he.h.m2_en_UK_ware.TinYperfyosSarki.name
 trCO.Ode9C15.incipit = "'My hands are filthy and…"
 trCO.Ode9C15.text = "'My hands are filthy and I have a harlot's lips; my life is impure and my body corrupt; but release and forgive me', cried the harlot to Christ."
 
-trCO.Ode9C16.ode = misc_en_UK_ware.Ode9
-trCO.Ode9C16.mode = misc_en_UK_ware.Mode2
+trCO.Ode9C16.ode = miscellanea_en_UK_ware.misc.Ode9
+trCO.Ode9C16.mode = miscellanea_en_UK_ware.misc.Mode2
 trCO.Ode9C16.melody = he.h.m2_en_UK_ware.TinYperfyosSarki.name
 trCO.Ode9C16.incipit = "The woman drew near to…"
 trCO.Ode9C16.text = "The woman drew near to Thee, O Saviour, and poured out the sweet-smelling ointment on Thy feet; and she received the sweet fragrance of forgiveness."
 
-trCO.Ode9C17.ode = misc_en_UK_ware.Ode9
-trCO.Ode9C17.mode = misc_en_UK_ware.Mode2
+trCO.Ode9C17.ode = miscellanea_en_UK_ware.misc.Ode9
+trCO.Ode9C17.mode = miscellanea_en_UK_ware.misc.Mode2
 trCO.Ode9C17.melody = he.h.m2_en_UK_ware.TinYperfyosSarki.name
 trCO.Ode9C17.incipit = "'Rich in sweet ·scents, yet…"
 trCO.Ode9C17.text = "'Rich in sweet ·scents, yet poor in virtues, I offer Thee what I have: grant me in return what Thou hast, and release and forgive me', cried the harlot to Christ."
 
-trCO.Ode9C18.ode = misc_en_UK_ware.Ode9
-trCO.Ode9C18.mode = misc_en_UK_ware.Mode2
+trCO.Ode9C18.ode = miscellanea_en_UK_ware.misc.Ode9
+trCO.Ode9C18.mode = miscellanea_en_UK_ware.misc.Mode2
 trCO.Ode9C18.melody = he.h.m2_en_UK_ware.TinYperfyosSarki.name
 trCO.Ode9C18.incipit = "'My oil of myrrh is…"
 trCO.Ode9C18.text = "'My oil of myrrh is corruptible, Thine is the myrrh of life, for Thy Name is myrrh poured out upon the worthy. But release and forgive me', cried the harlot to Christ."
 
-trCO.Ode9C1Tr.ode = misc_en_UK_ware.Ode9
-trCO.Ode9C1Tr.mode = misc_en_UK_ware.Mode2
+trCO.Ode9C1Tr.ode = miscellanea_en_UK_ware.misc.Ode9
+trCO.Ode9C1Tr.mode = miscellanea_en_UK_ware.misc.Mode2
 trCO.Ode9C1Tr.melody = he.h.m2_en_UK_ware.TinYperfyosSarki.name
 trCO.Ode9C1Tr.incipit = "Thou art without beginning, O…"
 trCO.Ode9C1Tr.text = "Thou art without beginning, O Father; Thou art uncreated, O Son; Thou dost sit upon the same throne, O Spirit; Unity in Nature, Trinity in Persons, one true God."
 
-trCO.Ode9C1T.ode = misc_en_UK_ware.Ode9
-trCO.Ode9C1T.mode = misc_en_UK_ware.Mode2
+trCO.Ode9C1T.ode = miscellanea_en_UK_ware.misc.Ode9
+trCO.Ode9C1T.mode = miscellanea_en_UK_ware.misc.Mode2
 trCO.Ode9C1T.melody = he.h.m2_en_UK_ware.TinYperfyosSarki.name
 trCO.Ode9C1T.incipit = "O Theotokos, the hope of…"
 trCO.Ode9C1T.text = "O Theotokos, the hope of those that ever honour thee, cease not to pray to thy Son, that I may be delivered from danger and all manner of temptations."
 
 trHW.Alleluia.text = "" // for media
 
-trHW.Troparion.mode = misc_en_UK_ware.Mode8
+trHW.Troparion.mode = miscellanea_en_UK_ware.misc.Mode8
 trHW.Troparion.melody = ""
 trHW.Troparion.incipit = tr.d065_en_UK_ware.trHW.Troparion.incipit
 trHW.Troparion.text = tr.d065_en_UK_ware.trHW.Troparion.text
 
-trMA.Kathisma11.mode = misc_en_UK_ware.Mode3
+trMA.Kathisma11.mode = miscellanea_en_UK_ware.misc.Mode3
 trMA.Kathisma11.melody = he.a.m3_en_UK_ware.TinOraiotita.name
 trMA.Kathisma11.incipit = "…"
 trMA.Kathisma11.text = ""
 
-trMA.Kathisma21.mode = misc_en_UK_ware.Mode4
+trMA.Kathisma21.mode = miscellanea_en_UK_ware.misc.Mode4
 trMA.Kathisma21.melody = he.a.m4_en_UK_ware.TachyProkatalave.name
 trMA.Kathisma21.incipit = "…"
 trMA.Kathisma21.text = ""
 
-trMA.Kathisma31.mode = misc_en_UK_ware.Mode1
+trMA.Kathisma31.mode = miscellanea_en_UK_ware.misc.Mode1
 trMA.Kathisma31.melody = he.a.m1_en_UK_ware.TonTafonSouSotir.name
 trMA.Kathisma31.incipit = "…"
 trMA.Kathisma31.text = ""
@@ -276,34 +276,34 @@ trMA.Kathisma31.text = ""
 trMA.C1.acrostic.title = ""
 trMA.C1.acrostic.notice1 = ""
 trMA.C1.acrostic.text = ""
-trMA.C1.poet = poets_en_UK_ware.KosmaMonachou
+trMA.C1.poet = poets_en_UK_ware.po.KosmaMonachou
 trMA.C1.verse = //prayers_en_UK_ware.pr.verse_God.text
 
-trMA.Ode3C1H.ode = misc_en_UK_ware.Ode3
-trMA.Ode3C1H.mode = misc_en_UK_ware.Mode2
+trMA.Ode3C1H.ode = miscellanea_en_UK_ware.misc.Ode3
+trMA.Ode3C1H.mode = miscellanea_en_UK_ware.misc.Mode2
 trMA.Ode3C1H.melody = he.h.m2_en_UK_ware.TisPisteosEnPetra.melody
 trMA.Ode3C1H.incipit = he.h.m2_en_UK_ware.TisPisteosEnPetra.incipit
 trMA.Ode3C1H.text = he.h.m2_en_UK_ware.TisPisteosEnPetra.text
 
-trMA.Ode3C11.ode = misc_en_UK_ware.Ode3
-trMA.Ode3C11.mode = misc_en_UK_ware.Mode2
+trMA.Ode3C11.ode = miscellanea_en_UK_ware.misc.Ode3
+trMA.Ode3C11.mode = miscellanea_en_UK_ware.misc.Mode2
 trMA.Ode3C11.melody = he.h.m2_en_UK_ware.TisPisteosEnPetra.name
 trMA.Ode3C11.incipit = "…"
 trMA.Ode3C11.text = ""
 
-trMA.Ode3C12.ode = misc_en_UK_ware.Ode3
-trMA.Ode3C12.mode = misc_en_UK_ware.Mode2
+trMA.Ode3C12.ode = miscellanea_en_UK_ware.misc.Ode3
+trMA.Ode3C12.mode = miscellanea_en_UK_ware.misc.Mode2
 trMA.Ode3C12.melody = he.h.m2_en_UK_ware.TisPisteosEnPetra.name
 trMA.Ode3C12.incipit = "…"
 trMA.Ode3C12.text = ""
 
-trMA.Ode3K.ode = misc_en_UK_ware.Ode3
-trMA.Ode3K.mode = misc_en_UK_ware.Mode2
-trMA.Ode3K.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode3K.ode = miscellanea_en_UK_ware.misc.Ode3
+trMA.Ode3K.mode = miscellanea_en_UK_ware.misc.Mode2
+trMA.Ode3K.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 trMA.Ode3K.incipit = he.h.m2_en_UK_ware.TisPisteosEnPetra.incipit
 trMA.Ode3K.text = he.h.m2_en_UK_ware.TisPisteosEnPetra.text
 
-trMA.Kontakion1.mode = misc_en_UK_ware.Mode4
+trMA.Kontakion1.mode = miscellanea_en_UK_ware.misc.Mode4
 trMA.Kontakion1.melody = he.a.m4_en_UK_ware.OYpsotheisEnToStavro.name
 trMA.Kontakion1.incipit = "…"
 trMA.Kontakion1.text = ""
@@ -323,129 +323,129 @@ trSY.commemoration.narration.p06 = ""
 trSY.commemoration.narration.p07 = ""
 trSY.lastline = ""
 
-trMA.Ode8C1H.ode = misc_en_UK_ware.Ode8
-trMA.Ode8C1H.mode = misc_en_UK_ware.Mode2
+trMA.Ode8C1H.ode = miscellanea_en_UK_ware.misc.Ode8
+trMA.Ode8C1H.mode = miscellanea_en_UK_ware.misc.Mode2
 trMA.Ode8C1H.melody = he.h.m2_en_UK_ware.RimaTyrannou.melody
 trMA.Ode8C1H.incipit = he.h.m2_en_UK_ware.RimaTyrannou.incipit
 trMA.Ode8C1H.text = he.h.m2_en_UK_ware.RimaTyrannou.text
 
-trMA.Ode8C11.ode = misc_en_UK_ware.Ode8
-trMA.Ode8C11.mode = misc_en_UK_ware.Mode2
+trMA.Ode8C11.ode = miscellanea_en_UK_ware.misc.Ode8
+trMA.Ode8C11.mode = miscellanea_en_UK_ware.misc.Mode2
 trMA.Ode8C11.melody = he.h.m2_en_UK_ware.RimaTyrannou.name
 trMA.Ode8C11.incipit = "…"
 trMA.Ode8C11.text = ""
 
-trMA.Ode8C12.ode = misc_en_UK_ware.Ode8
-trMA.Ode8C12.mode = misc_en_UK_ware.Mode2
+trMA.Ode8C12.ode = miscellanea_en_UK_ware.misc.Ode8
+trMA.Ode8C12.mode = miscellanea_en_UK_ware.misc.Mode2
 trMA.Ode8C12.melody = he.h.m2_en_UK_ware.RimaTyrannou.name
 trMA.Ode8C12.incipit = "…"
 trMA.Ode8C12.text = ""
 
-trMA.Ode8C13.ode = misc_en_UK_ware.Ode8
-trMA.Ode8C13.mode = misc_en_UK_ware.Mode2
+trMA.Ode8C13.ode = miscellanea_en_UK_ware.misc.Ode8
+trMA.Ode8C13.mode = miscellanea_en_UK_ware.misc.Mode2
 trMA.Ode8C13.melody = he.h.m2_en_UK_ware.RimaTyrannou.name
 trMA.Ode8C13.incipit = "…"
 trMA.Ode8C13.text = ""
 
-trMA.Ode8K.ode = misc_en_UK_ware.Ode8
-trMA.Ode8K.mode = misc_en_UK_ware.Mode2
-trMA.Ode8K.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode8K.ode = miscellanea_en_UK_ware.misc.Ode8
+trMA.Ode8K.mode = miscellanea_en_UK_ware.misc.Mode2
+trMA.Ode8K.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 trMA.Ode8K.incipit = he.h.m2_en_UK_ware.RimaTyrannou.incipit
 trMA.Ode8K.text = he.h.m2_en_UK_ware.RimaTyrannou.text
 
-trMA.Ode9C1H.ode = misc_en_UK_ware.Ode9
-trMA.Ode9C1H.mode = misc_en_UK_ware.Mode2
+trMA.Ode9C1H.ode = miscellanea_en_UK_ware.misc.Ode9
+trMA.Ode9C1H.mode = miscellanea_en_UK_ware.misc.Mode2
 trMA.Ode9C1H.melody = he.h.m2_en_UK_ware.PsychaisKatharais.melody
 trMA.Ode9C1H.incipit = he.h.m2_en_UK_ware.PsychaisKatharais.incipit
 trMA.Ode9C1H.text = he.h.m2_en_UK_ware.PsychaisKatharais.text
 
-trMA.Ode9C11.ode = misc_en_UK_ware.Ode9
-trMA.Ode9C11.mode = misc_en_UK_ware.Mode2
+trMA.Ode9C11.ode = miscellanea_en_UK_ware.misc.Ode9
+trMA.Ode9C11.mode = miscellanea_en_UK_ware.misc.Mode2
 trMA.Ode9C11.melody = he.h.m2_en_UK_ware.PsychaisKatharais.name
 trMA.Ode9C11.incipit = "…"
 trMA.Ode9C11.text = ""
 
-trMA.Ode9C12.ode = misc_en_UK_ware.Ode9
-trMA.Ode9C12.mode = misc_en_UK_ware.Mode2
+trMA.Ode9C12.ode = miscellanea_en_UK_ware.misc.Ode9
+trMA.Ode9C12.mode = miscellanea_en_UK_ware.misc.Mode2
 trMA.Ode9C12.melody = he.h.m2_en_UK_ware.PsychaisKatharais.name
 trMA.Ode9C12.incipit = "…"
 trMA.Ode9C12.text = ""
 
-trMA.Ode9C13.ode = misc_en_UK_ware.Ode9
-trMA.Ode9C13.mode = misc_en_UK_ware.Mode2
+trMA.Ode9C13.ode = miscellanea_en_UK_ware.misc.Ode9
+trMA.Ode9C13.mode = miscellanea_en_UK_ware.misc.Mode2
 trMA.Ode9C13.melody = he.h.m2_en_UK_ware.PsychaisKatharais.name
 trMA.Ode9C13.incipit = "…"
 trMA.Ode9C13.text = ""
 
-trMA.Ode9K.ode = misc_en_UK_ware.Ode9
-trMA.Ode9K.mode = misc_en_UK_ware.Mode2
-trMA.Ode9K.melody = misc_en_UK_ware.HeirmosNotMetered
+trMA.Ode9K.ode = miscellanea_en_UK_ware.misc.Ode9
+trMA.Ode9K.mode = miscellanea_en_UK_ware.misc.Mode2
+trMA.Ode9K.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 trMA.Ode9K.incipit = he.h.m2_en_UK_ware.PsychaisKatharais.incipit
 trMA.Ode9K.text = he.h.m2_en_UK_ware.PsychaisKatharais.text
 
-trMA.Exaposteilarion1.mode = misc_en_UK_ware.Mode3
-trMA.Exaposteilarion1.melody = misc_en_UK_ware.Automelon
+trMA.Exaposteilarion1.mode = miscellanea_en_UK_ware.misc.Mode3
+trMA.Exaposteilarion1.melody = miscellanea_en_UK_ware.misc.Automelon
 trMA.Exaposteilarion1.incipit = he.a.m3_en_UK_ware.TonNymfonaSouVlepo.incipit
 trMA.Exaposteilarion1.text = he.a.m3_en_UK_ware.TonNymfonaSouVlepo.text
 
 trHW.Lauds01.text = "" // for media
 
-trMA.Lauds1.mode = misc_en_UK_ware.Mode1
-trMA.Lauds1.melody = misc_en_UK_ware.Idiomelon
+trMA.Lauds1.mode = miscellanea_en_UK_ware.misc.Mode1
+trMA.Lauds1.melody = miscellanea_en_UK_ware.misc.Idiomelon
 trMA.Lauds1.incipit = "…"
 trMA.Lauds1.text = ""
 
-trMA.Lauds2.mode = misc_en_UK_ware.Mode1
-trMA.Lauds2.melody = misc_en_UK_ware.Idiomelon
+trMA.Lauds2.mode = miscellanea_en_UK_ware.misc.Mode1
+trMA.Lauds2.melody = miscellanea_en_UK_ware.misc.Idiomelon
 trMA.Lauds2.incipit = "…"
 trMA.Lauds2.text = ""
 
-trMA.Lauds3.mode = misc_en_UK_ware.Mode1
-trMA.Lauds3.melody = misc_en_UK_ware.Idiomelon
+trMA.Lauds3.mode = miscellanea_en_UK_ware.misc.Mode1
+trMA.Lauds3.melody = miscellanea_en_UK_ware.misc.Idiomelon
 trMA.Lauds3.incipit = "…"
 trMA.Lauds3.text = ""
 
-trMA.Lauds4.mode = misc_en_UK_ware.Mode1
-trMA.Lauds4.melody = misc_en_UK_ware.Idiomelon
+trMA.Lauds4.mode = miscellanea_en_UK_ware.misc.Mode1
+trMA.Lauds4.melody = miscellanea_en_UK_ware.misc.Idiomelon
 trMA.Lauds4.incipit = "…"
 trMA.Lauds4.text = ""
 
-trMA.LaudsGlory.mode = misc_en_UK_ware.Mode2
-trMA.LaudsGlory.melody = misc_en_UK_ware.Idiomelon
+trMA.LaudsGlory.mode = miscellanea_en_UK_ware.misc.Mode2
+trMA.LaudsGlory.melody = miscellanea_en_UK_ware.misc.Idiomelon
 trMA.LaudsGlory.incipit = "…"
 trMA.LaudsGlory.text = ""
 
-trMA.LaudsBoth.mode = misc_en_UK_ware.Mode6
-trMA.LaudsBoth.melody = misc_en_UK_ware.Idiomelon
+trMA.LaudsBoth.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.LaudsBoth.melody = miscellanea_en_UK_ware.misc.Idiomelon
 trMA.LaudsBoth.incipit = "…"
 trMA.LaudsBoth.text = ""
 
-trMA.Aposticha1.mode = misc_en_UK_ware.Mode6
-trMA.Aposticha1.melody = misc_en_UK_ware.Idiomelon
+trMA.Aposticha1.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Aposticha1.melody = miscellanea_en_UK_ware.misc.Idiomelon
 trMA.Aposticha1.incipit = "…"
 trMA.Aposticha1.text = ""
 
-trMA.Aposticha2.mode = misc_en_UK_ware.Mode6
-trMA.Aposticha2.melody = misc_en_UK_ware.Idiomelon
+trMA.Aposticha2.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Aposticha2.melody = miscellanea_en_UK_ware.misc.Idiomelon
 trMA.Aposticha2.incipit = "…"
 trMA.Aposticha2.text = ""
 
-trMA.Aposticha3.mode = misc_en_UK_ware.Mode6
-trMA.Aposticha3.melody = misc_en_UK_ware.Idiomelon
+trMA.Aposticha3.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Aposticha3.melody = miscellanea_en_UK_ware.misc.Idiomelon
 trMA.Aposticha3.incipit = "…"
 trMA.Aposticha3.text = ""
 
-trMA.Aposticha4.mode = misc_en_UK_ware.Mode6
-trMA.Aposticha4.melody = misc_en_UK_ware.Idiomelon
+trMA.Aposticha4.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Aposticha4.melody = miscellanea_en_UK_ware.misc.Idiomelon
 trMA.Aposticha4.incipit = "…"
 trMA.Aposticha4.text = ""
 
-trMA.AposGlory.mode = misc_en_UK_ware.Mode8
-trMA.AposGlory.melody = misc_en_UK_ware.Idiomelon
+trMA.AposGlory.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.AposGlory.melody = miscellanea_en_UK_ware.misc.Idiomelon
 trMA.AposGlory.incipit = "…"
 trMA.AposGlory.text = ""
 
-trTE.Troparion.mode = misc_en_UK_ware.Mode2
+trTE.Troparion.mode = miscellanea_en_UK_ware.misc.Mode2
 trTE.Troparion.melody = ""
 trTE.Troparion.incipit = "…"
 trTE.Troparion.text = ""

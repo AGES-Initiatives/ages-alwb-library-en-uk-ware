@@ -2,42 +2,42 @@ A_Resource_Whose_Name = he.a.m7_en_UK_ware
 
 he.title = ""
 
-KatafronisantesPanton.mode = misc_en_UK_ware.Mode7
+KatafronisantesPanton.mode = miscellanea_en_UK_ware.misc.Mode7
 KatafronisantesPanton.name = "(NM)"
 KatafronisantesPanton.incipit = "…"
 KatafronisantesPanton.text = ""
 
-ODiEmeAnaschomenos.mode = misc_en_UK_ware.Mode7
+ODiEmeAnaschomenos.mode = miscellanea_en_UK_ware.misc.Mode7
 ODiEmeAnaschomenos.name = "(NM)."
 ODiEmeAnaschomenos.incipit = "…"
 ODiEmeAnaschomenos.text = ""
 
-OsEchousaToSympathes.mode = misc_en_UK_ware.Mode7
+OsEchousaToSympathes.mode = miscellanea_en_UK_ware.misc.Mode7
 OsEchousaToSympathes.name = "(NM) O blessed Theotokos."
 OsEchousaToSympathes.incipit = "(NM) O blessed Theotokos…"
 OsEchousaToSympathes.text = "O blessed Theotokos, thou seest those on earth, and thou dost feel and suffer with us in our lowliness: take pity on thy people in distress. Pray for us constantly, lest we perish in our sins. O Virgin undefiled and all-holy, intercede for the salvation of our souls before the God who is always ready to forgive."
 
-OuketiFloginiRomfaia.mode = misc_en_UK_ware.Mode7
+OuketiFloginiRomfaia.mode = miscellanea_en_UK_ware.misc.Mode7
 OuketiFloginiRomfaia.name = "(NM)"
 OuketiFloginiRomfaia.incipit = "…"
 OuketiFloginiRomfaia.text = ""
 
-OukEtiKolyometha.mode = misc_en_UK_ware.Mode7
+OukEtiKolyometha.mode = miscellanea_en_UK_ware.misc.Mode7
 OukEtiKolyometha.name = "(NM)"
 OukEtiKolyometha.incipit = "…"
 OukEtiKolyometha.text = ""
 
-PyrosFoteinoteron.mode = misc_en_UK_ware.Mode7
+PyrosFoteinoteron.mode = miscellanea_en_UK_ware.misc.Mode7
 PyrosFoteinoteron.name = "More dazzling than flame."
 PyrosFoteinoteron.incipit = "…"
 PyrosFoteinoteron.text = ""
 
-SimeronGrigoreiOIoudas.mode = misc_en_UK_ware.Mode7
+SimeronGrigoreiOIoudas.mode = miscellanea_en_UK_ware.misc.Mode7
 SimeronGrigoreiOIoudas.name = "(NM)"
 SimeronGrigoreiOIoudas.incipit = "…"
 SimeronGrigoreiOIoudas.text = ""
 
-XylonZois.mode = misc_en_UK_ware.Mode7
+XylonZois.mode = miscellanea_en_UK_ware.misc.Mode7
 XylonZois.name = "(NM)"
 XylonZois.incipit = "…"
 XylonZois.text = ""

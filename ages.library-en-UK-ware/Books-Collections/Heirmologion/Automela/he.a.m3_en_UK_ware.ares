@@ -2,82 +2,82 @@ A_Resource_Whose_Name = he.a.m3_en_UK_ware
 
 he.title = ""
 
-ApostoloiEkPeraton.mode = misc_en_UK_ware.Mode3
+ApostoloiEkPeraton.mode = miscellanea_en_UK_ware.misc.Mode3
 ApostoloiEkPeraton.name = "(NM)"
 ApostoloiEkPeraton.incipit = "…"
 ApostoloiEkPeraton.text = ""
 
-EnPnevmatiToIero.mode = misc_en_UK_ware.Mode3
+EnPnevmatiToIero.mode = miscellanea_en_UK_ware.misc.Mode3
 EnPnevmatiToIero.name = "(NM)"
 EnPnevmatiToIero.incipit = "…"
 EnPnevmatiToIero.text = ""
 
-EpefaniOSotir.mode = misc_en_UK_ware.Mode3
+EpefaniOSotir.mode = miscellanea_en_UK_ware.misc.Mode3
 EpefaniOSotir.name = "(NM)"
 EpefaniOSotir.incipit = "…"
 EpefaniOSotir.text = ""
 
-EpeskepsatoImas.mode = misc_en_UK_ware.Mode3
+EpeskepsatoImas.mode = miscellanea_en_UK_ware.misc.Mode3
 EpeskepsatoImas.name = "(NM)"
 EpeskepsatoImas.incipit = "…"
 EpeskepsatoImas.text = ""
 
-FosAnalloioton.mode = misc_en_UK_ware.Mode3
+FosAnalloioton.mode = miscellanea_en_UK_ware.misc.Mode3
 FosAnalloioton.name = "(NM)"
 FosAnalloioton.incipit = "…"
 FosAnalloioton.text = ""
 
-IParthenosSimeron.mode = misc_en_UK_ware.Mode3
+IParthenosSimeron.mode = miscellanea_en_UK_ware.misc.Mode3
 IParthenosSimeron.name = "(NM)"
 IParthenosSimeron.incipit = "…"
 IParthenosSimeron.text = ""
 
-MegaliTonMartyronSou.mode = misc_en_UK_ware.Mode3
+MegaliTonMartyronSou.mode = miscellanea_en_UK_ware.misc.Mode3
 MegaliTonMartyronSou.name = "(NM)"
 MegaliTonMartyronSou.incipit = "…"
 MegaliTonMartyronSou.text = ""
 
-MegaliTouStavrouSou.mode = misc_en_UK_ware.Mode3
+MegaliTouStavrouSou.mode = miscellanea_en_UK_ware.misc.Mode3
 MegaliTouStavrouSou.name = "(NM)"
 MegaliTouStavrouSou.incipit = "…"
 MegaliTouStavrouSou.text = ""
 
-OOuranonToisAstrois.mode = misc_en_UK_ware.Mode3
+OOuranonToisAstrois.mode = miscellanea_en_UK_ware.misc.Mode3
 OOuranonToisAstrois.name = "(NM)"
 OOuranonToisAstrois.incipit = "…"
 OOuranonToisAstrois.text = ""
 
-SosonMeKyrie.mode = misc_en_UK_ware.Mode3
+SosonMeKyrie.mode = miscellanea_en_UK_ware.misc.Mode3
 SosonMeKyrie.name = "(NM)"
 SosonMeKyrie.incipit = "…"
 SosonMeKyrie.text = ""
 
-StavrofanosMoysis.mode = misc_en_UK_ware.Mode3
+StavrofanosMoysis.mode = miscellanea_en_UK_ware.misc.Mode3
 StavrofanosMoysis.name = "(NM)"
 StavrofanosMoysis.incipit = "…"
 StavrofanosMoysis.text = ""
 
-TheiasPisteos.mode = misc_en_UK_ware.Mode3
+TheiasPisteos.mode = miscellanea_en_UK_ware.misc.Mode3
 TheiasPisteos.name = "(NM)"
 TheiasPisteos.incipit = "…"
 TheiasPisteos.text = ""
 
-TinOraiotita.mode = misc_en_UK_ware.Mode3
+TinOraiotita.mode = miscellanea_en_UK_ware.misc.Mode3
 TinOraiotita.name = "(NM) Gabriel marvelled"
 TinOraiotita.incipit = "Gabriel marvelled…"
 TinOraiotita.text = "Gabriel marvelled at the beauty of thy virginity and the splendour of thy purity, and he said to thee, O Theotokos: 'How can I praise thee as I should? By what name shall I invoke thee? I am troubled and amazed. Therefore, as I was commanded, I cry out to thee: Hail, full of grace!'"
 
-ToTypoTouStavrou.mode = misc_en_UK_ware.Mode3
+ToTypoTouStavrou.mode = miscellanea_en_UK_ware.misc.Mode3
 ToTypoTouStavrou.name = "(NM)"
 ToTypoTouStavrou.incipit = "…"
 ToTypoTouStavrou.text = ""
 
-TonListinAfthimeron.mode = misc_en_UK_ware.Mode3
+TonListinAfthimeron.mode = miscellanea_en_UK_ware.misc.Mode3
 TonListinAfthimeron.name = "(NM)"
 TonListinAfthimeron.incipit = "…"
 TonListinAfthimeron.text = ""
 
-TonNymfonaSouVlepo.mode = misc_en_UK_ware.Mode3
+TonNymfonaSouVlepo.mode = miscellanea_en_UK_ware.misc.Mode3
 TonNymfonaSouVlepo.name = "(NM)"
 TonNymfonaSouVlepo.incipit = "…"
 TonNymfonaSouVlepo.text = ""
