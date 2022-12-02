@@ -135,7 +135,7 @@ trMA.C1.acrostic.notice1 = ""
 trMA.C1.acrostic.text = ""
 trMA.C1.poet = poets_en_UK_ware.IosifTouYmnografou
 trMA.C1.title = ""
-trMA.C1.verse = //prayers_en_UK_ware.verse_Theotokos.text
+trMA.C1.verse = //prayers_en_UK_ware.pr.verse_Theotokos.text
 
 trMA.Ode1C1H.ode = misc_en_UK_ware.Ode1
 trMA.Ode1C1H.mode = misc_en_UK_ware.Mode4
@@ -381,11 +381,11 @@ trMA.C2.acrostic.notice1 = ""
 trMA.C2.acrostic.text = ""
 trMA.C2.poet = poets_en_UK_ware.Iosif
 trMA.C2.title = ""
-trMA.C2.verse = //prayers_en_UK_ware.verse_SaintsM.text
+trMA.C2.verse = //prayers_en_UK_ware.pr.verse_SaintsM.text
 
 trMA.C3.poet = poets_en_UK_ware.TheodorouTouStouditou
 trMA.C3.title = ""
-trMA.C3.verse = //prayers_en_UK_ware.verse_SaintsM.text
+trMA.C3.verse = //prayers_en_UK_ware.pr.verse_SaintsM.text
 
 trMA.Ode6C21.ode = misc_en_UK_ware.Ode6
 trMA.Ode6C21.mode = misc_en_UK_ware.Mode6

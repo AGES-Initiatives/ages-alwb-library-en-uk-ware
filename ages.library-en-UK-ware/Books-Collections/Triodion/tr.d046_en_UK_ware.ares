@@ -89,15 +89,15 @@ trMA.C1.acrostic.notice1 = ""
 trMA.C1.acrostic.text = ""
 trMA.C1.poet = poets_en_UK_ware.KyriouTheofanous
 trMA.C1.title = //titles_en_UK_ware.ti.Canon1Triodion
-trMA.C1.verse = //prayers_en_UK_ware.verse_Cross.text
+trMA.C1.verse = //prayers_en_UK_ware.pr.verse_Cross.text
 
 trMA.C2.poet = poets_en_UK_ware.Iosif
 trMA.C2.title = "Three-ode Canon."
-trMA.C2.verse = //prayers_en_UK_ware.verse_Cross.text
+trMA.C2.verse = //prayers_en_UK_ware.pr.verse_Cross.text
 
 trMA.C3.poet = poets_en_UK_ware.Theodorou
 trMA.C3.title = "Another three-ode Canon."
-trMA.C3.verse = //prayers_en_UK_ware.verse_Cross.text
+trMA.C3.verse = //prayers_en_UK_ware.pr.verse_Cross.text
 
 trMA.Ode1C1H.ode = misc_en_UK_ware.Ode1
 trMA.Ode1C1H.mode = misc_en_UK_ware.Mode4
