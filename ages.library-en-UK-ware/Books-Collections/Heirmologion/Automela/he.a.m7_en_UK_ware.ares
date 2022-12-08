@@ -2,41 +2,49 @@ A_Resource_Whose_Name = he.a.m7_en_UK_ware
 
 heAU.title = ""
 
+heAU.KatafronisantesPanton.greekname = ""
 heAU.KatafronisantesPanton.mode = miscellanea_en_UK_ware.misc.Mode7
 heAU.KatafronisantesPanton.name = "(NM)"
 heAU.KatafronisantesPanton.incipit = "…"
 heAU.KatafronisantesPanton.text = ""
 
+heAU.ODiEmeAnaschomenos.greekname = ""
 heAU.ODiEmeAnaschomenos.mode = miscellanea_en_UK_ware.misc.Mode7
 heAU.ODiEmeAnaschomenos.name = "(NM)."
 heAU.ODiEmeAnaschomenos.incipit = "…"
 heAU.ODiEmeAnaschomenos.text = ""
 
+heAU.OsEchousaToSympathes.greekname = ""
 heAU.OsEchousaToSympathes.mode = miscellanea_en_UK_ware.misc.Mode7
 heAU.OsEchousaToSympathes.name = "(NM) O blessed Theotokos."
 heAU.OsEchousaToSympathes.incipit = "(NM) O blessed Theotokos…"
 heAU.OsEchousaToSympathes.text = "O blessed Theotokos, thou seest those on earth, and thou dost feel and suffer with us in our lowliness: take pity on thy people in distress. Pray for us constantly, lest we perish in our sins. O Virgin undefiled and all-holy, intercede for the salvation of our souls before the God who is always ready to forgive."
 
+heAU.OuketiFloginiRomfaia.greekname = ""
 heAU.OuketiFloginiRomfaia.mode = miscellanea_en_UK_ware.misc.Mode7
 heAU.OuketiFloginiRomfaia.name = "(NM)"
 heAU.OuketiFloginiRomfaia.incipit = "…"
 heAU.OuketiFloginiRomfaia.text = ""
 
+heAU.OukEtiKolyometha.greekname = ""
 heAU.OukEtiKolyometha.mode = miscellanea_en_UK_ware.misc.Mode7
 heAU.OukEtiKolyometha.name = "(NM)"
 heAU.OukEtiKolyometha.incipit = "…"
 heAU.OukEtiKolyometha.text = ""
 
+heAU.PyrosFoteinoteron.greekname = ""
 heAU.PyrosFoteinoteron.mode = miscellanea_en_UK_ware.misc.Mode7
 heAU.PyrosFoteinoteron.name = "More dazzling than flame."
 heAU.PyrosFoteinoteron.incipit = "…"
 heAU.PyrosFoteinoteron.text = ""
 
+heAU.SimeronGrigoreiOIoudas.greekname = ""
 heAU.SimeronGrigoreiOIoudas.mode = miscellanea_en_UK_ware.misc.Mode7
 heAU.SimeronGrigoreiOIoudas.name = "(NM)"
 heAU.SimeronGrigoreiOIoudas.incipit = "…"
 heAU.SimeronGrigoreiOIoudas.text = ""
 
+heAU.XylonZois.greekname = ""
 heAU.XylonZois.mode = miscellanea_en_UK_ware.misc.Mode7
 heAU.XylonZois.name = "(NM)"
 heAU.XylonZois.incipit = "…"

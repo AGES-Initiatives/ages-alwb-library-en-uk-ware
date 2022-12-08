@@ -21,6 +21,7 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = miscellanea_en_UK_ware.misc.Mode4
+meVE.Stichera01.greekmelody = he.a.m4_en_UK_ware.heAU.OsGennaionEnMartysi.greekname
 meVE.Stichera01.melody = he.a.m4_en_UK_ware.heAU.OsGennaionEnMartysi.name
 meVE.Stichera01.incipit = "Let us sound the cymbals…"
 meVE.Stichera01.text = "Let us sound the cymbals: let us shout aloud in songs. The revelation of Christ is now made manifest: the preachings of the prophets have received their fulfilment. For He of whom they spoke, foretelling His appearance in the flesh to mortal men, is born in a holy cave and is laid as a babe in a manger, and as a child He is wrapped in swaddling clothes"
