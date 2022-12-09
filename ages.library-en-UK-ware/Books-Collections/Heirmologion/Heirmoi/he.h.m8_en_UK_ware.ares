@@ -1,5 +1,6 @@
 A_Resource_Whose_Name = he.h.m8_en_UK_ware 
 
+heHE.AkikoaKyrieTinAkoin.greekname = ""
 heHE.AkikoaKyrieTinAkoin.name = "(NM)"
 heHE.AkikoaKyrieTinAkoin.incipit = "…"
 heHE.AkikoaKyrieTinAkoin.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -7,6 +8,7 @@ heHE.AkikoaKyrieTinAkoin.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.AkikoaKyrieTinAkoin.ode = miscellanea_en_UK_ware.misc.Ode4
 heHE.AkikoaKyrieTinAkoin.text = ""
 
+heHE.AllotrionTonMiteron.greekname = ""
 heHE.AllotrionTonMiteron.name = "(NM) Virginity is alien"
 heHE.AllotrionTonMiteron.incipit = "(NM) Virginity is alien…"
 heHE.AllotrionTonMiteron.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -14,6 +16,7 @@ heHE.AllotrionTonMiteron.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.AllotrionTonMiteron.ode = miscellanea_en_UK_ware.misc.Ode9
 heHE.AllotrionTonMiteron.text = "Virginity is alien to motherhood, and childbearing is a thing strange to virgins: yet in thee, O Theotokos, both are to be found. Therefore we and all the nations of the earth without ceasing call thee blessed."
 
+heHE.AngeloiKaiOuranoi.greekname = ""
 heHE.AngeloiKaiOuranoi.name = "(NM) O ye angels"
 heHE.AngeloiKaiOuranoi.incipit = "(NM) O ye angels…"
 heHE.AngeloiKaiOuranoi.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -21,6 +24,7 @@ heHE.AngeloiKaiOuranoi.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.AngeloiKaiOuranoi.ode = miscellanea_en_UK_ware.misc.Ode8
 heHE.AngeloiKaiOuranoi.text = "O ye angels and ye powers of heaven, sing to Him who sits upon the throne of majesty, and is glorified unceasingly as God: bless, praise and exalt Him above all for ever."
 
+heHE.ArmatilatinFarao.greekname = ""
 heHE.ArmatilatinFarao.name = "(NM)"
 heHE.ArmatilatinFarao.incipit = "…"
 heHE.ArmatilatinFarao.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -28,6 +32,7 @@ heHE.ArmatilatinFarao.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.ArmatilatinFarao.ode = miscellanea_en_UK_ware.misc.Ode1
 heHE.ArmatilatinFarao.text = ""
 
+heHE.AseveiasOrgana.greekname = ""
 heHE.AseveiasOrgana.name = "(NM)"
 heHE.AseveiasOrgana.incipit = "…"
 heHE.AseveiasOrgana.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -35,6 +40,7 @@ heHE.AseveiasOrgana.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.AseveiasOrgana.ode = miscellanea_en_UK_ware.misc.Ode8
 heHE.AseveiasOrgana.text = ""
 
+heHE.AsmaAnapempsomen.greekname = ""
 heHE.AsmaAnapempsomen.name = "All you people."
 heHE.AsmaAnapempsomen.incipit = "(NM) O ye people, let us raise a song…"
 heHE.AsmaAnapempsomen.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -42,6 +48,7 @@ heHE.AsmaAnapempsomen.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.AsmaAnapempsomen.ode = miscellanea_en_UK_ware.misc.Ode1
 heHE.AsmaAnapempsomen.text = "O ye people, let us raise a song to our God who works wonders, for He set Israel free from bondage; and with a hymn of victory let us cry aloud: 'Let us sing to Thee, our only Master.'"
 
+heHE.AsmaAsmaton.greekname = ""
 heHE.AsmaAsmaton.name = "(NM)"
 heHE.AsmaAsmaton.incipit = "…"
 heHE.AsmaAsmaton.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -49,6 +56,7 @@ heHE.AsmaAsmaton.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.AsmaAsmaton.ode = miscellanea_en_UK_ware.misc.Ode1
 heHE.AsmaAsmaton.text = ""
 
+heHE.AsomenOdinToTheo.greekname = ""
 heHE.AsomenOdinToTheo.name = "(NM) Let us sing a song to God"
 heHE.AsomenOdinToTheo.incipit = "(NM) Let us sing a song to God…"
 heHE.AsomenOdinToTheo.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -56,6 +64,7 @@ heHE.AsomenOdinToTheo.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.AsomenOdinToTheo.ode = miscellanea_en_UK_ware.misc.Ode1
 heHE.AsomenOdinToTheo.text = "Let us sing a song to God, who delivered Israel from the bitter bondage of Pharaoh, and guided them with a pillar of fire and a cloud of light, for He has been glorified."
 
+heHE.AsomenToKyrioPantesLaoi.greekname = ""
 heHE.AsomenToKyrioPantesLaoi.name = "(NM)"
 heHE.AsomenToKyrioPantesLaoi.incipit = "…"
 heHE.AsomenToKyrioPantesLaoi.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -63,6 +72,7 @@ heHE.AsomenToKyrioPantesLaoi.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.AsomenToKyrioPantesLaoi.ode = miscellanea_en_UK_ware.misc.Ode1
 heHE.AsomenToKyrioPantesLaoi.text = ""
 
+heHE.AsomenToKyrio.greekname = ""
 heHE.AsomenToKyrio.name = "(NM)"
 heHE.AsomenToKyrio.incipit = "…"
 heHE.AsomenToKyrio.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -70,6 +80,7 @@ heHE.AsomenToKyrio.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.AsomenToKyrio.ode = miscellanea_en_UK_ware.misc.Ode1
 heHE.AsomenToKyrio.text = ""
 
+heHE.AvyssosAmartion.greekname = ""
 heHE.AvyssosAmartion.name = "(NM)"
 heHE.AvyssosAmartion.incipit = "…"
 heHE.AvyssosAmartion.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -77,6 +88,7 @@ heHE.AvyssosAmartion.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.AvyssosAmartion.ode = miscellanea_en_UK_ware.misc.Ode6
 heHE.AvyssosAmartion.text = ""
 
+heHE.ChitonaMoiParaschou.greekname = ""
 heHE.ChitonaMoiParaschou.name = "(NM)"
 heHE.ChitonaMoiParaschou.incipit = "…"
 heHE.ChitonaMoiParaschou.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -84,6 +96,7 @@ heHE.ChitonaMoiParaschou.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.ChitonaMoiParaschou.ode = miscellanea_en_UK_ware.misc.Ode6
 heHE.ChitonaMoiParaschou.text = ""
 
+heHE.EfrixePasaAkoi.greekname = ""
 heHE.EfrixePasaAkoi.name = "(NM)"
 heHE.EfrixePasaAkoi.incipit = "…"
 heHE.EfrixePasaAkoi.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -91,6 +104,7 @@ heHE.EfrixePasaAkoi.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.EfrixePasaAkoi.ode = miscellanea_en_UK_ware.misc.Ode9
 heHE.EfrixePasaAkoi.text = ""
 
+heHE.EisakikoaKyrie.greekname = ""
 heHE.EisakikoaKyrie.name = "(NM) O Lord, I have heard the mystery"
 heHE.EisakikoaKyrie.incipit = "(NM) O Lord, I have heard the mystery…"
 heHE.EisakikoaKyrie.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -98,6 +112,7 @@ heHE.EisakikoaKyrie.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.EisakikoaKyrie.ode = miscellanea_en_UK_ware.misc.Ode4
 heHE.EisakikoaKyrie.text = "O Lord, I have heard the mystery of Thy dispensation: I have considered Thy works, and I have glorified Thy God­ head."
 
+heHE.EisakikoaKyrieTinAkoinSou.greekname = ""
 heHE.EisakikoaKyrieTinAkoinSou.name = "(NM) O Lord, I have heard"
 heHE.EisakikoaKyrieTinAkoinSou.incipit = "(NM) O Lord, I have heard…"
 heHE.EisakikoaKyrieTinAkoinSou.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -105,6 +120,7 @@ heHE.EisakikoaKyrieTinAkoinSou.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.EisakikoaKyrieTinAkoinSou.ode = miscellanea_en_UK_ware.misc.Ode4
 heHE.EisakikoaKyrieTinAkoinSou.text = ""
 
+heHE.EkSarkosSouVolides.greekname = ""
 heHE.EkSarkosSouVolides.name = "(NM)"
 heHE.EkSarkosSouVolides.incipit = "…"
 heHE.EkSarkosSouVolides.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -112,6 +128,7 @@ heHE.EkSarkosSouVolides.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.EkSarkosSouVolides.ode = miscellanea_en_UK_ware.misc.Ode4
 heHE.EkSarkosSouVolides.text = ""
 
+heHE.EknoonProstagma.greekname = ""
 heHE.EknoonProstagma.name = "(NM)"
 heHE.EknoonProstagma.incipit = "…"
 heHE.EknoonProstagma.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -119,6 +136,7 @@ heHE.EknoonProstagma.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.EknoonProstagma.ode = miscellanea_en_UK_ware.misc.Ode7
 heHE.EknoonProstagma.text = ""
 
+heHE.EnPedioDeeira.greekname = ""
 heHE.EnPedioDeeira.name = "(NM)"
 heHE.EnPedioDeeira.incipit = "…"
 heHE.EnPedioDeeira.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -126,6 +144,7 @@ heHE.EnPedioDeeira.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.EnPedioDeeira.ode = miscellanea_en_UK_ware.misc.Ode7
 heHE.EnPedioDeeira.text = ""
 
+heHE.EpevisEfIppous.greekname = ""
 heHE.EpevisEfIppous.name = "(NM)"
 heHE.EpevisEfIppous.incipit = "…"
 heHE.EpevisEfIppous.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -133,6 +152,7 @@ heHE.EpevisEfIppous.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.EpevisEfIppous.ode = miscellanea_en_UK_ware.misc.Ode4
 heHE.EpevisEfIppous.text = ""
 
+heHE.EptaplasiosKaminon.greekname = ""
 heHE.EptaplasiosKaminon.name = "(NM) The Chaldaean tyrant"
 heHE.EptaplasiosKaminon.incipit = "(NM) The Chaldaean tyrant…"
 heHE.EptaplasiosKaminon.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -140,6 +160,7 @@ heHE.EptaplasiosKaminon.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.EptaplasiosKaminon.ode = miscellanea_en_UK_ware.misc.Ode8
 heHE.EptaplasiosKaminon.text = "The Chaldaean tyrant in his madness ordered the furnace to be heated seven times more for the holy Children; but seeing them saved by a greater power, he cried aloud: 'O ye Children, bless the Creator and Deliverer;O ye priests, sing His praises;O ye people, exalt Him above all for ever.'"
 
+heHE.EstereothiIKardiaMouEnKyrio.greekname = ""
 heHE.EstereothiIKardiaMouEnKyrio.name = "(NM)"
 heHE.EstereothiIKardiaMouEnKyrio.incipit = "…"
 heHE.EstereothiIKardiaMouEnKyrio.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -147,6 +168,7 @@ heHE.EstereothiIKardiaMouEnKyrio.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.EstereothiIKardiaMouEnKyrio.ode = miscellanea_en_UK_ware.misc.Ode3
 heHE.EstereothiIKardiaMouEnKyrio.text = ""
 
+heHE.EvlogeitePaides.greekname = ""
 heHE.EvlogeitePaides.name = "(NM)"
 heHE.EvlogeitePaides.incipit = "…"
 heHE.EvlogeitePaides.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -154,6 +176,7 @@ heHE.EvlogeitePaides.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.EvlogeitePaides.ode = miscellanea_en_UK_ware.misc.Ode8
 heHE.EvlogeitePaides.text = ""
 
+heHE.EvlogitosOKyrios.greekname = ""
 heHE.EvlogitosOKyrios.name = "(NM) Blessed be the Lord God"
 heHE.EvlogitosOKyrios.incipit = "(NM) Blessed be the Lord God…"
 heHE.EvlogitosOKyrios.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -161,6 +184,7 @@ heHE.EvlogitosOKyrios.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.EvlogitosOKyrios.ode = miscellanea_en_UK_ware.misc.Ode9
 heHE.EvlogitosOKyrios.text = "Blessed be the Lord God of Israel, for He has raised up a horn of salvation for us in the house of His servant David; whereby the Dayspring from on high has visited us, and guided us into the way of peace."
 
+heHE.ExOrousKataskiou.greekname = ""
 heHE.ExOrousKataskiou.name = "(NM) From the overshadowed mountain"
 heHE.ExOrousKataskiou.incipit = "(NM) From the overshadowed mountain…"
 heHE.ExOrousKataskiou.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -168,6 +192,7 @@ heHE.ExOrousKataskiou.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.ExOrousKataskiou.ode = miscellanea_en_UK_ware.misc.Ode4
 heHE.ExOrousKataskiou.text = "From the overshadowed mountain, from the one Theotokos, the Prophet in divine vision foresaw Thy coming in the flesh, O Word, and he glorified Thy power with fear."
 
+heHE.ExestiEpiTouto.greekname = ""
 heHE.ExestiEpiTouto.name = "(NM) Heaven was amazed"
 heHE.ExestiEpiTouto.incipit = "(NM) Heaven was amazed…"
 heHE.ExestiEpiTouto.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -175,6 +200,7 @@ heHE.ExestiEpiTouto.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.ExestiEpiTouto.ode = miscellanea_en_UK_ware.misc.Ode9
 heHE.ExestiEpiTouto.text = "Heaven was amazed at this, the ends of the earth were struck with wonder, that God should be revealed incarnate unto men. Thy womb became more spacious that the heavens: therefore, O Theotokos, the chief leaders of the angels and mankind magnify thee."
 
+heHE.FotisonImas.greekname = ""
 heHE.FotisonImas.name = "(NM)"
 heHE.FotisonImas.incipit = "…"
 heHE.FotisonImas.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -182,6 +208,7 @@ heHE.FotisonImas.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.FotisonImas.ode = miscellanea_en_UK_ware.misc.Ode5
 heHE.FotisonImas.text = ""
 
+heHE.IKekommeni.greekname = ""
 heHE.IKekommeni.name = "(NM)"
 heHE.IKekommeni.incipit = "…"
 heHE.IKekommeni.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -189,6 +216,7 @@ heHE.IKekommeni.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.IKekommeni.ode = miscellanea_en_UK_ware.misc.Ode1
 heHE.IKekommeni.text = ""
 
+heHE.IdeteIdeteOPrinGenesthai.greekname = ""
 heHE.IdeteIdeteOPrinGenesthai.name = "(NM) See now, that I am God"
 heHE.IdeteIdeteOPrinGenesthai.incipit = "(NM) See now, that I am God…"
 heHE.IdeteIdeteOPrinGenesthai.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -196,6 +224,7 @@ heHE.IdeteIdeteOPrinGenesthai.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.IdeteIdeteOPrinGenesthai.ode = miscellanea_en_UK_ware.misc.Ode2
 heHE.IdeteIdeteOPrinGenesthai.text = "See now, see that I am God: before the world was n1ade, before earth and heaven were established, I knew all things, for I dwell wholly in the Father and bear the whole Father in Myself."
 
+heHE.IdeteIdeteOKathierosas.greekname = ""
 heHE.IdeteIdeteOKathierosas.name = "(NM) See now, see that I am your God"
 heHE.IdeteIdeteOKathierosas.incipit = "(NM) See now, see that I am your God…"
 heHE.IdeteIdeteOKathierosas.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -203,6 +232,7 @@ heHE.IdeteIdeteOKathierosas.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.IdeteIdeteOKathierosas.ode = miscellanea_en_UK_ware.misc.Ode2
 heHE.IdeteIdeteOKathierosas.text = "See now, see that I am your God, who have sanctified for you the tenth part of the days of every year as acceptable first­ fruits: and this commandment have I given to My people for their deliverance from the passions and as a beginning of salvation."
 
+heHE.IdeteIdeteOProTonAionon.greekname = ""
 heHE.IdeteIdeteOProTonAionon.name = "(NM) See now, see that I am your God"
 heHE.IdeteIdeteOProTonAionon.incipit = "(NM) See now, see that I am your God…"
 heHE.IdeteIdeteOProTonAionon.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -210,6 +240,7 @@ heHE.IdeteIdeteOProTonAionon.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.IdeteIdeteOProTonAionon.ode = miscellanea_en_UK_ware.misc.Ode2
 heHE.IdeteIdeteOProTonAionon.text = "See now, see that I am your God, before all ages begotten from the Father, and in the last times conceived without man by the Virgin: and I have destroyed the sin of Adam the forefather in My love for mankind."
 
+heHE.IdeteIdeteOPalaiTonIsrail.greekname = ""
 heHE.IdeteIdeteOPalaiTonIsrail.name = "(NM) See now, see"
 heHE.IdeteIdeteOPalaiTonIsrail.incipit = "(NM) See now, see…"
 heHE.IdeteIdeteOPalaiTonIsrail.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -217,6 +248,7 @@ heHE.IdeteIdeteOPalaiTonIsrail.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.IdeteIdeteOPalaiTonIsrail.ode = miscellanea_en_UK_ware.misc.Ode2
 heHE.IdeteIdeteOPalaiTonIsrail.text = "See now, see that I am God, who led the people of Israel in times of old through the Red Sea, and saved them and fed them, setting them free from the bitter bondage of Pharaoh."
 
+heHE.IlasthitiMoiSotir.greekname = ""
 heHE.IlasthitiMoiSotir.name = "(NM) Be merciful to me"
 heHE.IlasthitiMoiSotir.incipit = "(NM) Be merciful to me…"
 heHE.IlasthitiMoiSotir.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -224,6 +256,7 @@ heHE.IlasthitiMoiSotir.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.IlasthitiMoiSotir.ode = miscellanea_en_UK_ware.misc.Ode6
 heHE.IlasthitiMoiSotir.text = "Be merciful to me, O Saviour, for many are my transgressions, and lead me up, I beseech Thee, from the abyss of evil: for unto Thee have I cried; hearken unto me, O God of my salvation."
 
+heHE.InaTiMeAposo.greekname = ""
 heHE.InaTiMeAposo.name = "(NM) O Light that never sets"
 heHE.InaTiMeAposo.incipit = "(NM) O Light that never sets…"
 heHE.InaTiMeAposo.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -231,6 +264,7 @@ heHE.InaTiMeAposo.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.InaTiMeAposo.ode = miscellanea_en_UK_ware.misc.Ode5
 heHE.InaTiMeAposo.text = "O Light that never sets, why hast Thou cast me from Thy face? And why has the alien darkness covered me in my wretchedness? But I entreat Thee, cause me to return, and direct my paths to the light of Thy commandments."
 
+heHE.KyrieOTheosImon.greekname = ""
 heHE.KyrieOTheosImon.name = "(NM)"
 heHE.KyrieOTheosImon.incipit = "…"
 heHE.KyrieOTheosImon.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -238,6 +272,7 @@ heHE.KyrieOTheosImon.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.KyrieOTheosImon.ode = miscellanea_en_UK_ware.misc.Ode5
 heHE.KyrieOTheosImon.text = ""
 
+heHE.KyriosTheotokon.greekname = ""
 heHE.KyriosTheotokon.name = "(NM) Saved through thee, pure Virgin"
 heHE.KyriosTheotokon.incipit = "(NM) Saved through thee, pure Virgin…"
 heHE.KyriosTheotokon.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -245,6 +280,7 @@ heHE.KyriosTheotokon.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.KyriosTheotokon.ode = miscellanea_en_UK_ware.misc.Ode9
 heHE.KyriosTheotokon.text = ""
 
+heHE.MegalynomenSeTinMiteraTouFotos.greekname = ""
 heHE.MegalynomenSeTinMiteraTouFotos.name = "(NM) We magnify thee"
 heHE.MegalynomenSeTinMiteraTouFotos.incipit = "(NM) We magnify thee…"
 heHE.MegalynomenSeTinMiteraTouFotos.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -252,6 +288,7 @@ heHE.MegalynomenSeTinMiteraTouFotos.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.MegalynomenSeTinMiteraTouFotos.ode = miscellanea_en_UK_ware.misc.Ode9
 heHE.MegalynomenSeTinMiteraTouFotos.text = "We magnify thee, the Mother of the Light, and we glorify thee, O Virgin Theotokos, for thou hast borne Christ the Saviour of our souls."
 
+heHE.MegalynomenSeTinMiteraTouTheou.greekname = ""
 heHE.MegalynomenSeTinMiteraTouTheou.name = "(NM)"
 heHE.MegalynomenSeTinMiteraTouTheou.incipit = "…"
 heHE.MegalynomenSeTinMiteraTouTheou.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -259,6 +296,7 @@ heHE.MegalynomenSeTinMiteraTouTheou.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.MegalynomenSeTinMiteraTouTheou.ode = miscellanea_en_UK_ware.misc.Ode9
 heHE.MegalynomenSeTinMiteraTouTheou.text = ""
 
+heHE.MegalynomenSeTinPanamomon.greekname = ""
 heHE.MegalynomenSeTinPanamomon.name = "(NM) We magnify thee"
 heHE.MegalynomenSeTinPanamomon.incipit = "(NM) We magnify thee…"
 heHE.MegalynomenSeTinPanamomon.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -266,6 +304,7 @@ heHE.MegalynomenSeTinPanamomon.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.MegalynomenSeTinPanamomon.ode = miscellanea_en_UK_ware.misc.Ode9
 heHE.MegalynomenSeTinPanamomon.text = "We magnify thee, most pure Mother of Christ our God, for thou wast overshadowed by the Holy Spirit."
 
+heHE.MousikonOrganon.greekname = ""
 heHE.MousikonOrganon.name = "(NM)"
 heHE.MousikonOrganon.incipit = "…"
 heHE.MousikonOrganon.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -273,6 +312,7 @@ heHE.MousikonOrganon.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.MousikonOrganon.ode = miscellanea_en_UK_ware.misc.Ode8
 heHE.MousikonOrganon.text = "When the instruments of music sounded, countless multitudes worshipped the image in Dura but the three Children, refusing to bow down, praised and glorified the Lord for ever."
 
+heHE.MystikosEiTheotoke.greekname = ""
 heHE.MystikosEiTheotoke.name = "(NM)"
 heHE.MystikosEiTheotoke.incipit = "…"
 heHE.MystikosEiTheotoke.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -280,6 +320,7 @@ heHE.MystikosEiTheotoke.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.MystikosEiTheotoke.ode = miscellanea_en_UK_ware.misc.Ode9
 heHE.MystikosEiTheotoke.text = ""
 
+heHE.MystikosOProfitis.greekname = ""
 heHE.MystikosOProfitis.name = "(NM)"
 heHE.MystikosOProfitis.incipit = "…"
 heHE.MystikosOProfitis.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -287,6 +328,7 @@ heHE.MystikosOProfitis.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.MystikosOProfitis.ode = miscellanea_en_UK_ware.misc.Ode4
 heHE.MystikosOProfitis.text = ""
 
+heHE.NikitaiTyrannou.greekname = ""
 heHE.NikitaiTyrannou.name = "(NM) Victors over fire"
 heHE.NikitaiTyrannou.incipit = "(NM) Victors over fire…"
 heHE.NikitaiTyrannou.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -294,6 +336,7 @@ heHE.NikitaiTyrannou.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.NikitaiTyrannou.ode = miscellanea_en_UK_ware.misc.Ode8
 heHE.NikitaiTyrannou.text = ""
 
+heHE.NotiouThiros.greekname = ""
 heHE.NotiouThiros.name = "(NM)"
 heHE.NotiouThiros.incipit = "…"
 heHE.NotiouThiros.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -301,6 +344,7 @@ heHE.NotiouThiros.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.NotiouThiros.ode = miscellanea_en_UK_ware.misc.Ode6
 heHE.NotiouThiros.text = ""
 
+heHE.ODiAngelouPaidas.greekname = ""
 heHE.ODiAngelouPaidas.name = "(NM) Thou hast refreshed the Children"
 heHE.ODiAngelouPaidas.incipit = "(NM) Thou hast refreshed the Children…"
 heHE.ODiAngelouPaidas.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -308,6 +352,7 @@ heHE.ODiAngelouPaidas.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.ODiAngelouPaidas.ode = miscellanea_en_UK_ware.misc.Ode7
 heHE.ODiAngelouPaidas.text = "Thou hast refreshed the Children in the furnace through an angel and changed the roaring flames to dew. O God of our fathers, blessed art Thou."
 
+heHE.ODiaVroseos.greekname = ""
 heHE.ODiaVroseos.name = "(NM)"
 heHE.ODiaVroseos.incipit = "…"
 heHE.ODiaVroseos.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -315,6 +360,7 @@ heHE.ODiaVroseos.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.ODiaVroseos.ode = miscellanea_en_UK_ware.misc.Ode9
 heHE.ODiaVroseos.text = ""
 
+heHE.OEkNyktosAgnoias.greekname = ""
 heHE.OEkNyktosAgnoias.name = "(NM)"
 heHE.OEkNyktosAgnoias.incipit = "…"
 heHE.OEkNyktosAgnoias.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -322,6 +368,7 @@ heHE.OEkNyktosAgnoias.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.OEkNyktosAgnoias.ode = miscellanea_en_UK_ware.misc.Ode5
 heHE.OEkNyktosAgnoias.text = ""
 
+heHE.OEnArchiTinGin.greekname = ""
 heHE.OEnArchiTinGin.name = "(NM) O Thou who in the beginning"
 heHE.OEnArchiTinGin.incipit = "(NM) O Thou who in the beginning…"
 heHE.OEnArchiTinGin.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -329,6 +376,7 @@ heHE.OEnArchiTinGin.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.OEnArchiTinGin.ode = miscellanea_en_UK_ware.misc.Ode7
 heHE.OEnArchiTinGin.text = "O Thou who in the beginning hast laid the foundations of the earth and established the heavens by Thy word, blessed art Thou unto all ages, O Lord God of our fathers."
 
+heHE.OProfitisAvvakoum.greekname = ""
 heHE.OProfitisAvvakoum.name = "(NM)"
 heHE.OProfitisAvvakoum.incipit = "…"
 heHE.OProfitisAvvakoum.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -336,6 +384,7 @@ heHE.OProfitisAvvakoum.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.OProfitisAvvakoum.ode = miscellanea_en_UK_ware.misc.Ode4
 heHE.OProfitisAvvakoum.text = ""
 
+heHE.OStegazonEnYdasi.greekname = ""
 heHE.OStegazonEnYdasi.name = "(NM) O Thou who coverest"
 heHE.OStegazonEnYdasi.incipit = "(NM) O Thou who coverest…"
 heHE.OStegazonEnYdasi.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -343,6 +392,7 @@ heHE.OStegazonEnYdasi.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.OStegazonEnYdasi.ode = miscellanea_en_UK_ware.misc.Ode8
 heHE.OStegazonEnYdasi.text = "O Thou who coverest Thy high places with the waters, who settest the sand as a bound to the sea and upholdest all things: the sun sings Thy praises, the moon gives Thee glory, every creature offers a hymn to Thee, his Author and Creator, for ever."
 
+heHE.OStereosasEnTiCheiriSou.greekname = ""
 heHE.OStereosasEnTiCheiriSou.name = "(NM) O Word of God who hast made firm"
 heHE.OStereosasEnTiCheiriSou.incipit = "(NM) O Word of God who hast made firm…"
 heHE.OStereosasEnTiCheiriSou.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -350,6 +400,7 @@ heHE.OStereosasEnTiCheiriSou.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.OStereosasEnTiCheiriSou.ode = miscellanea_en_UK_ware.misc.Ode3
 heHE.OStereosasEnTiCheiriSou.text = "O Word of God who hast made firm the heavens with Thine hand, through the enlightenment of Thy true knowledge make firm our hearts, for we have put our trust in Thee."
 
+heHE.OStereosasKatArchas.greekname = ""
 heHE.OStereosasKatArchas.name = "(NM)"
 heHE.OStereosasKatArchas.incipit = "…"
 heHE.OStereosasKatArchas.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -357,6 +408,7 @@ heHE.OStereosasKatArchas.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.OStereosasKatArchas.ode = miscellanea_en_UK_ware.misc.Ode3
 heHE.OStereosasKatArchas.text = ""
 
+heHE.OStereosasLogo.greekname = ""
 heHE.OStereosasLogo.name = "(NM)"
 heHE.OStereosasLogo.incipit = "…"
 heHE.OStereosasLogo.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -364,6 +416,7 @@ heHE.OStereosasLogo.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.OStereosasLogo.ode = miscellanea_en_UK_ware.misc.Ode3
 heHE.OStereosasLogo.text = ""
 
+heHE.OTousPaidasDrosisas.greekname = ""
 heHE.OTousPaidasDrosisas.name = "(NM) Thou hast refreshed the Children"
 heHE.OTousPaidasDrosisas.incipit = "(NM) Thou hast refreshed the Children…"
 heHE.OTousPaidasDrosisas.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -371,6 +424,7 @@ heHE.OTousPaidasDrosisas.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.OTousPaidasDrosisas.ode = miscellanea_en_UK_ware.misc.Ode7
 heHE.OTousPaidasDrosisas.text = "Thou hast refreshed the Children with dew in the furnace, and Thou hast preserved Thy Mother as a Virgin after childbirth: Blessed art Thou, O Lord God of our fathers."
 
+heHE.OTrismakaristonXylon.greekname = ""
 heHE.OTrismakaristonXylon.name = "(NM)"
 heHE.OTrismakaristonXylon.incipit = "…"
 heHE.OTrismakaristonXylon.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -378,6 +432,7 @@ heHE.OTrismakaristonXylon.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.OTrismakaristonXylon.ode = miscellanea_en_UK_ware.misc.Ode5
 heHE.OTrismakaristonXylon.text = ""
 
+heHE.OiEkTisIoudaias.greekname = ""
 heHE.OiEkTisIoudaias.name = "(NM)"
 heHE.OiEkTisIoudaias.incipit = "…"
 heHE.OiEkTisIoudaias.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -385,6 +440,7 @@ heHE.OiEkTisIoudaias.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.OiEkTisIoudaias.ode = miscellanea_en_UK_ware.misc.Ode7
 heHE.OiEkTisIoudaias.text = ""
 
+heHE.OiTheorrimonesPaides.greekname = ""
 heHE.OiTheorrimonesPaides.name = "(NM) Inspired by God"
 heHE.OiTheorrimonesPaides.incipit = "(NM) Inspired by God…"
 heHE.OiTheorrimonesPaides.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -392,6 +448,7 @@ heHE.OiTheorrimonesPaides.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.OiTheorrimonesPaides.ode = miscellanea_en_UK_ware.misc.Ode8
 heHE.OiTheorrimonesPaides.text = "Inspired by God, the Children in the furnace trampled underfoot the flames of fire, and sang aloud: O ye works of the Lord, bless ye the Lord."
 
+heHE.OiTisChaldaiasKaminou.greekname = ""
 heHE.OiTisChaldaiasKaminou.name = "(NM)"
 heHE.OiTisChaldaiasKaminou.incipit = "…"
 heHE.OiTisChaldaiasKaminou.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -399,6 +456,7 @@ heHE.OiTisChaldaiasKaminou.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.OiTisChaldaiasKaminou.ode = miscellanea_en_UK_ware.misc.Ode7
 heHE.OiTisChaldaiasKaminou.text = ""
 
+heHE.OrousParilthes.greekname = ""
 heHE.OrousParilthes.name = "(NM) Thou hast surpassed the bounds"
 heHE.OrousParilthes.incipit = "(NM) Thou hast surpassed the bounds…"
 heHE.OrousParilthes.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -406,6 +464,7 @@ heHE.OrousParilthes.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.OrousParilthes.ode = miscellanea_en_UK_ware.misc.Ode9
 heHE.OrousParilthes.text = ""
 
+heHE.OrthrizeiToPnevmaMou.greekname = ""
 heHE.OrthrizeiToPnevmaMou.name = "(NM) My spirit seeks Thee early"
 heHE.OrthrizeiToPnevmaMou.incipit = "(NM) My spirit seeks Thee early…"
 heHE.OrthrizeiToPnevmaMou.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -413,6 +472,7 @@ heHE.OrthrizeiToPnevmaMou.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.OrthrizeiToPnevmaMou.ode = miscellanea_en_UK_ware.misc.Ode5
 heHE.OrthrizeiToPnevmaMou.text = "My spirit seeks Thee early in the morning, O God, for Thy commandments bring us light before Thy coming: shine with them upon our minds, O Master, and guide us in the path of life."
 
+heHE.OrthrizontesVoomenSoi.greekname = ""
 heHE.OrthrizontesVoomenSoi.name = "(NM)"
 heHE.OrthrizontesVoomenSoi.incipit = "…"
 heHE.OrthrizontesVoomenSoi.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -420,6 +480,7 @@ heHE.OrthrizontesVoomenSoi.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.OrthrizontesVoomenSoi.ode = miscellanea_en_UK_ware.misc.Ode5
 heHE.OrthrizontesVoomenSoi.text = ""
 
+heHE.OsTonProfitinErryso.greekname = ""
 heHE.OsTonProfitinErryso.name = "(NM)"
 heHE.OsTonProfitinErryso.incipit = "…"
 heHE.OsTonProfitinErryso.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -427,6 +488,7 @@ heHE.OsTonProfitinErryso.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.OsTonProfitinErryso.ode = miscellanea_en_UK_ware.misc.Ode6
 heHE.OsTonProfitinErryso.text = ""
 
+heHE.OsYdataThalassis.greekname = ""
 heHE.OsYdataThalassis.name = "(NM)"
 heHE.OsYdataThalassis.incipit = "…"
 heHE.OsYdataThalassis.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -434,6 +496,7 @@ heHE.OsYdataThalassis.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.OsYdataThalassis.ode = miscellanea_en_UK_ware.misc.Ode6
 heHE.OsYdataThalassis.text = ""
 
+heHE.OukEstinAgios.greekname = ""
 heHE.OukEstinAgios.name = "(NM) None is holy as the Lord"
 heHE.OukEstinAgios.incipit = "(NM) None is holy as the Lord…"
 heHE.OukEstinAgios.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -441,9 +504,11 @@ heHE.OukEstinAgios.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.OukEstinAgios.ode = miscellanea_en_UK_ware.misc.Ode3
 heHE.OukEstinAgios.text = "None is holy as the Lord, and none is righteous as our God, whom all creation praises: none is holy save Thee, O Lord who lovest mankind."
 
+heHE.OukEstinAgiosOsOTheos.greekname = ""
 heHE.OukEstinAgiosOsOTheos.name = ""
 
 
+heHE.OuraniasApsidos.greekname = ""
 heHE.OuraniasApsidos.name = "(NM) O Lord, Thou Builder"
 heHE.OuraniasApsidos.incipit = "(NM) O Lord, Thou Builder…"
 heHE.OuraniasApsidos.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -451,6 +516,7 @@ heHE.OuraniasApsidos.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.OuraniasApsidos.ode = miscellanea_en_UK_ware.misc.Ode3
 heHE.OuraniasApsidos.text = "O Lord, Thou Builder of the vault of heaven and Founder of the Church, do Thou confirm me in Thy love: for Thou art our supreme desire and the support of the faithful, O Thou who alone lovest mankind."
 
+heHE.PaidesEvraion.greekname = ""
 heHE.PaidesEvraion.name = "(NM) The Hebrew Children in the furnace"
 heHE.PaidesEvraion.incipit = "(NM) The Hebrew Children in the furnace…"
 heHE.PaidesEvraion.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -458,6 +524,7 @@ heHE.PaidesEvraion.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.PaidesEvraion.ode = miscellanea_en_UK_ware.misc.Ode7
 heHE.PaidesEvraion.text = ""
 
+heHE.PaidesTheoseveis.greekname = ""
 heHE.PaidesTheoseveis.name = "(NM)"
 heHE.PaidesTheoseveis.incipit = "…"
 heHE.PaidesTheoseveis.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -465,6 +532,7 @@ heHE.PaidesTheoseveis.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.PaidesTheoseveis.ode = miscellanea_en_UK_ware.misc.Ode7
 heHE.PaidesTheoseveis.text = ""
 
+heHE.ProsTonDynamenonSozein.greekname = ""
 heHE.ProsTonDynamenonSozein.name = "(NM)"
 heHE.ProsTonDynamenonSozein.incipit = "…"
 heHE.ProsTonDynamenonSozein.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -472,6 +540,7 @@ heHE.ProsTonDynamenonSozein.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.ProsTonDynamenonSozein.ode = miscellanea_en_UK_ware.misc.Ode6
 heHE.ProsTonDynamenonSozein.text = ""
 
+heHE.ProsecheOurane.greekname = ""
 heHE.ProsecheOurane.name = "(NM) Attend, O heaven"
 heHE.ProsecheOurane.incipit = "(NM) Attend, O heaven…"
 heHE.ProsecheOurane.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -479,6 +548,7 @@ heHE.ProsecheOurane.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.ProsecheOurane.ode = miscellanea_en_UK_ware.misc.Ode2
 heHE.ProsecheOurane.text = "Attend, O heaven, and I shall speak, and sing in praise of Christ, who took flesh from a Virgin and came to dwell among us."
 
+heHE.RavdosEisTypon.greekname = ""
 heHE.RavdosEisTypon.name = "(NM)"
 heHE.RavdosEisTypon.incipit = "…"
 heHE.RavdosEisTypon.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -486,6 +556,7 @@ heHE.RavdosEisTypon.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.RavdosEisTypon.ode = miscellanea_en_UK_ware.misc.Ode3
 heHE.RavdosEisTypon.text = ""
 
+heHE.SeTinApeirogamon.greekname = ""
 heHE.SeTinApeirogamon.name = "(NM)"
 heHE.SeTinApeirogamon.incipit = "…"
 heHE.SeTinApeirogamon.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -493,6 +564,7 @@ heHE.SeTinApeirogamon.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.SeTinApeirogamon.ode = miscellanea_en_UK_ware.misc.Ode9
 heHE.SeTinApeirogamon.text = ""
 
+heHE.SeTinOuranou.greekname = ""
 heHE.SeTinOuranou.name = "(NM) With all generations we magnify thee"
 heHE.SeTinOuranou.incipit = "(NM) With all generations we magnify thee…"
 heHE.SeTinOuranou.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -500,6 +572,7 @@ heHE.SeTinOuranou.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.SeTinOuranou.ode = miscellanea_en_UK_ware.misc.Ode9
 heHE.SeTinOuranou.text = ""
 
+heHE.StavronCharaxasMosis.greekname = ""
 heHE.StavronCharaxasMosis.name = "(NM)"
 heHE.StavronCharaxasMosis.incipit = "…"
 heHE.StavronCharaxasMosis.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -507,6 +580,7 @@ heHE.StavronCharaxasMosis.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.StavronCharaxasMosis.ode = miscellanea_en_UK_ware.misc.Ode1
 heHE.StavronCharaxasMosis.text = ""
 
+heHE.StereomaMouSotir.greekname = ""
 heHE.StereomaMouSotir.name = "(NM)"
 heHE.StereomaMouSotir.incipit = "…"
 heHE.StereomaMouSotir.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -514,6 +588,7 @@ heHE.StereomaMouSotir.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.StereomaMouSotir.ode = miscellanea_en_UK_ware.misc.Ode3
 heHE.StereomaMouSotir.text = ""
 
+heHE.StereosonImonTonNoun.greekname = ""
 heHE.StereosonImonTonNoun.name = "(NM)"
 heHE.StereosonImonTonNoun.incipit = "…"
 heHE.StereosonImonTonNoun.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -521,6 +596,7 @@ heHE.StereosonImonTonNoun.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.StereosonImonTonNoun.ode = miscellanea_en_UK_ware.misc.Ode3
 heHE.StereosonImonTonNoun.text = ""
 
+heHE.SyEiToStereoma.greekname = ""
 heHE.SyEiToStereoma.name = "(NM)"
 heHE.SyEiToStereoma.incipit = "…"
 heHE.SyEiToStereoma.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -528,6 +604,7 @@ heHE.SyEiToStereoma.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.SyEiToStereoma.ode = miscellanea_en_UK_ware.misc.Ode3
 heHE.SyEiToStereoma.text = ""
 
+heHE.SyMouIschys.greekname = ""
 heHE.SyMouIschys.name = "(NM)"
 heHE.SyMouIschys.incipit = "…"
 heHE.SyMouIschys.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -535,6 +612,7 @@ heHE.SyMouIschys.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.SyMouIschys.ode = miscellanea_en_UK_ware.misc.Ode4
 heHE.SyMouIschys.text = ""
 
+heHE.SynechomenonDexaiMe.greekname = ""
 heHE.SynechomenonDexaiMe.name = "(NM) Held fast by many sins"
 heHE.SynechomenonDexaiMe.incipit = "(NM) Held fast by many sins…"
 heHE.SynechomenonDexaiMe.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -542,6 +620,7 @@ heHE.SynechomenonDexaiMe.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.SynechomenonDexaiMe.ode = miscellanea_en_UK_ware.misc.Ode6
 heHE.SynechomenonDexaiMe.text = "Held fast by many sins, I fall down like the Prophet before Thy tender mercies. Accept me also in Thy love for mankind, O Lord, and save me."
 
+heHE.ThalassanEpixas.greekname = ""
 heHE.ThalassanEpixas.name = "(NM)"
 heHE.ThalassanEpixas.incipit = "…"
 heHE.ThalassanEpixas.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -549,6 +628,7 @@ heHE.ThalassanEpixas.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.ThalassanEpixas.ode = miscellanea_en_UK_ware.misc.Ode1
 heHE.ThalassanEpixas.text = ""
 
+heHE.TheouSynkatavasin.greekname = ""
 heHE.TheouSynkatavasin.name = "(NM)"
 heHE.TheouSynkatavasin.incipit = "…"
 heHE.TheouSynkatavasin.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -556,6 +636,7 @@ heHE.TheouSynkatavasin.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.TheouSynkatavasin.ode = miscellanea_en_UK_ware.misc.Ode7
 heHE.TheouSynkatavasin.text = ""
 
+heHE.TinAgninEndoxos.greekname = ""
 heHE.TinAgninEndoxos.name = "(NM)"
 heHE.TinAgninEndoxos.incipit = "…"
 heHE.TinAgninEndoxos.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -563,6 +644,7 @@ heHE.TinAgninEndoxos.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.TinAgninEndoxos.ode = miscellanea_en_UK_ware.misc.Ode9
 heHE.TinAgninEndoxos.text = ""
 
+heHE.TinDeisinEkcheo.greekname = ""
 heHE.TinDeisinEkcheo.name = "(NM) I pour out my prayer"
 heHE.TinDeisinEkcheo.incipit = "(NM) I pour out my prayer…"
 heHE.TinDeisinEkcheo.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -570,6 +652,7 @@ heHE.TinDeisinEkcheo.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.TinDeisinEkcheo.ode = miscellanea_en_UK_ware.misc.Ode6
 heHE.TinDeisinEkcheo.text = ""
 
+heHE.TisTonPathonMeAchlyos.greekname = ""
 heHE.TisTonPathonMeAchlyos.name = "(NM) Deliver me, I pray"
 heHE.TisTonPathonMeAchlyos.incipit = "(NM) Deliver me, I pray…"
 heHE.TisTonPathonMeAchlyos.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -577,6 +660,7 @@ heHE.TisTonPathonMeAchlyos.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.TisTonPathonMeAchlyos.ode = miscellanea_en_UK_ware.misc.Ode5
 heHE.TisTonPathonMeAchlyos.text = "Deliver me, I pray, from the dark night of the passions, and enable my spirit, O Christ, to seek Thee early in the morning, guided by the light of Thy commandments."
 
+heHE.ToEktinaxanti.greekname = ""
 heHE.ToEktinaxanti.name = "(NM)"
 heHE.ToEktinaxanti.incipit = "…"
 heHE.ToEktinaxanti.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -584,6 +668,7 @@ heHE.ToEktinaxanti.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.ToEktinaxanti.ode = miscellanea_en_UK_ware.misc.Ode1
 heHE.ToEktinaxanti.text = ""
 
+heHE.ToSyntripsantiPolemous.greekname = ""
 heHE.ToSyntripsantiPolemous.name = "(NM) To Him who crushed"
 heHE.ToSyntripsantiPolemous.incipit = "(NM) To Him who crushed…"
 heHE.ToSyntripsantiPolemous.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -591,6 +676,7 @@ heHE.ToSyntripsantiPolemous.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.ToSyntripsantiPolemous.ode = miscellanea_en_UK_ware.misc.Ode1
 heHE.ToSyntripsantiPolemous.text = "To Him who crushed the enemy with His arm and led Israel through the Red Sea, to our Deliverer and our God let us sing, for He has been glorified."
 
+heHE.TonAnarchonVasilea.greekname = ""
 heHE.TonAnarchonVasilea.name = "(NM) The eternal King of glory"
 heHE.TonAnarchonVasilea.incipit = "(NM) The eternal King of glory…"
 heHE.TonAnarchonVasilea.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -598,6 +684,7 @@ heHE.TonAnarchonVasilea.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.TonAnarchonVasilea.ode = miscellanea_en_UK_ware.misc.Ode8
 heHE.TonAnarchonVasilea.text = "The eternal King of glory, before whom the powers of heaven tremble and the ranks of angels stand in fear, O ye priests praise and ye people exalt above all for ever."
 
+heHE.TonAoratonMorfi.greekname = ""
 heHE.TonAoratonMorfi.name = "(NM)"
 heHE.TonAoratonMorfi.incipit = "…"
 heHE.TonAoratonMorfi.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -605,6 +692,7 @@ heHE.TonAoratonMorfi.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.TonAoratonMorfi.ode = miscellanea_en_UK_ware.misc.Ode9
 heHE.TonAoratonMorfi.text = ""
 
+heHE.TonChaldaionIKaminos.greekname = ""
 heHE.TonChaldaionIKaminos.name = "(NM)"
 heHE.TonChaldaionIKaminos.incipit = "…"
 heHE.TonChaldaionIKaminos.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -612,6 +700,7 @@ heHE.TonChaldaionIKaminos.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.TonChaldaionIKaminos.ode = miscellanea_en_UK_ware.misc.Ode7
 heHE.TonChaldaionIKaminos.text = ""
 
+heHE.TonEkNyktosAgnosias.greekname = ""
 heHE.TonEkNyktosAgnosias.name = "(NM)"
 heHE.TonEkNyktosAgnosias.incipit = "…"
 heHE.TonEkNyktosAgnosias.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -619,6 +708,7 @@ heHE.TonEkNyktosAgnosias.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.TonEkNyktosAgnosias.ode = miscellanea_en_UK_ware.misc.Ode5
 heHE.TonEkNyktosAgnosias.text = ""
 
+heHE.TonEkPatrosProAionon.greekname = ""
 heHE.TonEkPatrosProAionon.name = "(NM)"
 heHE.TonEkPatrosProAionon.incipit = "…"
 heHE.TonEkPatrosProAionon.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -626,6 +716,7 @@ heHE.TonEkPatrosProAionon.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.TonEkPatrosProAionon.ode = miscellanea_en_UK_ware.misc.Ode8
 heHE.TonEkPatrosProAionon.text = ""
 
+heHE.TonEnOreiAgio.greekname = ""
 heHE.TonEnOreiAgio.name = "(NM) Glorified in the holy mountain"
 heHE.TonEnOreiAgio.incipit = "(NM) Glorified in the holy mountain…"
 heHE.TonEnOreiAgio.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -633,6 +724,7 @@ heHE.TonEnOreiAgio.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.TonEnOreiAgio.ode = miscellanea_en_UK_ware.misc.Ode8
 heHE.TonEnOreiAgio.text = "Glorified in the holy mountain, the Lord revealed the mystery of the Ever-Virgin to Moses in the burning bush: praise and exalt Him above all for ever."
 
+heHE.TonFovonSouKyrie.greekname = ""
 heHE.TonFovonSouKyrie.name = "(NM)"
 heHE.TonFovonSouKyrie.incipit = "…"
 heHE.TonFovonSouKyrie.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -640,6 +732,7 @@ heHE.TonFovonSouKyrie.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.TonFovonSouKyrie.ode = miscellanea_en_UK_ware.misc.Ode3
 heHE.TonFovonSouKyrie.text = ""
 
+heHE.TonIonanEnToKitei.greekname = ""
 heHE.TonIonanEnToKitei.name = "(NM)"
 heHE.TonIonanEnToKitei.incipit = "…"
 heHE.TonIonanEnToKitei.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -647,6 +740,7 @@ heHE.TonIonanEnToKitei.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.TonIonanEnToKitei.ode = miscellanea_en_UK_ware.misc.Ode6
 heHE.TonIonanEnToKitei.text = ""
 
+heHE.TonIsrailEkDouleias.greekname = ""
 heHE.TonIsrailEkDouleias.name = "(NM)"
 heHE.TonIsrailEkDouleias.incipit = "…"
 heHE.TonIsrailEkDouleias.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -654,6 +748,7 @@ heHE.TonIsrailEkDouleias.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.TonIsrailEkDouleias.ode = miscellanea_en_UK_ware.misc.Ode1
 heHE.TonIsrailEkDouleias.text = ""
 
+heHE.TonProdilothenta.greekname = ""
 heHE.TonProdilothenta.name = "(NM) The burning bush"
 heHE.TonProdilothenta.incipit = "(NM) The burning bush…"
 heHE.TonProdilothenta.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -661,6 +756,7 @@ heHE.TonProdilothenta.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.TonProdilothenta.ode = miscellanea_en_UK_ware.misc.Ode9
 heHE.TonProdilothenta.text = "The burning bush upon the mountain revealed in prophecy to the Giver of the Law Christ's birth from the Ever-Virgin for our salvation: and with never-silent songs of praise we magnify Him."
 
+heHE.TonVasileaTonOuranon.greekname = ""
 heHE.TonVasileaTonOuranon.name = "(NM)"
 heHE.TonVasileaTonOuranon.incipit = "…"
 heHE.TonVasileaTonOuranon.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -668,6 +764,7 @@ heHE.TonVasileaTonOuranon.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.TonVasileaTonOuranon.ode = miscellanea_en_UK_ware.misc.Ode8
 heHE.TonVasileaTonOuranon.text = ""
 
+heHE.TonZofonTisPsychisMou.greekname = ""
 heHE.TonZofonTisPsychisMou.name = "(NM) O Christ my God"
 heHE.TonZofonTisPsychisMou.incipit = "(NM) O Christ my God…"
 heHE.TonZofonTisPsychisMou.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -675,6 +772,7 @@ heHE.TonZofonTisPsychisMou.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.TonZofonTisPsychisMou.ode = miscellanea_en_UK_ware.misc.Ode5
 heHE.TonZofonTisPsychisMou.text = "O Christ my God, Giver of Light, who hast driven out the primeval darkness of the abyss, disperse, O Word, the darkness from my soul, and give me the light of Thy commandments, that early in the morning I may glorify-Thee."
 
+heHE.YgranDiodefsas.greekname = ""
 heHE.YgranDiodefsas.name = "(NM) Having crossed the water"
 heHE.YgranDiodefsas.incipit = "(NM) Having crossed the water…"
 heHE.YgranDiodefsas.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
