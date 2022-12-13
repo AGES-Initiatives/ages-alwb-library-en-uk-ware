@@ -3,18 +3,21 @@ A_Resource_Whose_Name = he.a.m4_en_UK_ware
 heAU.title = ""
 
 heAU.DiaXylouOAdam.greekname = ""
+heAU.DiaXylouOAdam.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.DiaXylouOAdam.mode = miscellanea_en_UK_ware.misc.Mode4
 heAU.DiaXylouOAdam.name = ""
 heAU.DiaXylouOAdam.incipit = "…"
 heAU.DiaXylouOAdam.text = ""
 
 heAU.EdokasSimeiosin.greekname = ""
+heAU.EdokasSimeiosin.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.EdokasSimeiosin.mode = miscellanea_en_UK_ware.misc.Mode4
 heAU.EdokasSimeiosin.name = ""
 heAU.EdokasSimeiosin.incipit = "…"
 heAU.EdokasSimeiosin.text = ""
 
 heAU.EpefanisSimeron.greekname = ""
+heAU.EpefanisSimeron.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.EpefanisSimeron.mode = miscellanea_en_UK_ware.misc.Mode4
 heAU.EpefanisSimeron.notmetered = "(NM) Thou hast appeared."
 heAU.EpefanisSimeron.name = "(NM) Thou hast appeared."
@@ -22,12 +25,14 @@ heAU.EpefanisSimeron.incipit = "(NM) Thou hast appeared…"
 heAU.EpefanisSimeron.text = "Thou hast appeared today to the inhabited earth, and Thy light, O Lord, has been marked upon us, who with knowledge sing Thy praise: Thou hast come, Thou art made manifest, the Light that no man can approach."
 
 heAU.IthelonDakrysinExaleipsai.greekname = ""
+heAU.IthelonDakrysinExaleipsai.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.IthelonDakrysinExaleipsai.mode = miscellanea_en_UK_ware.misc.Mode4
 heAU.IthelonDakrysinExaleipsai.name = ""
 heAU.IthelonDakrysinExaleipsai.incipit = "…"
 heAU.IthelonDakrysinExaleipsai.text = ""
 
 heAU.KateplagiIosif.greekname = ""
+heAU.KateplagiIosif.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.KateplagiIosif.mode = miscellanea_en_UK_ware.misc.Mode4
 heAU.KateplagiIosif.notmetered = "N/M (Joseph marveled.)"
 heAU.KateplagiIosif.name = "N/M (Joseph marveled.)"
@@ -35,12 +40,14 @@ heAU.KateplagiIosif.incipit = "…"
 heAU.KateplagiIosif.text = ""
 
 heAU.KyrieAnelthonEnToStavro.greekname = ""
+heAU.KyrieAnelthonEnToStavro.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.KyrieAnelthonEnToStavro.mode = miscellanea_en_UK_ware.misc.Mode4
 heAU.KyrieAnelthonEnToStavro.name = ""
 heAU.KyrieAnelthonEnToStavro.incipit = "…"
 heAU.KyrieAnelthonEnToStavro.text = ""
 
 heAU.OExYpsistouKlitheis.greekname = ""
+heAU.OExYpsistouKlitheis.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.OExYpsistouKlitheis.mode = miscellanea_en_UK_ware.misc.Mode4
 heAU.OExYpsistouKlitheis.notmetered = "(NM) When were called."
 heAU.OExYpsistouKlitheis.name = "(NM) When were called."
@@ -48,12 +55,14 @@ heAU.OExYpsistouKlitheis.incipit = "(NM) When were called…"
 heAU.OExYpsistouKlitheis.text = ""
 
 heAU.OYpsotheisEnToStavro.greekname = ""
+heAU.OYpsotheisEnToStavro.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.OYpsotheisEnToStavro.mode = miscellanea_en_UK_ware.misc.Mode4
 heAU.OYpsotheisEnToStavro.name = ""
 heAU.OYpsotheisEnToStavro.incipit = "…"
 heAU.OYpsotheisEnToStavro.text = ""
 
 heAU.OsGennaionEnMartysi.greekname = ""
+heAU.OsGennaionEnMartysi.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.OsGennaionEnMartysi.mode = miscellanea_en_UK_ware.misc.Mode4
 heAU.OsGennaionEnMartysi.notmetered = "(N/M) As a brave one."
 heAU.OsGennaionEnMartysi.name = "(N/M) As a brave one."
@@ -61,6 +70,7 @@ heAU.OsGennaionEnMartysi.incipit = "(N/M) As a brave one…"
 heAU.OsGennaionEnMartysi.text = ""
 
 heAU.TachyProkatalave.greekname = ""
+heAU.TachyProkatalave.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.TachyProkatalave.mode = miscellanea_en_UK_ware.misc.Mode4
 heAU.TachyProkatalave.notmetered = "(NM) Come quickly."
 heAU.TachyProkatalave.name = "(NM) Come quickly."

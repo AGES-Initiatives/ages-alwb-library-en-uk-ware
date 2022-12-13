@@ -48,7 +48,7 @@ trVE.SticGlory.incipit = "…"
 trVE.SticGlory.text = //me.m03.d25_en_UK_ware.meMA.LaudsGlory.text
 
 trVE.Apolytikion1.mode = miscellanea_en_UK_ware.misc.Mode8
-trVE.Apolytikion1.melody = miscellanea_en_UK_ware.misc.Automelon
+trVE.Apolytikion1.melody = he.a.m8_en_UK_ware.heAU.ToProstachthen.melody
 trVE.Apolytikion1.incipit = he.a.m8_en_UK_ware.heAU.ToProstachthen.incipit
 trVE.Apolytikion1.text = he.a.m8_en_UK_ware.heAU.ToProstachthen.text
 
@@ -491,7 +491,7 @@ trAK.Oikos240b.text = ""
 trAK.Oikos241.text = trAK.Refrain2.text
 
 trMA.Kontakion1.mode = miscellanea_en_UK_ware.misc.Mode8
-trMA.Kontakion1.melody = miscellanea_en_UK_ware.misc.Automelon
+trMA.Kontakion1.melody = he.a.m8_en_UK_ware.heAU.TiYpermacho.melody
 trMA.Kontakion1.incipit = he.a.m8_en_UK_ware.heAU.TiYpermacho.incipit
 trMA.Kontakion1.text = he.a.m8_en_UK_ware.heAU.TiYpermacho.text
 trAK.Kontakion1.incipit = "…"

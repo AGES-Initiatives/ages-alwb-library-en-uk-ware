@@ -55,7 +55,7 @@ trVE.SticBoth.incipit = "…"
 trVE.SticBoth.text = ""
 
 trVE.Aposticha1.mode = miscellanea_en_UK_ware.misc.Mode2
-trVE.Aposticha1.melody = miscellanea_en_UK_ware.misc.Automelon
+trVE.Aposticha1.melody = he.a.m2_en_UK_ware.heAU.OteEkTouXylou.melody
 trVE.Aposticha1.incipit = he.a.m2_en_UK_ware.heAU.OteEkTouXylou.incipit
 trVE.Aposticha1.text = he.a.m2_en_UK_ware.heAU.OteEkTouXylou.text
 
@@ -576,7 +576,7 @@ trMA.Ode3K.incipit = he.h.m6_en_UK_ware.heHE.SeTonEpiYdaton.incipit
 trMA.Ode3K.text = he.h.m6_en_UK_ware.heHE.SeTonEpiYdaton.text
 
 trMA.Ode3Kathisma1.mode = miscellanea_en_UK_ware.misc.Mode1
-trMA.Ode3Kathisma1.melody = miscellanea_en_UK_ware.misc.Automelon
+trMA.Ode3Kathisma1.melody = he.a.m1_en_UK_ware.heAU.TonTafonSouSotir.melody
 trMA.Ode3Kathisma1.incipit = he.a.m1_en_UK_ware.heAU.TonTafonSouSotir.incipit
 trMA.Ode3Kathisma1.text = he.a.m1_en_UK_ware.heAU.TonTafonSouSotir.text
 

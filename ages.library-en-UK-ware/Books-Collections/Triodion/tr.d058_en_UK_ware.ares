@@ -40,7 +40,7 @@ trVE.AposMartyric.incipit = "…"
 trVE.AposMartyric.text = //oc.m1.d2_en_UK_ware.ocVE.Aposticha3.text
 
 trVE.AposTheotokion.mode = miscellanea_en_UK_ware.misc.Mode1
-trVE.AposTheotokion.melody = miscellanea_en_UK_ware.misc.Automelon
+trVE.AposTheotokion.melody = he.a.m1_en_UK_ware.heAU.TonOuranionTagmaton.melody
 trVE.AposTheotokion.incipit = he.a.m1_en_UK_ware.heAU.TonOuranionTagmaton.incipit
 trVE.AposTheotokion.text = he.a.m1_en_UK_ware.heAU.TonOuranionTagmaton.text
 

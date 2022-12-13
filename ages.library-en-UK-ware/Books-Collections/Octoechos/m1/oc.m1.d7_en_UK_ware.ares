@@ -48,7 +48,7 @@ ocVE.Aposticha2.incipit = oc.m1.d4_en_UK_ware.ocVE.Aposticha3.incipit
 ocVE.Aposticha2.text = oc.m1.d4_en_UK_ware.ocVE.Aposticha3.text
 
 ocVE.Aposticha3.mode = miscellanea_en_UK_ware.misc.Mode1
-ocVE.Aposticha3.melody = miscellanea_en_UK_ware.misc.Automelon
+ocVE.Aposticha3.melody = he.a.m1_en_UK_ware.heAU.PaneffimoiMartyres.melody
 ocVE.Aposticha3.incipit = he.a.m1_en_UK_ware.heAU.PaneffimoiMartyres.incipit
 ocVE.Aposticha3.text = he.a.m1_en_UK_ware.heAU.PaneffimoiMartyres.text
 

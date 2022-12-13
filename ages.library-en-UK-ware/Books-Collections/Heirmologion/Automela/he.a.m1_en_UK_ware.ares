@@ -3,54 +3,63 @@ A_Resource_Whose_Name = he.a.m1_en_UK_ware
 heAU.title = ""
 
 heAU.ChorosAngelikos.greekname = ""
+heAU.ChorosAngelikos.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.ChorosAngelikos.mode = miscellanea_en_UK_ware.misc.Mode1
 heAU.ChorosAngelikos.name = ""
 heAU.ChorosAngelikos.incipit = "…"
 heAU.ChorosAngelikos.text = ""
 
 heAU.NefelinSeFotos.greekname = ""
+heAU.NefelinSeFotos.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.NefelinSeFotos.mode = miscellanea_en_UK_ware.misc.Mode1
 heAU.NefelinSeFotos.name = ""
 heAU.NefelinSeFotos.incipit = "…"
 heAU.NefelinSeFotos.text = ""
 
 heAU.OTouParadoxouThavmatos.greekname = ""
+heAU.OTouParadoxouThavmatos.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.OTouParadoxouThavmatos.mode = miscellanea_en_UK_ware.misc.Mode1
 heAU.OTouParadoxouThavmatos.name = ""
 heAU.OTouParadoxouThavmatos.incipit = "…"
 heAU.OTouParadoxouThavmatos.text = ""
 
 heAU.OtanElthisOTheos.greekname = ""
+heAU.OtanElthisOTheos.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.OtanElthisOTheos.mode = miscellanea_en_UK_ware.misc.Mode1
 heAU.OtanElthisOTheos.name = ""
 heAU.OtanElthisOTheos.incipit = "…"
 heAU.OtanElthisOTheos.text = ""
 
 heAU.PaneffimoiMartyres.greekname = ""
+heAU.PaneffimoiMartyres.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.PaneffimoiMartyres.mode = miscellanea_en_UK_ware.misc.Mode1
 heAU.PaneffimoiMartyres.name = "(NM) O martyrs worthy of all praise."
 heAU.PaneffimoiMartyres.incipit = "(NM) O martyrs worthy of all praise…"
 heAU.PaneffimoiMartyres.text = "O martyrs worthy of all praise, your bodies were not buried in the earth, yet heaven has received you; the gates of Paradise were opened to you, and entering within ye have eaten from the Tree of Life. Pray to Christ that He may grant peace and mercy to our souls."
 
 heAU.TisErimouPolitis.greekname = ""
+heAU.TisErimouPolitis.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.TisErimouPolitis.mode = miscellanea_en_UK_ware.misc.Mode1
 heAU.TisErimouPolitis.name = ""
 heAU.TisErimouPolitis.incipit = "…"
 heAU.TisErimouPolitis.text = ""
 
 heAU.TonOuranionTagmaton.greekname = ""
+heAU.TonOuranionTagmaton.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.TonOuranionTagmaton.mode = miscellanea_en_UK_ware.misc.Mode1
 heAU.TonOuranionTagmaton.name = ""
 heAU.TonOuranionTagmaton.incipit = "…"
 heAU.TonOuranionTagmaton.text = ""
 
 heAU.TonTafonSouSotir.greekname = ""
+heAU.TonTafonSouSotir.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.TonTafonSouSotir.mode = miscellanea_en_UK_ware.misc.Mode1
 heAU.TonTafonSouSotir.name = "(N/M)"
 heAU.TonTafonSouSotir.incipit = "(N/M)…"
 heAU.TonTafonSouSotir.text = ""
 
 heAU.TouLithouSfragisthentos.greekname = ""
+heAU.TouLithouSfragisthentos.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.TouLithouSfragisthentos.mode = miscellanea_en_UK_ware.misc.Mode1
 heAU.TouLithouSfragisthentos.name = "(NM)"
 heAU.TouLithouSfragisthentos.incipit = "…"

@@ -15,7 +15,7 @@ trHO.note2 = ""
 trCO.header = ""
 
 trVE.Stichera01.mode = miscellanea_en_UK_ware.misc.Mode8
-trVE.Stichera01.melody = miscellanea_en_UK_ware.misc.Automelon
+trVE.Stichera01.melody = he.a.m8_en_UK_ware.heAU.DefteApantesPistoi.melody
 trVE.Stichera01.incipit = he.a.m8_en_UK_ware.heAU.DefteApantesPistoi.incipit
 trVE.Stichera01.text = he.a.m8_en_UK_ware.heAU.DefteApantesPistoi.text
 
