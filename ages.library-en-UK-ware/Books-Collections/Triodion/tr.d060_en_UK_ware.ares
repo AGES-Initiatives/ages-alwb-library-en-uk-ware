@@ -61,8 +61,8 @@ trMA.Kathisma31.text = "Today dead Lazarus is buried, and his sisters sing in la
 
 trMA.Kathisma32.mode = miscellanea_en_UK_ware.misc.Mode3
 trMA.Kathisma32.melody = he.a.m3_en_UK_ware.heAU.TinOraiotita.name
-trMA.Kathisma32.incipit = "Thy pure and Virgin Mother…"
-trMA.Kathisma32.text = "Thy pure and Virgin Mother, when she saw Thee hanging dead upon the Cross, O Christ, lamented with a mother's grief and said: 'What have the lawless and ungrateful people of the Hebrews given Thee, O my Son, in return for the many and great gifts which Thou hast granted them? I sing in praise of Thy divine self-emptying.'"
+trMA.Kathisma32.incipit = //oc.m3.d4_en_UK_ware.ocMA.Kathisma23.incipit
+trMA.Kathisma32.text = //oc.m3.d4_en_UK_ware.ocMA.Kathisma23.text
 
 trMA.C1.poet = poets_en_UK_ware.po.Iosif
 

@@ -18,7 +18,7 @@ heHE.AfrastonThavma_Epiphany.text = ""
 
 heHE.AkikoaKyrieTinAkoin.greekname = ""
 heHE.AkikoaKyrieTinAkoin.name = "(NM) O Lord, I have heard"
-heHE.AkikoaKyrieTinAkoin.incipit = "(NM) O Lord, I have heard…"
+heHE.AkikoaKyrieTinAkoin.incipit = "O Lord, I have heard…"
 heHE.AkikoaKyrieTinAkoin.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.AkikoaKyrieTinAkoin.mode = miscellanea_en_UK_ware.misc.Mode6
 heHE.AkikoaKyrieTinAkoin.ode = miscellanea_en_UK_ware.misc.Ode4
@@ -26,7 +26,7 @@ heHE.AkikoaKyrieTinAkoin.text = "O Lord, I have heard the report of Thee and was
 
 heHE.AkikoenOProfitis.greekname = ""
 heHE.AkikoenOProfitis.name = "(NM) The Prophet heard of Thy coming"
-heHE.AkikoenOProfitis.incipit = "(NM) The Prophet heard of Thy coming…"
+heHE.AkikoenOProfitis.incipit = "The Prophet heard of Thy coming…"
 heHE.AkikoenOProfitis.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.AkikoenOProfitis.mode = miscellanea_en_UK_ware.misc.Mode6
 heHE.AkikoenOProfitis.ode = miscellanea_en_UK_ware.misc.Ode4
@@ -42,7 +42,7 @@ heHE.AporeiPasaGlossa.text = ""
 
 heHE.AsporouSyllipseos.greekname = ""
 heHE.AsporouSyllipseos.name = "(NM) Conception without seed"
-heHE.AsporouSyllipseos.incipit = "(NM) Conception without seed…"
+heHE.AsporouSyllipseos.incipit = "Conception without seed…"
 heHE.AsporouSyllipseos.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.AsporouSyllipseos.mode = miscellanea_en_UK_ware.misc.Mode6
 heHE.AsporouSyllipseos.ode = miscellanea_en_UK_ware.misc.Ode9
@@ -82,7 +82,7 @@ heHE.EkFlogosToisOsiois.text = ""
 
 heHE.EkNyktosOrthrizonta.greekname = ""
 heHE.EkNyktosOrthrizonta.name = "(NM) From the night I seek Thee early"
-heHE.EkNyktosOrthrizonta.incipit = "(NM) From the night I seek Thee early…"
+heHE.EkNyktosOrthrizonta.incipit = "From the night I seek Thee early…"
 heHE.EkNyktosOrthrizonta.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.EkNyktosOrthrizonta.mode = miscellanea_en_UK_ware.misc.Mode6
 heHE.EkNyktosOrthrizonta.ode = miscellanea_en_UK_ware.misc.Ode5
@@ -146,7 +146,7 @@ heHE.IToChaireDiAngelou.text = ""
 
 heHE.IdeteIdete.greekname = ""
 heHE.IdeteIdete.name = "(NM) See now, see that I am God"
-heHE.IdeteIdete.incipit = "(NM) See now, see that I am God…"
+heHE.IdeteIdete.incipit = "See now, see that I am God…"
 heHE.IdeteIdete.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.IdeteIdete.mode = miscellanea_en_UK_ware.misc.Mode6
 heHE.IdeteIdete.ode = miscellanea_en_UK_ware.misc.Ode2
@@ -210,7 +210,7 @@ heHE.MiEpodyrouMouMiter.text = ""
 
 heHE.NomonPatroon.greekname = ""
 heHE.NomonPatroon.name = "(NM) Accepting danger"
-heHE.NomonPatroon.incipit = "(NM) Accepting danger…"
+heHE.NomonPatroon.incipit = "Accepting danger…"
 heHE.NomonPatroon.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.NomonPatroon.mode = miscellanea_en_UK_ware.misc.Mode6
 heHE.NomonPatroon.ode = miscellanea_en_UK_ware.misc.Ode8
@@ -242,7 +242,7 @@ heHE.OTonOsionSouPaidon.text = ""
 
 heHE.OiOsioiSouPaides.greekname = ""
 heHE.OiOsioiSouPaides.name = "(NM) Thy holy Children"
-heHE.OiOsioiSouPaides.incipit = "(NM) Thy holy Children…"
+heHE.OiOsioiSouPaides.incipit = "Thy holy Children…"
 heHE.OiOsioiSouPaides.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.OiOsioiSouPaides.mode = miscellanea_en_UK_ware.misc.Mode6
 heHE.OiOsioiSouPaides.ode = miscellanea_en_UK_ware.misc.Ode8
@@ -258,7 +258,7 @@ heHE.OiPaidesEnVavyloni.text = ""
 
 heHE.OnStratiaiOuranon.greekname = ""
 heHE.OnStratiaiOuranon.name = "(NM) The hosts of heaven"
-heHE.OnStratiaiOuranon.incipit = "(NM) The hosts of heaven…"
+heHE.OnStratiaiOuranon.incipit = "The hosts of heaven…"
 heHE.OnStratiaiOuranon.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.OnStratiaiOuranon.mode = miscellanea_en_UK_ware.misc.Mode6
 heHE.OnStratiaiOuranon.ode = miscellanea_en_UK_ware.misc.Ode8
@@ -466,7 +466,7 @@ heHE.ToSyndesmoTisDeilias.text = ""
 
 heHE.ToTheioFengeiSou.greekname = ""
 heHE.ToTheioFengeiSou.name = "(NM) I entreat Thee, gracious Lord"
-heHE.ToTheioFengeiSou.incipit = "(NM) I entreat Thee, gracious Lord…"
+heHE.ToTheioFengeiSou.incipit = "I entreat Thee, gracious Lord…"
 heHE.ToTheioFengeiSou.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.ToTheioFengeiSou.mode = miscellanea_en_UK_ware.misc.Mode6
 heHE.ToTheioFengeiSou.ode = miscellanea_en_UK_ware.misc.Ode5
@@ -474,7 +474,7 @@ heHE.ToTheioFengeiSou.text = ""
 
 heHE.TonPaidonTinOdin.greekname = ""
 heHE.TonPaidonTinOdin.name = "(NM) Offering the same hymn"
-heHE.TonPaidonTinOdin.incipit = "(NM) Offering the same hymn…"
+heHE.TonPaidonTinOdin.incipit = "Offering the same hymn…"
 heHE.TonPaidonTinOdin.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.TonPaidonTinOdin.mode = miscellanea_en_UK_ware.misc.Mode6
 heHE.TonPaidonTinOdin.ode = miscellanea_en_UK_ware.misc.Ode8
@@ -490,7 +490,7 @@ heHE.TouViouTinThalassan.text = ""
 
 heHE.VoithosKaiSkepastis.greekname = ""
 heHE.VoithosKaiSkepastis.name = "(NM) He is for me unto salvation"
-heHE.VoithosKaiSkepastis.incipit = "(NM) He is for me unto salvation…"
+heHE.VoithosKaiSkepastis.incipit = "He is for me unto salvation…"
 heHE.VoithosKaiSkepastis.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.VoithosKaiSkepastis.mode = miscellanea_en_UK_ware.misc.Mode6
 heHE.VoithosKaiSkepastis.ode = miscellanea_en_UK_ware.misc.Ode1

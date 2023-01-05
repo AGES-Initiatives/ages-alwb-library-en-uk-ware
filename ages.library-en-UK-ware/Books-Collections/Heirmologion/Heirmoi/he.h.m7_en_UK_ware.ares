@@ -18,7 +18,7 @@ heHE.AkikoaTinAkoinSou.text = ""
 
 heHE.AsomenToKyrio.greekname = ""
 heHE.AsomenToKyrio.name = "(NM) Let us sing a song"
-heHE.AsomenToKyrio.incipit = "(NM) Let us sing a song…"
+heHE.AsomenToKyrio.incipit = "Let us sing a song…"
 heHE.AsomenToKyrio.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.AsomenToKyrio.mode = miscellanea_en_UK_ware.misc.Mode7
 heHE.AsomenToKyrio.ode = miscellanea_en_UK_ware.misc.Ode1
@@ -242,7 +242,7 @@ heHE.ProsSeOrthrizo.text = ""
 
 heHE.SeTinAchranton.greekname = ""
 heHE.SeTinAchranton.name = "(NM) Mother and Virgin undefiled"
-heHE.SeTinAchranton.incipit = "(NM) Mother and Virgin undefiled…"
+heHE.SeTinAchranton.incipit = "Mother and Virgin undefiled…"
 heHE.SeTinAchranton.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.SeTinAchranton.mode = miscellanea_en_UK_ware.misc.Mode7
 heHE.SeTinAchranton.ode = miscellanea_en_UK_ware.misc.Ode9
@@ -258,7 +258,7 @@ heHE.StereomaMouGenou.text = ""
 
 heHE.TinEnsarkonParousianSou.greekname = ""
 heHE.TinEnsarkonParousianSou.name = "(NM) Assured of Thy coming"
-heHE.TinEnsarkonParousianSou.incipit = "(NM) Assured of Thy coming…"
+heHE.TinEnsarkonParousianSou.incipit = "Assured of Thy coming…"
 heHE.TinEnsarkonParousianSou.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.TinEnsarkonParousianSou.mode = miscellanea_en_UK_ware.misc.Mode7
 heHE.TinEnsarkonParousianSou.ode = miscellanea_en_UK_ware.misc.Ode4
@@ -274,7 +274,7 @@ heHE.TinExYpsousDynamin.text = ""
 
 heHE.TinYperFysinMitera.greekname = ""
 heHE.TinYperFysinMitera.name = "(NM) Mother beyond nature"
-heHE.TinYperFysinMitera.incipit = "(NM) Mother beyond nature…"
+heHE.TinYperFysinMitera.incipit = "Mother beyond nature…"
 heHE.TinYperFysinMitera.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.TinYperFysinMitera.mode = miscellanea_en_UK_ware.misc.Mode7
 heHE.TinYperFysinMitera.ode = miscellanea_en_UK_ware.misc.Ode9
@@ -314,7 +314,7 @@ heHE.ToSyntripsantiPolemous.text = ""
 
 heHE.TonFoveronToisCherouvim.greekname = ""
 heHE.TonFoveronToisCherouvim.name = "(NM) He is the Lord"
-heHE.TonFoveronToisCherouvim.incipit = "(NM) He is the Lord…"
+heHE.TonFoveronToisCherouvim.incipit = "He is the Lord…"
 heHE.TonFoveronToisCherouvim.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.TonFoveronToisCherouvim.mode = miscellanea_en_UK_ware.misc.Mode7
 heHE.TonFoveronToisCherouvim.ode = miscellanea_en_UK_ware.misc.Ode8
@@ -322,7 +322,7 @@ heHE.TonFoveronToisCherouvim.text = "He is the Lord and Maker of the world, who 
 
 heHE.TonMononAnarchon.greekname = ""
 heHE.TonMononAnarchon.name = "(NM) Before the King of glory"
-heHE.TonMononAnarchon.incipit = "(NM) Before the King of glory…"
+heHE.TonMononAnarchon.incipit = "Before the King of glory…"
 heHE.TonMononAnarchon.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.TonMononAnarchon.mode = miscellanea_en_UK_ware.misc.Mode7
 heHE.TonMononAnarchon.ode = miscellanea_en_UK_ware.misc.Ode8

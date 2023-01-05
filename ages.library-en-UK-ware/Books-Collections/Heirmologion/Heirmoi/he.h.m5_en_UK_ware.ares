@@ -90,7 +90,7 @@ heHE.GinEfInOukElampsen.text = ""
 
 heHE.IdeteIdete.greekname = ""
 heHE.IdeteIdete.name = "(NM) See now, see."
-heHE.IdeteIdete.incipit = "(NM) See now, see…"
+heHE.IdeteIdete.incipit = "See now, see…"
 heHE.IdeteIdete.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.IdeteIdete.mode = miscellanea_en_UK_ware.misc.Mode5
 heHE.IdeteIdete.ode = miscellanea_en_UK_ware.misc.Ode2
@@ -106,7 +106,7 @@ heHE.IpponKaiAnavatin.text = ""
 
 heHE.IsaiaChoreve.greekname = ""
 heHE.IsaiaChoreve.name = "(NM) Rejoice, Isaiah."
-heHE.IsaiaChoreve.incipit = "(NM) Rejoice, Isaiah…"
+heHE.IsaiaChoreve.incipit = "Rejoice, Isaiah…"
 heHE.IsaiaChoreve.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.IsaiaChoreve.mode = miscellanea_en_UK_ware.misc.Mode5
 heHE.IsaiaChoreve.ode = miscellanea_en_UK_ware.misc.Ode9
@@ -162,7 +162,7 @@ heHE.OYperypsoumenos.text = ""
 
 heHE.OiOsioiSouPaides.greekname = ""
 heHE.OiOsioiSouPaides.name = "(NM) Thy holy Children sang."
-heHE.OiOsioiSouPaides.incipit = "(NM) Thy holy Children sang…"
+heHE.OiOsioiSouPaides.incipit = "Thy holy Children sang…"
 heHE.OiOsioiSouPaides.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.OiOsioiSouPaides.mode = miscellanea_en_UK_ware.misc.Mode5
 heHE.OiOsioiSouPaides.ode = miscellanea_en_UK_ware.misc.Ode8
@@ -290,7 +290,7 @@ heHE.TonEkPatrosProAionon.text = ""
 
 heHE.TonPoiitinTisKtiseos.greekname = ""
 heHE.TonPoiitinTisKtiseos.name = "(NM) Sing, O ye peoples."
-heHE.TonPoiitinTisKtiseos.incipit = "(NM) Sing, O ye peoples…"
+heHE.TonPoiitinTisKtiseos.incipit = "Sing, O ye peoples…"
 heHE.TonPoiitinTisKtiseos.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.TonPoiitinTisKtiseos.mode = miscellanea_en_UK_ware.misc.Mode5
 heHE.TonPoiitinTisKtiseos.ode = miscellanea_en_UK_ware.misc.Ode8
@@ -306,7 +306,7 @@ heHE.TouKitousTonProfitin.text = ""
 
 heHE.TousEkNyktos.greekname = ""
 heHE.TousEkNyktos.name = "(NM) Have mercy, O Christ."
-heHE.TousEkNyktos.incipit = "(NM) Have mercy, O Christ…"
+heHE.TousEkNyktos.incipit = "Have mercy, O Christ…"
 heHE.TousEkNyktos.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.TousEkNyktos.mode = miscellanea_en_UK_ware.misc.Mode5
 heHE.TousEkNyktos.ode = miscellanea_en_UK_ware.misc.Ode5

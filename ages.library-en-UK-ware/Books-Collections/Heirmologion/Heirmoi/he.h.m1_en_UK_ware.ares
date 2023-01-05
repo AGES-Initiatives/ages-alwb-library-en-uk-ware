@@ -66,7 +66,7 @@ heHE.ChaireParthenias.text = ""
 
 heHE.CheirasEnToLakko.greekname = ""
 heHE.CheirasEnToLakko.name = "(NM) Daniel, great among the prophets."
-heHE.CheirasEnToLakko.incipit = "(NM) Daniel, great among the prophets…"
+heHE.CheirasEnToLakko.incipit = "Daniel, great among the prophets…"
 heHE.CheirasEnToLakko.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.CheirasEnToLakko.mode = miscellanea_en_UK_ware.misc.Mode1
 heHE.CheirasEnToLakko.ode = miscellanea_en_UK_ware.misc.Ode8
@@ -119,7 +119,7 @@ heHE.EkNyktosErgon5.text = ""
 
 heHE.EkNyktosOrthrizontes.greekname = ""
 heHE.EkNyktosOrthrizontes.name = "(NM) Seeking The early."
-heHE.EkNyktosOrthrizontes.incipit = "(NM) Seeking The early…"
+heHE.EkNyktosOrthrizontes.incipit = "Seeking The early…"
 heHE.EkNyktosOrthrizontes.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.EkNyktosOrthrizontes.mode = miscellanea_en_UK_ware.misc.Mode1
 heHE.EkNyktosOrthrizontes.ode = miscellanea_en_UK_ware.misc.Ode5
@@ -274,7 +274,7 @@ heHE.ITonProSyllipseos.text = ""
 
 heHE.IdeteIdete.greekname = ""
 heHE.IdeteIdete.name = "(NM) See now, see."
-heHE.IdeteIdete.incipit = "(NM) See now, see…"
+heHE.IdeteIdete.incipit = "See now, see…"
 heHE.IdeteIdete.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.IdeteIdete.mode = miscellanea_en_UK_ware.misc.Mode1
 heHE.IdeteIdete.ode = miscellanea_en_UK_ware.misc.Ode2
@@ -489,7 +489,7 @@ heHE.OiPaidesEfseveia.text = ""
 
 heHE.OMiterParthene.greekname = ""
 heHE.OMiterParthene.name = "(NM) O Virgin Mother."
-heHE.OMiterParthene.incipit = "(NM) O Virgin Mother…"
+heHE.OMiterParthene.incipit = "O Virgin Mother…"
 heHE.OMiterParthene.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.OMiterParthene.mode = miscellanea_en_UK_ware.misc.Mode1
 heHE.OMiterParthene.ode = miscellanea_en_UK_ware.misc.Ode9
@@ -561,7 +561,7 @@ heHE.RiseisProfitonKaiAinigmata.text = ""
 
 heHE.SeInPerEideMoysis.greekname = ""
 heHE.SeInPerEideMoysis.name = "(NM) Moses saw thee."
-heHE.SeInPerEideMoysis.incipit = "(NM) Moses saw thee…"
+heHE.SeInPerEideMoysis.incipit = "Moses saw thee…"
 heHE.SeInPerEideMoysis.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.SeInPerEideMoysis.mode = miscellanea_en_UK_ware.misc.Mode1
 heHE.SeInPerEideMoysis.ode = miscellanea_en_UK_ware.misc.Ode9
@@ -585,7 +585,7 @@ heHE.SeTinFaeinin.text = ""
 
 heHE.SeTinOratheisan.greekname = ""
 heHE.SeTinOratheisan.name = "(NM) Thou art the Gate that Ezekiel."
-heHE.SeTinOratheisan.incipit = "(NM) Thou art the Gate that Ezekiel…"
+heHE.SeTinOratheisan.incipit = "Thou art the Gate that Ezekiel…"
 heHE.SeTinOratheisan.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.SeTinOratheisan.mode = miscellanea_en_UK_ware.misc.Mode1
 heHE.SeTinOratheisan.ode = miscellanea_en_UK_ware.misc.Ode9
@@ -625,7 +625,7 @@ heHE.StereosonDespotaChriste.text = ""
 
 heHE.StereosonKyrie.greekname = ""
 heHE.StereosonKyrie.name = "(NM) Firmly establish Thy Church."
-heHE.StereosonKyrie.incipit = "(NM) Firmly establish Thy Church…"
+heHE.StereosonKyrie.incipit = "Firmly establish Thy Church…"
 heHE.StereosonKyrie.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.StereosonKyrie.mode = miscellanea_en_UK_ware.misc.Mode1
 heHE.StereosonKyrie.ode = miscellanea_en_UK_ware.misc.Ode3
@@ -641,7 +641,7 @@ heHE.StereosonMeChriste.text = ""
 
 heHE.StereothitoIKardiaMou.greekname = ""
 heHE.StereothitoIKardiaMou.name = "(NM) Let my heart be established."
-heHE.StereothitoIKardiaMou.incipit = "(NM) Let my heart be established…"
+heHE.StereothitoIKardiaMou.incipit = "Let my heart be established…"
 heHE.StereothitoIKardiaMou.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.StereothitoIKardiaMou.mode = miscellanea_en_UK_ware.misc.Mode1
 heHE.StereothitoIKardiaMou.ode = miscellanea_en_UK_ware.misc.Ode3
@@ -694,7 +694,7 @@ heHE.TheosOnEirinis.text = ""
 
 heHE.TinFotoforonNefelin.greekname = ""
 heHE.TinFotoforonNefelin.name = "(NM) Let us glorify the cloud of light."
-heHE.TinFotoforonNefelin.incipit = "(NM) Let us glorify the cloud of light…"
+heHE.TinFotoforonNefelin.incipit = "Let us glorify the cloud of light…"
 heHE.TinFotoforonNefelin.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.TinFotoforonNefelin.mode = miscellanea_en_UK_ware.misc.Mode1
 heHE.TinFotoforonNefelin.ode = miscellanea_en_UK_ware.misc.Ode9
@@ -702,7 +702,7 @@ heHE.TinFotoforonNefelin.text = ""
 
 heHE.TinSinEirinin.greekname = ""
 heHE.TinSinEirinin.name = "(NM) Give us Thy peace."
-heHE.TinSinEirinin.incipit = "(NM) Give us Thy peace…"
+heHE.TinSinEirinin.incipit = "Give us Thy peace…"
 heHE.TinSinEirinin.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.TinSinEirinin.mode = miscellanea_en_UK_ware.misc.Mode1
 heHE.TinSinEirinin.ode = miscellanea_en_UK_ware.misc.Ode5
@@ -710,7 +710,7 @@ heHE.TinSinEirinin.text = "Give us Thy peace, O Son of God, for we know no other
 
 heHE.TinZoodochonPigin.greekname = ""
 heHE.TinZoodochonPigin.name = "(NM) Let us honour in hymns the Theotokos."
-heHE.TinZoodochonPigin.incipit = "(NM) Let us honour in hymns the Theotokos…"
+heHE.TinZoodochonPigin.incipit = "Let us honour in hymns the Theotokos…"
 heHE.TinZoodochonPigin.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.TinZoodochonPigin.mode = miscellanea_en_UK_ware.misc.Mode1
 heHE.TinZoodochonPigin.ode = miscellanea_en_UK_ware.misc.Ode9
@@ -755,7 +755,7 @@ heHE.ToTheionKaiArriton.text = ""
 
 heHE.ToVoithisantiTheo.greekname = ""
 heHE.ToVoithisantiTheo.name = "(NM) Let us sing a song."
-heHE.ToVoithisantiTheo.incipit = "(NM) Let us sing a song…"
+heHE.ToVoithisantiTheo.incipit = "Let us sing a song…"
 heHE.ToVoithisantiTheo.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.ToVoithisantiTheo.mode = miscellanea_en_UK_ware.misc.Mode1
 heHE.ToVoithisantiTheo.ode = miscellanea_en_UK_ware.misc.Ode1
@@ -803,7 +803,7 @@ heHE.TonProfitinIonan.text = ""
 
 heHE.TonTousYmnologousEnKamino.greekname = ""
 heHE.TonTousYmnologousEnKamino.name = "(NM) Christ our God preserved."
-heHE.TonTousYmnologousEnKamino.incipit = "(NM) Christ our God preserved…"
+heHE.TonTousYmnologousEnKamino.incipit = "Christ our God preserved…"
 heHE.TonTousYmnologousEnKamino.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.TonTousYmnologousEnKamino.mode = miscellanea_en_UK_ware.misc.Mode1
 heHE.TonTousYmnologousEnKamino.ode = miscellanea_en_UK_ware.misc.Ode8
