@@ -72,7 +72,7 @@ heHE.EnNomoSkia.mode = miscellanea_en_UK_ware.misc.Mode3
 heHE.EnNomoSkia.ode = miscellanea_en_UK_ware.misc.Ode9
 heHE.EnNomoSkia.text = ""
 
-heHE.EnSinaioToOrei.greekname = ""
+heHE.EnSinaioToOrei.greekname = "Ἐν Σιναίῳ τῷ ὅρει."
 heHE.EnSinaioToOrei.name = "(NM) In the bush upon Mount Sinai."
 heHE.EnSinaioToOrei.incipit = "In the bush upon Mount Sinai…"
 heHE.EnSinaioToOrei.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
@@ -408,7 +408,7 @@ heHE.TonExAnarchou.mode = miscellanea_en_UK_ware.misc.Mode3
 heHE.TonExAnarchou.ode = miscellanea_en_UK_ware.misc.Ode8
 heHE.TonExAnarchou.text = "Begotten as God before all ages from the Father without beginning, He has in the last times clothed Himself in flesh taken from the Theotokos: O sing His praises as true man and perfect God, and bless and exalt Him above all for ever."
 
-heHE.TonYpAngelon.greekname = ""
+heHE.TonYpAngelon.greekname = "Τὸν ὑπʼ Ἀγγέλων."
 heHE.TonYpAngelon.name = "(NM) God is glorified."
 heHE.TonYpAngelon.incipit = "God is glorified…"
 heHE.TonYpAngelon.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
