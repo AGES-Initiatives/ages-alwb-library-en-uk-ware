@@ -55,6 +55,7 @@ trVE.SticBoth.incipit = "…"
 trVE.SticBoth.text = ""
 
 trVE.Aposticha1.mode = miscellanea_en_UK_ware.misc.Mode2
+trVE.Aposticha1.greekmelody = he.a.m2_en_UK_ware.heAU.OteEkTouXylou.greekname
 trVE.Aposticha1.melody = he.a.m2_en_UK_ware.heAU.OteEkTouXylou.melody
 trVE.Aposticha1.incipit = he.a.m2_en_UK_ware.heAU.OteEkTouXylou.incipit
 trVE.Aposticha1.text = he.a.m2_en_UK_ware.heAU.OteEkTouXylou.text
@@ -495,16 +496,19 @@ trHW.Evlogetaria6.text = //ho.s03_en_UK_ware.hoMA.ResEvlog6.text
 trHW.Evlogetaria7.text = //ho.s03_en_UK_ware.hoMA.ResEvlog7.text
 
 trMA.Kathisma11.mode = miscellanea_en_UK_ware.misc.Mode1
+trMA.Kathisma11.greekmelody = he.a.m1_en_UK_ware.heAU.TonTafonSouSotir.greekname
 trMA.Kathisma11.melody = he.a.m1_en_UK_ware.heAU.TonTafonSouSotir.name
 trMA.Kathisma11.incipit = "…"
 trMA.Kathisma11.text = ""
 
 trMA.Kathisma12.mode = miscellanea_en_UK_ware.misc.Mode1
+trMA.Kathisma12.greekmelody = he.a.m1_en_UK_ware.heAU.TonTafonSouSotir.greekname
 trMA.Kathisma12.melody = he.a.m1_en_UK_ware.heAU.TonTafonSouSotir.name
 trMA.Kathisma12.incipit = "…"
 trMA.Kathisma12.text = ""
 
 trMA.Kathisma13.mode = miscellanea_en_UK_ware.misc.Mode1
+trMA.Kathisma13.greekmelody = he.a.m1_en_UK_ware.heAU.TonTafonSouSotir.greekname
 trMA.Kathisma13.melody = he.a.m1_en_UK_ware.heAU.TonTafonSouSotir.name
 trMA.Kathisma13.incipit = "…"
 trMA.Kathisma13.text = ""
@@ -517,12 +521,14 @@ trMA.C1.verse = //prayers_en_UK_ware.pr.verse_God.text
 
 trMA.Ode1C1H.ode = miscellanea_en_UK_ware.misc.Ode1
 trMA.Ode1C1H.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode1C1H.greekmelody = he.h.m6_en_UK_ware.heHE.KymatiThalassis.greekname
 trMA.Ode1C1H.melody = he.h.m6_en_UK_ware.heHE.KymatiThalassis.melody
 trMA.Ode1C1H.incipit = he.h.m6_en_UK_ware.heHE.KymatiThalassis.incipit
 trMA.Ode1C1H.text = he.h.m6_en_UK_ware.heHE.KymatiThalassis.text
 
 trMA.Ode1C11.ode = miscellanea_en_UK_ware.misc.Ode1
 trMA.Ode1C11.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode1C11.greekmelody = he.h.m6_en_UK_ware.heHE.KymatiThalassis.greekname
 trMA.Ode1C11.melody = he.h.m6_en_UK_ware.heHE.KymatiThalassis.name
 trMA.Ode1C11.incipit = "…"
 trMA.Ode1C11.text = ""
@@ -547,12 +553,14 @@ trMA.Ode1K.text = he.h.m6_en_UK_ware.heHE.KymatiThalassis.text
 
 trMA.Ode3C1H.ode = miscellanea_en_UK_ware.misc.Ode3
 trMA.Ode3C1H.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode3C1H.greekmelody = he.h.m6_en_UK_ware.heHE.SeTonEpiYdaton.greekname
 trMA.Ode3C1H.melody = he.h.m6_en_UK_ware.heHE.SeTonEpiYdaton.melody
 trMA.Ode3C1H.incipit = he.h.m6_en_UK_ware.heHE.SeTonEpiYdaton.incipit
 trMA.Ode3C1H.text = he.h.m6_en_UK_ware.heHE.SeTonEpiYdaton.text
 
 trMA.Ode3C11.ode = miscellanea_en_UK_ware.misc.Ode3
 trMA.Ode3C11.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode3C11.greekmelody = he.h.m6_en_UK_ware.heHE.SeTonEpiYdaton.greekname
 trMA.Ode3C11.melody = he.h.m6_en_UK_ware.heHE.SeTonEpiYdaton.name
 trMA.Ode3C11.incipit = "…"
 trMA.Ode3C11.text = ""
@@ -576,18 +584,21 @@ trMA.Ode3K.incipit = he.h.m6_en_UK_ware.heHE.SeTonEpiYdaton.incipit
 trMA.Ode3K.text = he.h.m6_en_UK_ware.heHE.SeTonEpiYdaton.text
 
 trMA.Ode3Kathisma1.mode = miscellanea_en_UK_ware.misc.Mode1
+trMA.Ode3Kathisma1.greekmelody = he.a.m1_en_UK_ware.heAU.TonTafonSouSotir.greekname
 trMA.Ode3Kathisma1.melody = he.a.m1_en_UK_ware.heAU.TonTafonSouSotir.melody
 trMA.Ode3Kathisma1.incipit = he.a.m1_en_UK_ware.heAU.TonTafonSouSotir.incipit
 trMA.Ode3Kathisma1.text = he.a.m1_en_UK_ware.heAU.TonTafonSouSotir.text
 
 trMA.Ode4C1H.ode = miscellanea_en_UK_ware.misc.Ode4
 trMA.Ode4C1H.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode4C1H.greekmelody = he.h.m6_en_UK_ware.heHE.TinEnStavroSou.greekname
 trMA.Ode4C1H.melody = he.h.m6_en_UK_ware.heHE.TinEnStavroSou.melody
 trMA.Ode4C1H.incipit = he.h.m6_en_UK_ware.heHE.TinEnStavroSou.incipit
 trMA.Ode4C1H.text = he.h.m6_en_UK_ware.heHE.TinEnStavroSou.text
 
 trMA.Ode4C11.ode = miscellanea_en_UK_ware.misc.Ode4
 trMA.Ode4C11.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode4C11.greekmelody = he.h.m6_en_UK_ware.heHE.TinEnStavroSou.greekname
 trMA.Ode4C11.melody = he.h.m6_en_UK_ware.heHE.TinEnStavroSou.name
 trMA.Ode4C11.incipit = "…"
 trMA.Ode4C11.text = ""
@@ -612,12 +623,14 @@ trMA.Ode4K.text = he.h.m6_en_UK_ware.heHE.TinEnStavroSou.text
 
 trMA.Ode5C1H.ode = miscellanea_en_UK_ware.misc.Ode5
 trMA.Ode5C1H.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode5C1H.greekmelody = he.h.m6_en_UK_ware.heHE.TheofaneiasSouChriste.greekname
 trMA.Ode5C1H.melody = he.h.m6_en_UK_ware.heHE.TheofaneiasSouChriste.melody
 trMA.Ode5C1H.incipit = he.h.m6_en_UK_ware.heHE.TheofaneiasSouChriste.incipit
 trMA.Ode5C1H.text = he.h.m6_en_UK_ware.heHE.TheofaneiasSouChriste.text
 
 trMA.Ode5C11.ode = miscellanea_en_UK_ware.misc.Ode5
 trMA.Ode5C11.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode5C11.greekmelody = he.h.m6_en_UK_ware.heHE.TheofaneiasSouChriste.greekname
 trMA.Ode5C11.melody = he.h.m6_en_UK_ware.heHE.TheofaneiasSouChriste.name
 trMA.Ode5C11.incipit = "…"
 trMA.Ode5C11.text = ""
@@ -642,12 +655,14 @@ trMA.Ode5K.text = he.h.m6_en_UK_ware.heHE.TheofaneiasSouChriste.text
 
 trMA.Ode6C1H.ode = miscellanea_en_UK_ware.misc.Ode6
 trMA.Ode6C1H.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode6C1H.greekmelody = he.h.m6_en_UK_ware.heHE.SyneschethiAllOuKateschethi.greekname
 trMA.Ode6C1H.melody = he.h.m6_en_UK_ware.heHE.SyneschethiAllOuKateschethi.melody
 trMA.Ode6C1H.incipit = he.h.m6_en_UK_ware.heHE.SyneschethiAllOuKateschethi.incipit
 trMA.Ode6C1H.text = he.h.m6_en_UK_ware.heHE.SyneschethiAllOuKateschethi.text
 
 trMA.Ode6C11.ode = miscellanea_en_UK_ware.misc.Ode6
 trMA.Ode6C11.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode6C11.greekmelody = he.h.m6_en_UK_ware.heHE.SyneschethiAllOuKateschethi.greekname
 trMA.Ode6C11.melody = he.h.m6_en_UK_ware.heHE.SyneschethiAllOuKateschethi.name
 trMA.Ode6C11.incipit = "…"
 trMA.Ode6C11.text = ""
@@ -694,12 +709,14 @@ trSY.lastline = ""
 
 trMA.Ode7C1H.ode = miscellanea_en_UK_ware.misc.Ode7
 trMA.Ode7C1H.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode7C1H.greekmelody = he.h.m6_en_UK_ware.heHE.AfrastonThavma.greekname
 trMA.Ode7C1H.melody = he.h.m6_en_UK_ware.heHE.AfrastonThavma.melody
 trMA.Ode7C1H.incipit = he.h.m6_en_UK_ware.heHE.AfrastonThavma.incipit
 trMA.Ode7C1H.text = he.h.m6_en_UK_ware.heHE.AfrastonThavma.text
 
 trMA.Ode7C11.ode = miscellanea_en_UK_ware.misc.Ode7
 trMA.Ode7C11.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode7C11.greekmelody = he.h.m6_en_UK_ware.heHE.AfrastonThavma.greekname
 trMA.Ode7C11.melody = he.h.m6_en_UK_ware.heHE.AfrastonThavma.name
 trMA.Ode7C11.incipit = "…"
 trMA.Ode7C11.text = ""
@@ -730,12 +747,14 @@ trMA.Ode7K.text = he.h.m6_en_UK_ware.heHE.AfrastonThavma.text
 
 trMA.Ode8C1H.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C1H.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode8C1H.greekmelody = he.h.m6_en_UK_ware.heHE.EkstithiFrittonOurane.greekname
 trMA.Ode8C1H.melody = he.h.m6_en_UK_ware.heHE.EkstithiFrittonOurane.melody
 trMA.Ode8C1H.incipit = he.h.m6_en_UK_ware.heHE.EkstithiFrittonOurane.incipit
 trMA.Ode8C1H.text = he.h.m6_en_UK_ware.heHE.EkstithiFrittonOurane.text
 
 trMA.Ode8C11.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C11.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode8C11.greekmelody = he.h.m6_en_UK_ware.heHE.EkstithiFrittonOurane.greekname
 trMA.Ode8C11.melody = he.h.m6_en_UK_ware.heHE.EkstithiFrittonOurane.name
 trMA.Ode8C11.incipit = "…"
 trMA.Ode8C11.text = ""
@@ -760,12 +779,14 @@ trMA.Ode8K.text = he.h.m6_en_UK_ware.heHE.EkstithiFrittonOurane.text
 
 trMA.Ode9C1H.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C1H.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode9C1H.greekmelody = he.h.m6_en_UK_ware.heHE.MiEpodyrouMouMiter.greekname
 trMA.Ode9C1H.melody = he.h.m6_en_UK_ware.heHE.MiEpodyrouMouMiter.melody
 trMA.Ode9C1H.incipit = he.h.m6_en_UK_ware.heHE.MiEpodyrouMouMiter.incipit
 trMA.Ode9C1H.text = he.h.m6_en_UK_ware.heHE.MiEpodyrouMouMiter.text
 
 trMA.Ode9C11.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode9C11.greekmelody = he.h.m6_en_UK_ware.heHE.MiEpodyrouMouMiter.greekname
 trMA.Ode9C11.melody = he.h.m6_en_UK_ware.heHE.MiEpodyrouMouMiter.name
 trMA.Ode9C11.incipit = "…"
 trMA.Ode9C11.text = ""

@@ -28,11 +28,13 @@ trVE.AposTheotokion.melody = ""
 trVE.AposTheotokion.text = "" //oc.m8.d2_en_UK_ware.ocMA.AposTheotokion.text
 
 trMA.Kathisma21.mode = miscellanea_en_UK_ware.misc.Mode1
+trMA.Kathisma21.greekmelody = he.a.m1_en_UK_ware.heAU.TouLithouSfragisthentos.greekname
 trMA.Kathisma21.melody = he.a.m1_en_UK_ware.heAU.TouLithouSfragisthentos.name
 trMA.Kathisma21.incipit = "The gateway to divine repentance…"
 trMA.Kathisma21.text = "The gateway to divine repentance has been opened: let us enter eagerly, purified in our bodies and observing abstinence from food and passions, as obedient servants of Christ who has called the world into the heavenly Kingdom. Let us offer to the King of all a tenth part of the whole year, that we may look with love upon His Resurrection."
 
 trMA.Kathisma22.mode = miscellanea_en_UK_ware.misc.Mode1
+trMA.Kathisma22.greekmelody = he.a.m1_en_UK_ware.heAU.TouLithouSfragisthentos.greekname
 trMA.Kathisma22.melody = he.a.m1_en_UK_ware.heAU.TouLithouSfragisthentos.name
 trMA.Kathisma22.incipit = "O most holy Virgin, thou…"
 trMA.Kathisma22.text = "O most holy Virgin, thou hast carried in thine arms the Creator, God made flesh. Stretch those arms out towards Him, and entreat Him to deliver us from every passion, danger and temptation, for with love we praise thee and we cry aloud: Glory be to Him who dwelt in thee; glory be to Him who from thee came forth; glory be to Him who through thy childbearing has set us free."
@@ -46,6 +48,7 @@ trMA.C1.verse = ""
 
 trMA.Ode1C11.ode = miscellanea_en_UK_ware.misc.Ode1
 trMA.Ode1C11.mode = miscellanea_en_UK_ware.misc.Mode1
+trMA.Ode1C11.greekmelody = he.h.m1_en_UK_ware.heHE.OdinEpinikion.greekname
 trMA.Ode1C11.melody = he.h.m1_en_UK_ware.heHE.OdinEpinikion.name
 trMA.Ode1C11.incipit = "Today is the joyful forefeast…"
 trMA.Ode1C11.text = "Today is the joyful forefeast of the time of abstinence, the bright threshold of the Fast. Therefore, brethren, together let us run the race with confident hope and with great eagerness."
@@ -73,6 +76,7 @@ trMA.C2.verse = ""
 
 trMA.Ode1C21.ode = miscellanea_en_UK_ware.misc.Ode1
 trMA.Ode1C21.mode = miscellanea_en_UK_ware.misc.Mode1
+trMA.Ode1C21.greekmelody = he.h.m1_en_UK_ware.heHE.OdinEpinikion.greekname
 trMA.Ode1C21.melody = he.h.m1_en_UK_ware.heHE.OdinEpinikion.name
 trMA.Ode1C21.incipit = "Behold, all who love God…"
 trMA.Ode1C21.text = "Behold, all who love God, the door of repentance is already opened: come, let us make haste to enter in, before Christ closes it and we are shut out in our unworthiness."
@@ -97,12 +101,14 @@ trMA.Ode1C2T.text = "Most pure Virgin, in thee are the bounds of nature overcome
 
 trMA.Ode1C2H.ode = miscellanea_en_UK_ware.misc.Ode1
 trMA.Ode1C2H.mode = miscellanea_en_UK_ware.misc.Mode1
+trMA.Ode1C2H.greekmelody = he.h.m1_en_UK_ware.heHE.OdinEpinikion.greekname
 trMA.Ode1C2H.melody = he.h.m1_en_UK_ware.heHE.OdinEpinikion.melody
 trMA.Ode1C2H.incipit = he.h.m1_en_UK_ware.heHE.OdinEpinikion.incipit
 trMA.Ode1C2H.text = he.h.m1_en_UK_ware.heHE.OdinEpinikion.text
 
 trMA.Ode8C11.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C11.mode = miscellanea_en_UK_ware.misc.Mode1
+trMA.Ode8C11.greekmelody = he.h.m1_en_UK_ware.heHE.OnFrittousinAngeloi.greekname
 trMA.Ode8C11.melody = he.h.m1_en_UK_ware.heHE.OnFrittousinAngeloi.name
 trMA.Ode8C11.incipit = "Wasting my whole life as…"
 trMA.Ode8C11.text = "Wasting my whole life as the Prodigal, I have fallen into bondage to bitter and evil citizens; but reject me not, O Christ, as I seek now to turn back to Thy mercy."
@@ -127,6 +133,7 @@ trMA.Ode8C1T.text = "O Virgin worthy of all praise, the only sure hope of the fa
 
 trMA.Ode8C21.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C21.mode = miscellanea_en_UK_ware.misc.Mode1
+trMA.Ode8C21.greekmelody = he.h.m1_en_UK_ware.heHE.YmnonSoiProsferomen.greekname
 trMA.Ode8C21.melody = he.h.m1_en_UK_ware.heHE.YmnonSoiProsferomen.name
 trMA.Ode8C21.incipit = "Now is the season of…"
 trMA.Ode8C21.text = "Now is the season of repentance; let us begin it joyfully, O brethren, as we cry: O ye works of the Lord, bless ye the Lord."
@@ -151,12 +158,14 @@ trMA.Ode8C2T.text = "Rejoice, pure and blessed Virgin! Hail, Handmaid and Mother
 
 trMA.Ode8C2H.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C2H.mode = miscellanea_en_UK_ware.misc.Mode1
+trMA.Ode8C2H.greekmelody = he.h.m1_en_UK_ware.heHE.YmnonSoiProsferomen.greekname
 trMA.Ode8C2H.melody = he.h.m1_en_UK_ware.heHE.YmnonSoiProsferomen.melody
 trMA.Ode8C2H.incipit = he.h.m1_en_UK_ware.heHE.YmnonSoiProsferomen.incipit
 trMA.Ode8C2H.text = he.h.m1_en_UK_ware.heHE.YmnonSoiProsferomen.text
 
 trMA.Ode9C11.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_UK_ware.misc.Mode1
+trMA.Ode9C11.greekmelody = he.h.m1_en_UK_ware.heHE.TinFotoforonNefelin.greekname
 trMA.Ode9C11.melody = he.h.m1_en_UK_ware.heHE.TinFotoforonNefelin.name
 trMA.Ode9C11.incipit = "O ye faithful, with peaceful…"
 trMA.Ode9C11.text = "O ye faithful, with peaceful hearts and in sincerity let us greet the holy season of the Fast: let us each ask for the remission of his sins, that we may be sharers in the joy that comes through forgiveness."
@@ -181,6 +190,7 @@ trMA.Ode9C1T.text = "O Theotokos, hope of those that dwell on earth, cease not t
 
 trMA.Ode9C21.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C21.mode = miscellanea_en_UK_ware.misc.Mode1
+trMA.Ode9C21.greekmelody = he.h.m1_en_UK_ware.heHE.SeTinOratheisan.greekname
 trMA.Ode9C21.melody = he.h.m1_en_UK_ware.heHE.SeTinOratheisan.name
 trMA.Ode9C21.incipit = "The time for repentance has…"
 trMA.Ode9C21.text = "The time for repentance has begun; be not heedless, O my soul. Give bread to the hungry, and pray unto the Lord each day and night and hour, that He may save thee."
@@ -205,6 +215,7 @@ trMA.Ode9C2T.text = "O Virgin, thou art the glory, hope and protection of the fa
 
 trMA.Ode9C2H.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C2H.mode = miscellanea_en_UK_ware.misc.Mode1
+trMA.Ode9C2H.greekmelody = he.h.m1_en_UK_ware.heHE.SeTinOratheisan.greekname
 trMA.Ode9C2H.melody = he.h.m1_en_UK_ware.heHE.SeTinOratheisan.melody
 trMA.Ode9C2H.incipit = he.h.m1_en_UK_ware.heHE.SeTinOratheisan.incipit
 trMA.Ode9C2H.text = he.h.m1_en_UK_ware.heHE.SeTinOratheisan.text

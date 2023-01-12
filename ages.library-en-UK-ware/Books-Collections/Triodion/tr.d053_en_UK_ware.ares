@@ -15,11 +15,13 @@ trHO.note2 = ""
 trCO.header = ""
 
 trVE.Stichera01.mode = miscellanea_en_UK_ware.misc.Mode8
+trVE.Stichera01.greekmelody = he.a.m8_en_UK_ware.heAU.TiYmasKalesomen.greekname
 trVE.Stichera01.melody = he.a.m8_en_UK_ware.heAU.TiYmasKalesomen.name
 trVE.Stichera01.incipit = " O ye faithful, taking…"
 trVE.Stichera01.text = " O ye faithful, taking love as our food, through abstinence let us gain control over our passions; and let us strive to live a life acceptable to God, who for our sakes was raised upon the Cross, and His side was pierced by a spear. So shall we enjoy eternal blessedness, and glorify the Saviour of our souls."
 
 trVE.Stichera02.mode = miscellanea_en_UK_ware.misc.Mode8
+trVE.Stichera02.greekmelody = he.a.m8_en_UK_ware.heAU.TiYmasKalesomen.greekname
 trVE.Stichera02.melody = he.a.m8_en_UK_ware.heAU.TiYmasKalesomen.name
 trVE.Stichera02.incipit = "Through a tree we once…"
 trVE.Stichera02.text = "Through a tree we once found death, but now we find life again through the Tree of the Cross. Let us then put to death the impulses of the passions; and with all the faithful let us pray to the Benefactor of all: that, shining with the radiance of divine actions and made beautiful by the virtues, we may attain the holy Resurrection and glorify the Saviour of our souls."
@@ -45,16 +47,19 @@ trVE.AposMartyric.incipit = "The martyrs, O Lord, forgetting…"
 trVE.AposMartyric.text = "The martyrs, O Lord, forgetting the things of the present life, and despising torture in their longing for the life to come, were granted this eternal life as their inheritance, and now they rejoice with the angels. At their supplications bestow upon Thy people Thy great mercy."
 
 trVE.AposTheotokion.mode = miscellanea_en_UK_ware.misc.Mode8
+trVE.AposTheotokion.greekmelody = he.a.m8_en_UK_ware.heAU.KyrieEiKaiKritirio.greekname
 trVE.AposTheotokion.melody = he.a.m8_en_UK_ware.heAU.KyrieEiKaiKritirio.name
 trVE.AposTheotokion.incipit = "O Lord, the Sun of…"
 trVE.AposTheotokion.text = "O Lord, the Sun of righteousness, when the sun beheld Thee hanging on the Wood, it hid its rays, and the light of the moon was changed to darkness; and Thine all-blameless Mother was pierced to the very heart."
 
 trMA.Kathisma21.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Kathisma21.greekmelody = he.a.m8_en_UK_ware.heAU.ToProstachthen.greekname
 trMA.Kathisma21.melody = he.a.m8_en_UK_ware.heAU.ToProstachthen.name
 trMA.Kathisma21.incipit = "Sinfully Adam ate from the…"
 trMA.Kathisma21.text = "Sinfully Adam ate from the tree, and reaped in bitterness the fruits of his greed; but Thou wast lifted on the Tree, O merciful Lord, and hast delivered him from his grievous condemnation. Therefore we raise our cry to Thee: Grant us, Master, to abstain from the fruit that brings corruption, and to do Thy will, that we may receive Thy mercy."
 
 trMA.Kathisma22.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Kathisma22.greekmelody = he.a.m8_en_UK_ware.heAU.ToProstachthen.greekname
 trMA.Kathisma22.melody = he.a.m8_en_UK_ware.heAU.ToProstachthen.name
 trMA.Kathisma22.incipit = "O holy Virgin, Christ took…"
 trMA.Kathisma22.text = "O holy Virgin, Christ took flesh from thy pure womb and was born from thee in ways beyond our understanding; seeing Him hang between two evildoers on the Cross, thy heart was filled with anguish, and with a mother's grief thou hast cried out: 'Woe is me, my Child! What is this divine and ineffable act of Thy loving providence, whereby Thou hast restored to life Thy creature? I sing the praises of Thy deep compassion.'"
@@ -75,6 +80,7 @@ trMA.C2.poet = poets_en_UK_ware.po.Theodorou
 
 trMA.Ode3C11.ode = miscellanea_en_UK_ware.misc.Ode3
 trMA.Ode3C11.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode3C11.greekmelody = he.h.m8_en_UK_ware.heHE.OuraniasApsidos.greekname
 trMA.Ode3C11.melody = he.h.m8_en_UK_ware.heHE.OuraniasApsidos.name
 trMA.Ode3C11.incipit = "Stretching out Thine hands upon…"
 trMA.Ode3C11.text = "Stretching out Thine hands upon the Cross, O just Judge, Thou hast condemned the enmity that separated man from God; and now save me the prodigal condemned by my sins, for I have provoked Thee, O longsuffering Saviour."
@@ -99,6 +105,7 @@ trMA.Ode3C1T.text = "All-holy Lady, Gate of salvation, Bridge to God, Protector 
 
 trMA.Ode3C21.ode = miscellanea_en_UK_ware.misc.Ode3
 trMA.Ode3C21.mode = miscellanea_en_UK_ware.misc.Mode2
+trMA.Ode3C21.greekmelody = he.h.m2_en_UK_ware.heHE.SteirothentaMouTonNoun.greekname
 trMA.Ode3C21.melody = he.h.m2_en_UK_ware.heHE.SteirothentaMouTonNoun.name
 trMA.Ode3C21.incipit = "In Thy tender love Thou…"
 trMA.Ode3C21.text = "In Thy tender love Thou hast mounted on the Cross, O Christ, and drawn me up from the pit of the passions, raising me to heaven."
@@ -129,12 +136,14 @@ trMA.Ode3C2A1.text = "For my sake, who have provoked Thee by my disobedience, Th
 
 trMA.Ode3C2H.ode = miscellanea_en_UK_ware.misc.Ode3
 trMA.Ode3C2H.mode = miscellanea_en_UK_ware.misc.Mode2
+trMA.Ode3C2H.greekmelody = he.h.m2_en_UK_ware.heHE.SteirothentaMouTonNoun.greekname
 trMA.Ode3C2H.melody = he.h.m2_en_UK_ware.heHE.SteirothentaMouTonNoun.melody
 trMA.Ode3C2H.incipit = he.h.m2_en_UK_ware.heHE.SteirothentaMouTonNoun.incipit
 trMA.Ode3C2H.text = he.h.m2_en_UK_ware.heHE.SteirothentaMouTonNoun.text
 
 trMA.Ode8C11.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C11.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode8C11.greekmelody = he.h.m8_en_UK_ware.heHE.EptaplasiosKaminon.greekname
 trMA.Ode8C11.melody = he.h.m8_en_UK_ware.heHE.EptaplasiosKaminon.name
 trMA.Ode8C11.incipit = "With Thine unsleeping eye look…"
 trMA.Ode8C11.text = "With Thine unsleeping eye look upon me and take pity on me: for I am held fast by the drowsiness of sloth and lie upon the bed of the passions, a slave to the sleep of sensual pleasure. Thou hast bowed Thine head upon the Cross, O Christ, and of Thine own will Thou hast awaked from sleep; and Thou hast driven away the night of sin, for Thou art the Light of righteousness."
@@ -159,6 +168,7 @@ trMA.Ode8C1T.text = "Most pure Mother of God, cleanse the wounds of my soul and 
 
 trMA.Ode8C21.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C21.mode = miscellanea_en_UK_ware.misc.Mode2
+trMA.Ode8C21.greekmelody = he.h.m2_en_UK_ware.heHE.TonEnFonaisAngelikais.greekname
 trMA.Ode8C21.melody = he.h.m2_en_UK_ware.heHE.TonEnFonaisAngelikais.name
 trMA.Ode8C21.incipit = "The angels and we men…"
 trMA.Ode8C21.text = "The angels and we men born on earth sing for ever the praises of Jesus, who was crucified in the flesh, yet did not suffer in His divine nature."
@@ -189,12 +199,14 @@ trMA.Ode8C2A1.text = "Solely for the sake of my salvation, O Christ, Thou hast c
 
 trMA.Ode8C2H.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C2H.mode = miscellanea_en_UK_ware.misc.Mode2
+trMA.Ode8C2H.greekmelody = he.h.m2_en_UK_ware.heHE.TonEnFonaisAngelikais.greekname
 trMA.Ode8C2H.melody = he.h.m2_en_UK_ware.heHE.TonEnFonaisAngelikais.melody
 trMA.Ode8C2H.incipit = he.h.m2_en_UK_ware.heHE.TonEnFonaisAngelikais.incipit
 trMA.Ode8C2H.text = he.h.m2_en_UK_ware.heHE.TonEnFonaisAngelikais.text
 
 trMA.Ode9C11.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode9C11.greekmelody = he.h.m8_en_UK_ware.heHE.ExestiEpiTouto.greekname
 trMA.Ode9C11.melody = he.h.m8_en_UK_ware.heHE.ExestiEpiTouto.name
 trMA.Ode9C11.incipit = "Seeing Thee nailed upon the…"
 trMA.Ode9C11.text = "Seeing Thee nailed upon the Cross, O King of all, the sun hid its rays; and the whole earth was seized with trembling, looking on Thee suffering of Thine own will, though Thou art by nature impassible. And so I pray to Thee, O Christ the physician: Heal the passions of my soul."
@@ -219,6 +231,7 @@ trMA.Ode9C1T.text = "Without seed, O Virgin, and without the desires of the fles
 
 trMA.Ode9C21.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C21.mode = miscellanea_en_UK_ware.misc.Mode2
+trMA.Ode9C21.greekmelody = he.h.m2_en_UK_ware.heHE.TinParthenianSou.greekname
 trMA.Ode9C21.melody = he.h.m2_en_UK_ware.heHE.TinParthenianSou.name
 trMA.Ode9C21.incipit = "Of Thine own will, O…"
 trMA.Ode9C21.text = "Of Thine own will, O our Saviour, Thou hast endured Crucifixion, to deliver us all from death and to give us life."
@@ -249,6 +262,7 @@ trMA.Ode9C2A1.text = "I sing of Thy lance, I praise Thy nails, the sponge, the r
 
 trMA.Ode9C2H.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C2H.mode = miscellanea_en_UK_ware.misc.Mode2
+trMA.Ode9C2H.greekmelody = he.h.m2_en_UK_ware.heHE.TinParthenianSou.greekname
 trMA.Ode9C2H.melody = he.h.m2_en_UK_ware.heHE.TinParthenianSou.melody
 trMA.Ode9C2H.incipit = he.h.m2_en_UK_ware.heHE.TinParthenianSou.incipit
 trMA.Ode9C2H.text = he.h.m2_en_UK_ware.heHE.TinParthenianSou.text

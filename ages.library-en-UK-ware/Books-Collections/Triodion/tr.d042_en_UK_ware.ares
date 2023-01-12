@@ -64,6 +64,7 @@ trMA.C2.verse = ""
 
 trMA.Ode6C11.ode = miscellanea_en_UK_ware.misc.Ode6
 trMA.Ode6C11.mode = miscellanea_en_UK_ware.misc.Mode4
+trMA.Ode6C11.greekmelody = he.h.m4_en_UK_ware.heHE.IlthonEisTaVathi.greekname
 trMA.Ode6C11.melody = he.h.m4_en_UK_ware.heHE.IlthonEisTaVathi.name
 trMA.Ode6C11.incipit = "O victorious martyrs, worthy of…"
 trMA.Ode6C11.text = "O victorious martyrs, worthy of our praise, with the drops of your blood ye have watered the hearts of the Orthodox and drowned the hosts of the ungodly."
@@ -88,6 +89,7 @@ trMA.Ode6C1T.text = "Accept these our prayers, O Virgin, and entreat thy Son tha
 
 trMA.Ode6C21.ode = miscellanea_en_UK_ware.misc.Ode6
 trMA.Ode6C21.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode6C21.greekmelody = he.h.m8_en_UK_ware.heHE.SynechomenonDexaiMe.greekname
 trMA.Ode6C21.melody = he.h.m8_en_UK_ware.heHE.SynechomenonDexaiMe.name
 trMA.Ode6C21.incipit = "Now is the festival of…"
 trMA.Ode6C21.text = "Now is the festival of the martyrs: with all haste let us meet together and glorify their sufferings, and let us sing in praise of Christ who has granted to them victors' crowns."
@@ -124,12 +126,14 @@ trMA.Ode6C2A2.text = "Free among the dead, as Ruler over life and death, do Thou
 
 trMA.Ode6C2H.ode = miscellanea_en_UK_ware.misc.Ode6
 trMA.Ode6C2H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode6C2H.greekmelody = he.h.m8_en_UK_ware.heHE.SynechomenonDexaiMe.greekname
 trMA.Ode6C2H.melody = he.h.m8_en_UK_ware.heHE.SynechomenonDexaiMe.melody
 trMA.Ode6C2H.incipit = he.h.m8_en_UK_ware.heHE.SynechomenonDexaiMe.incipit
 trMA.Ode6C2H.text = he.h.m8_en_UK_ware.heHE.SynechomenonDexaiMe.text
 
 trMA.Ode7C11.ode = miscellanea_en_UK_ware.misc.Ode7
 trMA.Ode7C11.mode = miscellanea_en_UK_ware.misc.Mode4
+trMA.Ode7C11.greekmelody = he.h.m4_en_UK_ware.heHE.NeoiTreisEnVavyloni.greekname
 trMA.Ode7C11.melody = he.h.m4_en_UK_ware.heHE.NeoiTreisEnVavyloni.name
 trMA.Ode7C11.incipit = "To what shalt thou be…"
 trMA.Ode7C11.text = "To what shalt thou be likened, O my soul, in thy love for brutish passions? Who has ever surpassed thee in sin? But cry aloud to Christ: In Thy love, save me."
@@ -154,6 +158,7 @@ trMA.Ode7C1T.text = "Outside the laws of nature thou hast borne the Creator made
 
 trMA.Ode7C21.ode = miscellanea_en_UK_ware.misc.Ode7
 trMA.Ode7C21.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode7C21.greekmelody = he.h.m8_en_UK_ware.heHE.ODiAngelouPaidas.greekname
 trMA.Ode7C21.melody = he.h.m8_en_UK_ware.heHE.ODiAngelouPaidas.name
 trMA.Ode7C21.incipit = "Thou hast established the memorials…"
 trMA.Ode7C21.text = "Thou hast established the memorials of Thine honoured martyrs for the joy of the Church and the consolation of our souls. O God of our fathers, blessed art Thou."
@@ -190,12 +195,14 @@ trMA.Ode7C2A2.text = "Giver of life, immortal King, grant Thine eternal life to 
 
 trMA.Ode7C2H.ode = miscellanea_en_UK_ware.misc.Ode7
 trMA.Ode7C2H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode7C2H.greekmelody = he.h.m8_en_UK_ware.heHE.ODiAngelouPaidas.greekname
 trMA.Ode7C2H.melody = he.h.m8_en_UK_ware.heHE.ODiAngelouPaidas.melody
 trMA.Ode7C2H.incipit = he.h.m8_en_UK_ware.heHE.ODiAngelouPaidas.incipit
 trMA.Ode7C2H.text = he.h.m8_en_UK_ware.heHE.ODiAngelouPaidas.text
 
 trMA.Ode8C11.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C11.mode = miscellanea_en_UK_ware.misc.Mode4
+trMA.Ode8C11.greekmelody = he.h.m4_en_UK_ware.heHE.LytrotaTouPantos.greekname
 trMA.Ode8C11.melody = he.h.m4_en_UK_ware.heHE.LytrotaTouPantos.name
 trMA.Ode8C11.incipit = "O martyrs, ye advanced with…"
 trMA.Ode8C11.text = "O martyrs, ye advanced with fearless mind to the struggles and sufferings of the arena; ye endured pain in your flesh, and now ye are translated to a life without pain or sorrow, and ye lighten all the sorrows of our hearts."
@@ -220,6 +227,7 @@ trMA.Ode8C1T.text = "O Theotokos, who hast borne the sinless God, through thine 
 
 trMA.Ode8C21.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C21.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode8C21.greekmelody = he.h.m8_en_UK_ware.heHE.OiTheorrimonesPaides.greekname
 trMA.Ode8C21.melody = he.h.m8_en_UK_ware.heHE.OiTheorrimonesPaides.name
 trMA.Ode8C21.incipit = "O victorious martyrs, ye endured…"
 trMA.Ode8C21.text = "O victorious martyrs, ye endured fiery torments as if they were dew, and with joy ye cried aloud: O ye works of the Lord, bless ye the Lord."
@@ -256,12 +264,14 @@ trMA.Ode8C2A2.text = "Thou hast destroyed the power of death by Thy Rising from 
 
 trMA.Ode8C2H.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C2H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode8C2H.greekmelody = he.h.m8_en_UK_ware.heHE.OiTheorrimonesPaides.greekname
 trMA.Ode8C2H.melody = he.h.m8_en_UK_ware.heHE.OiTheorrimonesPaides.melody
 trMA.Ode8C2H.incipit = he.h.m8_en_UK_ware.heHE.OiTheorrimonesPaides.incipit
 trMA.Ode8C2H.text = he.h.m8_en_UK_ware.heHE.OiTheorrimonesPaides.text
 
 trMA.Ode9C11.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_UK_ware.misc.Mode4
+trMA.Ode9C11.greekmelody = he.h.m4_en_UK_ware.heHE.EvaMenToTisParakois.greekname
 trMA.Ode9C11.melody = he.h.m4_en_UK_ware.heHE.EvaMenToTisParakois.name
 trMA.Ode9C11.incipit = "Firmly established on the spiritual…"
 trMA.Ode9C11.text = "Firmly established on the spiritual rock, O victorious martyrs, ye remained unshaken by all the cunning assaults of the enemy. I am shaken by soul-corrupting passions: through your prayers to God, make me firm and steadfast."
@@ -286,6 +296,7 @@ trMA.Ode9C1T.text = "Thy holy womb, pure Virgin, became the dwelling-place of th
 
 trMA.Ode9C21.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C21.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode9C21.greekmelody = he.h.m8_en_UK_ware.heHE.MegalynomenSeTinMiteraTouFotos.greekname
 trMA.Ode9C21.melody = he.h.m8_en_UK_ware.heHE.MegalynomenSeTinMiteraTouFotos.name
 trMA.Ode9C21.incipit = "O ye faithful, let us…"
 trMA.Ode9C21.text = "O ye faithful, let us celebrate the memorial of the martyrs, and praise their struggles and their sufferings, that we may share in their glory."
@@ -322,11 +333,13 @@ trMA.Ode9C2A2.text = "Make Thy departed servants to dwell, O Son of God, where t
 
 trMA.Ode9C2H.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C2H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode9C2H.greekmelody = he.h.m8_en_UK_ware.heHE.MegalynomenSeTinMiteraTouFotos.greekname
 trMA.Ode9C2H.melody = he.h.m8_en_UK_ware.heHE.MegalynomenSeTinMiteraTouFotos.melody
 trMA.Ode9C2H.incipit = he.h.m8_en_UK_ware.heHE.MegalynomenSeTinMiteraTouFotos.incipit
 trMA.Ode9C2H.text = he.h.m8_en_UK_ware.heHE.MegalynomenSeTinMiteraTouFotos.text
 
 trMA.Exaposteilarion1.mode = miscellanea_en_UK_ware.misc.Mode3
+trMA.Exaposteilarion1.greekmelody = he.a.m3_en_UK_ware.heAU.OOuranonToisAstrois.greekname
 trMA.Exaposteilarion1.melody = he.a.m3_en_UK_ware.heAU.OOuranonToisAstrois.name
 trMA.Exaposteilarion1.incipit = tr.d014_en_UK_ware.trMA.Exaposteilarion1.incipit
 trMA.Exaposteilarion1.text = tr.d014_en_UK_ware.trMA.Exaposteilarion1.text

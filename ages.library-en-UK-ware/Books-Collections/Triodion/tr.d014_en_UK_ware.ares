@@ -15,16 +15,19 @@ trHO.note2 = ""
 trCO.header = ""
 
 trVE.Stichera01.mode = miscellanea_en_UK_ware.misc.Mode8
+trVE.Stichera01.greekmelody = he.a.m8_en_UK_ware.heAU.OEnEdemParadeisos.greekname
 trVE.Stichera01.melody = he.a.m8_en_UK_ware.heAU.OEnEdemParadeisos.name
 trVE.Stichera01.incipit = "…"
 trVE.Stichera01.text = ""
 
 trVE.Stichera02.mode = miscellanea_en_UK_ware.misc.Mode8
+trVE.Stichera02.greekmelody = he.a.m8_en_UK_ware.heAU.OEnEdemParadeisos.greekname
 trVE.Stichera02.melody = he.a.m8_en_UK_ware.heAU.OEnEdemParadeisos.name
 trVE.Stichera02.incipit = "…"
 trVE.Stichera02.text = ""
 
 trVE.Stichera03.mode = miscellanea_en_UK_ware.misc.Mode8
+trVE.Stichera03.greekmelody = he.a.m8_en_UK_ware.heAU.OEnEdemParadeisos.greekname
 trVE.Stichera03.melody = he.a.m8_en_UK_ware.heAU.OEnEdemParadeisos.name
 trVE.Stichera03.incipit = "…"
 trVE.Stichera03.text = ""
@@ -80,12 +83,14 @@ trMA.C1.verse = //prayers_en_UK_ware.pr.verse_God.text
 
 trMA.Ode1C1H.ode = miscellanea_en_UK_ware.misc.Ode1
 trMA.Ode1C1H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode1C1H.greekmelody = he.h.m8_en_UK_ware.heHE.AsmaAnapempsomen.greekname
 trMA.Ode1C1H.melody = he.h.m8_en_UK_ware.heHE.AsmaAnapempsomen.melody
 trMA.Ode1C1H.incipit = he.h.m8_en_UK_ware.heHE.AsmaAnapempsomen.incipit
 trMA.Ode1C1H.text = he.h.m8_en_UK_ware.heHE.AsmaAnapempsomen.text
 
 trMA.Ode1C11.ode = miscellanea_en_UK_ware.misc.Ode1
 trMA.Ode1C11.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode1C11.greekmelody = he.h.m8_en_UK_ware.heHE.AsmaAnapempsomen.greekname
 trMA.Ode1C11.melody = he.h.m8_en_UK_ware.heHE.AsmaAnapempsomen.name
 trMA.Ode1C11.incipit = "As we celebrate today the…"
 trMA.Ode1C11.text = "As we celebrate today the memory of the dead from the beginning, let us all entreat Christ to deliver from the everlasting fire those who have fallen asleep in faith and in the hope of eternal life."
@@ -134,12 +139,14 @@ trMA.Ode1K.text = he.h.m8_en_UK_ware.heHE.AsmaAnapempsomen.text
 
 trMA.Ode2C1H.ode = miscellanea_en_UK_ware.misc.Ode2
 trMA.Ode2C1H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode2C1H.greekmelody = he.h.m8_en_UK_ware.heHE.IdeteIdeteOProTonAionon.greekname
 trMA.Ode2C1H.melody = he.h.m8_en_UK_ware.heHE.IdeteIdeteOProTonAionon.melody
 trMA.Ode2C1H.incipit = he.h.m8_en_UK_ware.heHE.IdeteIdeteOProTonAionon.incipit
 trMA.Ode2C1H.text = he.h.m8_en_UK_ware.heHE.IdeteIdeteOProTonAionon.text
 
 trMA.Ode2C11.ode = miscellanea_en_UK_ware.misc.Ode2
 trMA.Ode2C11.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode2C11.greekmelody = he.h.m8_en_UK_ware.heHE.IdeteIdeteOProTonAionon.greekname
 trMA.Ode2C11.melody = he.h.m8_en_UK_ware.heHE.IdeteIdeteOProTonAionon.name
 trMA.Ode2C11.incipit = "See now, see that I…"
 trMA.Ode2C11.text = "See now, see that I am your God, who in righteous judgement have fixed the bounds of life, bringing from corruption into incorruption all that have fallen asleep in the hope of eternal resurrection."
@@ -182,12 +189,14 @@ trMA.Ode2K.text = he.h.m8_en_UK_ware.heHE.IdeteIdeteOProTonAionon.text
 
 trMA.Ode3C1H.ode = miscellanea_en_UK_ware.misc.Ode3
 trMA.Ode3C1H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode3C1H.greekmelody = he.h.m8_en_UK_ware.heHE.OStereosasEnTiCheiriSou.greekname
 trMA.Ode3C1H.melody = he.h.m8_en_UK_ware.heHE.OStereosasEnTiCheiriSou.melody
 trMA.Ode3C1H.incipit = he.h.m8_en_UK_ware.heHE.OStereosasEnTiCheiriSou.incipit
 trMA.Ode3C1H.text = he.h.m8_en_UK_ware.heHE.OStereosasEnTiCheiriSou.text
 
 trMA.Ode3C11.ode = miscellanea_en_UK_ware.misc.Ode3
 trMA.Ode3C11.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode3C11.greekmelody = he.h.m8_en_UK_ware.heHE.OStereosasEnTiCheiriSou.greekname
 trMA.Ode3C11.melody = he.h.m8_en_UK_ware.heHE.OStereosasEnTiCheiriSou.name
 trMA.Ode3C11.incipit = "To those who have passed…"
 trMA.Ode3C11.text = "To those who have passed through the course of life in the glory of the faith, grant a crown of righteousness, O God, and count them worthy to enjoy eternal blessings."
@@ -229,23 +238,27 @@ trMA.Ode3K.incipit = he.h.m8_en_UK_ware.heHE.OStereosasEnTiCheiriSou.incipit
 trMA.Ode3K.text = he.h.m8_en_UK_ware.heHE.OStereosasEnTiCheiriSou.text
 
 trMA.Ode3Kathisma1.mode = miscellanea_en_UK_ware.misc.Mode5
+trMA.Ode3Kathisma1.greekmelody = he.a.m5_en_UK_ware.heAU.TonSynanarchonLogon.greekname
 trMA.Ode3Kathisma1.melody = he.a.m5_en_UK_ware.heAU.TonSynanarchonLogon.name
 trMA.Ode3Kathisma1.incipit = "O Saviour, who for our…"
 trMA.Ode3Kathisma1.text = "O Saviour, who for our sakes hast endured the Cross and death, who hast put hell to death and raised the dead, give rest, O God, in Thy love for mankind, to those who have departed from us; and at Thy dread and fearful Coming, O Giver of Life, in the multitude of Thy mercies count them worthy of Thy Kingdom."
 
 trMA.Ode3Kathisma2.mode = miscellanea_en_UK_ware.misc.Mode5
+trMA.Ode3Kathisma2.greekmelody = he.a.m5_en_UK_ware.heAU.TonSynanarchonLogon.greekname
 trMA.Ode3Kathisma2.melody = he.a.m5_en_UK_ware.heAU.TonSynanarchonLogon.name
 trMA.Ode3Kathisma2.incipit = "Grant thy swift protection, thy…"
 trMA.Ode3Kathisma2.text = "Grant thy swift protection, thy help and mercy, to thy servants; calm the waves of my vain thoughts, O pure Theotokos, and raise up my fallen soul. For I know, I know, O Virgin, that thou hast power for all thou dost desire."
 
 trMA.Ode4C1H.ode = miscellanea_en_UK_ware.misc.Ode4
 trMA.Ode4C1H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode4C1H.greekmelody = he.h.m8_en_UK_ware.heHE.ExOrousKataskiou.greekname
 trMA.Ode4C1H.melody = he.h.m8_en_UK_ware.heHE.ExOrousKataskiou.melody
 trMA.Ode4C1H.incipit = he.h.m8_en_UK_ware.heHE.ExOrousKataskiou.incipit
 trMA.Ode4C1H.text = he.h.m8_en_UK_ware.heHE.ExOrousKataskiou.text
 
 trMA.Ode4C11.ode = miscellanea_en_UK_ware.misc.Ode4
 trMA.Ode4C11.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode4C11.greekmelody = he.h.m8_en_UK_ware.heHE.ExOrousKataskiou.greekname
 trMA.Ode4C11.melody = he.h.m8_en_UK_ware.heHE.ExOrousKataskiou.name
 trMA.Ode4C11.incipit = "Fathers and forefathers, grandfathers and…"
 trMA.Ode4C11.text = "Fathers and forefathers, grandfathers and great-grandfathers, those who from the beginning up to these last times have died in holiness of life and in true faith: remember them all, our Saviour."
@@ -288,12 +301,14 @@ trMA.Ode4K.text = he.h.m8_en_UK_ware.heHE.ExOrousKataskiou.text
 
 trMA.Ode5C1H.ode = miscellanea_en_UK_ware.misc.Ode5
 trMA.Ode5C1H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode5C1H.greekmelody = he.h.m8_en_UK_ware.heHE.OrthrizeiToPnevmaMou.greekname
 trMA.Ode5C1H.melody = he.h.m8_en_UK_ware.heHE.OrthrizeiToPnevmaMou.melody
 trMA.Ode5C1H.incipit = he.h.m8_en_UK_ware.heHE.OrthrizeiToPnevmaMou.incipit
 trMA.Ode5C1H.text = he.h.m8_en_UK_ware.heHE.OrthrizeiToPnevmaMou.text
 
 trMA.Ode5C11.ode = miscellanea_en_UK_ware.misc.Ode5
 trMA.Ode5C11.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode5C11.greekmelody = he.h.m8_en_UK_ware.heHE.OrthrizeiToPnevmaMou.greekname
 trMA.Ode5C11.melody = he.h.m8_en_UK_ware.heHE.OrthrizeiToPnevmaMou.name
 trMA.Ode5C11.incipit = "Celebrating today, O Lord, the…"
 trMA.Ode5C11.text = "Celebrating today, O Lord, the memorial of all who from the beginning have died in the true faith, we cry fervently to Thee: Give rest to them all with Thy saints."
@@ -336,12 +351,14 @@ trMA.Ode5K.text = he.h.m8_en_UK_ware.heHE.OrthrizeiToPnevmaMou.text
 
 trMA.Ode6C1H.ode = miscellanea_en_UK_ware.misc.Ode6
 trMA.Ode6C1H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode6C1H.greekmelody = he.h.m8_en_UK_ware.heHE.SynechomenonDexaiMe.greekname
 trMA.Ode6C1H.melody = he.h.m8_en_UK_ware.heHE.SynechomenonDexaiMe.melody
 trMA.Ode6C1H.incipit = he.h.m8_en_UK_ware.heHE.SynechomenonDexaiMe.incipit
 trMA.Ode6C1H.text = he.h.m8_en_UK_ware.heHE.SynechomenonDexaiMe.text
 
 trMA.Ode6C11.ode = miscellanea_en_UK_ware.misc.Ode6
 trMA.Ode6C11.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode6C11.greekmelody = he.h.m8_en_UK_ware.heHE.SynechomenonDexaiMe.greekname
 trMA.Ode6C11.melody = he.h.m8_en_UK_ware.heHE.SynechomenonDexaiMe.name
 trMA.Ode6C11.incipit = "Author of Life, by Thy…"
 trMA.Ode6C11.text = "Author of Life, by Thy Passion Thou hast loosed the pains of death: give rest, our God, to Thy servants who have fallen asleep from the beginning of time."
@@ -410,12 +427,14 @@ trSY.lastline = ""
 
 trMA.Ode7C1H.ode = miscellanea_en_UK_ware.misc.Ode7
 trMA.Ode7C1H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode7C1H.greekmelody = he.h.m8_en_UK_ware.heHE.OEnArchiTinGin.greekname
 trMA.Ode7C1H.melody = he.h.m8_en_UK_ware.heHE.OEnArchiTinGin.melody
 trMA.Ode7C1H.incipit = he.h.m8_en_UK_ware.heHE.OEnArchiTinGin.incipit
 trMA.Ode7C1H.text = he.h.m8_en_UK_ware.heHE.OEnArchiTinGin.text
 
 trMA.Ode7C11.ode = miscellanea_en_UK_ware.misc.Ode7
 trMA.Ode7C11.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode7C11.greekmelody = he.h.m8_en_UK_ware.heHE.OEnArchiTinGin.greekname
 trMA.Ode7C11.melody = he.h.m8_en_UK_ware.heHE.OEnArchiTinGin.name
 trMA.Ode7C11.incipit = "Celebrating the memory of those…"
 trMA.Ode7C11.text = "Celebrating the memory of those who from the beginning have died in the true faith, we cry aloud: Blessed art Thou unto all ages,"
@@ -464,12 +483,14 @@ trMA.Ode7K.text = he.h.m8_en_UK_ware.heHE.OEnArchiTinGin.text
 
 trMA.Ode8C1H.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C1H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode8C1H.greekmelody = he.h.m8_en_UK_ware.heHE.TonEnOreiAgio.greekname
 trMA.Ode8C1H.melody = he.h.m8_en_UK_ware.heHE.TonEnOreiAgio.melody
 trMA.Ode8C1H.incipit = he.h.m8_en_UK_ware.heHE.TonEnOreiAgio.incipit
 trMA.Ode8C1H.text = he.h.m8_en_UK_ware.heHE.TonEnOreiAgio.text
 
 trMA.Ode8C11.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C11.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode8C11.greekmelody = he.h.m8_en_UK_ware.heHE.TonEnOreiAgio.greekname
 trMA.Ode8C11.melody = he.h.m8_en_UK_ware.heHE.TonEnOreiAgio.name
 trMA.Ode8C11.incipit = "Thou hast destroyed the shadow…"
 trMA.Ode8C11.text = "Thou hast destroyed the shadow of death and shone forth from the tomb as the rising sun: make all those from every age who died in faith children of Thy Resurrection, O Lord of glory."
@@ -512,12 +533,14 @@ trMA.Ode8K.text = he.h.m8_en_UK_ware.heHE.TonEnOreiAgio.text
 
 trMA.Ode9C1H.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C1H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode9C1H.greekmelody = he.h.m8_en_UK_ware.heHE.TonProdilothenta.greekname
 trMA.Ode9C1H.melody = he.h.m8_en_UK_ware.heHE.TonProdilothenta.melody
 trMA.Ode9C1H.incipit = he.h.m8_en_UK_ware.heHE.TonProdilothenta.incipit
 trMA.Ode9C1H.text = he.h.m8_en_UK_ware.heHE.TonProdilothenta.text
 
 trMA.Ode9C11.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode9C11.greekmelody = he.h.m8_en_UK_ware.heHE.TonProdilothenta.greekname
 trMA.Ode9C11.melody = he.h.m8_en_UK_ware.heHE.TonProdilothenta.name
 trMA.Ode9C11.incipit = "Where Thy saints dwell in…"
 trMA.Ode9C11.text = "Where Thy saints dwell in joy, O Lord, grant that all from every age who fell asleep in faith and hope may also rejoice and be glad."
@@ -565,21 +588,25 @@ trMA.Ode9K.incipit = he.h.m8_en_UK_ware.heHE.TonProdilothenta.incipit
 trMA.Ode9K.text = he.h.m8_en_UK_ware.heHE.TonProdilothenta.text
 
 trMA.Exaposteilarion1.mode = miscellanea_en_UK_ware.misc.Mode3
+trMA.Exaposteilarion1.greekmelody = he.a.m3_en_UK_ware.heAU.OOuranonToisAstrois.greekname
 trMA.Exaposteilarion1.melody = he.a.m3_en_UK_ware.heAU.OOuranonToisAstrois.name
 trMA.Exaposteilarion1.incipit = "O Thou who hast authority…"
 trMA.Exaposteilarion1.text = "O Thou who hast authority as God over both the living and the dead, give rest to Thy servants in the dwelling-place of the elect, for though they have sinned, O Saviour, yet they did not tum away from Thee."
 
 trMA.Exaposteilarion2.mode = miscellanea_en_UK_ware.misc.Mode2
+trMA.Exaposteilarion2.greekmelody = he.a.m2_en_UK_ware.heAU.GynaikesAkoutisthite.greekname
 trMA.Exaposteilarion2.melody = he.a.m2_en_UK_ware.heAU.GynaikesAkoutisthite.name
 trMA.Exaposteilarion2.incipit = "Give rest to Thy servants…"
 trMA.Exaposteilarion2.text = "Give rest to Thy servants, O Lord, in the land of the living from which pain, sorrow and sighing have fled away. In Thy love for man­ kind be merciful to the sins that they committed in this life : for Thou alone art sinless and merciful, O Master of the dead and the living."
 
 trMA.ExapTheotokion.mode = miscellanea_en_UK_ware.misc.Mode2
+trMA.ExapTheotokion.greekmelody = he.a.m2_en_UK_ware.heAU.GynaikesAkoutisthite.greekname
 trMA.ExapTheotokion.melody = he.a.m2_en_UK_ware.heAU.GynaikesAkoutisthite.name
 trMA.ExapTheotokion.incipit = "O Mary, Bride of God…"
 trMA.ExapTheotokion.text = "O Mary, Bride of God, pray to Christ without ceasing on behalf of us thy servants, that with the prophets inspired by God, and the companies of the martyrs, of hierarchs, holy monks and all the righteous, we may become fellow-heirs of the Kingdom of Heaven."
 
 trMA.Lauds1.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Lauds1.greekmelody = he.a.m8_en_UK_ware.heAU.OEnEdemParadeisos.greekname
 trMA.Lauds1.melody = he.a.m8_en_UK_ware.heAU.OEnEdemParadeisos.name
 trMA.Lauds1.incipit = "Come, brethren, before the end…"
 trMA.Lauds1.text = "Come, brethren, before the end, and let us all look upon our clay, upon the infirmity and meanness of our nature. Let us behold our end, and the organs of the vessel of our flesh. Let us see that man is dust, food for worms, and corruption; that our bones grow dry, and have no breath of life within them. Let us gaze on the tombs. Where is man's glory? Where his outward beauty? Where is the eloquent tongue? Where the noble brow, and where the eye? All is dust and shadow. Therefore, Saviour, spare us all."

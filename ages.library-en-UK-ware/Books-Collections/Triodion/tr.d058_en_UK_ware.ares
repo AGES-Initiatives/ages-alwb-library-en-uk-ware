@@ -15,16 +15,19 @@ trHO.note2 = ""
 trCO.header = ""
 
 trVE.Stichera01.mode = miscellanea_en_UK_ware.misc.Mode1
+trVE.Stichera01.greekmelody = he.a.m1_en_UK_ware.heAU.PaneffimoiMartyres.greekname
 trVE.Stichera01.melody = he.a.m1_en_UK_ware.heAU.PaneffimoiMartyres.name
 trVE.Stichera01.incipit = "…"
 trVE.Stichera01.text = ""
 
 trVE.Stichera02.mode = miscellanea_en_UK_ware.misc.Mode1
+trVE.Stichera02.greekmelody = he.a.m1_en_UK_ware.heAU.PaneffimoiMartyres.greekname
 trVE.Stichera02.melody = he.a.m1_en_UK_ware.heAU.PaneffimoiMartyres.name
 trVE.Stichera02.incipit = "…"
 trVE.Stichera02.text = ""
 
 trVE.Stichera03.mode = miscellanea_en_UK_ware.misc.Mode1
+trVE.Stichera03.greekmelody = he.a.m1_en_UK_ware.heAU.NefelinSeFotos.greekname
 trVE.Stichera03.melody = he.a.m1_en_UK_ware.heAU.NefelinSeFotos.name
 trVE.Stichera03.incipit = "…"
 trVE.Stichera03.text = ""
@@ -40,11 +43,13 @@ trVE.AposMartyric.incipit = "…"
 trVE.AposMartyric.text = //oc.m1.d2_en_UK_ware.ocVE.Aposticha3.text
 
 trVE.AposTheotokion.mode = miscellanea_en_UK_ware.misc.Mode1
+trVE.AposTheotokion.greekmelody = he.a.m1_en_UK_ware.heAU.TonOuranionTagmaton.greekname
 trVE.AposTheotokion.melody = he.a.m1_en_UK_ware.heAU.TonOuranionTagmaton.melody
 trVE.AposTheotokion.incipit = he.a.m1_en_UK_ware.heAU.TonOuranionTagmaton.incipit
 trVE.AposTheotokion.text = he.a.m1_en_UK_ware.heAU.TonOuranionTagmaton.text
 
 trMA.Kathisma21.mode = miscellanea_en_UK_ware.misc.Mode1
+trMA.Kathisma21.greekmelody = he.a.m1_en_UK_ware.heAU.TouLithouSfragisthentos.greekname
 trMA.Kathisma21.melody = he.a.m1_en_UK_ware.heAU.TouLithouSfragisthentos.name
 trMA.Kathisma21.incipit = "Rolling away the stone of…"
 trMA.Kathisma21.text = "Rolling away the stone of hardness from my heart, raise up my soul that is slain by the passions, O loving Lord, and count me worthy in compunction to bring palms of virtue to Thee the Victor over hell. So may I obtain eternal life, singing the praises of Thy power and Thy compassion, for Thou alone lovest mankind."
@@ -55,11 +60,13 @@ trMA.Kathisma22.incipit = "O full of grace, beholding…"
 trMA.Kathisma22.text = "O full of grace, beholding in thee the wonder of all wonders, the creation rejoices. For without seed thou hast conceived, and ineffably hast borne as child Him upon whom the leaders of the angelic hosts dare not gaze. O Theotokos, pray to Him for the salvation of our souls."
 
 trMA.Kathisma31.mode = miscellanea_en_UK_ware.misc.Mode1
+trMA.Kathisma31.greekmelody = he.a.m1_en_UK_ware.heAU.TouLithouSfragisthentos.greekname
 trMA.Kathisma31.melody = he.a.m1_en_UK_ware.heAU.TouLithouSfragisthentos.name
 trMA.Kathisma31.incipit = "As we set out upon…"
 trMA.Kathisma31.text = "As we set out upon the sixth week of the Fast, let us sing to Christ a hymn in preparation for the Feast of Palms. He comes for our sake seated on the foal of an ass, that as King he may subdue the wild and unruly nations to His Father. Let us all make ready for Him branches of virtues, that with rejoicing we may see His Resurrection."
 
 trMA.Kathisma32.mode = miscellanea_en_UK_ware.misc.Mode1
+trMA.Kathisma32.greekmelody = he.a.m1_en_UK_ware.heAU.TouLithouSfragisthentos.greekname
 trMA.Kathisma32.melody = he.a.m1_en_UK_ware.heAU.TouLithouSfragisthentos.name
 trMA.Kathisma32.incipit = "O most holy Virgin, thou…"
 trMA.Kathisma32.text = "O most holy Virgin, thou hast carried in thine arms the Creator, who in His lovingkindness was made flesh. Stretch out those arms towards Him, and entreat Him to deliver us from every passion, danger and temptation, for with love we praise thee and we cry aloud: Glory be to Him who dwelt in thee; glory be to Him who from thee came forth; glory be to Him who through thy childbearing has set us free."
@@ -73,6 +80,7 @@ trMA.C1.verse = ""
 
 trMA.Ode1C11.ode = miscellanea_en_UK_ware.misc.Ode1
 trMA.Ode1C11.mode = miscellanea_en_UK_ware.misc.Mode1
+trMA.Ode1C11.greekmelody = he.h.m1_en_UK_ware.heHE.OdinEpinikion.greekname
 trMA.Ode1C11.melody = he.h.m1_en_UK_ware.heHE.OdinEpinikion.name
 trMA.Ode1C11.incipit = "Through abstinence let us put…"
 trMA.Ode1C11.text = "Through abstinence let us put to death the passions and through godlike actions let us bring to life the spirit, that with pure minds we may see the holy Passion of Christ."
@@ -100,6 +108,7 @@ trMA.C2.verse = ""
 
 trMA.Ode1C21.ode = miscellanea_en_UK_ware.misc.Ode1
 trMA.Ode1C21.mode = miscellanea_en_UK_ware.misc.Mode1
+trMA.Ode1C21.greekmelody = he.h.m1_en_UK_ware.heHE.ToVoithisantiTheo.greekname
 trMA.Ode1C21.melody = he.h.m1_en_UK_ware.heHE.ToVoithisantiTheo.name
 trMA.Ode1C21.incipit = "O ye faithful, let us…"
 trMA.Ode1C21.text = "O ye faithful, let us prepare to celebrate Palm Sunday, joyfully observing the forefeast from this present day onwards, that we may be counted worthy to see the lifegiving Passion."
@@ -130,12 +139,14 @@ trMA.Ode1C2A1.text = "Behold, Christ has come to the city of Bethphage. Rejoice,
 
 trMA.Ode1C2H.ode = miscellanea_en_UK_ware.misc.Ode1
 trMA.Ode1C2H.mode = miscellanea_en_UK_ware.misc.Mode1
+trMA.Ode1C2H.greekmelody = he.h.m1_en_UK_ware.heHE.ToVoithisantiTheo.greekname
 trMA.Ode1C2H.melody = he.h.m1_en_UK_ware.heHE.ToVoithisantiTheo.melody
 trMA.Ode1C2H.incipit = he.h.m1_en_UK_ware.heHE.ToVoithisantiTheo.incipit
 trMA.Ode1C2H.text = he.h.m1_en_UK_ware.heHE.ToVoithisantiTheo.text
 
 trMA.Ode8C11.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C11.mode = miscellanea_en_UK_ware.misc.Mode1
+trMA.Ode8C11.greekmelody = he.h.m1_en_UK_ware.heHE.OnFrittousinAngeloi.greekname
 trMA.Ode8C11.melody = he.h.m1_en_UK_ware.heHE.OnFrittousinAngeloi.name
 trMA.Ode8C11.incipit = "In my wretchedness I have…"
 trMA.Ode8C11.text = "In my wretchedness I have grown rich in unprofitable thoughts, I have defiled my soul with lawless pleasures, and the darkness of despair surrounds me. O my God, shine upon me with the light of repentance."
@@ -160,6 +171,7 @@ trMA.Ode8C1T.text = "As a living vine, pure Virgin, hast thou borne for us the r
 
 trMA.Ode8C21.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C21.mode = miscellanea_en_UK_ware.misc.Mode1
+trMA.Ode8C21.greekmelody = he.h.m1_en_UK_ware.heHE.YmnonSoiProsferomen.greekname
 trMA.Ode8C21.melody = he.h.m1_en_UK_ware.heHE.YmnonSoiProsferomen.name
 trMA.Ode8C21.incipit = "The door of the forecourt…"
 trMA.Ode8C21.text = "The door of the forecourt is opened, that leads us to the raising of Lazarus: for Christ is come, to awaken the dead man as from sleep and to overthrow death by life."
@@ -190,12 +202,14 @@ trMA.Ode8C2A1.text = "We offer unto Thee a hymn; for Thou who ridest on high upo
 
 trMA.Ode8C2H.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C2H.mode = miscellanea_en_UK_ware.misc.Mode1
+trMA.Ode8C2H.greekmelody = he.h.m1_en_UK_ware.heHE.YmnonSoiProsferomen.greekname
 trMA.Ode8C2H.melody = he.h.m1_en_UK_ware.heHE.YmnonSoiProsferomen.melody
 trMA.Ode8C2H.incipit = he.h.m1_en_UK_ware.heHE.YmnonSoiProsferomen.incipit
 trMA.Ode8C2H.text = he.h.m1_en_UK_ware.heHE.YmnonSoiProsferomen.text
 
 trMA.Ode9C11.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_UK_ware.misc.Mode1
+trMA.Ode9C11.greekmelody = he.h.m1_en_UK_ware.heHE.TinZoodochonPigin.greekname
 trMA.Ode9C11.melody = he.h.m1_en_UK_ware.heHE.TinZoodochonPigin.name
 trMA.Ode9C11.incipit = "Slain by my many sins…"
 trMA.Ode9C11.text = "Slain by my many sins, I am imprisoned in the tomb of negligence, and upon me lies the stone of despair. Remove it in Thy mercy, O Christ, and raise me up as once Thou hast raised Lazarus."
@@ -220,6 +234,7 @@ trMA.Ode9C1T.text = "Divine treasure of virginity, the only restoration of our f
 
 trMA.Ode9C21.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C21.mode = miscellanea_en_UK_ware.misc.Mode1
+trMA.Ode9C21.greekmelody = he.h.m1_en_UK_ware.heHE.SeTinOratheisan.greekname
 trMA.Ode9C21.melody = he.h.m1_en_UK_ware.heHE.SeTinOratheisan.name
 trMA.Ode9C21.incipit = "While He is staying beyond…"
 trMA.Ode9C21.text = "While He is staying beyond Jordan, Christ is told today that Lazarus is ill; and, knowing all things in advance, He says: 'This sickness is not unto death.'"
@@ -250,6 +265,7 @@ trMA.Ode9C2A1.text = "Bearing the branches of our generosity and the palms of ou
 
 trMA.Ode9C2H.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C2H.mode = miscellanea_en_UK_ware.misc.Mode1
+trMA.Ode9C2H.greekmelody = he.h.m1_en_UK_ware.heHE.SeTinOratheisan.greekname
 trMA.Ode9C2H.melody = he.h.m1_en_UK_ware.heHE.SeTinOratheisan.melody
 trMA.Ode9C2H.incipit = he.h.m1_en_UK_ware.heHE.SeTinOratheisan.incipit
 trMA.Ode9C2H.text = he.h.m1_en_UK_ware.heHE.SeTinOratheisan.text

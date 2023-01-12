@@ -15,11 +15,13 @@ trHO.note2 = ""
 trCO.header = ""
 
 trVE.Stichera01.mode = miscellanea_en_UK_ware.misc.Mode6
+trVE.Stichera01.greekmelody = he.a.m6_en_UK_ware.heAU.OlinApothemenoi.greekname
 trVE.Stichera01.melody = he.a.m6_en_UK_ware.heAU.OlinApothemenoi.name
 trVE.Stichera01.incipit = "My strength is weakened by…"
 trVE.Stichera01.text = "My strength is weakened by my many sins and by the pleasures of this life, and in my misery, O Master, I lie always on the bed of slothfulness; but I cry to Thee: With loving compassion come and visit me, granting me health and mercy. Forsake me not, lest I sleep in death and the enemy rejoices over my destruction: for he seeks to drag me down, O Saviour, into the fearful depths of hell."
 
 trVE.Stichera02.mode = miscellanea_en_UK_ware.misc.Mode6
+trVE.Stichera02.greekmelody = he.a.m6_en_UK_ware.heAU.OlinApothemenoi.greekname
 trVE.Stichera02.melody = he.a.m6_en_UK_ware.heAU.OlinApothemenoi.name
 trVE.Stichera02.incipit = "I have rivalled in foolishness…"
 trVE.Stichera02.text = "I have rivalled in foolishness the rich man who showed no love for others; overwhelmed by sensual pleasures and the passions, I live in luxury and self-indulgence. I see my mind, O Lord, lying always like Lazarus before the gates of repentance, but with indifference I pass it by, and leave it hungry, sick and wounded by the passions. Therefore I deserve to be condemned to the flames of Gehenna: but deliver me from them, O Master, for Thou alone art rich in mercy."
@@ -45,6 +47,7 @@ trVE.AposTheotokion.incipit = "Deliver us from our distress…"
 trVE.AposTheotokion.text = "Deliver us from our distress, O Mother of Christ our God, who gavest birth to the Creator of all, that we may ever cry to thee: Hail, protection of our souls!"
 
 trMA.Kathisma21.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Kathisma21.greekmelody = he.a.m6_en_UK_ware.heAU.AngelikaiDynameis.greekname
 trMA.Kathisma21.melody = he.a.m6_en_UK_ware.heAU.AngelikaiDynameis.name
 trMA.Kathisma21.incipit = "Wasted by the disease of…"
 trMA.Kathisma21.text = "Wasted by the disease of sin, I lie on the bed of despair. O Physician of the sick, visit me in Thy love for mankind; and, most merciful, let me not sleep shamefully in death, but enable me to cry with all my heart to Thee: Bestower of mercy, O Lord, glory to Thee."
@@ -70,12 +73,14 @@ trMA.C2.poet = poets_en_UK_ware.po.Theodorou
 
 trMA.Ode2C1H.ode = miscellanea_en_UK_ware.misc.Ode2
 trMA.Ode2C1H.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode2C1H.greekmelody = he.h.m6_en_UK_ware.heHE.IdeteIdete.greekname
 trMA.Ode2C1H.melody = he.h.m6_en_UK_ware.heHE.IdeteIdete.melody
 trMA.Ode2C1H.incipit = he.h.m6_en_UK_ware.heHE.IdeteIdete.incipit
 trMA.Ode2C1H.text = he.h.m6_en_UK_ware.heHE.IdeteIdete.text
 
 trMA.Ode2C11.ode = miscellanea_en_UK_ware.misc.Ode2
 trMA.Ode2C11.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode2C11.greekmelody = he.h.m6_en_UK_ware.heHE.IdeteIdete.greekname
 trMA.Ode2C11.melody = he.h.m6_en_UK_ware.heHE.IdeteIdete.name
 trMA.Ode2C11.incipit = "Rich by nature, O Christ…"
 trMA.Ode2C11.text = "Rich by nature, O Christ, Thou hast by Thine own choice become poor; and Thou who fillest every living thing with plenteousness hast willingly gone hungry. I hunger for Thy grace, O Word of God: satisfy me and make me a partaker at Thy table in the Age to come."
@@ -100,6 +105,7 @@ trMA.Ode2C1T.text = "We cry to thee 'Hail!', O Theotokos Virgin full of grace, w
 
 trMA.Ode2C21.ode = miscellanea_en_UK_ware.misc.Ode2
 trMA.Ode2C21.mode = miscellanea_en_UK_ware.misc.Mode5
+trMA.Ode2C21.greekmelody = he.h.m5_en_UK_ware.heHE.IdeteIdete.greekname
 trMA.Ode2C21.melody = he.h.m5_en_UK_ware.heHE.IdeteIdete.name
 trMA.Ode2C21.incipit = "See now, see that I…"
 trMA.Ode2C21.text = "See now, see that I am God, who when I was dwelling on the far side of the Jordan heard that Lazarus was sick, and I said: 'He will not die, but this is for My glory.'"
@@ -130,12 +136,14 @@ trMA.Ode2C2A1.text = "Prepare thyself now, O Bethany, and with joy make ready to
 
 trMA.Ode2C2H.ode = miscellanea_en_UK_ware.misc.Ode2
 trMA.Ode2C2H.mode = miscellanea_en_UK_ware.misc.Mode5
+trMA.Ode2C2H.greekmelody = he.h.m5_en_UK_ware.heHE.IdeteIdete.greekname
 trMA.Ode2C2H.melody = he.h.m5_en_UK_ware.heHE.IdeteIdete.melody
 trMA.Ode2C2H.incipit = he.h.m5_en_UK_ware.heHE.IdeteIdete.incipit
 trMA.Ode2C2H.text = he.h.m5_en_UK_ware.heHE.IdeteIdete.text
 
 trMA.Ode8C11.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C11.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode8C11.greekmelody = he.h.m6_en_UK_ware.heHE.EkFlogosToisOsiois.greekname
 trMA.Ode8C11.melody = he.h.m6_en_UK_ware.heHE.EkFlogosToisOsiois.name
 trMA.Ode8C11.incipit = "I think upon the multitude…"
 trMA.Ode8C11.text = "I think upon the multitude of my offences, and I am pierced by the sting of conscience; and in my misery I lament as though already in the flames of hell. Take pity on me, Word of God, in Thy mercy."
@@ -160,6 +168,7 @@ trMA.Ode8C1T.text = "Save me and come to the aid of my weakness, all-holy Virgin
 
 trMA.Ode8C21.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C21.mode = miscellanea_en_UK_ware.misc.Mode5
+trMA.Ode8C21.greekmelody = he.h.m5_en_UK_ware.heHE.OiOsioiSouPaides.greekname
 trMA.Ode8C21.melody = he.h.m5_en_UK_ware.heHE.OiOsioiSouPaides.name
 trMA.Ode8C21.incipit = "O Bethany, home of Lazarus…"
 trMA.Ode8C21.text = "O Bethany, home of Lazarus, rejoice. For Christ comes to thee and shall perform a mighty work, bringing Lazarus to life."
@@ -190,12 +199,14 @@ trMA.Ode8C2A1.text = "Preparing branches of virtue with which to welcome Christ,
 
 trMA.Ode8C2H.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C2H.mode = miscellanea_en_UK_ware.misc.Mode5
+trMA.Ode8C2H.greekmelody = he.h.m5_en_UK_ware.heHE.OiOsioiSouPaides.greekname
 trMA.Ode8C2H.melody = he.h.m5_en_UK_ware.heHE.OiOsioiSouPaides.melody
 trMA.Ode8C2H.incipit = he.h.m5_en_UK_ware.heHE.OiOsioiSouPaides.incipit
 trMA.Ode8C2H.text = he.h.m5_en_UK_ware.heHE.OiOsioiSouPaides.text
 
 trMA.Ode9C11.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode9C11.greekmelody = he.h.m6_en_UK_ware.heHE.TheonAnthropois.greekname
 trMA.Ode9C11.melody = he.h.m6_en_UK_ware.heHE.TheonAnthropois.name
 trMA.Ode9C11.incipit = "Tasting once from the bitter…"
 trMA.Ode9C11.text = "Tasting once from the bitter fruit, the first-formed man was banished in grief from Paradise, and harnessed to the yoke of death. Fast, O my soul; flee from his example; flee from the pleasures of eating, for they are full of sorrow."
@@ -220,6 +231,7 @@ trMA.Ode9C1T.text = "Coming forth from thee, O Virgin full of God's grace, Chris
 
 trMA.Ode9C21.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C21.mode = miscellanea_en_UK_ware.misc.Mode5
+trMA.Ode9C21.greekmelody = he.h.m5_en_UK_ware.heHE.IsaiaChoreve.greekname
 trMA.Ode9C21.melody = he.h.m5_en_UK_ware.heHE.IsaiaChoreve.name
 trMA.Ode9C21.incipit = "O wise Lazarus, prepare now…"
 trMA.Ode9C21.text = "O wise Lazarus, prepare now for thy burial; for tomorrow thou shalt die and leave this life. Look at the tomb in which thou shalt dwell. But Christ will bring thee back to life again, raising thee on the fourth day."
@@ -250,6 +262,7 @@ trMA.Ode9C2A1.text = "Come, let us make ready to meet the Lord, bringing to Him 
 
 trMA.Ode9C2H.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C2H.mode = miscellanea_en_UK_ware.misc.Mode5
+trMA.Ode9C2H.greekmelody = he.h.m5_en_UK_ware.heHE.IsaiaChoreve.greekname
 trMA.Ode9C2H.melody = he.h.m5_en_UK_ware.heHE.IsaiaChoreve.melody
 trMA.Ode9C2H.incipit = he.h.m5_en_UK_ware.heHE.IsaiaChoreve.incipit
 trMA.Ode9C2H.text = he.h.m5_en_UK_ware.heHE.IsaiaChoreve.text

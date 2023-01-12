@@ -26,11 +26,13 @@ trVE.AposMartyric.incipit = "…"
 trVE.AposMartyric.text = //oc.m8.d2_en_UK_ware.ocVE.Aposticha3.text
 
 trVE.Stichera01.mode = miscellanea_en_UK_ware.misc.Mode1
+trVE.Stichera01.greekmelody = he.a.m1_en_UK_ware.heAU.PaneffimoiMartyres.greekname
 trVE.Stichera01.melody = he.a.m1_en_UK_ware.heAU.PaneffimoiMartyres.name
 trVE.Stichera01.incipit = "…"
 trVE.Stichera01.text = ""
 
 trVE.Stichera02.mode = miscellanea_en_UK_ware.misc.Mode1
+trVE.Stichera02.greekmelody = he.a.m1_en_UK_ware.heAU.PaneffimoiMartyres.greekname
 trVE.Stichera02.melody = he.a.m1_en_UK_ware.heAU.PaneffimoiMartyres.name
 trVE.Stichera02.incipit = "…"
 trVE.Stichera02.text = ""
@@ -41,21 +43,25 @@ trVE.Stichera03.incipit = "…"
 trVE.Stichera03.text = ""
 
 trMA.Kathisma21.mode = miscellanea_en_UK_ware.misc.Mode1
+trMA.Kathisma21.greekmelody = he.a.m1_en_UK_ware.heAU.TonTafonSouSotir.greekname
 trMA.Kathisma21.melody = he.a.m1_en_UK_ware.heAU.TonTafonSouSotir.name
 trMA.Kathisma21.incipit = "O Christ, Thou hast stretched…"
 trMA.Kathisma21.text = "O Christ, Thou hast stretched out Thine hands upon the Wood, by Thy wounds healing Adam's wound. I therefore pray Thee: heal the wounds that the deceiver has inflicted on my soul, and through prayer and fasting, Saviour, enable me to serve and worship Thee."
 
 trMA.Kathisma22.mode = miscellanea_en_UK_ware.misc.Mode1
+trMA.Kathisma22.greekmelody = he.a.m1_en_UK_ware.heAU.TonTafonSouSotir.greekname
 trMA.Kathisma22.melody = he.a.m1_en_UK_ware.heAU.TonTafonSouSotir.name
 trMA.Kathisma22.incipit = "Beholding Thee, O Christ, stretched…"
 trMA.Kathisma22.text = "Beholding Thee, O Christ, stretched dead upon the Cross, Thine all­ blameless Mother cried aloud: 'O my Son, coeternal with the Father and the Spirit, what is this ineffable act of love, whereby in Thy compassion Thou hast saved the creation of Thy holy hands?'"
 
 trMA.Kathisma31.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Kathisma31.greekmelody = he.a.m6_en_UK_ware.heAU.ElpisTouKosmouAgathi.greekname
 trMA.Kathisma31.melody = he.a.m6_en_UK_ware.heAU.ElpisTouKosmouAgathi.name
 trMA.Kathisma31.incipit = "O Cross, guardian of the…"
 trMA.Kathisma31.text = "O Cross, guardian of the world, exorcist of devils, thee we have as our invincible protection in all things: grant that we may spend the remainder of the Fast with a pure conscience, and guide our souls to Christ, O blessed Wood."
 
 trMA.Kathisma32.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Kathisma32.greekmelody = he.a.m6_en_UK_ware.heAU.ElpisTouKosmouAgathi.greekname
 trMA.Kathisma32.melody = he.a.m6_en_UK_ware.heAU.ElpisTouKosmouAgathi.name
 trMA.Kathisma32.incipit = "Pure and honoured Virgin, glory…"
 trMA.Kathisma32.text = "Pure and honoured Virgin, glory of the angels, standing by the Cross of thy Son and God, thou couldest not bear to listen to the drunken insults heaped upon Him by His enemies, but thou hast cried aloud, lamenting as a mother: 'O Lord who lovest mankind, how dost Thou endure their threatening? Glory be to Thy forbearance.'"
@@ -66,6 +72,7 @@ trMA.C2.poet = poets_en_UK_ware.po.Theodorou
 
 trMA.Ode5C11.ode = miscellanea_en_UK_ware.misc.Ode5
 trMA.Ode5C11.mode = miscellanea_en_UK_ware.misc.Mode1
+trMA.Ode5C11.greekmelody = he.h.m1_en_UK_ware.heHE.OFotisasTiEllampsei.greekname
 trMA.Ode5C11.melody = he.h.m1_en_UK_ware.heHE.OFotisasTiEllampsei.name
 trMA.Ode5C11.incipit = "O Jesus, supreme in love…"
 trMA.Ode5C11.text = "O Jesus, supreme in love, who stretchest out the heavens like a curtain, Thou hast stretched out Thine hands upon the Cross. I therefore pray Thee: take pity on me, for I am stretched upon the rack and tormented by the enemy."
@@ -90,6 +97,7 @@ trMA.Ode5C1T.text = "Seeing Thee nailed upon the Cross, the all-pure Virgin was 
 
 trMA.Ode5C21.ode = miscellanea_en_UK_ware.misc.Ode5
 trMA.Ode5C21.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode5C21.greekmelody = he.h.m6_en_UK_ware.heHE.EkNyktosOrthrizonta.greekname
 trMA.Ode5C21.melody = he.h.m6_en_UK_ware.heHE.EkNyktosOrthrizonta.name
 trMA.Ode5C21.incipit = "In Thy love for mankind…"
 trMA.Ode5C21.text = "In Thy love for mankind Thou hast stretched out Thine hands, and the Jews nailed Thee to the Cross and pierced Thy side with a spear. All these things Thou dost endure, O Christ, for our salvation."
@@ -120,12 +128,14 @@ trMA.Ode5C2A1.text = "O Christ my Master, I honour Thy Cross, the spear and the 
 
 trMA.Ode5C2H.ode = miscellanea_en_UK_ware.misc.Ode5
 trMA.Ode5C2H.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode5C2H.greekmelody = he.h.m6_en_UK_ware.heHE.EkNyktosOrthrizonta.greekname
 trMA.Ode5C2H.melody = he.h.m6_en_UK_ware.heHE.EkNyktosOrthrizonta.melody
 trMA.Ode5C2H.incipit = he.h.m6_en_UK_ware.heHE.EkNyktosOrthrizonta.incipit
 trMA.Ode5C2H.text = he.h.m6_en_UK_ware.heHE.EkNyktosOrthrizonta.text
 
 trMA.Ode8C11.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C11.mode = miscellanea_en_UK_ware.misc.Mode1
+trMA.Ode8C11.greekmelody = he.h.m1_en_UK_ware.heHE.ThavmatosYperfyous.greekname
 trMA.Ode8C11.melody = he.h.m1_en_UK_ware.heHE.ThavmatosYperfyous.name
 trMA.Ode8C11.incipit = "Thou wast fixed upon the…"
 trMA.Ode8C11.text = "Thou wast fixed upon the Cross with nails, O Saviour, and Thou hast blunted the sting of the evil one; a crown of thorns was placed upon Thy head in mockery, and Thou hast uprooted the thorns of man's transgression. We therefore sing Thy praises, and we cry: Let the whole creation bless the Lord and exalt Him above all for ever."
@@ -150,6 +160,7 @@ trMA.Ode8C1T.text = "We acknowledge thee, O Virgin, as the sacred Vessel that he
 
 trMA.Ode8C21.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C21.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode8C21.greekmelody = he.h.m6_en_UK_ware.heHE.TonPaidonTinOdin.greekname
 trMA.Ode8C21.melody = he.h.m6_en_UK_ware.heHE.TonPaidonTinOdin.name
 trMA.Ode8C21.incipit = "Christ is crucified and I…"
 trMA.Ode8C21.text = "Christ is crucified and I am restored to life; and with the Children I sing: O all ye works of the Lord, bless ye the Lord."
@@ -180,12 +191,14 @@ trMA.Ode8C2A1.text = "I praise Thy Cross, O Saviour, whereby I have been saved, 
 
 trMA.Ode8C2H.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C2H.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode8C2H.greekmelody = he.h.m6_en_UK_ware.heHE.TonPaidonTinOdin.greekname
 trMA.Ode8C2H.melody = he.h.m6_en_UK_ware.heHE.TonPaidonTinOdin.melody
 trMA.Ode8C2H.incipit = he.h.m6_en_UK_ware.heHE.TonPaidonTinOdin.incipit
 trMA.Ode8C2H.text = he.h.m6_en_UK_ware.heHE.TonPaidonTinOdin.text
 
 trMA.Ode9C11.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_UK_ware.misc.Mode1
+trMA.Ode9C11.greekmelody = he.h.m1_en_UK_ware.heHE.TyponTisAgnis.greekname
 trMA.Ode9C11.melody = he.h.m1_en_UK_ware.heHE.TyponTisAgnis.name
 trMA.Ode9C11.incipit = "Elijah gave lightness to his…"
 trMA.Ode9C11.text = "Elijah gave lightness to his flesh by increasing his prayer and fasting, and then he beheld the Lord in a light and gentle breeze. Follow his example, O my soul: cast aside the grossness of sensual pleasures, and so behold Him who is thy true desire."
@@ -210,6 +223,7 @@ trMA.Ode9C1T.text = "Lady, exalted above all things, raise me high above the sin
 
 trMA.Ode9C21.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C21.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode9C21.greekmelody = he.h.m6_en_UK_ware.heHE.AsporouSyllipseos.greekname
 trMA.Ode9C21.melody = he.h.m6_en_UK_ware.heHE.AsporouSyllipseos.name
 trMA.Ode9C21.incipit = "Thou art crucified and Thou…"
 trMA.Ode9C21.text = "Thou art crucified and Thou dost save me; Thou dost die and give me life. O depth of love and tender mercy! Who has ever seen or heard of a master who chooses openly to die for his servants? But glory be to Thine ineffable goodness, O Lord."
@@ -240,6 +254,7 @@ trMA.Ode9C2A1.text = "For our sake has each one of Thy members endured suffering
 
 trMA.Ode9C2H.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C2H.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode9C2H.greekmelody = he.h.m6_en_UK_ware.heHE.AsporouSyllipseos.greekname
 trMA.Ode9C2H.melody = he.h.m6_en_UK_ware.heHE.AsporouSyllipseos.melody
 trMA.Ode9C2H.incipit = he.h.m6_en_UK_ware.heHE.AsporouSyllipseos.incipit
 trMA.Ode9C2H.text = he.h.m6_en_UK_ware.heHE.AsporouSyllipseos.text

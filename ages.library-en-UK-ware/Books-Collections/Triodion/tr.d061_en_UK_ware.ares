@@ -26,11 +26,13 @@ trVE.AposMartyric.incipit = "Your souls, O holy martyrs…"
 trVE.AposMartyric.text = "Your souls, O holy martyrs, were filled with an insatiable love; not denying Christ ye endured great sufferings and torment, and ye cast down the tyrants' pride. Ye kept the faith unaltered and unharmed, and now ye have gone to dwell in heaven. Since ye have boldness before Christ, pray that peace be given to the world, and to our souls great mercy." //oc.m5.d5_en_UK_ware.ocVE.Aposticha3.text
 
 trVE.Stichera01.mode = miscellanea_en_UK_ware.misc.Mode5
+trVE.Stichera01.greekmelody = he.a.m5_en_UK_ware.heAU.ChairoisAskitikon.greekname
 trVE.Stichera01.melody = he.a.m5_en_UK_ware.heAU.ChairoisAskitikon.name
 trVE.Stichera01.incipit = "When Thou wast journeying in…"
 trVE.Stichera01.text = "When Thou wast journeying in the flesh, O Jesus, on the other side of the Jordan, Thou hast said to Thy companions: 'My friend Lazarus is already dead, and now bas been committed to the tomb. And so for your sakes I rejoice, my friends, for by this ye shall learn that I know all things, since I am God, inseparable from the Father, though in my visible appearance I am man. Let us go then, to bring him back to life, that death may feel the defeat and utter destruction that I bring upon it, bestowing my great mercy on the world.'"
 
 trVE.Stichera02.mode = miscellanea_en_UK_ware.misc.Mode5
+trVE.Stichera02.greekmelody = he.a.m5_en_UK_ware.heAU.ChairoisAskitikon.greekname
 trVE.Stichera02.melody = he.a.m5_en_UK_ware.heAU.ChairoisAskitikon.name
 trVE.Stichera02.incipit = "O ye faithful, let us…"
 trVE.Stichera02.text = "O ye faithful, let us follow the example of Martha and Mary, and as intercessors let us send to the Lord our acts of righteousness, that He may come to raise up from the dead our spiritual understanding, which lies insensible within the tomb of negligence, lacking all feeling of the fear of God and having no vital energy. So let us cry: As once by Thy dread authority, O merciful Lord, Thou hast raised up Thy friend Lazarus, so now give life to all of us, and grant us Thy great mercy."
@@ -41,21 +43,25 @@ trVE.Stichera03.incipit = "Lazarus has now been two…"
 trVE.Stichera03.text = "Lazarus has now been two days in the tomb, and he sees the dead from all the ages. There he beholds strange sights of terror, a multitude that none can number, the prisoners of hell. His sisters bitterly lament, looking upon his tomb. But Christ comes to bring His friend life, that a single hymn of praise may be offered up with one accord by all: Blessed art Thou, O Saviour, have mercy upon us."
 
 trMA.Kathisma21.mode = miscellanea_en_UK_ware.misc.Mode5
+trMA.Kathisma21.greekmelody = he.a.m5_en_UK_ware.heAU.TonSynanarchonLogon.greekname
 trMA.Kathisma21.melody = he.a.m5_en_UK_ware.heAU.TonSynanarchonLogon.name
 trMA.Kathisma21.incipit = "Yoking contemplation to action, let…"
 trMA.Kathisma21.text = "Yoking contemplation to action, let us make haste to offer up our prayers to Christ, that by His dread authority He may call our spiritual understanding back from the tomb to life, like another dead Lazarus; and we shall bring Him palms of righteousness and cry: Blessed art Thou who comest."
 
 trMA.Kathisma22.mode = miscellanea_en_UK_ware.misc.Mode5
+trMA.Kathisma22.greekmelody = he.a.m5_en_UK_ware.heAU.TonSynanarchonLogon.greekname
 trMA.Kathisma22.melody = he.a.m5_en_UK_ware.heAU.TonSynanarchonLogon.name
 trMA.Kathisma22.incipit = "Be swift to heal the…"
 trMA.Kathisma22.text = "Be swift to heal the painful passions of my soul and the diseases of my flesh. Keep my mind from turning away, O most pure Theotokos, and enable me in stillness of thought to offer pure prayers to the King of all, and to gain remission of sins."
 
 trMA.Kathisma31.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Kathisma31.greekmelody = he.a.m6_en_UK_ware.heAU.AngelikaiDynameis.greekname
 trMA.Kathisma31.melody = he.a.m6_en_UK_ware.heAU.AngelikaiDynameis.name
 trMA.Kathisma31.incipit = "Lazarus has been dead now…"
 trMA.Kathisma31.text = "Lazarus has been dead now for two days, and his sisters Martha and Mary shed tears of grief for him, gazing at the stone before his tomb. But the Creator has come with His disciples, to despoil death and bestow life. Therefore let us cry to Him: O Lord, glory to Thee."
 
 trMA.Kathisma32.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Kathisma32.greekmelody = he.a.m6_en_UK_ware.heAU.ElpisTouKosmouAgathi.greekname
 trMA.Kathisma32.melody = he.a.m6_en_UK_ware.heAU.ElpisTouKosmouAgathi.name
 trMA.Kathisma32.incipit = "Hallowed Lady, Mother of Christ…"
 trMA.Kathisma32.text = "Hallowed Lady, Mother of Christ our God, thou hast borne ineffably the Maker of all. In union with the holy apostles pray to Him at all times, that in His love He may release us from the passions and grant us the remission of our sins."
@@ -66,6 +72,7 @@ trMA.C2.poet = poets_en_UK_ware.po.Theodorou
 
 trMA.Ode4C11.ode = miscellanea_en_UK_ware.misc.Ode4
 trMA.Ode4C11.mode = miscellanea_en_UK_ware.misc.Mode5
+trMA.Ode4C11.greekmelody = he.h.m5_en_UK_ware.heHE.TinTheianEnnoisas.greekname
 trMA.Ode4C11.melody = he.h.m5_en_UK_ware.heHE.TinTheianEnnoisas.name
 trMA.Ode4C11.incipit = "With the rays of your…"
 trMA.Ode4C11.text = "With the rays of your intercession illumine us who dwell in the prison of our sins; for with reverence we praise you, O apostles who bring light."
@@ -96,6 +103,7 @@ trMA.Ode4C1T.text = "From thee, O pure and undefiled Mother of God, has flowed t
 
 trMA.Ode4C21.ode = miscellanea_en_UK_ware.misc.Ode4
 trMA.Ode4C21.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode4C21.greekmelody = he.h.m6_en_UK_ware.heHE.AkikoaKyrieTinAkoin.greekname
 trMA.Ode4C21.melody = he.h.m6_en_UK_ware.heHE.AkikoaKyrieTinAkoin.name
 trMA.Ode4C21.incipit = "Lazarus is buried now, and…"
 trMA.Ode4C21.text = "Lazarus is buried now, and Martha and her companions lament and weep around the grave; and they long for Thee, the Giver of Life, to come."
@@ -126,12 +134,14 @@ trMA.Ode4C2A1.text = "Let all who are in the deserts and in caves assemble toget
 
 trMA.Ode4C2H.ode = miscellanea_en_UK_ware.misc.Ode4
 trMA.Ode4C2H.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode4C2H.greekmelody = he.h.m6_en_UK_ware.heHE.AkikoaKyrieTinAkoin.greekname
 trMA.Ode4C2H.melody = he.h.m6_en_UK_ware.heHE.AkikoaKyrieTinAkoin.melody
 trMA.Ode4C2H.incipit = he.h.m6_en_UK_ware.heHE.AkikoaKyrieTinAkoin.incipit
 trMA.Ode4C2H.text = he.h.m6_en_UK_ware.heHE.AkikoaKyrieTinAkoin.text
 
 trMA.Ode8C11.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C11.mode = miscellanea_en_UK_ware.misc.Mode5
+trMA.Ode8C11.greekmelody = he.h.m5_en_UK_ware.heHE.SoiToPantourgo.greekname
 trMA.Ode8C11.melody = he.h.m5_en_UK_ware.heHE.SoiToPantourgo.name
 trMA.Ode8C11.incipit = "O divinely inspired apostles of…"
 trMA.Ode8C11.text = "O divinely inspired apostles of the Lord, stones built upon the Chief Corner Stone, intercede with Him who is all-merciful, that He may take away the heavy stone from my heart."
@@ -156,6 +166,7 @@ trMA.Ode8C1T.text = "The Prophet saw thee, O all-blameless Lady, as a shining Ga
 
 trMA.Ode8C21.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C21.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode8C21.greekmelody = he.h.m6_en_UK_ware.heHE.OiOsioiSouPaides.greekname
 trMA.Ode8C21.melody = he.h.m6_en_UK_ware.heHE.OiOsioiSouPaides.name
 trMA.Ode8C21.incipit = "Mary and Martha now lament…"
 trMA.Ode8C21.text = "Mary and Martha now lament, beholding Lazarus laid in the tomb, and in distress they cry aloud: 'Had Christ been here, our brother had not died.'"
@@ -186,12 +197,14 @@ trMA.Ode8C2A1.text = "Let us and all the faithful prepare virtues as branches an
 
 trMA.Ode8C2H.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C2H.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode8C2H.greekmelody = he.h.m6_en_UK_ware.heHE.OiOsioiSouPaides.greekname
 trMA.Ode8C2H.melody = he.h.m6_en_UK_ware.heHE.OiOsioiSouPaides.melody
 trMA.Ode8C2H.incipit = he.h.m6_en_UK_ware.heHE.OiOsioiSouPaides.incipit
 trMA.Ode8C2H.text = he.h.m6_en_UK_ware.heHE.OiOsioiSouPaides.text
 
 trMA.Ode9C11.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_UK_ware.misc.Mode5
+trMA.Ode9C11.greekmelody = he.h.m5_en_UK_ware.heHE.IsaiaChoreve.greekname
 trMA.Ode9C11.melody = he.h.m5_en_UK_ware.heHE.IsaiaChoreve.name
 trMA.Ode9C11.incipit = "O Master Christ, who hast…"
 trMA.Ode9C11.text = "O Master Christ, who hast made Thy wise disciples to be Thy friends, save me from friendship with the crafty one. Thou hast come with them, O Saviour, and raised Thy faithful friend Lazarus, and in thanksgiving he sings Thy praises."
@@ -216,6 +229,7 @@ trMA.Ode9C1T.text = "O Maiden undefiled, unto us hast thou borne the only-begott
 
 trMA.Ode9C21.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C21.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode9C21.greekmelody = he.h.m6_en_UK_ware.heHE.AsporouSyllipseos.greekname
 trMA.Ode9C21.melody = he.h.m6_en_UK_ware.heHE.AsporouSyllipseos.name
 trMA.Ode9C21.incipit = "Today Lazarus has been two…"
 trMA.Ode9C21.text = "Today Lazarus has been two days in the tomb, and Mary and Martha as his true sisters shed tears for him. But Christ comes to him with his holy apostles, to make manifest a great wonder."
@@ -246,6 +260,7 @@ trMA.Ode9C2A1.text = "The Lord comes seated upon a foal, as it is written. Ye pe
 
 trMA.Ode9C2H.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C2H.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode9C2H.greekmelody = he.h.m6_en_UK_ware.heHE.AsporouSyllipseos.greekname
 trMA.Ode9C2H.melody = he.h.m6_en_UK_ware.heHE.AsporouSyllipseos.melody
 trMA.Ode9C2H.incipit = he.h.m6_en_UK_ware.heHE.AsporouSyllipseos.incipit
 trMA.Ode9C2H.text = he.h.m6_en_UK_ware.heHE.AsporouSyllipseos.text

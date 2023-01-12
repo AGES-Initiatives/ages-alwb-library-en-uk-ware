@@ -27,11 +27,13 @@ trVE.AposMartyric.text = //oc.m8.d5_en_UK_ware.ocVE.Aposticha3.text
 
 trVE.Stichera01.poet = poets_en_UK_ware.po.Iosif
 trVE.Stichera01.mode = miscellanea_en_UK_ware.misc.Mode8
+trVE.Stichera01.greekmelody = he.a.m8_en_UK_ware.heAU.KyrieEiKaiKritirio.greekname
 trVE.Stichera01.melody = he.a.m8_en_UK_ware.heAU.KyrieEiKaiKritirio.name
 trVE.Stichera01.incipit = "…"
 trVE.Stichera01.text = ""
 
 trVE.Stichera02.mode = miscellanea_en_UK_ware.misc.Mode8
+trVE.Stichera02.greekmelody = he.a.m8_en_UK_ware.heAU.KyrieEiKaiKritirio.greekname
 trVE.Stichera02.melody = he.a.m8_en_UK_ware.heAU.KyrieEiKaiKritirio.name
 trVE.Stichera02.incipit = "…"
 trVE.Stichera02.text = ""
@@ -850,17 +852,20 @@ trGC.Ode3C2T.text = ""
 
 trMA.Ode3Kathisma1.poet = poets_en_UK_ware.po.Iosif
 trMA.Ode3Kathisma1.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode3Kathisma1.greekmelody = he.a.m8_en_UK_ware.heAU.AnestisEkNekron.greekname
 trMA.Ode3Kathisma1.melody = he.a.m8_en_UK_ware.heAU.AnestisEkNekron.notmetered
 trMA.Ode3Kathisma1.incipit = "Divinely-shining lights, eyewitnesses of the…"
 trMA.Ode3Kathisma1.text = "Divinely-shining lights, eyewitnesses of the Saviour, illuminate us in the darkness of this life, that we may now walk honestly as in the day; with the torch of abstinence may we drive out the passions of the night, and behold with joy the splendour of Christ's Passion."
 
 trMA.Ode3Kathisma2.poet = poets_en_UK_ware.po.Theodorou
 trMA.Ode3Kathisma2.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode3Kathisma2.greekmelody = he.a.m8_en_UK_ware.heAU.ToProstachthen.greekname
 trMA.Ode3Kathisma2.melody = he.a.m8_en_UK_ware.heAU.ToProstachthen.notmetered
 trMA.Ode3Kathisma2.incipit = "O company of the twelve…"
 trMA.Ode3Kathisma2.text = "O company of the twelve apostles, chosen by God, offer now to Christ your supplications, that we may all complete the course of the Fast, saying our prayers with compunction and practising the virtues with an eager heart; and so may we attain the glorious Resurrection of Christ our God, bringing to Him praise and glory."
 
 trMA.Ode3Kathisma3.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode3Kathisma3.greekmelody = he.a.m8_en_UK_ware.heAU.ToProstachthen.greekname
 trMA.Ode3Kathisma3.melody = he.a.m8_en_UK_ware.heAU.ToProstachthen.notmetered
 trMA.Ode3Kathisma3.incipit = "The son and Word of…"
 trMA.Ode3Kathisma3.text = "The son and Word of God whom nothing can contain, in ways past speech and understanding was born from thee, O Theotokos. With the apostles pray to Him, that He may bestow true peace upon the inhabited earth and grant to us before the end forgiveness of our sins, in His boundless love counting thy servants worthy of the heavenly Kingdom."
@@ -875,12 +880,14 @@ trMA.C2.title = "Another three-ode Canon."
 
 trMA.Ode4C1H.ode = miscellanea_en_UK_ware.misc.Ode4
 trMA.Ode4C1H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode4C1H.greekmelody = he.h.m8_en_UK_ware.heHE.EisakikoaKyrie.greekname
 trMA.Ode4C1H.melody = he.h.m8_en_UK_ware.heHE.EisakikoaKyrie.melody
 trMA.Ode4C1H.incipit = he.h.m8_en_UK_ware.heHE.EisakikoaKyrie.incipit
 trMA.Ode4C1H.text = he.h.m8_en_UK_ware.heHE.EisakikoaKyrie.text
 
 trMA.Ode4C11.ode = miscellanea_en_UK_ware.misc.Ode4
 trMA.Ode4C11.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode4C11.greekmelody = he.h.m8_en_UK_ware.heHE.EisakikoaKyrie.greekname
 trMA.Ode4C11.melody = he.h.m8_en_UK_ware.heHE.EisakikoaKyrie.name
 trMA.Ode4C11.incipit = "Enlightened by God, the apostles…"
 trMA.Ode4C11.text = "Enlightened by God, the apostles of Christ lived in abstinence; and by their divine mediation they help us in this season of the Fast."
@@ -905,12 +912,14 @@ trMA.Ode4C1T.text = "I have passed my life in arrogance: make me humble and save
 
 trMA.Ode4C2H.ode = miscellanea_en_UK_ware.misc.Ode4
 trMA.Ode4C2H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode4C2H.greekmelody = he.h.m8_en_UK_ware.heHE.EisakikoaKyrieTinAkoinSou.greekname
 trMA.Ode4C2H.melody = he.h.m8_en_UK_ware.heHE.EisakikoaKyrieTinAkoinSou.melody
 trMA.Ode4C2H.incipit = he.h.m8_en_UK_ware.heHE.EisakikoaKyrieTinAkoinSou.incipit
 trMA.Ode4C2H.text = he.h.m8_en_UK_ware.heHE.EisakikoaKyrieTinAkoinSou.text
 
 trMA.Ode4C21.ode = miscellanea_en_UK_ware.misc.Ode4
 trMA.Ode4C21.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode4C21.greekmelody = he.h.m8_en_UK_ware.heHE.EisakikoaKyrieTinAkoinSou.greekname
 trMA.Ode4C21.melody = he.h.m8_en_UK_ware.heHE.EisakikoaKyrieTinAkoinSou.name
 trMA.Ode4C21.incipit = "O honoured choir of the…"
 trMA.Ode4C21.text = "O honoured choir of the apostles, in your intercessions to the Maker of all, ask that He have mercy on us who sing your praises."
@@ -1689,12 +1698,14 @@ trGC.Ode7C2T.text = ""
 
 trMA.Ode8C1H.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C1H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode8C1H.greekmelody = he.h.m8_en_UK_ware.heHE.TonAnarchonVasilea.greekname
 trMA.Ode8C1H.melody = he.h.m8_en_UK_ware.heHE.TonAnarchonVasilea.melody
 trMA.Ode8C1H.incipit = he.h.m8_en_UK_ware.heHE.TonAnarchonVasilea.incipit
 trMA.Ode8C1H.text = he.h.m8_en_UK_ware.heHE.TonAnarchonVasilea.text
 
 trMA.Ode8C11.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C11.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode8C11.greekmelody = he.h.m8_en_UK_ware.heHE.TonAnarchonVasilea.greekname
 trMA.Ode8C11.melody = he.h.m8_en_UK_ware.heHE.TonAnarchonVasilea.name
 trMA.Ode8C11.incipit = "As coals of immaterial fire…"
 trMA.Ode8C11.text = "As coals of immaterial fire, O apostles, burn up my material passions and kindle within me now a longing for divine love."
@@ -1719,6 +1730,7 @@ trMA.Ode8C1T.text = "O pure Virgin, thou hast contained Him who by nature cannot
 
 trMA.Ode8C21.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C21.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode8C21.greekmelody = he.h.m8_en_UK_ware.heHE.TonAnarchonVasilea.greekname
 trMA.Ode8C21.melody = he.h.m8_en_UK_ware.heHE.TonAnarchonVasilea.name
 trMA.Ode8C21.incipit = "O apostles of Christ, with…"
 trMA.Ode8C21.text = "O apostles of Christ, with the Spirit as architect ye have built the whole Church, within it ye bless Christ for ever."
@@ -1915,12 +1927,14 @@ trGC.Ode8C2H.text = he.h.m6_en_UK_ware.heHE.OnStratiaiOuranon.text
 
 trMA.Ode9C1H.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C1H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode9C1H.greekmelody = he.h.m8_en_UK_ware.heHE.KyriosTheotokon.greekname
 trMA.Ode9C1H.melody = he.h.m8_en_UK_ware.heHE.KyriosTheotokon.melody
 trMA.Ode9C1H.incipit = he.h.m8_en_UK_ware.heHE.KyriosTheotokon.incipit
 trMA.Ode9C1H.text = he.h.m8_en_UK_ware.heHE.KyriosTheotokon.text
 
 trMA.Ode9C11.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode9C11.greekmelody = he.h.m8_en_UK_ware.heHE.KyriosTheotokon.greekname
 trMA.Ode9C11.melody = he.h.m8_en_UK_ware.heHE.KyriosTheotokon.name
 trMA.Ode9C11.incipit = "Ye were revealed, O apostles…"
 trMA.Ode9C11.text = "Ye were revealed, O apostles, as fountains of the water of salvation: bring refreshment to my soul that faints from the thirst of sin."
@@ -1945,12 +1959,14 @@ trMA.Ode9C1T.text = "O Lady, thou hast brought forth our Joy: grant me the spiri
 
 trMA.Ode9C2H.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C2H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode9C2H.greekmelody = he.h.m8_en_UK_ware.heHE.SeTinOuranou.greekname
 trMA.Ode9C2H.melody = he.h.m8_en_UK_ware.heHE.SeTinOuranou.melody
 trMA.Ode9C2H.incipit = he.h.m8_en_UK_ware.heHE.SeTinOuranou.incipit
 trMA.Ode9C2H.text = he.h.m8_en_UK_ware.heHE.SeTinOuranou.text
 
 trMA.Ode9C21.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C21.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode9C21.greekmelody = he.h.m8_en_UK_ware.heHE.SeTinOuranou.greekname
 trMA.Ode9C21.melody = he.h.m8_en_UK_ware.heHE.SeTinOuranou.name
 trMA.Ode9C21.incipit = "We magnify you in our…"
 trMA.Ode9C21.text = "We magnify you in our hymns, O glorious company of the apostles: for ye have been revealed as shining lights of the inhabited earth, driving out error."

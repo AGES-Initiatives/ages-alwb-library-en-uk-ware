@@ -16,11 +16,13 @@ trCO.header = ""
 
 trVE.Stichera01.poet = poets_en_UK_ware.po.Iosif
 trVE.Stichera01.mode = miscellanea_en_UK_ware.misc.Mode4
+trVE.Stichera01.greekmelody = he.a.m4_en_UK_ware.heAU.EdokasSimeiosin.greekname
 trVE.Stichera01.melody = he.a.m4_en_UK_ware.heAU.EdokasSimeiosin.name
 trVE.Stichera01.incipit = "…"
 trVE.Stichera01.text = ""
 
 trVE.Stichera02.mode = miscellanea_en_UK_ware.misc.Mode4
+trVE.Stichera02.greekmelody = he.a.m4_en_UK_ware.heAU.EdokasSimeiosin.greekname
 trVE.Stichera02.melody = he.a.m4_en_UK_ware.heAU.EdokasSimeiosin.name
 trVE.Stichera02.incipit = "…"
 trVE.Stichera02.text = ""
@@ -47,11 +49,13 @@ trVE.AposTheotokion.incipit = "The heavenly powers praise thee…"
 trVE.AposTheotokion.text = "The heavenly powers praise thee, O Virgin Mother full of grace, and we also glorify thy childbearing that none can understand. O Theotokos, pray for the salvation of our souls."
 
 trMA.Kathisma21.mode = miscellanea_en_UK_ware.misc.Mode4
+trMA.Kathisma21.greekmelody = he.a.m4_en_UK_ware.heAU.KateplagiIosif.greekname
 trMA.Kathisma21.melody = he.a.m4_en_UK_ware.heAU.KateplagiIosif.name
 trMA.Kathisma21.incipit = "…"
 trMA.Kathisma21.text = ""
 
 trMA.Kathisma22.mode = miscellanea_en_UK_ware.misc.Mode4
+trMA.Kathisma22.greekmelody = he.a.m4_en_UK_ware.heAU.KateplagiIosif.greekname
 trMA.Kathisma22.melody = he.a.m4_en_UK_ware.heAU.KateplagiIosif.name
 trMA.Kathisma22.incipit = "…"
 trMA.Kathisma22.text = ""
@@ -75,6 +79,7 @@ trMA.C1.verse = ""
 
 trMA.Ode1C11.ode = miscellanea_en_UK_ware.misc.Ode1
 trMA.Ode1C11.mode = miscellanea_en_UK_ware.misc.Mode4
+trMA.Ode1C11.greekmelody = he.h.m4_en_UK_ware.heHE.TristatasKrataious.greekname
 trMA.Ode1C11.melody = he.h.m4_en_UK_ware.heHE.TristatasKrataious.name
 trMA.Ode1C11.incipit = "O Thou who alone art…"
 trMA.Ode1C11.text = "O Thou who alone art full of love, fountain of mercy, Lamb of God, who in Thy divine power takest away the transgressions of the world, save me, for I am sinking in the waves of sin, and guide me to the haven of repentance."
@@ -102,6 +107,7 @@ trMA.C2.verse = ""
 
 trMA.Ode1C21.ode = miscellanea_en_UK_ware.misc.Ode1
 trMA.Ode1C21.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode1C21.greekmelody = he.h.m6_en_UK_ware.heHE.VoithosKaiSkepastis.greekname
 trMA.Ode1C21.melody = he.h.m6_en_UK_ware.heHE.VoithosKaiSkepastis.name
 trMA.Ode1C21.incipit = "Brethren, let us enter with…"
 trMA.Ode1C21.text = "Brethren, let us enter with eagerness upon the second week of the light-giving Fast; and rejoicing in the feast which we kept yesterday, with holy gladness let us sing in praise of Christ."
@@ -132,12 +138,14 @@ trMA.Ode1C2A1.text = "O my Christ, how shall I bear Thine anger when Thou comest
 
 trMA.Ode1C2H.ode = miscellanea_en_UK_ware.misc.Ode1
 trMA.Ode1C2H.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode1C2H.greekmelody = he.h.m6_en_UK_ware.heHE.VoithosKaiSkepastis.greekname
 trMA.Ode1C2H.melody = he.h.m6_en_UK_ware.heHE.VoithosKaiSkepastis.melody
 trMA.Ode1C2H.incipit = he.h.m6_en_UK_ware.heHE.VoithosKaiSkepastis.incipit
 trMA.Ode1C2H.text = he.h.m6_en_UK_ware.heHE.VoithosKaiSkepastis.text
 
 trMA.Ode8C11.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C11.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode8C11.greekmelody = he.h.m4_en_UK_ware.heHE.LytrotaTouPantos.greekname
 trMA.Ode8C11.melody = he.h.m4_en_UK_ware.heHE.LytrotaTouPantos.name
 trMA.Ode8C11.incipit = "Journeying upon the uncertain path…"
 trMA.Ode8C11.text = "Journeying upon the uncertain path of life, I have fallen among thieves, and am despoiled by my own thoughts; my wounds stink and are corrupt. O Physician of the sick, at the prayers of all Thy saints give me Thine hand."
@@ -162,6 +170,7 @@ trMA.Ode8C1T.text = "Coming to dwell within thy womb, the Most High made thee mo
 
 trMA.Ode8C21.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C21.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode8C21.greekmelody = he.h.m6_en_UK_ware.heHE.OnStratiaiOuranon.greekname
 trMA.Ode8C21.melody = he.h.m6_en_UK_ware.heHE.OnStratiaiOuranon.name
 trMA.Ode8C21.incipit = "Deliver my soul from enslavement…"
 trMA.Ode8C21.text = "Deliver my soul from enslavement to the tyranny of the passions, O Lord, that I may freely do Thy will and with rejoicing glorify Thy power for ever."
@@ -192,12 +201,14 @@ trMA.Ode8C2A1.text = "No man became foolish through drinking water, but thou, O 
 
 trMA.Ode8C2H.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C2H.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode8C2H.greekmelody = he.h.m6_en_UK_ware.heHE.OnStratiaiOuranon.greekname
 trMA.Ode8C2H.melody = he.h.m6_en_UK_ware.heHE.OnStratiaiOuranon.melody
 trMA.Ode8C2H.incipit = he.h.m6_en_UK_ware.heHE.OnStratiaiOuranon.incipit
 trMA.Ode8C2H.text = he.h.m6_en_UK_ware.heHE.OnStratiaiOuranon.text
 
 trMA.Ode9C11.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_UK_ware.misc.Mode4
+trMA.Ode9C11.greekmelody = he.h.m4_en_UK_ware.heHE.EvaMenToTisParakois.greekname
 trMA.Ode9C11.melody = he.h.m4_en_UK_ware.heHE.EvaMenToTisParakois.name
 trMA.Ode9C11.incipit = "Let us fast from the…"
 trMA.Ode9C11.text = "Let us fast from the rage of the passions, let us delight in unfeigned love, let us feed the poor with bread; and, nourished by the grace of God, with weeping let us quench the tears of future punishment."
@@ -222,6 +233,7 @@ trMA.Ode9C1T.text = "O Virgin Mary, Queen of all, I am enslaved by every kind of
 
 trMA.Ode9C21.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C21.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode9C21.greekmelody = he.h.m6_en_UK_ware.heHE.AsporouSyllipseos.greekname
 trMA.Ode9C21.melody = he.h.m6_en_UK_ware.heHE.AsporouSyllipseos.name
 trMA.Ode9C21.incipit = "As soldiers of Christ let…"
 trMA.Ode9C21.text = "As soldiers of Christ let us now suffer hardship: for quickly will the time pass by, and on those who have fought bravely Christ will bestow crowns of victory, when He comes in glory upon the earth to judge all the world."
@@ -252,6 +264,7 @@ trMA.Ode9C2A1.text = "O my soul, because of fasting Moses beheld God; because of
 
 trMA.Ode9C2H.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C2H.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode9C2H.greekmelody = he.h.m6_en_UK_ware.heHE.AsporouSyllipseos.greekname
 trMA.Ode9C2H.melody = he.h.m6_en_UK_ware.heHE.AsporouSyllipseos.melody
 trMA.Ode9C2H.incipit = he.h.m6_en_UK_ware.heHE.AsporouSyllipseos.incipit
 trMA.Ode9C2H.text = he.h.m6_en_UK_ware.heHE.AsporouSyllipseos.text

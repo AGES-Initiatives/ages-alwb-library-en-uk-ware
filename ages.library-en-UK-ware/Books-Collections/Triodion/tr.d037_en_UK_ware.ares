@@ -47,21 +47,25 @@ trVE.AposTheotokion.incipit = "…"
 trVE.AposTheotokion.text = ""
 
 trMA.Kathisma21.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Kathisma21.greekmelody = he.a.m8_en_UK_ware.heAU.ToProstachthen.greekname
 trMA.Kathisma21.melody = he.a.m8_en_UK_ware.heAU.ToProstachthen.name
 trMA.Kathisma21.incipit = "With fire of abstinence let…"
 trMA.Kathisma21.text = "With fire of abstinence let us all burn up the thorns of the passions that assault us, and with the streams of our tears let us put out the flame that never shall be quenched; and let us cry aloud to Him who shall come to judge the whole earth: O Saviour and all-merciful Lord, guard us uncondemned and grant us the forgiveness of our sins."
 
 trMA.Kathisma22.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Kathisma22.greekmelody = he.a.m8_en_UK_ware.heAU.ToProstachthen.greekname
 trMA.Kathisma22.melody = he.a.m8_en_UK_ware.heAU.ToProstachthen.name
 trMA.Kathisma22.incipit = "O pure and blessed Virgin…"
 trMA.Kathisma22.text = "O pure and blessed Virgin, full of the grace of God, together with the powers above and the archangels and all the spiritual hosts, do thou pray without ceasing to Him who in His tender compassion was born of thee. May He grant to us before the end pardon and forgiveness of our sins and amendment of our lives, that so we may find mercy." //me.m11.d08_en_UK_ware.meMA.Kathisma3T.text
 
 trMA.Kathisma31.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Kathisma31.greekmelody = he.a.m8_en_UK_ware.heAU.ToProstachthen.greekname
 trMA.Kathisma31.melody = he.a.m8_en_UK_ware.heAU.ToProstachthen.name
 trMA.Kathisma31.incipit = "O holy and honoured Trinity…"
 trMA.Kathisma31.text = "O holy and honoured Trinity, as we now enter upon the third week of the Fast, keep us safe from harm and condemnation. Enable us rightly to pass through the time that still remains, and to fulfill all Thy commandments; that so, offering up our hymns of praise, with a pure conscience we may attain the glorious Resurrection."
 
 trMA.Kathisma32.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Kathisma32.greekmelody = he.a.m8_en_UK_ware.heAU.ToProstachthen.greekname
 trMA.Kathisma32.melody = he.a.m8_en_UK_ware.heAU.ToProstachthen.name
 trMA.Kathisma32.incipit = "Thou art the protection of…"
 trMA.Kathisma32.text = "Thou art the protection of the faithful, O Mother of God, the joy of the afflicted, the greatest consolation of all that mourn; with the angels and the principalities, O Virgin, pray continually on our behalf to Him who was born miraculously from thy most holy womb, that in the hour of judgement we may be delivered from the dread condemnation."
@@ -75,6 +79,7 @@ trMA.C1.verse = ""
 
 trMA.Ode1C11.ode = miscellanea_en_UK_ware.misc.Ode1
 trMA.Ode1C11.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode1C11.greekmelody = he.h.m8_en_UK_ware.heHE.AsmaAnapempsomen.greekname
 trMA.Ode1C11.melody = he.h.m8_en_UK_ware.heHE.AsmaAnapempsomen.name
 trMA.Ode1C11.incipit = "In Thy divine compassion, accept…"
 trMA.Ode1C11.text = "In Thy divine compassion, accept me as I now repent. I have wasted my life like the Prodigal, but I cry aloud to Thee: I have sinned, and have no need of others to accuse me; for I myself bring before Thee all my shameful acts."
@@ -102,6 +107,7 @@ trMA.C2.verse = ""
 
 trMA.Ode1C21.ode = miscellanea_en_UK_ware.misc.Ode1
 trMA.Ode1C21.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode1C21.greekmelody = he.h.m8_en_UK_ware.heHE.AsomenOdinToTheo.greekname
 trMA.Ode1C21.melody = he.h.m8_en_UK_ware.heHE.AsomenOdinToTheo.name
 trMA.Ode1C21.incipit = "As Israel of old fasted…"
 trMA.Ode1C21.text = "As Israel of old fasted for three days, so let us sanctify ourselves, O brethren, during the first three weeks of the Fast; let us draw near to the mountain of prayer and, listening to the voice of God, let us sing in praise of Christ."
@@ -132,12 +138,14 @@ trMA.Ode1C2A1.text = "As David armed himself with faith, so let us arm ourselves
 
 trMA.Ode1C2H.ode = miscellanea_en_UK_ware.misc.Ode1
 trMA.Ode1C2H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode1C2H.greekmelody = he.h.m8_en_UK_ware.heHE.AsomenOdinToTheo.greekname
 trMA.Ode1C2H.melody = he.h.m8_en_UK_ware.heHE.AsomenOdinToTheo.melody
 trMA.Ode1C2H.incipit = he.h.m8_en_UK_ware.heHE.AsomenOdinToTheo.incipit
 trMA.Ode1C2H.text = he.h.m8_en_UK_ware.heHE.AsomenOdinToTheo.text
 
 trMA.Ode8C11.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C11.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode8C11.greekmelody = he.h.m8_en_UK_ware.heHE.OiTheorrimonesPaides.greekname
 trMA.Ode8C11.melody = he.h.m8_en_UK_ware.heHE.OiTheorrimonesPaides.name
 trMA.Ode8C11.incipit = "I have wasted with harlots…"
 trMA.Ode8C11.text = "I have wasted with harlots the riches that the Father gave me, and I am cast our from the forecourt of grace; but in Thy boundless mercy receive me back, O Father."
@@ -162,6 +170,7 @@ trMA.Ode8C1T.text = "O Theotokos Virgin, who hast conceived the Vine that was no
 
 trMA.Ode8C21.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C21.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode8C21.greekmelody = he.h.m8_en_UK_ware.heHE.OStegazonEnYdasi.greekname
 trMA.Ode8C21.melody = he.h.m8_en_UK_ware.heHE.OStegazonEnYdasi.name
 trMA.Ode8C21.incipit = "O brethren, come and let…"
 trMA.Ode8C21.text = "O brethren, come and let us delight in the Fast, for it is the Father's treasury, a thing of wonder, and the mother of all who worship Christ the Master. It gives strength to the body and light to the mind and heart."
@@ -192,12 +201,14 @@ trMA.Ode8C2A1.text = "When Thou shalt come in Thy glory with thousands and ten t
 
 trMA.Ode8C2H.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C2H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode8C2H.greekmelody = he.h.m8_en_UK_ware.heHE.OStegazonEnYdasi.greekname
 trMA.Ode8C2H.melody = he.h.m8_en_UK_ware.heHE.OStegazonEnYdasi.melody
 trMA.Ode8C2H.incipit = he.h.m8_en_UK_ware.heHE.OStegazonEnYdasi.incipit
 trMA.Ode8C2H.text = he.h.m8_en_UK_ware.heHE.OStegazonEnYdasi.text
 
 trMA.Ode9C11.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode9C11.greekmelody = he.h.m8_en_UK_ware.heHE.TonProdilothenta.greekname
 trMA.Ode9C11.melody = he.h.m8_en_UK_ware.heHE.TonProdilothenta.name
 trMA.Ode9C11.incipit = "O Father, I have departed…"
 trMA.Ode9C11.text = "O Father, I have departed far from Thy love, and by my own choice I have enslaved myself to lustful desires. But now I turn back to Thee: receive me as the Prodigal, for Thou alone art rich in mercy."
@@ -222,6 +233,7 @@ trMA.Ode9C1T.text = "O Theotokos, thou art our defence and rampart; thou art the
 
 trMA.Ode9C21.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C21.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode9C21.greekmelody = he.h.m8_en_UK_ware.heHE.MegalynomenSeTinPanamomon.greekname
 trMA.Ode9C21.melody = he.h.m8_en_UK_ware.heHE.MegalynomenSeTinPanamomon.name
 trMA.Ode9C21.incipit = "As an acceptable gift let…"
 trMA.Ode9C21.text = "As an acceptable gift let us offer to Christ our God a pure fast and abstinence from evil."
@@ -252,6 +264,7 @@ trMA.Ode9C2A1.text = "Daniel in the den tamed the wild beasts with the muzzle of
 
 trMA.Ode9C2H.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C2H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode9C2H.greekmelody = he.h.m8_en_UK_ware.heHE.MegalynomenSeTinPanamomon.greekname
 trMA.Ode9C2H.melody = he.h.m8_en_UK_ware.heHE.MegalynomenSeTinPanamomon.melody
 trMA.Ode9C2H.incipit = he.h.m8_en_UK_ware.heHE.MegalynomenSeTinPanamomon.incipit
 trMA.Ode9C2H.text = he.h.m8_en_UK_ware.heHE.MegalynomenSeTinPanamomon.text

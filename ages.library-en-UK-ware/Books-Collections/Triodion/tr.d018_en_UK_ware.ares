@@ -25,16 +25,19 @@ trVE.AposMartyric.incipit = "Wise was the exchange ye…"
 trVE.AposMartyric.text = "Wise was the exchange ye made, O saints! Ye gave your blood, and received heaven as your reward; ye suffered tribulation for a time, and now make glad eternally. Wisely have ye traded; forsaking things corruptible, ye have received things incorruptible; and rejoicing with the angels ye sing continually the praises of the consubstantial Trinity." //oc.m1.d4_en_UK_ware.ocVE.Aposticha3.text
 
 trVE.AposTheotokion.mode = miscellanea_en_UK_ware.misc.Mode1
+trVE.AposTheotokion.greekmelody = he.a.m1_en_UK_ware.heAU.PaneffimoiMartyres.greekname
 trVE.AposTheotokion.melody = he.a.m1_en_UK_ware.heAU.PaneffimoiMartyres.name
 trVE.AposTheotokion.incipit = "When the undefiled Virgin saw…"
 trVE.AposTheotokion.text = "When the undefiled Virgin saw upon the Tree the Son who without seed had been born from her womb, unable to endure the wound in her heart, she cried aloud in grief: 'O Thou who rulest all creation by Thy will, how art Thou lifted on the Cross as one condemned? Thou sufferest, because it is Thy will to save mankind.'"
 
 trMA.Kathisma21.mode = miscellanea_en_UK_ware.misc.Mode2
+trMA.Kathisma21.greekmelody = he.a.m2_en_UK_ware.heAU.EfsplagchniasYparchousa.greekname
 trMA.Kathisma21.melody = he.a.m2_en_UK_ware.heAU.EfsplagchniasYparchousa.name
 trMA.Kathisma21.incipit = "Grant us humbly and in…"
 trMA.Kathisma21.text = "Grant us humbly and in peace to pass through the days of cleansing that prepare us for the Fast. In Thine ineffable love for mankind, O Christ our God, destroy the wicked schemes of the enemy and preserve us all by Thy Cross, for Thou alone knowest the secrets of man's heart."
 
 trMA.Kathisma22.mode = miscellanea_en_UK_ware.misc.Mode2
+trMA.Kathisma22.greekmelody = he.a.m2_en_UK_ware.heAU.EfsplagchniasYparchousa.greekname
 trMA.Kathisma22.melody = he.a.m2_en_UK_ware.heAU.EfsplagchniasYparchousa.name
 trMA.Kathisma22.incipit = "Thy Virgin Mother, standing by…"
 trMA.Kathisma22.text = "Thy Virgin Mother, standing by Thy Cross, could not endure to see Thee suffering unjustly, but weeping and lamenting she cried out to Thee: 'O Child dear to my heart, how dost Thou suffer, though Thou art impassible by nature? I sing the praises of Thy perfect love.'" //oc.m2.d4_en_UK_ware.ocMA.Kathisma23.text
@@ -45,6 +48,7 @@ trMA.C2.poet = poets_en_UK_ware.po.KyriouIosif
 
 trMA.Ode1C1H.ode = miscellanea_en_UK_ware.misc.Ode1
 trMA.Ode1C1H.mode = miscellanea_en_UK_ware.misc.Mode4
+trMA.Ode1C1H.greekmelody = he.h.m4_en_UK_ware.heHE.AsomaiSoiKyrie.greekname
 trMA.Ode1C1H.melody = he.h.m4_en_UK_ware.heHE.AsomaiSoiKyrie.melody
 trMA.Ode1C1H.incipit = he.h.m4_en_UK_ware.heHE.AsomaiSoiKyrie.incipit
 trMA.Ode1C1H.text = he.h.m4_en_UK_ware.heHE.AsomaiSoiKyrie.text
@@ -54,6 +58,7 @@ trMA.C1.verse = ""
 
 trMA.Ode1C11.ode = miscellanea_en_UK_ware.misc.Ode1
 trMA.Ode1C11.mode = miscellanea_en_UK_ware.misc.Mode4
+trMA.Ode1C11.greekmelody = he.h.m4_en_UK_ware.heHE.AsomaiSoiKyrie.greekname
 trMA.Ode1C11.melody = he.h.m4_en_UK_ware.heHE.AsomaiSoiKyrie.name
 trMA.Ode1C11.incipit = "Fasting as man, the Lord…"
 trMA.Ode1C11.text = "Fasting as man, the Lord overcame the tempter; and so He gave us an example, showing us what lies within our power and setting limits for us."
@@ -78,12 +83,14 @@ trMA.Ode1C1T.text = "To thee we all run, Theotokos, for thou art our sure def en
 
 trMA.Ode3C1H.ode = miscellanea_en_UK_ware.misc.Ode3
 trMA.Ode3C1H.mode = miscellanea_en_UK_ware.misc.Mode4
+trMA.Ode3C1H.greekmelody = he.h.m4_en_UK_ware.heHE.EnKyrioTheoMou.greekname
 trMA.Ode3C1H.melody = he.h.m4_en_UK_ware.heHE.EnKyrioTheoMou.melody
 trMA.Ode3C1H.incipit = he.h.m4_en_UK_ware.heHE.EnKyrioTheoMou.incipit
 trMA.Ode3C1H.text = he.h.m4_en_UK_ware.heHE.EnKyrioTheoMou.text
 
 trMA.Ode3C11.ode = miscellanea_en_UK_ware.misc.Ode3
 trMA.Ode3C11.mode = miscellanea_en_UK_ware.misc.Mode4
+trMA.Ode3C11.greekmelody = he.h.m4_en_UK_ware.heHE.EnKyrioTheoMou.greekname
 trMA.Ode3C11.melody = he.h.m4_en_UK_ware.heHE.EnKyrioTheoMou.name
 trMA.Ode3C11.incipit = "Through abstinence Enoch the wonderful…"
 trMA.Ode3C11.text = "Through abstinence Enoch the wonderful was translated from the earth: emulating his example, let us be translated from corruption and enter into life."
@@ -108,6 +115,7 @@ trMA.Ode3C1T.text = "O thou who hast borne God, intercede for us without ceasing
 
 trMA.Ode3C21.ode = miscellanea_en_UK_ware.misc.Ode3
 trMA.Ode3C21.mode = miscellanea_en_UK_ware.misc.Mode2
+trMA.Ode3C21.greekmelody = he.h.m2_en_UK_ware.heHE.EnPetraMeTisPisteos.greekname
 trMA.Ode3C21.melody = he.h.m2_en_UK_ware.heHE.EnPetraMeTisPisteos.name
 trMA.Ode3C21.incipit = "Thou hast stretched out Thine…"
 trMA.Ode3C21.text = "Thou hast stretched out Thine hands upon the Cross and by Thy death hast slain the curse, giving life to men by Thy Passion. Therefore we sing the praises of Thy divine Crucifixion , O Jesus our God who lovest mankind."
@@ -150,6 +158,7 @@ trMA.Ode3C2T.text = "All-holy Lady, Mother and Virgin, by thy mediation and prot
 
 trMA.Ode3C31.ode = miscellanea_en_UK_ware.misc.Ode3
 trMA.Ode3C31.mode = miscellanea_en_UK_ware.misc.Mode2
+trMA.Ode3C31.greekmelody = he.h.m2_en_UK_ware.heHE.SteirothentaMouTonNoun.greekname
 trMA.Ode3C31.melody = he.h.m2_en_UK_ware.heHE.SteirothentaMouTonNoun.name
 trMA.Ode3C31.incipit = "When Thou wast raised of…"
 trMA.Ode3C31.text = "When Thou wast raised of Thine own will upon the Cross, O Saviour, all the earth was shaken and the veil of the Temple was rent in twain."
@@ -180,12 +189,14 @@ trMA.Ode3C3A1.text = "By Thy power, O Christ, sanctify the season of the Fast; a
 
 trMA.Ode3C3H.ode = miscellanea_en_UK_ware.misc.Ode3
 trMA.Ode3C3H.mode = miscellanea_en_UK_ware.misc.Mode2
+trMA.Ode3C3H.greekmelody = he.h.m2_en_UK_ware.heHE.SteirothentaMouTonNoun.greekname
 trMA.Ode3C3H.melody = he.h.m2_en_UK_ware.heHE.SteirothentaMouTonNoun.melody
 trMA.Ode3C3H.incipit = he.h.m2_en_UK_ware.heHE.SteirothentaMouTonNoun.incipit
 trMA.Ode3C3H.text = he.h.m2_en_UK_ware.heHE.SteirothentaMouTonNoun.text
 
 trMA.Ode4C11.ode = miscellanea_en_UK_ware.misc.Ode4
 trMA.Ode4C11.mode = miscellanea_en_UK_ware.misc.Mode4
+trMA.Ode4C11.greekmelody = he.h.m4_en_UK_ware.heHE.EisakikoaTinAkoinSou.greekname
 trMA.Ode4C11.melody = he.h.m4_en_UK_ware.heHE.EisakikoaTinAkoinSou.name
 trMA.Ode4C11.incipit = "Because of his virtue and…"
 trMA.Ode4C11.text = "Because of his virtue and his hospitality, Abraham received into his home the Trinity present in angelic form."
@@ -210,6 +221,7 @@ trMA.Ode4C1T.text = "O blessed Mother, Virgin pure and undefiled, pray for the w
 
 trMA.Ode5C11.ode = miscellanea_en_UK_ware.misc.Ode5
 trMA.Ode5C11.mode = miscellanea_en_UK_ware.misc.Mode4
+trMA.Ode5C11.greekmelody = he.h.m4_en_UK_ware.heHE.OAnateilasToFos.greekname
 trMA.Ode5C11.melody = he.h.m4_en_UK_ware.heHE.OAnateilasToFos.name
 trMA.Ode5C11.incipit = "Moses, when of old he…"
 trMA.Ode5C11.text = "Moses, when of old he fasted on Mount Sinai, was granted the vision of God; and Elijah was borne up in a chariot of fire."
@@ -234,6 +246,7 @@ trMA.Ode5C1T.text = "O pure Mother of God, who still remaining virgin hast carri
 
 trMA.Ode6C11.ode = miscellanea_en_UK_ware.misc.Ode6
 trMA.Ode6C11.mode = miscellanea_en_UK_ware.misc.Mode4
+trMA.Ode6C11.greekmelody = he.h.m4_en_UK_ware.heHE.OsIonanTonProfitin.greekname
 trMA.Ode6C11.melody = he.h.m4_en_UK_ware.heHE.OsIonanTonProfitin.name
 trMA.Ode6C11.incipit = "The holy Fast preserved Jonah…"
 trMA.Ode6C11.text = "The holy Fast preserved Jonah in the whale: let us therefore fast with all our heart, and we shall escape destruction in Gehenna."
@@ -258,12 +271,14 @@ trMA.Ode6C1T.text = "In ways past speech thou hast borne Christ our God, the Sav
 
 trMA.Ode6C1H.ode = miscellanea_en_UK_ware.misc.Ode6
 trMA.Ode6C1H.mode = miscellanea_en_UK_ware.misc.Mode4
+trMA.Ode6C1H.greekmelody = he.h.m4_en_UK_ware.heHE.OsIonanTonProfitin.greekname
 trMA.Ode6C1H.melody = he.h.m4_en_UK_ware.heHE.OsIonanTonProfitin.melody
 trMA.Ode6C1H.incipit = he.h.m4_en_UK_ware.heHE.OsIonanTonProfitin.incipit
 trMA.Ode6C1H.text = he.h.m4_en_UK_ware.heHE.OsIonanTonProfitin.text
 
 trMA.Ode7C11.ode = miscellanea_en_UK_ware.misc.Ode7
 trMA.Ode7C11.mode = miscellanea_en_UK_ware.misc.Mode4
+trMA.Ode7C11.greekmelody = he.h.m4_en_UK_ware.heHE.OTonPateronTheos.greekname
 trMA.Ode7C11.melody = he.h.m4_en_UK_ware.heHE.OTonPateronTheos.name
 trMA.Ode7C11.incipit = "Let us become like Daniel…"
 trMA.Ode7C11.text = "Let us become like Daniel, who through fasting tamed the roaring lions in their den."
@@ -288,12 +303,14 @@ trMA.Ode7C1T.text = "O pure Virgin Mother, from thee the pre-eternal Word took f
 
 trMA.Ode8C1H.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C1H.mode = miscellanea_en_UK_ware.misc.Mode4
+trMA.Ode8C1H.greekmelody = he.h.m4_en_UK_ware.heHE.TonVasileaChriston.greekname
 trMA.Ode8C1H.melody = he.h.m4_en_UK_ware.heHE.TonVasileaChriston.melody
 trMA.Ode8C1H.incipit = he.h.m4_en_UK_ware.heHE.TonVasileaChriston.incipit
 trMA.Ode8C1H.text = he.h.m4_en_UK_ware.heHE.TonVasileaChriston.text
 
 trMA.Ode8C11.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C11.mode = miscellanea_en_UK_ware.misc.Mode4
+trMA.Ode8C11.greekmelody = he.h.m4_en_UK_ware.heHE.TonVasileaChriston.greekname
 trMA.Ode8C11.melody = he.h.m4_en_UK_ware.heHE.TonVasileaChriston.name
 trMA.Ode8C11.incipit = "Because he had fasted, Joseph…"
 trMA.Ode8C11.text = "Because he had fasted, Joseph fled from intercourse with the sinful woman and was granted royal power. Through fasting, then, let us also quench the fiery arrows of Beelzebub the enemy."
@@ -318,6 +335,7 @@ trMA.Ode8C1T.text = "For us the Virgin Mary has borne Christ the King, while sti
 
 trMA.Ode8C21.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C21.mode = miscellanea_en_UK_ware.misc.Mode2
+trMA.Ode8C21.greekmelody = he.h.m2_en_UK_ware.heHE.TonEnKaminoTouPyros.greekname
 trMA.Ode8C21.melody = he.h.m2_en_UK_ware.heHE.TonEnKaminoTouPyros.name
 trMA.Ode8C21.incipit = "Upon the mountain Moses raised…"
 trMA.Ode8C21.text = "Upon the mountain Moses raised his arms in the form of a Cross and put the enemy to flight; and Thou, O Saviour, stretching out Thine hands upon the Cross, hast put to death the all-destructive tyranny of hell."
@@ -360,6 +378,7 @@ trMA.Ode8C2T.text = "Open unto us, O Virgin, when we knock and call upon thy mer
 
 trMA.Ode8C31.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C31.mode = miscellanea_en_UK_ware.misc.Mode2
+trMA.Ode8C31.greekmelody = he.h.m2_en_UK_ware.heHE.TonEnTiVatoMosi.greekname
 trMA.Ode8C31.melody = he.h.m2_en_UK_ware.heHE.TonEnTiVatoMosi.name
 trMA.Ode8C31.incipit = "Nailed to the Cross, O…"
 trMA.Ode8C31.text = "Nailed to the Cross, O Master of all, Christ our Saviour, Thou hast called back Adam and Eve, leading them into Paradise once more; and they sing Thy praises for ever."
@@ -390,18 +409,21 @@ trMA.Ode8C3A1.text = "O Cross, hope of the faithful, weapon of kings, glory of p
 
 trMA.Ode8C3H.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C3H.mode = miscellanea_en_UK_ware.misc.Mode2
+trMA.Ode8C3H.greekmelody = he.h.m2_en_UK_ware.heHE.TonEnTiVatoMosi.greekname
 trMA.Ode8C3H.melody = he.h.m2_en_UK_ware.heHE.TonEnTiVatoMosi.melody
 trMA.Ode8C3H.incipit = he.h.m2_en_UK_ware.heHE.TonEnTiVatoMosi.incipit
 trMA.Ode8C3H.text = he.h.m2_en_UK_ware.heHE.TonEnTiVatoMosi.text
 
 trMA.Ode9C1H.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C1H.mode = miscellanea_en_UK_ware.misc.Mode4
+trMA.Ode9C1H.greekmelody = he.h.m4_en_UK_ware.heHE.MegalynomenPantes.greekname
 trMA.Ode9C1H.melody = he.h.m4_en_UK_ware.heHE.MegalynomenPantes.melody
 trMA.Ode9C1H.incipit = he.h.m4_en_UK_ware.heHE.MegalynomenPantes.incipit
 trMA.Ode9C1H.text = he.h.m4_en_UK_ware.heHE.MegalynomenPantes.text
 
 trMA.Ode9C11.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_UK_ware.misc.Mode4
+trMA.Ode9C11.greekmelody = he.h.m4_en_UK_ware.heHE.MegalynomenPantes.greekname
 trMA.Ode9C11.melody = he.h.m4_en_UK_ware.heHE.MegalynomenPantes.name
 trMA.Ode9C11.incipit = "Performing miracles through fasting, Moses…"
 trMA.Ode9C11.text = "Performing miracles through fasting, Moses parted the sea in Egypt and led the people through it, and he fed them in the untrodden wilderness."
@@ -426,6 +448,7 @@ trMA.Ode9C1T.text = "Hail, Mary pure and worthy of all veneration, glory of virg
 
 trMA.Ode9C21.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C21.mode = miscellanea_en_UK_ware.misc.Mode2
+trMA.Ode9C21.greekmelody = he.h.m2_en_UK_ware.heHE.TonEkTheouTheonLogon.greekname
 trMA.Ode9C21.melody = he.h.m2_en_UK_ware.heHE.TonEkTheouTheonLogon.name
 trMA.Ode9C21.incipit = "Stretching out Thy divine hands…"
 trMA.Ode9C21.text = "Stretching out Thy divine hands upon the Cross, Thou hast joined together that which before was divided, and by Thy mediation Thou hast offered as a gift to the Father the nature of mortal man, that was under condemnation."
@@ -462,6 +485,7 @@ trMA.Ode9C2T.text = "Through thy watchful intercession, through thine unsleeping
 
 trMA.Ode9C31.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C31.mode = miscellanea_en_UK_ware.misc.Mode2
+trMA.Ode9C31.greekmelody = he.h.m2_en_UK_ware.heHE.TinYperfyosSarki.greekname
 trMA.Ode9C31.melody = he.h.m2_en_UK_ware.heHE.TinYperfyosSarki.name
 trMA.Ode9C31.incipit = "Crucified of Thine own will…"
 trMA.Ode9C31.text = "Crucified of Thine own will upon the Cross, O Christ, Thou hast delivered us from the curse of the law. Therefore, as is right, we magnify Thee."
@@ -492,6 +516,7 @@ trMA.Ode9C3A1.text = "By thy power, O Cross, grant to those who venerate thee th
 
 trMA.Ode9C3H.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C3H.mode = miscellanea_en_UK_ware.misc.Mode2
+trMA.Ode9C3H.greekmelody = he.h.m2_en_UK_ware.heHE.TinYperfyosSarki.greekname
 trMA.Ode9C3H.melody = he.h.m2_en_UK_ware.heHE.TinYperfyosSarki.melody
 trMA.Ode9C3H.incipit = he.h.m2_en_UK_ware.heHE.TinYperfyosSarki.incipit
 trMA.Ode9C3H.text = he.h.m2_en_UK_ware.heHE.TinYperfyosSarki.text

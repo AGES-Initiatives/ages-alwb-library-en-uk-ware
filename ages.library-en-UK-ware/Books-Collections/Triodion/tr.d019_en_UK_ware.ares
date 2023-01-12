@@ -30,11 +30,13 @@ trVE.AposTheotokion.incipit = "First in holiness among the…"
 trVE.AposTheotokion.text = "First in holiness among the saints, hymned by the angelic hosts, song of the apostles, preaching of the prophets, O Lady, accept also our entreaties." //oc.m3.d2_en_UK_ware.ocVE.AposTheotokion.text
 
 trMA.Kathisma21.mode = miscellanea_en_UK_ware.misc.Mode5
+trMA.Kathisma21.greekmelody = he.a.m5_en_UK_ware.heAU.TonSynanarchonLogon.greekname
 trMA.Kathisma21.melody = he.a.m5_en_UK_ware.heAU.TonSynanarchonLogon.name
 trMA.Kathisma21.incipit = "Today all the apostles bless…"
 trMA.Kathisma21.text = "Today all the apostles bless the forty days and the week of cleansing that precedes them, and they sanctify this season of fasting which they received from Christ the Redeemer. They proclaim His Resurrection unto all and intercede with the Lord for mercy on our souls."
 
 trMA.Kathisma22.mode = miscellanea_en_UK_ware.misc.Mode5
+trMA.Kathisma22.greekmelody = he.a.m5_en_UK_ware.heAU.TonSynanarchonLogon.greekname
 trMA.Kathisma22.melody = he.a.m5_en_UK_ware.heAU.TonSynanarchonLogon.name
 trMA.Kathisma22.incipit = "Thou art the protection, O…"
 trMA.Kathisma22.text = "Thou art the protection, O pure Virgin, of those who steadfastly have set their hope in thee. Deliver them from all temptations, from harsh danger and distress. Together with the apostles, intercede on their behalf before thy Son, and save all those who sing thy praises."
@@ -43,6 +45,7 @@ trMA.C1.poet = poets_en_UK_ware.po.KyriouIosif
 
 trMA.Ode4C11.ode = miscellanea_en_UK_ware.misc.Ode4
 trMA.Ode4C11.mode = miscellanea_en_UK_ware.misc.Mode4
+trMA.Ode4C11.greekmelody = he.h.m4_en_UK_ware.heHE.AkikoenOProfitis.greekname
 trMA.Ode4C11.melody = he.h.m4_en_UK_ware.heHE.AkikoenOProfitis.name
 trMA.Ode4C11.incipit = "Thy disciples shone in the…"
 trMA.Ode4C11.text = "Thy disciples shone in the world with the light of the knowledge of God; they overcame error and destroyed the darkness of deceit. At their prayers, save those who sing Thy praises."
@@ -73,6 +76,7 @@ trMA.Ode4C1T.text = "Ineffably thou hast conceived, O Mother of God, and in ways
 
 trMA.Ode4C21.ode = miscellanea_en_UK_ware.misc.Ode4
 trMA.Ode4C21.mode = miscellanea_en_UK_ware.misc.Mode2
+trMA.Ode4C21.greekmelody = he.h.m2_en_UK_ware.heHE.ElilythasEkParthenou.greekname
 trMA.Ode4C21.melody = he.h.m2_en_UK_ware.heHE.ElilythasEkParthenou.name
 trMA.Ode4C21.incipit = "With the light of your…"
 trMA.Ode4C21.text = "With the light of your teaching, O apostles, ye have dispersed the darkness of sensual pleasure; praised in all the world, through your abstinence ye have enlightened all men, both sinners and righteous."
@@ -103,12 +107,14 @@ trMA.Ode4C2T.text = "In thee, O Theotokos, all the faithful have a haven of salv
 
 trMA.Ode4C2H.ode = miscellanea_en_UK_ware.misc.Ode4
 trMA.Ode4C2H.mode = miscellanea_en_UK_ware.misc.Mode2
+trMA.Ode4C2H.greekmelody = he.h.m2_en_UK_ware.heHE.ElilythasEkParthenou.greekname
 trMA.Ode4C2H.melody = he.h.m2_en_UK_ware.heHE.ElilythasEkParthenou.melody
 trMA.Ode4C2H.incipit = he.h.m2_en_UK_ware.heHE.ElilythasEkParthenou.incipit
 trMA.Ode4C2H.text = he.h.m2_en_UK_ware.heHE.ElilythasEkParthenou.text
 
 trMA.Ode8C11.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C11.mode = miscellanea_en_UK_ware.misc.Mode4
+trMA.Ode8C11.greekmelody = he.h.m4_en_UK_ware.heHE.TaSympantaDespota.greekname
 trMA.Ode8C11.melody = he.h.m4_en_UK_ware.heHE.TaSympantaDespota.name
 trMA.Ode8C11.incipit = "The whole earth is full…"
 trMA.Ode8C11.text = "The whole earth is full of Thy praise, O Lord. For, inspired by God, the preaching of Thy divine disciples has been heard in every place, turning the world from the depths of ignorance to knowledge, as it sings aloud: O ye works of the Lord, bless ye the Lord."
@@ -139,6 +145,7 @@ trMA.Ode8C1T.text = "O holy Theotokos, Queen who reignest over all, accept the s
 
 trMA.Ode8C21.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C21.mode = miscellanea_en_UK_ware.misc.Mode2
+trMA.Ode8C21.greekmelody = he.h.m2_en_UK_ware.heHE.EfrixePaidonEvagon.greekname
 trMA.Ode8C21.melody = he.h.m2_en_UK_ware.heHE.EfrixePaidonEvagon.name
 trMA.Ode8C21.incipit = "Christ gave you as a…"
 trMA.Ode8C21.text = "Christ gave you as a light to all the ends of the inhabited earth, O apostles, and He said: 'Go and teach the nations, that they may learn how in the flesh I lived with abstinence, trampling underfoot all the strength of the enemy and showing to mankind the straight path.'"
@@ -169,12 +176,14 @@ trMA.Ode8C2T.text = "Blessed is the womb of the Mother of God, for it has receiv
 
 trMA.Ode8C2H.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C2H.mode = miscellanea_en_UK_ware.misc.Mode2
+trMA.Ode8C2H.greekmelody = he.h.m2_en_UK_ware.heHE.EfrixePaidonEvagon.greekname
 trMA.Ode8C2H.melody = he.h.m2_en_UK_ware.heHE.EfrixePaidonEvagon.melody
 trMA.Ode8C2H.incipit = he.h.m2_en_UK_ware.heHE.EfrixePaidonEvagon.incipit
 trMA.Ode8C2H.text = he.h.m2_en_UK_ware.heHE.EfrixePaidonEvagon.text
 
 trMA.Ode9C11.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_UK_ware.misc.Mode4
+trMA.Ode9C11.greekmelody = he.h.m4_en_UK_ware.heHE.OtiEpoiiseMoiMegaleia.greekname
 trMA.Ode9C11.melody = he.h.m4_en_UK_ware.heHE.OtiEpoiiseMoiMegaleia.name
 trMA.Ode9C11.incipit = "As lights that never fail…"
 trMA.Ode9C11.text = "As lights that never fail ye were sent out into the world, delivering men from the depths of sin. With joy we sing in praise of Christ, who gave you the strength to be His apostles."
@@ -205,6 +214,7 @@ trMA.Ode9C1T.text = "God has appointed thee, pure Virgin, as helper of mankind: 
 
 trMA.Ode9C21.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C21.mode = miscellanea_en_UK_ware.misc.Mode2
+trMA.Ode9C21.greekmelody = he.h.m2_en_UK_ware.heHE.ITonAchoritonTheon.greekname
 trMA.Ode9C21.melody = he.h.m2_en_UK_ware.heHE.ITonAchoritonTheon.name
 trMA.Ode9C21.incipit = "Strengthened by fasting, the choir…"
 trMA.Ode9C21.text = "Strengthened by fasting, the choir of the apostles shone with divine radiance upon the whole inhabited earth, giving light to the world."
@@ -235,6 +245,7 @@ trMA.Ode9C2T.text = "In thy womb thou hast carried God made man, and thou art a 
 
 trMA.Ode9C2H.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C2H.mode = miscellanea_en_UK_ware.misc.Mode2
+trMA.Ode9C2H.greekmelody = he.h.m2_en_UK_ware.heHE.ITonAchoritonTheon.greekname
 trMA.Ode9C2H.melody = he.h.m2_en_UK_ware.heHE.ITonAchoritonTheon.melody
 trMA.Ode9C2H.incipit = he.h.m2_en_UK_ware.heHE.ITonAchoritonTheon.incipit
 trMA.Ode9C2H.text = he.h.m2_en_UK_ware.heHE.ITonAchoritonTheon.text

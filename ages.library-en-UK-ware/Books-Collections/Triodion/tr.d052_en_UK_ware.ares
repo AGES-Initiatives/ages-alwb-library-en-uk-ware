@@ -15,11 +15,13 @@ trHO.note2 = ""
 trCO.header = ""
 
 trVE.Stichera01.mode = miscellanea_en_UK_ware.misc.Mode3
+trVE.Stichera01.greekmelody = he.a.m3_en_UK_ware.heAU.StavrofanosMoysis.greekname
 trVE.Stichera01.melody = he.a.m3_en_UK_ware.heAU.StavrofanosMoysis.name
 trVE.Stichera01.incipit = " O Word of God…"
 trVE.Stichera01.text = " O Word of God, Thou hast given us the time of the Fast, that we may turn again and live, and in no way perish. Grant that all of us may please Thee, O Christ, and serve Thee with fervent compunction, like the wise and holy harlot: for, because of the sweet-smelling ointment and the warm tears which she shed, she received forgiveness of her sins."
 
 trVE.Stichera02.mode = miscellanea_en_UK_ware.misc.Mode3
+trVE.Stichera02.greekmelody = he.a.m3_en_UK_ware.heAU.StavrofanosMoysis.greekname
 trVE.Stichera02.melody = he.a.m3_en_UK_ware.heAU.StavrofanosMoysis.name
 trVE.Stichera02.incipit = "Like the blind man, from…"
 trVE.Stichera02.text = "Like the blind man, from my heart I call upon Thee: Son of God, give light to the eyes of my heart. Like the faithful woman of Canaan, I cry to Thee: Have mercy on me, compassionate Saviour, for my soul is vexed by the devil of pleasure. But do Thou free it from the darkness of tbe passions and make me live the remainder of my life in purity, that I may glorify Thy great love."
@@ -50,11 +52,13 @@ trVE.AposTheotokion.incipit = "O blessed Theotokos, protect thy…"
 trVE.AposTheotokion.text = "O blessed Theotokos, protect thy servants from every kind of peril, that we may glorify thee, the hope of our souls." //oc.m4.d2_en_UK_ware.ocMA.AposTheotokion.text
 
 trMA.Kathisma21.mode = miscellanea_en_UK_ware.misc.Mode3
+trMA.Kathisma21.greekmelody = he.a.m3_en_UK_ware.heAU.TheiasPisteos.greekname
 trMA.Kathisma21.melody = he.a.m3_en_UK_ware.heAU.TheiasPisteos.name
 trMA.Kathisma21.incipit = "In fervent faith let us…"
 trMA.Kathisma21.text = "In fervent faith let us burn up with abstinence the lustful passions, and flee from the icy cold of sin; with the streams of our tears let us quench the everlasting flame, crying aloud: We have sinned against Thee, O most loving Lord; forgive us and grant us Thy great mercy."
 
 trMA.Kathisma22.mode = miscellanea_en_UK_ware.misc.Mode3
+trMA.Kathisma22.greekmelody = he.a.m3_en_UK_ware.heAU.TheiasPisteos.greekname
 trMA.Kathisma22.melody = he.a.m3_en_UK_ware.heAU.TheiasPisteos.name
 trMA.Kathisma22.incipit = "Thou hast become the divine…"
 trMA.Kathisma22.text = "Thou hast become the divine dwelling of the Word, O Virgin Mother alone all-holy, exalted high above the angels in thy purity. I am become more filthy than all men, defiled by the sins of the flesh: through thine intercessions cleanse me in divine waters, granting me great mercy." //oc.m3.d2_en_UK_ware.ocMA.Kathisma23.text
@@ -75,12 +79,14 @@ trMA.C2.poet = poets_en_UK_ware.po.Theodorou
 
 trMA.Ode2C1H.ode = miscellanea_en_UK_ware.misc.Ode2
 trMA.Ode2C1H.mode = miscellanea_en_UK_ware.misc.Mode3
+trMA.Ode2C1H.greekmelody = he.h.m3_en_UK_ware.heHE.ProsecheGiKaiOurane.greekname
 trMA.Ode2C1H.melody = he.h.m3_en_UK_ware.heHE.ProsecheGiKaiOurane.melody
 trMA.Ode2C1H.incipit = he.h.m3_en_UK_ware.heHE.ProsecheGiKaiOurane.incipit
 trMA.Ode2C1H.text = he.h.m3_en_UK_ware.heHE.ProsecheGiKaiOurane.text
 
 trMA.Ode2C11.ode = miscellanea_en_UK_ware.misc.Ode2
 trMA.Ode2C11.mode = miscellanea_en_UK_ware.misc.Mode3
+trMA.Ode2C11.greekmelody = he.h.m3_en_UK_ware.heHE.ProsecheGiKaiOurane.greekname
 trMA.Ode2C11.melody = he.h.m3_en_UK_ware.heHE.ProsecheGiKaiOurane.name
 trMA.Ode2C11.incipit = "Through unceasing prayer and abstinence…"
 trMA.Ode2C11.text = "Through unceasing prayer and abstinence and contemplation, let us give wings to our souls and raise them to the love of God."
@@ -105,6 +111,7 @@ trMA.Ode2C1T.text = "Christ came to dwell in thee who alone art blessed, and He 
 
 trMA.Ode2C21.ode = miscellanea_en_UK_ware.misc.Ode2
 trMA.Ode2C21.mode = miscellanea_en_UK_ware.misc.Mode2
+trMA.Ode2C21.greekmelody = he.h.m2_en_UK_ware.heHE.ProsecheteLaoi.greekname
 trMA.Ode2C21.melody = he.h.m2_en_UK_ware.heHE.ProsecheteLaoi.name
 trMA.Ode2C21.incipit = "Let us make our own…"
 trMA.Ode2C21.text = "Let us make our own pure fasting, prayer, tears, meditation on holy things, and every other virtue; and let us bring them now as an offering to God our Master."
@@ -135,12 +142,14 @@ trMA.Ode2C2A1.text = "O my Christ, Thou hast healed the woman with an issue of b
 
 trMA.Ode2C2H.ode = miscellanea_en_UK_ware.misc.Ode2
 trMA.Ode2C2H.mode = miscellanea_en_UK_ware.misc.Mode2
+trMA.Ode2C2H.greekmelody = he.h.m2_en_UK_ware.heHE.ProsecheteLaoi.greekname
 trMA.Ode2C2H.melody = he.h.m2_en_UK_ware.heHE.ProsecheteLaoi.melody
 trMA.Ode2C2H.incipit = he.h.m2_en_UK_ware.heHE.ProsecheteLaoi.incipit
 trMA.Ode2C2H.text = he.h.m2_en_UK_ware.heHE.ProsecheteLaoi.text
 
 trMA.Ode8C11.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C11.mode = miscellanea_en_UK_ware.misc.Mode3
+trMA.Ode8C11.greekmelody = he.h.m3_en_UK_ware.heHE.TonYpAngelon.greekname
 trMA.Ode8C11.melody = he.h.m3_en_UK_ware.heHE.TonYpAngelon.name
 trMA.Ode8C11.incipit = "The evil one secretly lies…"
 trMA.Ode8C11.text = "The evil one secretly lies in wait for me each day, seeking to catch me and devour me. Deliver me, O Saviour, from his malice, as Thou hast saved Jonah from the whale."
@@ -165,6 +174,7 @@ trMA.Ode8C1T.text = "O Ever-Virgin undefiled, with the waters of thy mercy wash 
 
 trMA.Ode8C21.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C21.mode = miscellanea_en_UK_ware.misc.Mode2
+trMA.Ode8C21.greekmelody = he.h.m2_en_UK_ware.heHE.TonPalaiDrosisanta.greekname
 trMA.Ode8C21.melody = he.h.m2_en_UK_ware.heHE.TonPalaiDrosisanta.name
 trMA.Ode8C21.incipit = "The fire shall not be…"
 trMA.Ode8C21.text = "The fire shall not be quenched, so it is written, and the worm shall not die. Fear the threat, my soul, and serve Christ, that thou mayest find joy in the dwelling-place of all those who rejoice."
@@ -195,12 +205,14 @@ trMA.Ode8C2A1.text = "Open the deaf ears of my soul, O Christ, and make my tongu
 
 trMA.Ode8C2H.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C2H.mode = miscellanea_en_UK_ware.misc.Mode2
+trMA.Ode8C2H.greekmelody = he.h.m2_en_UK_ware.heHE.TonPalaiDrosisanta.greekname
 trMA.Ode8C2H.melody = he.h.m2_en_UK_ware.heHE.TonPalaiDrosisanta.melody
 trMA.Ode8C2H.incipit = he.h.m2_en_UK_ware.heHE.TonPalaiDrosisanta.incipit
 trMA.Ode8C2H.text = he.h.m2_en_UK_ware.heHE.TonPalaiDrosisanta.text
 
 trMA.Ode9C11.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_UK_ware.misc.Mode3
+trMA.Ode9C11.greekmelody = he.h.m3_en_UK_ware.heHE.SeTinAkataflekton.greekname
 trMA.Ode9C11.melody = he.h.m3_en_UK_ware.heHE.SeTinAkataflekton.name
 trMA.Ode9C11.incipit = "Calling to mind the flames…"
 trMA.Ode9C11.text = "Calling to mind the flames of the fire that never shall be quenched, with fervent hearts let us draw near to the fire of repentance and burn up the passions."
@@ -225,6 +237,7 @@ trMA.Ode9C1T.text = "My soul is darkened by the pleasures; give light to it, pur
 
 trMA.Ode9C21.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C21.mode = miscellanea_en_UK_ware.misc.Mode2
+trMA.Ode9C21.greekmelody = he.h.m2_en_UK_ware.heHE.TinYperfyosSarki.greekname
 trMA.Ode9C21.melody = he.h.m2_en_UK_ware.heHE.TinYperfyosSarki.name
 trMA.Ode9C21.incipit = "Let us offer to Christ…"
 trMA.Ode9C21.text = "Let us offer to Christ all the members of our body as weapons of righteousness, 'lifting up', as it is written, 'holy hands, without wrath and doubting'."
@@ -255,6 +268,7 @@ trMA.Ode9C2A1.text = "The passions have defiled my soul, and I have been robbed 
 
 trMA.Ode9C2H.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C2H.mode = miscellanea_en_UK_ware.misc.Mode2
+trMA.Ode9C2H.greekmelody = he.h.m2_en_UK_ware.heHE.TinYperfyosSarki.greekname
 trMA.Ode9C2H.melody = he.h.m2_en_UK_ware.heHE.TinYperfyosSarki.melody
 trMA.Ode9C2H.incipit = he.h.m2_en_UK_ware.heHE.TinYperfyosSarki.incipit
 trMA.Ode9C2H.text = he.h.m2_en_UK_ware.heHE.TinYperfyosSarki.text

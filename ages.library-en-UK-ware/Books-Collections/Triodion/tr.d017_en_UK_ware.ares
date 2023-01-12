@@ -30,6 +30,7 @@ trVE.AposTheotokion.incipit = "Let us honour the most…"
 trVE.AposTheotokion.text = "Let us honour the most pure and glorious Virgin, the true Theotokos, and with right faith let us sing her praises as the Mother of God. Let us greet her as the Angel did: Hail! holy Mother of the incarnate Son of God; Hail! habitation of the Holy Spirit, who dost ever intercede on our behalf for the salvation of our souls."
 
 trMA.Kathisma21.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Kathisma21.greekmelody = he.a.m8_en_UK_ware.heAU.TinSofianKaiLogon.greekname
 trMA.Kathisma21.melody = he.a.m8_en_UK_ware.heAU.TinSofianKaiLogon.name
 trMA.Kathisma21.incipit = "O Word supreme in love…"
 trMA.Kathisma21.text = "O Word supreme in love, who with the Father and the Spirit hast created all things visible and invisible in Thy wisdom past speech, grant in Thy compassion that we may spend the season of the joyful Fast in profound peace. Destroy the beguilement of bitter sin, granting us contrition, tears of healing, and forgiveness of our trespasses, that, fasting with a fervent spirit and undoubting soul, we may join the angels to sing the praises of Thy power."
@@ -45,12 +46,14 @@ trMA.C2.poet = poets_en_UK_ware.po.KyriouIosif
 
 trMA.Ode2C1H.ode = miscellanea_en_UK_ware.misc.Ode2
 trMA.Ode2C1H.mode = miscellanea_en_UK_ware.misc.Mode3
+trMA.Ode2C1H.greekmelody = he.h.m3_en_UK_ware.heHE.OsOmvrosEpAgrostin.greekname
 trMA.Ode2C1H.melody = he.h.m3_en_UK_ware.heHE.OsOmvrosEpAgrostin.melody
 trMA.Ode2C1H.incipit = he.h.m3_en_UK_ware.heHE.OsOmvrosEpAgrostin.incipit
 trMA.Ode2C1H.text = he.h.m3_en_UK_ware.heHE.OsOmvrosEpAgrostin.text
 
 trMA.Ode2C11.ode = miscellanea_en_UK_ware.misc.Ode2
 trMA.Ode2C11.mode = miscellanea_en_UK_ware.misc.Mode3
+trMA.Ode2C11.greekmelody = he.h.m3_en_UK_ware.heHE.OsOmvrosEpAgrostin.greekname
 trMA.Ode2C11.melody = he.h.m3_en_UK_ware.heHE.OsOmvrosEpAgrostin.name
 trMA.Ode2C11.incipit = "The preparation for the Fast…"
 trMA.Ode2C11.text = "The preparation for the Fast shines upon us as the dawn with the light of repentance."
@@ -75,6 +78,7 @@ trMA.Ode2C1T.text = "O Virgin worthy of all praise, be to us a path of repentanc
 
 trMA.Ode2C21.ode = miscellanea_en_UK_ware.misc.Ode2
 trMA.Ode2C21.mode = miscellanea_en_UK_ware.misc.Mode2
+trMA.Ode2C21.greekmelody = he.h.m2_en_UK_ware.heHE.ProsecheteLaosMou.greekname
 trMA.Ode2C21.melody = he.h.m2_en_UK_ware.heHE.ProsecheteLaosMou.name
 trMA.Ode2C21.incipit = "The season of repentance is…"
 trMA.Ode2C21.text = "The season of repentance is at hand; in our love for Christ let us hasten to be cleansed of all transgressions, that when we appear before the Master we may be numbered with the blessed."
@@ -105,12 +109,14 @@ trMA.Ode2C2T.text = "O pure Virgin Mother, from whom the Word took human flesh, 
 
 trMA.Ode2C2H.ode = miscellanea_en_UK_ware.misc.Ode2
 trMA.Ode2C2H.mode = miscellanea_en_UK_ware.misc.Mode2
+trMA.Ode2C2H.greekmelody = he.h.m2_en_UK_ware.heHE.ProsecheteLaosMou.greekname
 trMA.Ode2C2H.melody = he.h.m2_en_UK_ware.heHE.ProsecheteLaosMou.melody
 trMA.Ode2C2H.incipit = he.h.m2_en_UK_ware.heHE.ProsecheteLaosMou.incipit
 trMA.Ode2C2H.text = he.h.m2_en_UK_ware.heHE.ProsecheteLaosMou.text
 
 trMA.Ode8C11.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C11.mode = miscellanea_en_UK_ware.misc.Mode3
+trMA.Ode8C11.greekmelody = he.h.m3_en_UK_ware.heHE.TonExAnarchou.greekname
 trMA.Ode8C11.melody = he.h.m3_en_UK_ware.heHE.TonExAnarchou.name
 trMA.Ode8C11.incipit = "Now is the time for…"
 trMA.Ode8C11.text = "Now is the time for turning back: O my soul, hasten to show unto God worthy fruits of repentance. Keeping fast and praying, rise up and cry urgently: Praise, bless and exalt Christ above all for ever."
@@ -135,6 +141,7 @@ trMA.Ode8C1T.text = "O Virgin, thou hast made our earthly nature heavenly: with 
 
 trMA.Ode8C21.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C21.mode = miscellanea_en_UK_ware.misc.Mode2
+trMA.Ode8C21.greekmelody = he.h.m2_en_UK_ware.heHE.TonEnTiVatoMosi.greekname
 trMA.Ode8C21.melody = he.h.m2_en_UK_ware.heHE.TonEnTiVatoMosi.name
 trMA.Ode8C21.incipit = "O ye faithful, let us…"
 trMA.Ode8C21.text = "O ye faithful, let us now in preparation cleanse ourselves not only in our eating but in our actions, and let us begin the Fast with fervent minds, that so we may appear before the Creator in glory for ever."
@@ -165,12 +172,14 @@ trMA.Ode8C2T.text = "Hail, pure Virgin, Theotokos Mary, mercy-seat of the world,
 
 trMA.Ode8C2H.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C2H.mode = miscellanea_en_UK_ware.misc.Mode2
+trMA.Ode8C2H.greekmelody = he.h.m2_en_UK_ware.heHE.TonEnTiVatoMosi.greekname
 trMA.Ode8C2H.melody = he.h.m2_en_UK_ware.heHE.TonEnTiVatoMosi.melody
 trMA.Ode8C2H.incipit = he.h.m2_en_UK_ware.heHE.TonEnTiVatoMosi.incipit
 trMA.Ode8C2H.text = he.h.m2_en_UK_ware.heHE.TonEnTiVatoMosi.text
 
 trMA.Ode9C11.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_UK_ware.misc.Mode3
+trMA.Ode9C11.greekmelody = he.h.m3_en_UK_ware.heHE.SeTinAkataflekton.greekname
 trMA.Ode9C11.melody = he.h.m3_en_UK_ware.heHE.SeTinAkataflekton.name
 trMA.Ode9C11.incipit = "Show unto us Thy pure…"
 trMA.Ode9C11.text = "Show unto us Thy pure and loving compassion, for Thou dost grant repentance to mortal men for their salvation, O Saviour who alone art rich in mercy."
@@ -201,6 +210,7 @@ trMA.Ode9C1T.text = "Singing thy praises with true faith, we entreat thee, our f
 
 trMA.Ode9C21.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C21.mode = miscellanea_en_UK_ware.misc.Mode2
+trMA.Ode9C21.greekmelody = he.h.m2_en_UK_ware.heHE.TinParthenianSou.greekname
 trMA.Ode9C21.melody = he.h.m2_en_UK_ware.heHE.TinParthenianSou.name
 trMA.Ode9C21.incipit = "Let us now in preparation…"
 trMA.Ode9C21.text = "Let us now in preparation cleanse ourselves through tears and fasting and great acts of virtue, that we may receive great mercy."
@@ -231,6 +241,7 @@ trMA.Ode9C2T.text = "Thou art our glory, and to thee we run for refuge, O pure a
 
 trMA.Ode9C2H.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C2H.mode = miscellanea_en_UK_ware.misc.Mode2
+trMA.Ode9C2H.greekmelody = he.h.m2_en_UK_ware.heHE.TinParthenianSou.greekname
 trMA.Ode9C2H.melody = he.h.m2_en_UK_ware.heHE.TinParthenianSou.melody
 trMA.Ode9C2H.incipit = he.h.m2_en_UK_ware.heHE.TinParthenianSou.incipit
 trMA.Ode9C2H.text = he.h.m2_en_UK_ware.heHE.TinParthenianSou.text

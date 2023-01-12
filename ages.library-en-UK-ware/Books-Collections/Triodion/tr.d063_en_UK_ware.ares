@@ -589,11 +589,13 @@ trCO.Ode9C1T.incipit = "O Jesus, who hast made…"
 trCO.Ode9C1T.text = "O Jesus, who hast made all things in wisdom, Thou hast clothed Thyself in my whole nature, taken from the Virgin, yet forever Thou remainest wholly in the bosom of the Father; and Thou hast, as God, sent down Thy Holy Spirit on Thy flock: cover us with Thy shadow."
 
 trMA.Kathisma11.mode = miscellanea_en_UK_ware.misc.Mode1
+trMA.Kathisma11.greekmelody = he.a.m1_en_UK_ware.heAU.TouLithouSfragisthentos.greekname
 trMA.Kathisma11.melody = he.a.m1_en_UK_ware.heAU.TouLithouSfragisthentos.name
 trMA.Kathisma11.incipit = "…"
 trMA.Kathisma11.text = ""
 
 trMA.Kathisma21.mode = miscellanea_en_UK_ware.misc.Mode5
+trMA.Kathisma21.greekmelody = he.a.m5_en_UK_ware.heAU.TonSynanarchonLogon.greekname
 trMA.Kathisma21.melody = he.a.m5_en_UK_ware.heAU.TonSynanarchonLogon.name
 trMA.Kathisma21.incipit = "…"
 trMA.Kathisma21.text = ""
@@ -604,6 +606,7 @@ trMA.C2.poet = poets_en_UK_ware.po.KosmaMonachou
 
 trMA.Ode1C1H.ode = miscellanea_en_UK_ware.misc.Ode1
 trMA.Ode1C1H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode1C1H.greekmelody = he.h.m8_en_UK_ware.heHE.AsomenToKyrio.greekname
 trMA.Ode1C1H.melody = he.h.m8_en_UK_ware.heHE.AsomenToKyrio.melody
 trMA.Ode1C1H.incipit = he.h.m8_en_UK_ware.heHE.AsomenToKyrio.incipit
 trMA.Ode1C1H.text = he.h.m8_en_UK_ware.heHE.AsomenToKyrio.text
@@ -613,6 +616,7 @@ trMA.C1.verse = //prayers_en_UK_ware.pr.verse_God.text
 
 trMA.Ode1C11.ode = miscellanea_en_UK_ware.misc.Ode1
 trMA.Ode1C11.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode1C11.greekmelody = he.h.m8_en_UK_ware.heHE.AsomenToKyrio.greekname
 trMA.Ode1C11.melody = he.h.m8_en_UK_ware.heHE.AsomenToKyrio.name
 trMA.Ode1C11.incipit = "With Thy divine command Thou…"
 trMA.Ode1C11.text = "With Thy divine command Thou hast raised dead Lazarus, in Thy love for mankind; for Thou art the Fashioner and Guardian of Life."
@@ -640,6 +644,7 @@ trMA.C2.verse = ""
 
 trMA.Ode1C21.ode = miscellanea_en_UK_ware.misc.Ode1
 trMA.Ode1C21.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode1C21.greekmelody = he.h.m8_en_UK_ware.heHE.YgranDiodefsas.greekname
 trMA.Ode1C21.melody = he.h.m8_en_UK_ware.heHE.YgranDiodefsas.name
 trMA.Ode1C21.incipit = "In the beginning Thou hast…"
 trMA.Ode1C21.text = "In the beginning Thou hast brought all creation out of nothing, and Thou knowest the secrets of our hearts; and now as Master Thou dost foretell to Thy disciples the falling asleep of Lazarus."
@@ -670,12 +675,14 @@ trMA.Ode1K.text = he.h.m8_en_UK_ware.heHE.YgranDiodefsas.text
 
 trMA.Ode3C1H.ode = miscellanea_en_UK_ware.misc.Ode3
 trMA.Ode3C1H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode3C1H.greekmelody = he.h.m8_en_UK_ware.heHE.SyEiToStereoma.greekname
 trMA.Ode3C1H.melody = he.h.m8_en_UK_ware.heHE.SyEiToStereoma.melody
 trMA.Ode3C1H.incipit = he.h.m8_en_UK_ware.heHE.SyEiToStereoma.incipit
 trMA.Ode3C1H.text = he.h.m8_en_UK_ware.heHE.SyEiToStereoma.text
 
 trMA.Ode3C11.ode = miscellanea_en_UK_ware.misc.Ode3
 trMA.Ode3C11.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode3C11.greekmelody = he.h.m8_en_UK_ware.heHE.SyEiToStereoma.greekname
 trMA.Ode3C11.melody = he.h.m8_en_UK_ware.heHE.SyEiToStereoma.name
 trMA.Ode3C11.incipit = "Displaying Thy two energies, O…"
 trMA.Ode3C11.text = "Displaying Thy two energies, O Saviour, Thou hast made manifest Thy two natures: for Thou art both God and man."
@@ -700,6 +707,7 @@ trMA.Ode3C14.text = "At Thy divine word, Thou hast raised Lazarus, O Christ. I p
 
 trMA.Ode3C21.ode = miscellanea_en_UK_ware.misc.Ode3
 trMA.Ode3C21.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode3C21.greekmelody = he.h.m8_en_UK_ware.heHE.OuraniasApsidos.greekname
 trMA.Ode3C21.melody = he.h.m8_en_UK_ware.heHE.OuraniasApsidos.name
 trMA.Ode3C21.incipit = "O Lord who workest miracles…"
 trMA.Ode3C21.text = "O Lord who workest miracles, standing in Bethany by the tomb of Lazarus, Thou hast shed tears for him in accordance with the law of nature, confirming the full reality of the flesh which Thou hast taken, O Jesus my God."
@@ -729,23 +737,27 @@ trMA.Ode3K.incipit = he.h.m8_en_UK_ware.heHE.OuraniasApsidos.incipit
 trMA.Ode3K.text = he.h.m8_en_UK_ware.heHE.OuraniasApsidos.text
 
 trMA.Ode3Kathisma1.mode = miscellanea_en_UK_ware.misc.Mode4
+trMA.Ode3Kathisma1.greekmelody = he.a.m4_en_UK_ware.heAU.KateplagiIosif.greekname
 trMA.Ode3Kathisma1.melody = he.a.m4_en_UK_ware.heAU.KateplagiIosif.notmetered
 trMA.Ode3Kathisma1.incipit = "The sisters of Lazarus stood…"
 trMA.Ode3Kathisma1.text = "The sisters of Lazarus stood beside Christ and, lamenting with bitter tears, they said to Him: 'O Lord, Lazarus is dead.' And though as God He knew the place of burial, yet He asked them, 'Where have ye laid him?' Coming to the tomb, He called Lazarus that was four days dead; and he arose and worshipped the Lord who had raised him."
 
 trMA.Ode3Kathisma2.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode3Kathisma2.greekmelody = he.a.m8_en_UK_ware.heAU.TinSofianKaiLogon.greekname
 trMA.Ode3Kathisma2.melody = he.a.m8_en_UK_ware.heAU.TinSofianKaiLogon.notmetered
 trMA.Ode3Kathisma2.incipit = "Foreknowing all things as Creator…"
 trMA.Ode3Kathisma2.text = "Foreknowing all things as Creator, Thou hast warned the disciples at Bethany, saying: 'Our friend Lazarus has fallen asleep today.' And, though Thou wast not ignorant, Thou hast asked: 'Where have ye laid him?' Weeping as a man, Thou hast prayed to the Father; Thou hast called Thy friend Lazarus from hell,O Lord, and raised him when he had been four days dead. Therefore we cry to Thee: Accept, O Christ our God, the praise we dare to offer, and count us all worthy of Thy glory."
 
 trMA.Ode4C1H.ode = miscellanea_en_UK_ware.misc.Ode4
 trMA.Ode4C1H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode4C1H.greekmelody = he.h.m8_en_UK_ware.heHE.EisakikoaKyrie.greekname
 trMA.Ode4C1H.melody = he.h.m8_en_UK_ware.heHE.EisakikoaKyrie.melody
 trMA.Ode4C1H.incipit = he.h.m8_en_UK_ware.heHE.EisakikoaKyrie.incipit
 trMA.Ode4C1H.text = he.h.m8_en_UK_ware.heHE.EisakikoaKyrie.text
 
 trMA.Ode4C11.ode = miscellanea_en_UK_ware.misc.Ode4
 trMA.Ode4C11.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode4C11.greekmelody = he.h.m8_en_UK_ware.heHE.EisakikoaKyrie.greekname
 trMA.Ode4C11.melody = he.h.m8_en_UK_ware.heHE.EisakikoaKyrie.name
 trMA.Ode4C11.incipit = "Thou hast prayed to the…"
 trMA.Ode4C11.text = "Thou hast prayed to the Father, not because Thou art in need of any help, but to fulfil the mystery of Thine Incarnation; and so, almighty Lord, Thou hast raised up a corpse that was four days dead."
@@ -770,6 +782,7 @@ trMA.Ode4C1T.text = "Let us sing the praises of the Virgin, for she remained a v
 
 trMA.Ode4C21.ode = miscellanea_en_UK_ware.misc.Ode4
 trMA.Ode4C21.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode4C21.greekmelody = he.h.m8_en_UK_ware.heHE.SyMouIschys.greekname
 trMA.Ode4C21.melody = he.h.m8_en_UK_ware.heHE.SyMouIschys.name
 trMA.Ode4C21.incipit = "As Shepherd, O Saviour and…"
 trMA.Ode4C21.text = "As Shepherd, O Saviour and Creator, Thou hast snatched from the fierce and all-devouring wolf a man that had been four days dead; and through him, in Thy power as Lord, Thou hast revealed beforehand the universal glory of Thy Resurrection on the third day."
@@ -800,12 +813,14 @@ trMA.Ode4K.text = he.h.m8_en_UK_ware.heHE.SyMouIschys.text
 
 trMA.Ode5C1H.ode = miscellanea_en_UK_ware.misc.Ode5
 trMA.Ode5C1H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode5C1H.greekmelody = he.h.m8_en_UK_ware.heHE.InaTiMeAposo.greekname
 trMA.Ode5C1H.melody = he.h.m8_en_UK_ware.heHE.InaTiMeAposo.melody
 trMA.Ode5C1H.incipit = he.h.m8_en_UK_ware.heHE.InaTiMeAposo.incipit
 trMA.Ode5C1H.text = he.h.m8_en_UK_ware.heHE.InaTiMeAposo.text
 
 trMA.Ode5C11.ode = miscellanea_en_UK_ware.misc.Ode5
 trMA.Ode5C11.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode5C11.greekmelody = he.h.m8_en_UK_ware.heHE.InaTiMeAposo.greekname
 trMA.Ode5C11.melody = he.h.m8_en_UK_ware.heHE.InaTiMeAposo.name
 trMA.Ode5C11.incipit = "In Thy love for mankind…"
 trMA.Ode5C11.text = "In Thy love for mankind, coming to the tomb of Lazarus Thou hast called him and granted him life, for Thou art the immortal life of all mortal men; and so Thou hast as God clearly foretold the future Resurrection."
@@ -824,6 +839,7 @@ trMA.Ode5C13.text = "Thou hast raised Lazarus on the fourth day, though his corp
 
 trMA.Ode5C21.ode = miscellanea_en_UK_ware.misc.Ode5
 trMA.Ode5C21.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode5C21.greekmelody = he.h.m8_en_UK_ware.heHE.InaTiMeAposo.greekname
 trMA.Ode5C21.melody = he.h.m8_en_UK_ware.heHE.InaTiMeAposo.name
 trMA.Ode5C21.incipit = "Thou hast prayed and given…"
 trMA.Ode5C21.text = "Thou hast prayed and given glory to the Father, for Thy power is not opposed to His. To confirm the faith of the multitude that stood round Thee, Thou hast thanked Thy Father, O longsuffering Lord, and then raised Lazarus by Thy command."
@@ -858,12 +874,14 @@ trMA.C4.poet = poets_en_UK_ware.po.IoannouMonachou
 
 trMA.Ode6C1H.ode = miscellanea_en_UK_ware.misc.Ode6
 trMA.Ode6C1H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode6C1H.greekmelody = he.h.m8_en_UK_ware.heHE.TonIonanEnToKitei.greekname
 trMA.Ode6C1H.melody = he.h.m8_en_UK_ware.heHE.TonIonanEnToKitei.melody
 trMA.Ode6C1H.incipit = he.h.m8_en_UK_ware.heHE.TonIonanEnToKitei.incipit
 trMA.Ode6C1H.text = he.h.m8_en_UK_ware.heHE.TonIonanEnToKitei.text
 
 trMA.Ode6C11.ode = miscellanea_en_UK_ware.misc.Ode6
 trMA.Ode6C11.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode6C11.greekmelody = he.h.m8_en_UK_ware.heHE.TonIonanEnToKitei.greekname
 trMA.Ode6C11.melody = he.h.m8_en_UK_ware.heHE.TonIonanEnToKitei.name
 trMA.Ode6C11.incipit = "Love led Thee, Master, to…"
 trMA.Ode6C11.text = "Love led Thee, Master, to Lazarus at Bethany; and as God Thou hast raised him, though his corpse already stank, and hast delivered him from the bonds of hell."
@@ -876,6 +894,7 @@ trMA.Ode6C12.text = "Martha despaired when she saw Lazarus already four days dea
 
 trMA.Ode6C21.ode = miscellanea_en_UK_ware.misc.Ode6
 trMA.Ode6C21.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode6C21.greekmelody = he.h.m8_en_UK_ware.heHE.IlasthitiMoiSotir.greekname
 trMA.Ode6C21.melody = he.h.m8_en_UK_ware.heHE.IlasthitiMoiSotir.name
 trMA.Ode6C21.incipit = "As true God Thou hast…"
 trMA.Ode6C21.text = "As true God Thou hast known of the falling asleep of Lazarus and hast announced it beforehand to Thy disciples, giving them a proof, O Master, of the infinite power of Thy divinity."
@@ -914,12 +933,14 @@ trSY.lastline = ""
 
 trMA.Ode7C1H.ode = miscellanea_en_UK_ware.misc.Ode7
 trMA.Ode7C1H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode7C1H.greekmelody = he.h.m8_en_UK_ware.heHE.PaidesEvraion.greekname
 trMA.Ode7C1H.melody = he.h.m8_en_UK_ware.heHE.PaidesEvraion.melody
 trMA.Ode7C1H.incipit = he.h.m8_en_UK_ware.heHE.PaidesEvraion.incipit
 trMA.Ode7C1H.text = he.h.m8_en_UK_ware.heHE.PaidesEvraion.text
 
 trMA.Ode7C11.ode = miscellanea_en_UK_ware.misc.Ode7
 trMA.Ode7C11.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode7C11.greekmelody = he.h.m8_en_UK_ware.heHE.PaidesEvraion.greekname
 trMA.Ode7C11.melody = he.h.m8_en_UK_ware.heHE.PaidesEvraion.name
 trMA.Ode7C11.incipit = "Weeping as man in Thy…"
 trMA.Ode7C11.text = "Weeping as man in Thy compassion, Thou hast as God raised Lazarus from the tomb; and, delivered from hell, he cried aloud : 'Blessed art Thou, O Lord our God, for evermore.'"
@@ -932,6 +953,7 @@ trMA.Ode7C12.text = "At the Master's word Lazarus came out bound in grave clothe
 
 trMA.Ode7C21.ode = miscellanea_en_UK_ware.misc.Ode7
 trMA.Ode7C21.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode7C21.greekmelody = he.h.m8_en_UK_ware.heHE.OiEkTisIoudaias.greekname
 trMA.Ode7C21.melody = he.h.m8_en_UK_ware.heHE.OiEkTisIoudaias.name
 trMA.Ode7C21.incipit = "Shedding tears over Thy friend…"
 trMA.Ode7C21.text = "Shedding tears over Thy friend, O merciful Lord, Thou hast made the tears of Martha cease, and by Thy voluntary Passion Thou hast wiped away all tears from the face of Thy people. O God of our fathers, blessed art Thou."
@@ -956,12 +978,14 @@ trMA.Ode7K.text = he.h.m8_en_UK_ware.heHE.OiEkTisIoudaias.text
 
 trMA.Ode8C1H.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C1H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode8C1H.greekmelody = he.h.m8_en_UK_ware.heHE.MousikonOrganon.greekname
 trMA.Ode8C1H.melody = he.h.m8_en_UK_ware.heHE.MousikonOrganon.melody
 trMA.Ode8C1H.incipit = he.h.m8_en_UK_ware.heHE.MousikonOrganon.incipit
 trMA.Ode8C1H.text = he.h.m8_en_UK_ware.heHE.MousikonOrganon.text
 
 trMA.Ode8C11.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C11.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode8C11.greekmelody = he.h.m8_en_UK_ware.heHE.MousikonOrganon.greekname
 trMA.Ode8C11.melody = he.h.m8_en_UK_ware.heHE.MousikonOrganon.name
 trMA.Ode8C11.incipit = "As Shepherd, Thou hast gone…"
 trMA.Ode8C11.text = "As Shepherd, Thou hast gone to seek Thy sheep; rescuing the dead man from the fierce and destructive wolf, in Thy power Thou hast brought him from corruption to new life, and he cried out to Thee: 'Praise the Lord and exalt Him above all for ever.'"
@@ -974,6 +998,7 @@ trMA.Ode8C12.text = "As mortal man Thou hast asked where Lazarus was buried; as 
 
 trMA.Ode8C21.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C21.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode8C21.greekmelody = he.h.m8_en_UK_ware.heHE.TonVasileaTonOuranon.greekname
 trMA.Ode8C21.melody = he.h.m8_en_UK_ware.heHE.TonVasileaTonOuranon.name
 trMA.Ode8C21.incipit = "As a mortal, Thou dost…"
 trMA.Ode8C21.text = "As a mortal, Thou dost search for Lazarus; as God, Thou dost raise him ·by Thy word, though he was four days dead. Therefore we sing Thy praises for ever."
@@ -998,12 +1023,14 @@ trMA.Ode8K.text = he.h.m8_en_UK_ware.heHE.TonVasileaTonOuranon.text
 
 trMA.Ode9C1H.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C1H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode9C1H.greekmelody = he.h.m8_en_UK_ware.heHE.TinAgninEndoxos.greekname
 trMA.Ode9C1H.melody = he.h.m8_en_UK_ware.heHE.TinAgninEndoxos.melody
 trMA.Ode9C1H.incipit = he.h.m8_en_UK_ware.heHE.TinAgninEndoxos.incipit
 trMA.Ode9C1H.text = he.h.m8_en_UK_ware.heHE.TinAgninEndoxos.text
 
 trMA.Ode9C11.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode9C11.greekmelody = he.h.m8_en_UK_ware.heHE.TinAgninEndoxos.greekname
 trMA.Ode9C11.melody = he.h.m8_en_UK_ware.heHE.TinAgninEndoxos.name
 trMA.Ode9C11.incipit = "Seeing a four-day corpse walking…"
 trMA.Ode9C11.text = "Seeing a four-day corpse walking, the people were struck with wonder at the miracle and cried out to the Deliverer: 'We magnify Thee in hymns, O God."
@@ -1016,6 +1043,7 @@ trMA.Ode9C12.text = "Thou hast established men's faith in Thy glorious Resurrect
 
 trMA.Ode9C21.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C21.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode9C21.greekmelody = he.h.m8_en_UK_ware.heHE.KyriosTheotokon.greekname
 trMA.Ode9C21.melody = he.h.m8_en_UK_ware.heHE.KyriosTheotokon.name
 trMA.Ode9C21.incipit = "Honouring Thy Father, O	Christ, and…"
 trMA.Ode9C21.text = "Honouring Thy Father, O	Christ, and showing that Thou art not opposed to Him, after praying Thou hast by Thine own authority raised Lazarus that was four days dead."
@@ -1047,11 +1075,13 @@ trMA.Ode9K.text = he.h.m8_en_UK_ware.heHE.KyriosTheotokon.text
 trMA.MM.ExapIntro.text = properties_en_UK_ware.media.key
 
 trMA.Exaposteilarion1.mode = miscellanea_en_UK_ware.misc.Mode3
+trMA.Exaposteilarion1.greekmelody = he.a.m3_en_UK_ware.heAU.EpeskepsatoImas.greekname
 trMA.Exaposteilarion1.melody = he.a.m3_en_UK_ware.heAU.EpeskepsatoImas.name
 trMA.Exaposteilarion1.incipit = "…"
 trMA.Exaposteilarion1.text = ""
 
 trMA.Exaposteilarion2.mode = miscellanea_en_UK_ware.misc.Mode3
+trMA.Exaposteilarion2.greekmelody = he.a.m3_en_UK_ware.heAU.EpeskepsatoImas.greekname
 trMA.Exaposteilarion2.melody = he.a.m3_en_UK_ware.heAU.EpeskepsatoImas.name
 trMA.Exaposteilarion2.incipit = "…"
 trMA.Exaposteilarion2.text = ""

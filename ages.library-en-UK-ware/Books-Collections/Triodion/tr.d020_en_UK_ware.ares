@@ -25,11 +25,13 @@ trVE.AposMartyric.incipit = "Not desiring earthly pleasure, the…"
 trVE.AposMartyric.text = "Not desiring earthly pleasure, the victorious martyrs were granted heavenly blessings, and they have become fellow-citizens with the angels. At their prayers, O Lord, have mercy upon us and save us." //oc.m2.d2_en_UK_ware.ocVE.Aposticha3.text
 
 trVE.AposTheotokion.mode = miscellanea_en_UK_ware.misc.Mode2
+trVE.AposTheotokion.greekmelody = he.a.m2_en_UK_ware.heAU.OteEkTouXylou.greekname
 trVE.AposTheotokion.melody = he.a.m2_en_UK_ware.heAU.OteEkTouXylou.name
 trVE.AposTheotokion.incipit = "When thou sawest, pure Virgin…"
 trVE.AposTheotokion.text = "When thou sawest, pure Virgin, hanging upon the Tree, the Vine which, unhusbanded, thou hast conceived within thy womb, lamenting thou hast cried aloud: 'O Child, bestow upon the world the new wine, which with its sweetness shall drive away all the drunkenness of the passions. Grant this, O Benefactor, in Thy mercy, at the holy prayers of me Thy Mother.'" //oc.m2.d4_en_UK_ware.ocVE.SticTheotokion.text
 
 trMA.Kathisma21.mode = miscellanea_en_UK_ware.misc.Mode7
+trMA.Kathisma21.greekmelody = he.a.m7_en_UK_ware.heAU.OsEchousaToSympathes.greekname
 trMA.Kathisma21.melody = he.a.m7_en_UK_ware.heAU.OsEchousaToSympathes.name
 trMA.Kathisma21.incipit = "O Holy Cross, raise up…"
 trMA.Kathisma21.text = "O Holy Cross, raise up the horn of the Churches; by thy power cast down the arrogance of heretics and make glad the congregations of the Orthodox. Count us all worthy to be present when thou art carried in procession, and to venerate thee as the footstool of Christ. For in thee, O blessed Wood, we glory."
@@ -48,6 +50,7 @@ trMA.C1.verse = ""
 
 trMA.Ode1C11.ode = miscellanea_en_UK_ware.misc.Ode1
 trMA.Ode1C11.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode1C11.greekmelody = he.h.m8_en_UK_ware.heHE.YgranDiodefsas.greekname
 trMA.Ode1C11.melody = he.h.m8_en_UK_ware.heHE.YgranDiodefsas.name
 trMA.Ode1C11.incipit = "The holy season of abstinence…"
 trMA.Ode1C11.text = "The holy season of abstinence shines upon us all with the light of repentance, driving away the darkness of sin. Let us welcome the Fast with willing hearts."
@@ -72,6 +75,7 @@ trMA.Ode1C1T.text = "O holy Virgin, the only succour of the faithful, to all who
 
 trMA.Ode3C11.ode = miscellanea_en_UK_ware.misc.Ode3
 trMA.Ode3C11.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode3C11.greekmelody = he.h.m8_en_UK_ware.heHE.OuraniasApsidos.greekname
 trMA.Ode3C11.melody = he.h.m8_en_UK_ware.heHE.OuraniasApsidos.name
 trMA.Ode3C11.incipit = "Through fasting let us flee…"
 trMA.Ode3C11.text = "Through fasting let us flee from the passions that destroy the soul. In the past we grieved the merciful God with our sins: let us now show fruits of compunction."
@@ -96,18 +100,21 @@ trMA.Ode3C1T.text = "Thou art the cause of all good things, O Lady. We entreat t
 
 trMA.Ode3C1H.ode = miscellanea_en_UK_ware.misc.Ode3
 trMA.Ode3C1H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode3C1H.greekmelody = he.h.m8_en_UK_ware.heHE.OuraniasApsidos.greekname
 trMA.Ode3C1H.melody = he.h.m8_en_UK_ware.heHE.OuraniasApsidos.melody
 trMA.Ode3C1H.incipit = he.h.m8_en_UK_ware.heHE.OuraniasApsidos.incipit
 trMA.Ode3C1H.text = he.h.m8_en_UK_ware.heHE.OuraniasApsidos.text
 
 trMA.Ode4C1H.ode = miscellanea_en_UK_ware.misc.Ode4
 trMA.Ode4C1H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode4C1H.greekmelody = he.h.m8_en_UK_ware.heHE.EisakikoaKyrie.greekname
 trMA.Ode4C1H.melody = he.h.m8_en_UK_ware.heHE.EisakikoaKyrie.melody
 trMA.Ode4C1H.incipit = he.h.m8_en_UK_ware.heHE.EisakikoaKyrie.incipit
 trMA.Ode4C1H.text = he.h.m8_en_UK_ware.heHE.EisakikoaKyrie.text
 
 trMA.Ode4C11.ode = miscellanea_en_UK_ware.misc.Ode4
 trMA.Ode4C11.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode4C11.greekmelody = he.h.m8_en_UK_ware.heHE.EisakikoaKyrie.greekname
 trMA.Ode4C11.melody = he.h.m8_en_UK_ware.heHE.EisakikoaKyrie.name
 trMA.Ode4C11.incipit = "Shining upon us as the…"
 trMA.Ode4C11.text = "Shining upon us as the dawn, the grace-giving Fast provides us now with a time for repentance, dispersing the darkness of our sins."
@@ -132,12 +139,14 @@ trMA.Ode4C1T.text = "O pure mercy-seat of sinners, Holy Lady, through thy mediat
 
 trMA.Ode5C1H.ode = miscellanea_en_UK_ware.misc.Ode5
 trMA.Ode5C1H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode5C1H.greekmelody = he.h.m8_en_UK_ware.heHE.InaTiMeAposo.greekname
 trMA.Ode5C1H.melody = he.h.m8_en_UK_ware.heHE.InaTiMeAposo.melody
 trMA.Ode5C1H.incipit = he.h.m8_en_UK_ware.heHE.InaTiMeAposo.incipit
 trMA.Ode5C1H.text = he.h.m8_en_UK_ware.heHE.InaTiMeAposo.text
 
 trMA.Ode5C11.ode = miscellanea_en_UK_ware.misc.Ode5
 trMA.Ode5C11.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode5C11.greekmelody = he.h.m8_en_UK_ware.heHE.InaTiMeAposo.greekname
 trMA.Ode5C11.melody = he.h.m8_en_UK_ware.heHE.InaTiMeAposo.name
 trMA.Ode5C11.incipit = "Let us make this present…"
 trMA.Ode5C11.text = "Let us make this present day the first beginning of a life of holiness; with faith and eagerness let us prepare ourselves for ascetic struggles, offering to the Master of all both the labours of our flesh and the good fruits of our soul."
@@ -162,6 +171,7 @@ trMA.Ode5C1T.text = "As we prepare, O Lady, to enter through the gateway of the 
 
 trMA.Ode5C21.ode = miscellanea_en_UK_ware.misc.Ode5
 trMA.Ode5C21.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode5C21.greekmelody = he.h.m6_en_UK_ware.heHE.ToTheioFengeiSou.greekname
 trMA.Ode5C21.melody = he.h.m6_en_UK_ware.heHE.ToTheioFengeiSou.name
 trMA.Ode5C21.incipit = "Thine hands nailed to the…"
 trMA.Ode5C21.text = "Thine hands nailed to the Cross, Thy side pierced by the lance, out of love for mankind Thou hast torn in pieces the record of the sins of fallen Adam. Therefore we glorify Thee in hymns, O Giver of life."
@@ -198,6 +208,7 @@ trMA.Ode5C2T.text = "With the radiance of thy light, O gentle Queen of the world
 
 trMA.Ode5C31.ode = miscellanea_en_UK_ware.misc.Ode5
 trMA.Ode5C31.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode5C31.greekmelody = he.h.m8_en_UK_ware.heHE.InaTiMeAposo.greekname
 trMA.Ode5C31.melody = he.h.m8_en_UK_ware.heHE.InaTiMeAposo.name
 trMA.Ode5C31.incipit = "I venerate Thy Cross, through…"
 trMA.Ode5C31.text = "I venerate Thy Cross, through which Thou hast saved me, O Lord who lovest mankind, and I praise Thy divine and redeeming Passion, O Word and Master, which has freed me from the passions that afflict me, and brought me to a life of joyful peace."
@@ -228,12 +239,14 @@ trMA.Ode5C3A1.text = "O Lord, direct on Thy straight path all Thy servants who h
 
 trMA.Ode5C3H.ode = miscellanea_en_UK_ware.misc.Ode5
 trMA.Ode5C3H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode5C3H.greekmelody = he.h.m8_en_UK_ware.heHE.InaTiMeAposo.greekname
 trMA.Ode5C3H.melody = he.h.m8_en_UK_ware.heHE.InaTiMeAposo.melody
 trMA.Ode5C3H.incipit = he.h.m8_en_UK_ware.heHE.InaTiMeAposo.incipit
 trMA.Ode5C3H.text = he.h.m8_en_UK_ware.heHE.InaTiMeAposo.text
 
 trMA.Ode6C11.ode = miscellanea_en_UK_ware.misc.Ode6
 trMA.Ode6C11.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode6C11.greekmelody = he.h.m8_en_UK_ware.heHE.IlasthitiMoiSotir.greekname
 trMA.Ode6C11.melody = he.h.m8_en_UK_ware.heHE.IlasthitiMoiSotir.name
 trMA.Ode6C11.incipit = "By fasting, our Deliverer has…"
 trMA.Ode6C11.text = "By fasting, our Deliverer has appointed the present season for the cleansing of the stains upon our souls. With faith and fervent hearts let us draw near to receive pardon."
@@ -258,12 +271,14 @@ trMA.Ode6C1T.text = "O pure Virgin, thou alone hast brought strength to the weak
 
 trMA.Ode6C1H.ode = miscellanea_en_UK_ware.misc.Ode6
 trMA.Ode6C1H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode6C1H.greekmelody = he.h.m8_en_UK_ware.heHE.IlasthitiMoiSotir.greekname
 trMA.Ode6C1H.melody = he.h.m8_en_UK_ware.heHE.IlasthitiMoiSotir.melody
 trMA.Ode6C1H.incipit = he.h.m8_en_UK_ware.heHE.IlasthitiMoiSotir.incipit
 trMA.Ode6C1H.text = he.h.m8_en_UK_ware.heHE.IlasthitiMoiSotir.text
 
 trMA.Ode7C11.ode = miscellanea_en_UK_ware.misc.Ode7
 trMA.Ode7C11.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode7C11.greekmelody = he.h.m8_en_UK_ware.heHE.PaidesEvraion.greekname
 trMA.Ode7C11.melody = he.h.m8_en_UK_ware.heHE.PaidesEvraion.name
 trMA.Ode7C11.incipit = "Glorified through fasting, Elijah once…"
 trMA.Ode7C11.text = "Glorified through fasting, Elijah once was taken up into heaven in a chariot of fire. Follow his example, O my soul, and kill the lusts of the flesh through abstinence."
@@ -288,12 +303,14 @@ trMA.Ode7C1T.text = "O only help of men, be the succour of us thy servants in th
 
 trMA.Ode8C1H.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C1H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode8C1H.greekmelody = he.h.m8_en_UK_ware.heHE.EptaplasiosKaminon.greekname
 trMA.Ode8C1H.melody = he.h.m8_en_UK_ware.heHE.EptaplasiosKaminon.melody
 trMA.Ode8C1H.incipit = he.h.m8_en_UK_ware.heHE.EptaplasiosKaminon.incipit
 trMA.Ode8C1H.text = he.h.m8_en_UK_ware.heHE.EptaplasiosKaminon.text
 
 trMA.Ode8C11.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C11.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode8C11.greekmelody = he.h.m8_en_UK_ware.heHE.EptaplasiosKaminon.greekname
 trMA.Ode8C11.melody = he.h.m8_en_UK_ware.heHE.EptaplasiosKaminon.name
 trMA.Ode8C11.incipit = "With eagerness let us heat…"
 trMA.Ode8C11.text = "With eagerness let us heat the furnace of repentance and burn up in it all the pleasures of the body; let us entreat Him who is rich in mercy that we may escape from the fire that is to come, and let us cry aloud:"
@@ -318,6 +335,7 @@ trMA.Ode8C1T.text = "O all-pure Mother of God, to thee we flee for refuge: take 
 
 trMA.Ode8C21.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C21.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode8C21.greekmelody = he.h.m6_en_UK_ware.heHE.NomonPatroon.greekname
 trMA.Ode8C21.melody = he.h.m6_en_UK_ware.heHE.NomonPatroon.name
 trMA.Ode8C21.incipit = "We have not guarded the…"
 trMA.Ode8C21.text = "We have not guarded the inheritance which the Father gave us, but have become enslaved to the law of sin. Yet Thou hast stretched out Thine hands upon the divine Cross, and thereby Thou hast given freedom to us all. With faith we offer to Thee this Thy Cross in these holy days: have mercy upon us, merciful Lord, as we exalt Thee above all for ever."
@@ -354,6 +372,7 @@ trMA.Ode8C2T.text = "Restoration of the fallen, mediator of sinners, refreshment
 
 trMA.Ode8C31.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C31.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode8C31.greekmelody = he.h.m8_en_UK_ware.heHE.AngeloiKaiOuranoi.greekname
 trMA.Ode8C31.melody = he.h.m8_en_UK_ware.heHE.AngeloiKaiOuranoi.name
 trMA.Ode8C31.incipit = "When the creation saw Thee…"
 trMA.Ode8C31.text = "When the creation saw Thee crucified in the flesh upon the Cross, O merciful Lord, the light of day was turned to darkness, the earth quaked and all things were shaken."
@@ -384,18 +403,21 @@ trMA.Ode8C3A1.text = "Accept our penitence, O Lord, for Thou art by nature full 
 
 trMA.Ode8C3H.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C3H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode8C3H.greekmelody = he.h.m8_en_UK_ware.heHE.AngeloiKaiOuranoi.greekname
 trMA.Ode8C3H.melody = he.h.m8_en_UK_ware.heHE.AngeloiKaiOuranoi.melody
 trMA.Ode8C3H.incipit = he.h.m8_en_UK_ware.heHE.AngeloiKaiOuranoi.incipit
 trMA.Ode8C3H.text = he.h.m8_en_UK_ware.heHE.AngeloiKaiOuranoi.text
 
 trMA.Ode9C1H.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C1H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode9C1H.greekmelody = he.h.m8_en_UK_ware.heHE.ExestiEpiTouto.greekname
 trMA.Ode9C1H.melody = he.h.m8_en_UK_ware.heHE.ExestiEpiTouto.melody
 trMA.Ode9C1H.incipit = he.h.m8_en_UK_ware.heHE.ExestiEpiTouto.incipit
 trMA.Ode9C1H.text = he.h.m8_en_UK_ware.heHE.ExestiEpiTouto.text
 
 trMA.Ode9C11.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode9C11.greekmelody = he.h.m8_en_UK_ware.heHE.ExestiEpiTouto.greekname
 trMA.Ode9C11.melody = he.h.m8_en_UK_ware.heHE.ExestiEpiTouto.name
 trMA.Ode9C11.incipit = "Behold, the time of light…"
 trMA.Ode9C11.text = "Behold, the time of light has come, the holy day shines upon us. Flee from thy dark passions, O my soul, and welcome the dawn that leads thee to the light; make glad by drinking the wine of compunction, and hate the drunkenness of pleasure."
@@ -426,6 +448,7 @@ trMA.Ode9C1T.text = "O Virgin who lovest the righteous, Mother of the righteous 
 
 trMA.Ode9C21.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C21.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.Ode9C21.greekmelody = he.h.m2_en_UK_ware.heHE.AporeiPasaGlossa.greekname
 trMA.Ode9C21.melody = he.h.m2_en_UK_ware.heHE.AporeiPasaGlossa.name
 trMA.Ode9C21.incipit = "Mortal men and angels are…"
 trMA.Ode9C21.text = "Mortal men and angels are alike too weak to give Thee thanks for Thy compassion, O Benefactor: for of Thine own will Thou hast taken flesh, becoming poor for our sakes; Thou wast stretched upon the Tree for us and hast become accursed, to release mankind from the curse of old."
@@ -463,6 +486,7 @@ trMA.Ode9C2T.text = "Thou art the protection of all that put their hope in thee,
 //This ode is missing from the printed Triodia. See Σύστημα Τυπικοῦ, p. 599
 trMA.Ode9C31.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C31.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode9C31.greekmelody = he.h.m8_en_UK_ware.heHE.AllotrionTonMiteron.greekname
 trMA.Ode9C31.melody = he.h.m8_en_UK_ware.heHE.AllotrionTonMiteron.name
 trMA.Ode9C31.incipit = "…"
 trMA.Ode9C31.text = ""
@@ -493,6 +517,7 @@ trMA.Ode9C3A1.text = ""
 
 trMA.Ode9C3H.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C3H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode9C3H.greekmelody = he.h.m8_en_UK_ware.heHE.AllotrionTonMiteron.greekname
 trMA.Ode9C3H.melody = he.h.m8_en_UK_ware.heHE.AllotrionTonMiteron.melody
 trMA.Ode9C3H.incipit = he.h.m8_en_UK_ware.heHE.AllotrionTonMiteron.incipit
 trMA.Ode9C3H.text = he.h.m8_en_UK_ware.heHE.AllotrionTonMiteron.text

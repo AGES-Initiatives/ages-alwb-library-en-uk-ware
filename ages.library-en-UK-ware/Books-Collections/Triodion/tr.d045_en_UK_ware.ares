@@ -15,11 +15,13 @@ trHO.note2 = ""
 trCO.header = ""
 
 trVE.Stichera01.mode = miscellanea_en_UK_ware.misc.Mode8
+trVE.Stichera01.greekmelody = he.a.m8_en_UK_ware.heAU.TiYmasKalesomen.greekname
 trVE.Stichera01.melody = he.a.m8_en_UK_ware.heAU.TiYmasKalesomen.name
 trVE.Stichera01.incipit = "As we reach today the…"
 trVE.Stichera01.text = "As we reach today the middle of the time of abstinence, by the power of the Cross let us praise Him who was raised upon it in the midst of the earth; and let us glorify Him as our mighty Saviour and our God, crying aloud: Grant us to behold, O Master, Thy Passion and Thy holy Resurrection, and bestow on us forgiveness and great mercy."
 
 trVE.Stichera02.mode = miscellanea_en_UK_ware.misc.Mode8
+trVE.Stichera02.greekmelody = he.a.m8_en_UK_ware.heAU.TiYmasKalesomen.greekname
 trVE.Stichera02.melody = he.a.m8_en_UK_ware.heAU.TiYmasKalesomen.name
 trVE.Stichera02.incipit = "Let us humble the passions…"
 trVE.Stichera02.text = "Let us humble the passions of the body through abstinence from food and the rejection of pleasures, and let us embrace with faith the wood of the Cross; for it is exalted before us for our veneration, and it hallows all men with the grace of God. So let us cry aloud unto the Lord: We thank Thee, O compassionate Master, who through the Cross dost save our souls."
@@ -55,11 +57,13 @@ trMA.Kathisma22.incipit = "O ye faithful, let us…"
 trMA.Kathisma22.text = "O ye faithful, let us magnify in hymns the Theotokos, unshakable foundation of the Faith and precious gift conferred upon our souls. Hail, for thou hast held within thy womb the Rock of life; hail, hope of all the ends of the earth, succour of the afflicted; hail, Bride without bridegroom!"
 
 trMA.Kathisma31.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Kathisma31.greekmelody = he.a.m8_en_UK_ware.heAU.OsAparchas.greekname
 trMA.Kathisma31.melody = he.a.m8_en_UK_ware.heAU.OsAparchas.name
 trMA.Kathisma31.incipit = "The inhabited earth venerates Thy…"
 trMA.Kathisma31.text = "The inhabited earth venerates Thy Cross, O Lord, as the life of the creation, and it cries to Thee: By the operation of Thy Cross and through abstinence, keep in profound peace those who praise and bless Thee, O most merciful."
 
 trMA.Kathisma32.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Kathisma32.greekmelody = he.a.m8_en_UK_ware.heAU.OsAparchas.greekname
 trMA.Kathisma32.melody = he.a.m8_en_UK_ware.heAU.OsAparchas.name
 trMA.Kathisma32.incipit = "Hail, for through the Angel…"
 trMA.Kathisma32.text = "Hail, for through the Angel thou hast received the Joy of the world; hail, for thou hast borne thy Maker and thy Lord; hail, for thou wast counted worthy to become Mother of Christ our God!"
@@ -70,12 +74,14 @@ trMA.C2.poet = poets_en_UK_ware.po.Theodorou
 
 trMA.Ode2C1H.ode = miscellanea_en_UK_ware.misc.Ode2
 trMA.Ode2C1H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode2C1H.greekmelody = he.h.m8_en_UK_ware.heHE.IdeteIdeteOPalaiTonIsrail.greekname
 trMA.Ode2C1H.melody = he.h.m8_en_UK_ware.heHE.IdeteIdeteOPalaiTonIsrail.melody
 trMA.Ode2C1H.incipit = he.h.m8_en_UK_ware.heHE.IdeteIdeteOPalaiTonIsrail.incipit
 trMA.Ode2C1H.text = he.h.m8_en_UK_ware.heHE.IdeteIdeteOPalaiTonIsrail.text
 
 trMA.Ode2C11.ode = miscellanea_en_UK_ware.misc.Ode2
 trMA.Ode2C11.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode2C11.greekmelody = he.h.m8_en_UK_ware.heHE.IdeteIdeteOPalaiTonIsrail.greekname
 trMA.Ode2C11.melody = he.h.m8_en_UK_ware.heHE.IdeteIdeteOPalaiTonIsrail.name
 trMA.Ode2C11.incipit = "Today, in the middle of…"
 trMA.Ode2C11.text = "Today, in the middle of the Fast, we worship with faith the Cross that Thou hast endured in the midst of the earth, O Messiah and Word of God, and we pray also to see Thy Resurrection."
@@ -100,6 +106,7 @@ trMA.Ode2C1T.text = "O Virgin, thou hast conceived Christ, who took flesh yet un
 
 trMA.Ode2C21.ode = miscellanea_en_UK_ware.misc.Ode2
 trMA.Ode2C21.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode2C21.greekmelody = he.h.m8_en_UK_ware.heHE.IdeteIdeteOProTonAionon.greekname
 trMA.Ode2C21.melody = he.h.m8_en_UK_ware.heHE.IdeteIdeteOProTonAionon.name
 trMA.Ode2C21.incipit = "See now, see that I…"
 trMA.Ode2C21.text = "See now, see that I am your God, who grants my Cross as a weapon of salvation, to be venerated by the inhabited earth: that those who reverence it may destroy the schemes of the enemy."
@@ -130,12 +137,14 @@ trMA.Ode2C2A1.text = "When great Moses stretched out his hands and overthrew Ama
 
 trMA.Ode2C2H.ode = miscellanea_en_UK_ware.misc.Ode2
 trMA.Ode2C2H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode2C2H.greekmelody = he.h.m8_en_UK_ware.heHE.IdeteIdeteOProTonAionon.greekname
 trMA.Ode2C2H.melody = he.h.m8_en_UK_ware.heHE.IdeteIdeteOProTonAionon.melody
 trMA.Ode2C2H.incipit = he.h.m8_en_UK_ware.heHE.IdeteIdeteOProTonAionon.incipit
 trMA.Ode2C2H.text = he.h.m8_en_UK_ware.heHE.IdeteIdeteOProTonAionon.text
 
 trMA.Ode8C11.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C11.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode8C11.greekmelody = he.h.m8_en_UK_ware.heHE.OStegazonEnYdasi.greekname
 trMA.Ode8C11.melody = he.h.m8_en_UK_ware.heHE.OStegazonEnYdasi.name
 trMA.Ode8C11.incipit = "Lifted upon the Tree, as…"
 trMA.Ode8C11.text = "Lifted upon the Tree, as God Thou hast shaken the foundations of all the earth, O Lord, and given to the faithful the saving weapon of Thy Cross as a strong support that cannot be shaken. We venerate it and exalt Thee above all for ever."
@@ -160,6 +169,7 @@ trMA.Ode8C1T.text = "O pure and holy Virgin Mother of God, our spiritual sanctua
 
 trMA.Ode8C21.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C21.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode8C21.greekmelody = he.h.m8_en_UK_ware.heHE.AngeloiKaiOuranoi.greekname
 trMA.Ode8C21.melody = he.h.m8_en_UK_ware.heHE.AngeloiKaiOuranoi.name
 trMA.Ode8C21.incipit = "Come, ye people, and behold…"
 trMA.Ode8C21.text = "Come, ye people, and behold the lifegiving Wood now set before us, on which Christ our God was crucified, and praising it with fear, let us venerate it for ever."
@@ -190,12 +200,14 @@ trMA.Ode8C2A1.text = "O Christ, by a word Thou hast given sight to the man blind
 
 trMA.Ode8C2H.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C2H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode8C2H.greekmelody = he.h.m8_en_UK_ware.heHE.AngeloiKaiOuranoi.greekname
 trMA.Ode8C2H.melody = he.h.m8_en_UK_ware.heHE.AngeloiKaiOuranoi.melody
 trMA.Ode8C2H.incipit = he.h.m8_en_UK_ware.heHE.AngeloiKaiOuranoi.incipit
 trMA.Ode8C2H.text = he.h.m8_en_UK_ware.heHE.AngeloiKaiOuranoi.text
 
 trMA.Ode9C11.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode9C11.greekmelody = he.h.m8_en_UK_ware.heHE.EvlogitosOKyrios.greekname
 trMA.Ode9C11.melody = he.h.m8_en_UK_ware.heHE.EvlogitosOKyrios.name
 trMA.Ode9C11.incipit = "Blessed be the Lord God…"
 trMA.Ode9C11.text = "Blessed be the Lord God of Israel, for He has destroyed the ancient curse by His Cross, which He has given to us as our support and refuge and firm foundation; and by its power we shall overthrow our enemies."
@@ -220,6 +232,7 @@ trMA.Ode9C1T.text = "All generations call thee blessed, O pure Virgin: for Jesus
 
 trMA.Ode9C21.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C21.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode9C21.greekmelody = he.h.m8_en_UK_ware.heHE.EvlogitosOKyrios.greekname
 trMA.Ode9C21.melody = he.h.m8_en_UK_ware.heHE.EvlogitosOKyrios.name
 trMA.Ode9C21.incipit = "Blessed be the Lord God…"
 trMA.Ode9C21.text = "Blessed be the Lord God of Israel, for He has destroyed the ancient curse by His Cross, which He has set before us for our veneration. Let us kiss the Cross in faith and sing its praises, as continually we glorify His great mercy."
@@ -250,6 +263,7 @@ trMA.Ode9C2A1.text = "As Thou hast saved repentant Manasses, O God, save me also
 
 trMA.Ode9C2H.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C2H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode9C2H.greekmelody = he.h.m8_en_UK_ware.heHE.EvlogitosOKyrios.greekname
 trMA.Ode9C2H.melody = he.h.m8_en_UK_ware.heHE.EvlogitosOKyrios.melody
 trMA.Ode9C2H.incipit = he.h.m8_en_UK_ware.heHE.EvlogitosOKyrios.incipit
 trMA.Ode9C2H.text = he.h.m8_en_UK_ware.heHE.EvlogitosOKyrios.text
