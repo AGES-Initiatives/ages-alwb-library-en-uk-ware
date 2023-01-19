@@ -259,7 +259,7 @@ trCA.Ode9T.text = ""
 
 trCA.Ode9H.ode = miscellanea_en_UK_ware.misc.Ode9
 trCA.Ode9H.mode = miscellanea_en_UK_ware.misc.Mode8
-trCA.Ode9H.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
+trCA.Ode9H.melody = he.h.m8_en_UK_ware.heHE.SeTinApeirogamon.melody
 trCA.Ode9H.incipit = he.h.m8_en_UK_ware.heHE.SeTinApeirogamon.incipit
 trCA.Ode9H.text = he.h.m8_en_UK_ware.heHE.SeTinApeirogamon.text
 
@@ -372,7 +372,7 @@ trMA.Ode1C2T.text = "The prophecies spoken by God through holy men of old have r
 
 trMA.Ode1K.ode = miscellanea_en_UK_ware.misc.Ode1
 trMA.Ode1K.mode = miscellanea_en_UK_ware.misc.Mode4
-trMA.Ode1K.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
+trMA.Ode1K.melody = he.h.m4_en_UK_ware.heHE.AnoixoToStomaMou.melody
 trMA.Ode1K.incipit = he.h.m4_en_UK_ware.heHE.AnoixoToStomaMou.incipit
 trMA.Ode1K.text = he.h.m4_en_UK_ware.heHE.AnoixoToStomaMou.text
 
@@ -447,7 +447,7 @@ trMA.Ode3C2T.text = "Most holy Virgin, firm hope of the world, our protection an
 
 trMA.Ode3K.ode = miscellanea_en_UK_ware.misc.Ode3
 trMA.Ode3K.mode = miscellanea_en_UK_ware.misc.Mode4
-trMA.Ode3K.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
+trMA.Ode3K.melody = he.h.m4_en_UK_ware.heHE.TousSousYmnologous.melody
 trMA.Ode3K.incipit = he.h.m4_en_UK_ware.heHE.TousSousYmnologous.incipit
 trMA.Ode3K.text = he.h.m4_en_UK_ware.heHE.TousSousYmnologous.text
 
@@ -534,7 +534,7 @@ trMA.Ode4C2T.text = "O Christ, begotten of the Father before all ages, as our in
 
 trMA.Ode4K.ode = miscellanea_en_UK_ware.misc.Ode4
 trMA.Ode4K.mode = miscellanea_en_UK_ware.misc.Mode4
-trMA.Ode4K.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
+trMA.Ode4K.melody = he.h.m4_en_UK_ware.heHE.OKathimenosEnDoxi.melody
 trMA.Ode4K.incipit = he.h.m4_en_UK_ware.heHE.OKathimenosEnDoxi.incipit
 trMA.Ode4K.text = he.h.m4_en_UK_ware.heHE.OKathimenosEnDoxi.text
 
@@ -597,7 +597,7 @@ trMA.Ode5C2T.text = "No one who runs fervently to thee for help, O Lady, is ever
 
 trMA.Ode5K.ode = miscellanea_en_UK_ware.misc.Ode5
 trMA.Ode5K.mode = miscellanea_en_UK_ware.misc.Mode4
-trMA.Ode5K.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
+trMA.Ode5K.melody = he.h.m4_en_UK_ware.heHE.ExestiTaSympanta.melody
 trMA.Ode5K.incipit = he.h.m4_en_UK_ware.heHE.ExestiTaSympanta.incipit
 trMA.Ode5K.text = he.h.m4_en_UK_ware.heHE.ExestiTaSympanta.text
 
@@ -660,7 +660,7 @@ trMA.Ode6C2T.text = "At the good pleasure of the Father, and through the descent
 
 trMA.Ode6K.ode = miscellanea_en_UK_ware.misc.Ode6
 trMA.Ode6K.mode = miscellanea_en_UK_ware.misc.Mode4
-trMA.Ode6K.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
+trMA.Ode6K.melody = he.h.m4_en_UK_ware.heHE.TinTheianTaftin.melody
 trMA.Ode6K.incipit = he.h.m4_en_UK_ware.heHE.TinTheianTaftin.incipit
 trMA.Ode6K.text = he.h.m4_en_UK_ware.heHE.TinTheianTaftin.text
 
@@ -744,7 +744,7 @@ trMA.Ode7C2T.text = "Thy conceiving is beyond all words, O undefiled Virgin, and
 
 trMA.Ode7K.ode = miscellanea_en_UK_ware.misc.Ode7
 trMA.Ode7K.mode = miscellanea_en_UK_ware.misc.Mode4
-trMA.Ode7K.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
+trMA.Ode7K.melody = he.h.m4_en_UK_ware.heHE.OukElatrefsan.melody
 trMA.Ode7K.incipit = he.h.m4_en_UK_ware.heHE.OukElatrefsan.incipit
 trMA.Ode7K.text = he.h.m4_en_UK_ware.heHE.OukElatrefsan.text
 
@@ -813,7 +813,7 @@ trMA.Ode8C2T.text = "The mind of man is powerless to express the mystery of thy 
 
 trMA.Ode8K.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8K.mode = miscellanea_en_UK_ware.misc.Mode4
-trMA.Ode8K.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
+trMA.Ode8K.melody = he.h.m4_en_UK_ware.heHE.PaidasEvageis.melody
 trMA.Ode8K.incipit = he.h.m4_en_UK_ware.heHE.PaidasEvageis.incipit
 trMA.Ode8K.text = he.h.m4_en_UK_ware.heHE.PaidasEvageis.text
 
@@ -876,7 +876,7 @@ trMA.Ode9C2T.text = "We shall not cease to sing thy praises, O Virgin: thou art 
 
 trMA.Ode9K.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9K.mode = miscellanea_en_UK_ware.misc.Mode4
-trMA.Ode9K.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
+trMA.Ode9K.melody = he.h.m4_en_UK_ware.heHE.ApasGigenis.melody
 trMA.Ode9K.incipit = he.h.m4_en_UK_ware.heHE.ApasGigenis.incipit
 trMA.Ode9K.text = he.h.m4_en_UK_ware.heHE.ApasGigenis.text
 

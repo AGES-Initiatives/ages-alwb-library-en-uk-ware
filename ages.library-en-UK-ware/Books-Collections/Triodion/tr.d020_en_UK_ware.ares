@@ -37,7 +37,7 @@ trMA.Kathisma21.incipit = "O Holy Cross, raise up…"
 trMA.Kathisma21.text = "O Holy Cross, raise up the horn of the Churches; by thy power cast down the arrogance of heretics and make glad the congregations of the Orthodox. Count us all worthy to be present when thou art carried in procession, and to venerate thee as the footstool of Christ. For in thee, O blessed Wood, we glory."
 
 trMA.Kathisma22.mode = miscellanea_en_UK_ware.misc.Mode7
-trMA.Kathisma22.melody = miscellanea_en_UK_ware.misc.AutomelonNotMetered
+trMA.Kathisma22.melody = he.a.m7_en_UK_ware.heAU.OsEchousaToSympathes.melody
 trMA.Kathisma22.incipit = he.a.m7_en_UK_ware.heAU.OsEchousaToSympathes.incipit
 trMA.Kathisma22.text = he.a.m7_en_UK_ware.heAU.OsEchousaToSympathes.text
 

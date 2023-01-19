@@ -36,7 +36,7 @@ trMA.Kathisma21.incipit = "O Word supreme in love…"
 trMA.Kathisma21.text = "O Word supreme in love, who with the Father and the Spirit hast created all things visible and invisible in Thy wisdom past speech, grant in Thy compassion that we may spend the season of the joyful Fast in profound peace. Destroy the beguilement of bitter sin, granting us contrition, tears of healing, and forgiveness of our trespasses, that, fasting with a fervent spirit and undoubting soul, we may join the angels to sing the praises of Thy power."
 
 trMA.Kathisma22.mode = miscellanea_en_UK_ware.misc.Mode8
-trMA.Kathisma22.melody = miscellanea_en_UK_ware.misc.AutomelonNotMetered
+trMA.Kathisma22.melody = he.a.m8_en_UK_ware.heAU.TinSofianKaiLogon.melody
 trMA.Kathisma22.incipit = he.a.m8_en_UK_ware.heAU.TinSofianKaiLogon.incipit
 trMA.Kathisma22.text = he.a.m8_en_UK_ware.heAU.TinSofianKaiLogon.text
 
