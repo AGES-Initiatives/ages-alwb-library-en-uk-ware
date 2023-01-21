@@ -532,6 +532,7 @@ trMA.AposMartyric.incipit = "O martyrs praised in all…"
 trMA.AposMartyric.text = "O martyrs praised in all the world, neither tribulation nor distress nor hunger nor persecution, neither peril nor the fury of wild beasts nor the sword nor threat of fire, could separate you from God. But suffering out of love for Him, as though your bodies were no longer your own, ye forgot nature and despised death. So ye have received the reward that ye deserve for all your toil, and ye have become inheritors of the heavenly Kingdom. Offer intercession for our souls." //oc.m1.d4_en_UK_ware.ocMA.Aposticha3.text
 
 trMA.AposTheotokion.mode = miscellanea_en_UK_ware.misc.Mode1
+trMA.AposTheotokion.greekmelody = he.a.m1_en_UK_ware.heAU.TonOuranionTagmaton.greekname
 trMA.AposTheotokion.melody = he.a.m1_en_UK_ware.heAU.TonOuranionTagmaton.name
 trMA.AposTheotokion.incipit = "When she saw the Lamb…"
 trMA.AposTheotokion.text = "When she saw the Lamb hanging on the Cross, the undefiled Virgin lamented and cried: 'O my beloved Child, what is this strange and fearful sight? O Thou who holdest all things in the hollow of Thy hand, how art Thou nailed in the flesh to the wood?'" //oc.m1.d6_en_UK_ware.ocVE.SticTheotokion.text

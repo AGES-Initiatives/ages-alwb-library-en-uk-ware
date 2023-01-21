@@ -533,6 +533,7 @@ trMA.AposMartyric.incipit = "At the commemoration of Thy…"
 trMA.AposMartyric.text = "At the commemoration of Thy saints, O Lord, the whole creation keeps festival; heaven with the angels greatly rejoices, and the earth with all mankind makes glad. At their intercession have mercy upon us." //oc.m6.d2_en_UK_ware.ocMA.Aposticha3.text
 
 trMA.AposTheotokion.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.AposTheotokion.greekmelody = he.a.m6_en_UK_ware.heAU.TriimerosAnestis.greekname
 trMA.AposTheotokion.melody = he.a.m6_en_UK_ware.heAU.TriimerosAnestis.name
 trMA.AposTheotokion.incipit = "When the all-pure Virgin saw…"
 trMA.AposTheotokion.text = "When the all-pure Virgin saw Thee hanging on the Cross, with a mother's grief she cried aloud: 'O my Son and my God, O my beloved Child, how dost Thou endure this shameful suffering?'" //oc.m6.d4_en_UK_ware.ocMA.AposTheotokion.text

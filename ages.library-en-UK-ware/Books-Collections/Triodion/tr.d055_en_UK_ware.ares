@@ -265,11 +265,13 @@ trMA.AposIdiomelon1.incipit = "Thou wast crucified with the…"
 trMA.AposIdiomelon1.text = "Thou wast crucified with the thieves, O Christ our God, and Thou hast healed man's nature by Thy wounds. I have fallen among invisible robbers, among bodiless thieves; they have stripped me of virtue and grievously wounded me. O despise me not: none of the saints can heal me; I lie half dead and have but little life remaining in me. Thou art my only hope, who hast restored the dead to life: bind up my wounds, pouring upon me the oil of Thy compassion, for Thou alone lovest mankind."
 
 trMA.AposMartyric.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.AposMartyric.greekmelody = he.a.m8_en_UK_ware.heAU.TiYmasKalesomen.greekname
 trMA.AposMartyric.melody = he.a.m8_en_UK_ware.heAU.TiYmasKalesomen.melody
 trMA.AposMartyric.incipit = he.a.m8_en_UK_ware.heAU.TiYmasKalesomen.incipit
 trMA.AposMartyric.text = he.a.m8_en_UK_ware.heAU.TiYmasKalesomen.text
 
 trMA.AposTheotokion.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.AposTheotokion.greekmelody = he.a.m8_en_UK_ware.heAU.OTouParadoxou.greekname
 trMA.AposTheotokion.melody = he.a.m8_en_UK_ware.heAU.OTouParadoxou.name
 trMA.AposTheotokion.incipit = "'O marvellous wonder! O strange…"
 trMA.AposTheotokion.text = "'O marvellous wonder! O strange mystery! O fearful enterprise!' said the Virgin as she looked on Thee, and saw Thee hanging between two evildoers on the Cross, the Child whom she had borne without travail and inviolate. 'O sweetest Jesus, my best-beloved, how has the lawless and ungrateful people nailed Thee to the Cross?'"

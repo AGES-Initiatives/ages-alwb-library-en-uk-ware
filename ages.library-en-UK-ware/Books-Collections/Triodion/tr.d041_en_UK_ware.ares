@@ -278,6 +278,7 @@ trMA.AposMartyric.incipit = "At the commemoration of Thy…"
 trMA.AposMartyric.text = "At the commemoration of Thy martyrs, O Lord, the whole creation keeps festival; heaven with the angels greatly rejoices, and the earth with all mankind makes glad. At their intercessions have mercy on us."
 
 trMA.AposTheotokion.mode = miscellanea_en_UK_ware.misc.Mode6
+trMA.AposTheotokion.greekmelody = he.a.m6_en_UK_ware.heAU.TriimerosAnestis.greekname
 trMA.AposTheotokion.melody = he.a.m6_en_UK_ware.heAU.TriimerosAnestis.name
 trMA.AposTheotokion.incipit = oc.m6.d4_en_UK_ware.ocMA.AposTheotokion.incipit
 trMA.AposTheotokion.text = oc.m6.d4_en_UK_ware.ocMA.AposTheotokion.text
