@@ -78,6 +78,7 @@ meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "" //me.m01.d02_en_UK_ware.meMA.Aposticha3.text
 
 meVE.Apolytikion1.mode = miscellanea_en_UK_ware.misc.Mode4
+meVE.Apolytikion1.greekmelody = he.a.m4_en_UK_ware.heAU.KateplagiIosif.greekname
 meVE.Apolytikion1.melody = he.a.m4_en_UK_ware.heAU.KateplagiIosif.name
 meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
