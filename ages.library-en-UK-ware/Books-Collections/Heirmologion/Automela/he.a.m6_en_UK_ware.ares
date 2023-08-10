@@ -2,72 +2,72 @@ A_Resource_Whose_Name = he.a.m6_en_UK_ware
 
 heAU.title = ""
 
-heAU.AiAngelikai.greekname = ""
+heAU.AiAngelikai.greekname = "Αἱ Ἀγγελικαί."
 heAU.AiAngelikai.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.AiAngelikai.mode = miscellanea_en_UK_ware.misc.Mode6
-heAU.AiAngelikai.name = ""
+heAU.AiAngelikai.name = "(NA)"
 heAU.AiAngelikai.incipit = "…"
 heAU.AiAngelikai.text = ""
 
-heAU.AngelikaiDynameis.greekname = ""
+heAU.AngelikaiDynameis.greekname = "Ἀγγελικαὶ Δυνάμεις."
 heAU.AngelikaiDynameis.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.AngelikaiDynameis.mode = miscellanea_en_UK_ware.misc.Mode6
-heAU.AngelikaiDynameis.name = ""
+heAU.AngelikaiDynameis.name = "(NA)"
 heAU.AngelikaiDynameis.incipit = "…"
 heAU.AngelikaiDynameis.text = ""
 
-heAU.EkGastrosEtechthis.greekname = ""
+heAU.EkGastrosEtechthis.greekname = "Ἐκ γαστρὸς ἐτέχθης."
 heAU.EkGastrosEtechthis.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.EkGastrosEtechthis.mode = miscellanea_en_UK_ware.misc.Mode6
-heAU.EkGastrosEtechthis.name = ""
+heAU.EkGastrosEtechthis.name = "(NA)"
 heAU.EkGastrosEtechthis.incipit = "…"
 heAU.EkGastrosEtechthis.text = ""
 
-heAU.ElpisTouKosmouAgathi.greekname = ""
+heAU.ElpisTouKosmouAgathi.greekname = "Ἐλπὶς τοῦ κόσμου ἀγαθή."
 heAU.ElpisTouKosmouAgathi.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.ElpisTouKosmouAgathi.mode = miscellanea_en_UK_ware.misc.Mode6
-heAU.ElpisTouKosmouAgathi.name = ""
+heAU.ElpisTouKosmouAgathi.name = "(NA)"
 heAU.ElpisTouKosmouAgathi.incipit = "…"
 heAU.ElpisTouKosmouAgathi.text = ""
 
-heAU.IApegnosmeni.greekname = ""
+heAU.IApegnosmeni.greekname = "Ἡ ἀπεγνωσμένη."
 heAU.IApegnosmeni.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.IApegnosmeni.mode = miscellanea_en_UK_ware.misc.Mode6
-heAU.IApegnosmeni.name = ""
+heAU.IApegnosmeni.name = "(NA)"
 heAU.IApegnosmeni.incipit = "…"
 heAU.IApegnosmeni.text = ""
 
-heAU.KyrieEleisonImas.greekname = ""
+heAU.KyrieEleisonImas.greekname = "Κύριε ἐλέησον ἡμᾶς."
 heAU.KyrieEleisonImas.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.KyrieEleisonImas.mode = miscellanea_en_UK_ware.misc.Mode6
-heAU.KyrieEleisonImas.name = ""
+heAU.KyrieEleisonImas.name = "(NA)"
 heAU.KyrieEleisonImas.incipit = "…"
 heAU.KyrieEleisonImas.text = ""
 
-heAU.OlinApothemenoi.greekname = ""
+heAU.OlinApothemenoi.greekname = "Ὅλην ἀποθέμενοι."
 heAU.OlinApothemenoi.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.OlinApothemenoi.mode = miscellanea_en_UK_ware.misc.Mode6
-heAU.OlinApothemenoi.name = ""
+heAU.OlinApothemenoi.name = "(NA)"
 heAU.OlinApothemenoi.incipit = "…"
 heAU.OlinApothemenoi.text = ""
 
-heAU.TinEnPresveiais.greekname = ""
+heAU.TinEnPresveiais.greekname = "Τὴν ἐν πρεσβείαις."
 heAU.TinEnPresveiais.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.TinEnPresveiais.mode = miscellanea_en_UK_ware.misc.Mode6
-heAU.TinEnPresveiais.name = ""
+heAU.TinEnPresveiais.name = "(NA)"
 heAU.TinEnPresveiais.incipit = "…"
 heAU.TinEnPresveiais.text = ""
 
-heAU.TinYperImon.greekname = ""
+heAU.TinYperImon.greekname = "Τὴν ὑπὲρ ἡμῶν."
 heAU.TinYperImon.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.TinYperImon.mode = miscellanea_en_UK_ware.misc.Mode6
-heAU.TinYperImon.name = ""
+heAU.TinYperImon.name = "(NA)"
 heAU.TinYperImon.incipit = "…"
 heAU.TinYperImon.text = ""
 
-heAU.TriimerosAnestis.greekname = ""
+heAU.TriimerosAnestis.greekname = "Τριήμερος ἀνέστης."
 heAU.TriimerosAnestis.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.TriimerosAnestis.mode = miscellanea_en_UK_ware.misc.Mode6
-heAU.TriimerosAnestis.name = ""
+heAU.TriimerosAnestis.name = "(NA)"
 heAU.TriimerosAnestis.incipit = "…"
 heAU.TriimerosAnestis.text = ""

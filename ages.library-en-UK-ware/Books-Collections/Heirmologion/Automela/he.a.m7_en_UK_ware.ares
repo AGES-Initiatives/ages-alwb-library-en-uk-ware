@@ -2,56 +2,56 @@ A_Resource_Whose_Name = he.a.m7_en_UK_ware
 
 heAU.title = ""
 
-heAU.KatafronisantesPanton.greekname = ""
+heAU.KatafronisantesPanton.greekname = "Καταφρονήσαντες πάντων."
 heAU.KatafronisantesPanton.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.KatafronisantesPanton.mode = miscellanea_en_UK_ware.misc.Mode7
 heAU.KatafronisantesPanton.name = "(NM)"
 heAU.KatafronisantesPanton.incipit = "…"
 heAU.KatafronisantesPanton.text = ""
 
-heAU.ODiEmeAnaschomenos.greekname = ""
+heAU.ODiEmeAnaschomenos.greekname = "Ὁ διʼ ἐμὲ ἀνασχόμενος."
 heAU.ODiEmeAnaschomenos.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.ODiEmeAnaschomenos.mode = miscellanea_en_UK_ware.misc.Mode7
-heAU.ODiEmeAnaschomenos.name = "(NM)."
+heAU.ODiEmeAnaschomenos.name = "(NM)"
 heAU.ODiEmeAnaschomenos.incipit = "…"
 heAU.ODiEmeAnaschomenos.text = ""
 
-heAU.OsEchousaToSympathes.greekname = ""
+heAU.OsEchousaToSympathes.greekname = "Ὡς ἔχουσα τὸ συμπαθές."
 heAU.OsEchousaToSympathes.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.OsEchousaToSympathes.mode = miscellanea_en_UK_ware.misc.Mode7
-heAU.OsEchousaToSympathes.name = "(NM) O blessed Theotokos."
+heAU.OsEchousaToSympathes.name = "(NM)"
 heAU.OsEchousaToSympathes.incipit = "O blessed Theotokos…"
 heAU.OsEchousaToSympathes.text = "O blessed Theotokos, thou seest those on earth, and thou dost feel and suffer with us in our lowliness: take pity on thy people in distress. Pray for us constantly, lest we perish in our sins. O Virgin undefiled and all-holy, intercede for the salvation of our souls before the God who is always ready to forgive."
 
-heAU.OuketiFloginiRomfaia.greekname = ""
+heAU.OuketiFloginiRomfaia.greekname = "Οὐκέτι φλογίνη ῥομφαία."
 heAU.OuketiFloginiRomfaia.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.OuketiFloginiRomfaia.mode = miscellanea_en_UK_ware.misc.Mode7
 heAU.OuketiFloginiRomfaia.name = "(NM)"
 heAU.OuketiFloginiRomfaia.incipit = "…"
 heAU.OuketiFloginiRomfaia.text = ""
 
-heAU.OukEtiKolyometha.greekname = ""
+heAU.OukEtiKolyometha.greekname = "Οὐκ ἔτι κωλυόμεθα."
 heAU.OukEtiKolyometha.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.OukEtiKolyometha.mode = miscellanea_en_UK_ware.misc.Mode7
 heAU.OukEtiKolyometha.name = "(NM)"
 heAU.OukEtiKolyometha.incipit = "…"
 heAU.OukEtiKolyometha.text = ""
 
-heAU.PyrosFoteinoteron.greekname = ""
+heAU.PyrosFoteinoteron.greekname = "Πυρὸς φωτεινότερον."
 heAU.PyrosFoteinoteron.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.PyrosFoteinoteron.mode = miscellanea_en_UK_ware.misc.Mode7
-heAU.PyrosFoteinoteron.name = "More dazzling than flame."
+heAU.PyrosFoteinoteron.name = "(NM)"
 heAU.PyrosFoteinoteron.incipit = "…"
 heAU.PyrosFoteinoteron.text = ""
 
-heAU.SimeronGrigoreiOIoudas.greekname = ""
+heAU.SimeronGrigoreiOIoudas.greekname = "Σήμερον γρηγορεῖ ὁ Ἰούδας."
 heAU.SimeronGrigoreiOIoudas.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.SimeronGrigoreiOIoudas.mode = miscellanea_en_UK_ware.misc.Mode7
 heAU.SimeronGrigoreiOIoudas.name = "(NM)"
 heAU.SimeronGrigoreiOIoudas.incipit = "…"
 heAU.SimeronGrigoreiOIoudas.text = ""
 
-heAU.XylonZois.greekname = ""
+heAU.XylonZois.greekname = "Ξύλον ζωῆς."
 heAU.XylonZois.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.XylonZois.mode = miscellanea_en_UK_ware.misc.Mode7
 heAU.XylonZois.name = "(NM)"

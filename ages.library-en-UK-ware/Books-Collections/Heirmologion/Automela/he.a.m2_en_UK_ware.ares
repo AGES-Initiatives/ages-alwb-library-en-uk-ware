@@ -2,87 +2,87 @@ A_Resource_Whose_Name = he.a.m2_en_UK_ware
 
 heAU.title = ""
 
-heAU.EfsplagchniasYparchousa.greekname = ""
+heAU.EfsplagchniasYparchousa.greekname = "Εὐσπλαγχνίας ὑπάρχουσα."
 heAU.EfsplagchniasYparchousa.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.EfsplagchniasYparchousa.mode = miscellanea_en_UK_ware.misc.Mode2
-heAU.EfsplagchniasYparchousa.name = ""
+heAU.EfsplagchniasYparchousa.name = "(NM)"
 heAU.EfsplagchniasYparchousa.incipit = "…"
 heAU.EfsplagchniasYparchousa.text = ""
 
-heAU.GynaikesAkoutisthite.greekname = ""
+heAU.GynaikesAkoutisthite.greekname = "Γυναῖκες ἀκουτίσθητε."
 heAU.GynaikesAkoutisthite.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.GynaikesAkoutisthite.mode = miscellanea_en_UK_ware.misc.Mode2
 heAU.GynaikesAkoutisthite.name = "(NM)"
 heAU.GynaikesAkoutisthite.incipit = "…"
 heAU.GynaikesAkoutisthite.text = ""
 
-heAU.OikosTouEfratha.greekname = ""
+heAU.OikosTouEfratha.greekname = "Οἶκος τοῦ Ἐφραθᾶ."
 heAU.OikosTouEfratha.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.OikosTouEfratha.mode = miscellanea_en_UK_ware.misc.Mode2
-heAU.OikosTouEfratha.name = ""
+heAU.OikosTouEfratha.name = "(NM)"
 heAU.OikosTouEfratha.incipit = "…"
 heAU.OikosTouEfratha.text = ""
 
-heAU.OteEkTouXylou.greekname = ""
+heAU.OteEkTouXylou.greekname = "Ὅτε ἐκ τοῦ ξύλου."
 heAU.OteEkTouXylou.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.OteEkTouXylou.mode = miscellanea_en_UK_ware.misc.Mode2
 heAU.OteEkTouXylou.name = "N/M (Joseph took You.)"
 heAU.OteEkTouXylou.incipit = "N/M (Joseph took You.)…"
 heAU.OteEkTouXylou.text = ""
 
-heAU.PoioisEffimionStemmasin.greekname = ""
+heAU.PoioisEffimionStemmasin.greekname = "Ποίοις εὐφημιῶν στέμμασιν."
 heAU.PoioisEffimionStemmasin.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.PoioisEffimionStemmasin.mode = miscellanea_en_UK_ware.misc.Mode2
-heAU.PoioisEffimionStemmasin.name = ""
+heAU.PoioisEffimionStemmasin.name = "(NM)"
 heAU.PoioisEffimionStemmasin.incipit = "…"
 heAU.PoioisEffimionStemmasin.text = ""
 
-heAU.SarkiYpnosas.greekname = ""
+heAU.SarkiYpnosas.greekname = "Σαρκὶ ὑπνώσας."
 heAU.SarkiYpnosas.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.SarkiYpnosas.mode = miscellanea_en_UK_ware.misc.Mode2
-heAU.SarkiYpnosas.name = ""
+heAU.SarkiYpnosas.name = "(NM)"
 heAU.SarkiYpnosas.incipit = "…"
 heAU.SarkiYpnosas.text = ""
 
-heAU.StavrosOFylax.greekname = ""
+heAU.StavrosOFylax.greekname = "Σταυρός, ὁ φύλαξ."
 heAU.StavrosOFylax.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.StavrosOFylax.mode = miscellanea_en_UK_ware.misc.Mode2
-heAU.StavrosOFylax.name = ""
+heAU.StavrosOFylax.name = "(NM)"
 heAU.StavrosOFylax.incipit = "…"
 heAU.StavrosOFylax.text = ""
 
-heAU.TaAnoZiton.greekname = ""
+heAU.TaAnoZiton.greekname = "Τὰ ἄνω ζητῶν."
 heAU.TaAnoZiton.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.TaAnoZiton.mode = miscellanea_en_UK_ware.misc.Mode2
 heAU.TaAnoZiton.notmetered = "N/M (In seeking the heights.)"
-heAU.TaAnoZiton.name = "N/M (In seeking the heights.)"
+heAU.TaAnoZiton.name = "(NM)"
 heAU.TaAnoZiton.incipit = "N/M (In seeking the heights.)…"
 heAU.TaAnoZiton.text = ""
 
-heAU.ToisMathitaisSynelthomen.greekname = ""
+heAU.ToisMathitaisSynelthomen.greekname = "Τοῖς Μαθηταῖς συνέλθωμεν."
 heAU.ToisMathitaisSynelthomen.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.ToisMathitaisSynelthomen.mode = miscellanea_en_UK_ware.misc.Mode2
-heAU.ToisMathitaisSynelthomen.name = ""
+heAU.ToisMathitaisSynelthomen.name = "(NM)"
 heAU.ToisMathitaisSynelthomen.incipit = "…"
 heAU.ToisMathitaisSynelthomen.text = ""
 
-heAU.ToisTonAimatonSou.greekname = ""
+heAU.ToisTonAimatonSou.greekname = "Τοῖς τῶν αἱμάτων σου."
 heAU.ToisTonAimatonSou.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.ToisTonAimatonSou.mode = miscellanea_en_UK_ware.misc.Mode2
-heAU.ToisTonAimatonSou.name = ""
+heAU.ToisTonAimatonSou.name = "(NM)"
 heAU.ToisTonAimatonSou.incipit = "…"
 heAU.ToisTonAimatonSou.text = ""
 
-heAU.TonMathitonOrontonSe.greekname = ""
+heAU.TonMathitonOrontonSe.greekname = "Τῶν Μαθητῶν ὁρώντων σε."
 heAU.TonMathitonOrontonSe.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.TonMathitonOrontonSe.mode = miscellanea_en_UK_ware.misc.Mode2
-heAU.TonMathitonOrontonSe.name = ""
+heAU.TonMathitonOrontonSe.name = "(NM)"
 heAU.TonMathitonOrontonSe.incipit = "…"
 heAU.TonMathitonOrontonSe.text = ""
 
-heAU.TousAsfaleis.greekname = ""
+heAU.TousAsfaleis.greekname = "Τοὺς ἀσφαλεῖς."
 heAU.TousAsfaleis.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.TousAsfaleis.mode = miscellanea_en_UK_ware.misc.Mode2
-heAU.TousAsfaleis.name = ""
+heAU.TousAsfaleis.name = "(NM)"
 heAU.TousAsfaleis.incipit = "…"
 heAU.TousAsfaleis.text = ""
