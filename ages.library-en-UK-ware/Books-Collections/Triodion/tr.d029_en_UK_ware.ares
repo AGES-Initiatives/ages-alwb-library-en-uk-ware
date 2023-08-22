@@ -99,7 +99,7 @@ trVE.LityGlory.text = //me.m12.dBC_en_UK_ware.meVE.AposGlory.text
 trVE.LityBoth.mode = miscellanea_en_UK_ware.misc.Mode2
 trVE.LityBoth.melody = ""
 trVE.LityBoth.incipit = "…"
-trVE.LityBoth.text = //ho.s23_en_UK_ware.hoCA.Troparion7.text
+trVE.LityBoth.text = //ho.ho23_en_UK_ware.hoCA.Troparion7.text
 
 trVE.AposGlory.mode = miscellanea_en_UK_ware.misc.Mode2
 trVE.AposGlory.melody = miscellanea_en_UK_ware.misc.Idiomelon

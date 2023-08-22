@@ -487,13 +487,13 @@ trHW.Encomia3T.text = ""
 trHW.Encomia3F.text = trHW.Encomia301.text
 
 // Resurrectional Evlogetaria keys for media
-trHW.Evlogetaria1.text = //ho.s03_en_UK_ware.hoMA.ResEvlog1.text
-trHW.Evlogetaria2.text = //ho.s03_en_UK_ware.hoMA.ResEvlog2.text
-trHW.Evlogetaria3.text = //ho.s03_en_UK_ware.hoMA.ResEvlog3.text
-trHW.Evlogetaria4.text = //ho.s03_en_UK_ware.hoMA.ResEvlog4.text
-trHW.Evlogetaria5.text = //ho.s03_en_UK_ware.hoMA.ResEvlog5.text
-trHW.Evlogetaria6.text = //ho.s03_en_UK_ware.hoMA.ResEvlog6.text
-trHW.Evlogetaria7.text = //ho.s03_en_UK_ware.hoMA.ResEvlog7.text
+trHW.Evlogetaria1.text = //ho.ho03_en_UK_ware.hoMA.ResEvlog1.text
+trHW.Evlogetaria2.text = //ho.ho03_en_UK_ware.hoMA.ResEvlog2.text
+trHW.Evlogetaria3.text = //ho.ho03_en_UK_ware.hoMA.ResEvlog3.text
+trHW.Evlogetaria4.text = //ho.ho03_en_UK_ware.hoMA.ResEvlog4.text
+trHW.Evlogetaria5.text = //ho.ho03_en_UK_ware.hoMA.ResEvlog5.text
+trHW.Evlogetaria6.text = //ho.ho03_en_UK_ware.hoMA.ResEvlog6.text
+trHW.Evlogetaria7.text = //ho.ho03_en_UK_ware.hoMA.ResEvlog7.text
 
 trMA.Kathisma11.mode = miscellanea_en_UK_ware.misc.Mode1
 trMA.Kathisma11.greekmelody = he.a.m1_en_UK_ware.heAU.TonTafonSouSotir.greekname
@@ -811,7 +811,7 @@ trMA.Ode9K.text = he.h.m6_en_UK_ware.heHE.MiEpodyrouMouMiter.text
 
 trMA.Exaposteilarion1.mode = miscellanea_en_UK_ware.misc.Mode2
 trMA.Exaposteilarion1.melody = ""
-trMA.Exaposteilarion1.text = //ho.s03_en_UK_ware.hoMA.SunExapVerse1.text
+trMA.Exaposteilarion1.text = //ho.ho03_en_UK_ware.hoMA.SunExapVerse1.text
 
 trHW.Lauds01.text = "" // for media
 
