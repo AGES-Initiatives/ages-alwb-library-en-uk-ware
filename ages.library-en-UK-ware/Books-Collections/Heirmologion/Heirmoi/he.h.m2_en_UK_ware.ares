@@ -316,7 +316,7 @@ heHE.OAnthraxToIsaia.mode = miscellanea_en_UK_ware.misc.Mode2
 heHE.OAnthraxToIsaia.ode = miscellanea_en_UK_ware.misc.Ode5
 heHE.OAnthraxToIsaia.text = ""
 
-heHE.OFotismos.greekname = ""
+heHE.OFotismos.greekname = "Ὁ φωτισμός."
 heHE.OFotismos.name = "(NM)"
 heHE.OFotismos.incipit = "…"
 heHE.OFotismos.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
