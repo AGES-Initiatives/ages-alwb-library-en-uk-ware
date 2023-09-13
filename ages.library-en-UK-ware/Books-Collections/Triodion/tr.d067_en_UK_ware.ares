@@ -251,12 +251,12 @@ trCO.Ode9C1T.melody = he.h.m2_en_UK_ware.heHE.TinYperfyosSarki.name
 trCO.Ode9C1T.incipit = "O Theotokos, the hope of…"
 trCO.Ode9C1T.text = "O Theotokos, the hope of those that ever honour thee, cease not to pray to thy Son, that I may be delivered from danger and all manner of temptations."
 
-trHW.Alleluia.text = "" // for media
+trMA.MM.Alleluia.text = "" // for media
 
-trHW.Troparion.mode = miscellanea_en_UK_ware.misc.Mode8
-trHW.Troparion.melody = ""
-trHW.Troparion.incipit = tr.d065_en_UK_ware.trHW.Troparion.incipit
-trHW.Troparion.text = tr.d065_en_UK_ware.trHW.Troparion.text
+trMA.Troparion.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Troparion.melody = ""
+trMA.Troparion.incipit = tr.d065_en_UK_ware.trMA.Troparion.incipit
+trMA.Troparion.text = tr.d065_en_UK_ware.trMA.Troparion.text
 
 trMA.Kathisma11.mode = miscellanea_en_UK_ware.misc.Mode3
 trMA.Kathisma11.greekmelody = he.a.m3_en_UK_ware.heAU.TinOraiotita.greekname
@@ -398,7 +398,6 @@ trMA.Exaposteilarion1.melody = he.a.m3_en_UK_ware.heAU.TonNymfonaSouVlepo.melody
 trMA.Exaposteilarion1.incipit = he.a.m3_en_UK_ware.heAU.TonNymfonaSouVlepo.incipit
 trMA.Exaposteilarion1.text = he.a.m3_en_UK_ware.heAU.TonNymfonaSouVlepo.text
 
-trHW.Lauds01.text = "" // for media
 
 trMA.Lauds1.mode = miscellanea_en_UK_ware.misc.Mode1
 trMA.Lauds1.melody = miscellanea_en_UK_ware.misc.Idiomelon
