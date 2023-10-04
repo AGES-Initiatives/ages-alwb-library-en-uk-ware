@@ -64,8 +64,8 @@ trMA.Kathisma31.text = "Yesterday and today Lazarus is sick, and his sisters mak
 
 trMA.Kathisma32.mode = miscellanea_en_UK_ware.misc.Mode5
 trMA.Kathisma32.melody = ""
-trMA.Kathisma32.incipit = "Most Holy Mother of God…"
-trMA.Kathisma32.text = "Most Holy Mother of God, rampart of Christians, deliver us thy people who now and at all times call fervently upon thee. Make war upon our arrogant and shameful thoughts, that we may cry to thee: Hail, Ever-Virgin!"
+trMA.Kathisma32.incipit = //oc.m5.d3_en_UK_ware.ocMA.Kathisma33.incipit
+trMA.Kathisma32.text = //oc.m5.d3_en_UK_ware.ocMA.Kathisma33.text "Most Holy Mother of God, rampart of Christians, deliver us thy people who now and at all times call fervently upon thee. Make war upon our arrogant and shameful thoughts, that we may cry to thee: Hail, Ever-Virgin!"
 
 trMA.C1.poet = poets_en_UK_ware.po.Iosif
 

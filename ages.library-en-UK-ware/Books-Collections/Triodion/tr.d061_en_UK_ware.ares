@@ -272,13 +272,13 @@ trMA.AposIdiomelon1.text = "Come, brethren, and before the end with pure hearts 
 
 trMA.AposMartyric.mode = miscellanea_en_UK_ware.misc.Mode5
 trMA.AposMartyric.melody = ""
-trMA.AposMartyric.incipit = "In their torments, the saints…"
-trMA.AposMartyric.text = "In their torments, the saints cried out rejoicing: 'This is the exchange that we make with the Master: in return for the wounds inflicted on our bodies, He will clothe us at the Resurrection with a garment of light; in return for dishonour, we shall receive crowns; in return for imprisonment, Paradise; and in return for condemnation 'With evildoers, life with the angels.' At their prayers, O Lord, save our souls."
+trMA.AposMartyric.incipit = //oc.m5.d5_en_UK_ware.ocMA.Aposticha3.incipit
+trMA.AposMartyric.text = //oc.m5.d5_en_UK_ware.ocMA.Aposticha3.text "In their torments, the saints cried out rejoicing: 'This is the exchange that we make with the Master: in return for the wounds inflicted on our bodies, He will clothe us at the Resurrection with a garment of light; in return for dishonour, we shall receive crowns; in return for imprisonment, Paradise; and in return for condemnation 'With evildoers, life with the angels.' At their prayers, O Lord, save our souls."
 
 trMA.AposTheotokion.mode = miscellanea_en_UK_ware.misc.Mode5
 trMA.AposTheotokion.melody = ""
-trMA.AposTheotokion.incipit = "Forechosen from all generations, hear…"
-trMA.AposTheotokion.text = "Forechosen from all generations, hear us when we call upon thee, and answer the petitions of our souls: grant us deliverance from our passions and from anguish, for the sake of the apostles; for thou canst do all things as the Mother of God."
+trMA.AposTheotokion.incipit = //oc.m5.d5_en_UK_ware.ocMA.AposTheotokion.incipit
+trMA.AposTheotokion.text = //oc.m5.d5_en_UK_ware.ocMA.AposTheotokion.text "Forechosen from all generations, hear us when we call upon thee, and answer the petitions of our souls: grant us deliverance from our passions and from anguish, for the sake of the apostles; for thou canst do all things as the Mother of God."
 
 trTE.Troparion.mode = miscellanea_en_UK_ware.misc.Mode1
 trTE.Troparion.melody = ""
