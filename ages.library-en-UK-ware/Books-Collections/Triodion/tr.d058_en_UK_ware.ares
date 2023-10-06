@@ -282,8 +282,8 @@ trMA.AposMartyric.text = "Blessed is the army of the heavenly King: for though t
 
 trMA.AposTheotokion.mode = miscellanea_en_UK_ware.misc.Mode5
 trMA.AposTheotokion.melody = ""
-trMA.AposTheotokion.incipit = "O full of grace, be…"
-trMA.AposTheotokion.text = "O full of grace, be thou our mediatrix through thine intercessions. Pray for a multitude of mercies on our souls and for the forgiveness of our many sins."
+trMA.AposTheotokion.incipit = "" //me.m12.d11_en_UK_ware.meVE.SticTheotokion.incipit "O full of grace, be…"
+trMA.AposTheotokion.text = "" //me.m12.d11_en_US_goadedes.meVE.SticTheotokion.text "O full of grace, be thou our mediatrix through thine intercessions. Pray for a multitude of mercies on our souls and for the forgiveness of our many sins."
 
 trTE.Troparion.mode = miscellanea_en_UK_ware.misc.Mode6
 trTE.Troparion.melody = ""
