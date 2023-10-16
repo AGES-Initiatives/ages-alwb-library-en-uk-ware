@@ -65,8 +65,8 @@ trMA.Kathisma31.text = "The inhabited earth venerates Thy Cross, O Lord, as the 
 trMA.Kathisma32.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Kathisma32.greekmelody = he.a.m8_en_UK_ware.heAU.OsAparchas.greekname
 trMA.Kathisma32.melody = he.a.m8_en_UK_ware.heAU.OsAparchas.name
-trMA.Kathisma32.incipit = "Hail, for through the Angel…"
-trMA.Kathisma32.text = "Hail, for through the Angel thou hast received the Joy of the world; hail, for thou hast borne thy Maker and thy Lord; hail, for thou wast counted worthy to become Mother of Christ our God!"
+trMA.Kathisma32.incipit = //oc.m8.d2_en_UK_ware.ocVE.ApolTheotokionVM.incipit
+trMA.Kathisma32.text = //oc.m8.d2_en_UK_ware.ocVE.ApolTheotokionVM.text "Hail, for through the Angel thou hast received the Joy of the world; hail, for thou hast borne thy Maker and thy Lord; hail, for thou wast counted worthy to become Mother of Christ our God!"
 
 trMA.C1.poet = poets_en_UK_ware.po.Iosif
 

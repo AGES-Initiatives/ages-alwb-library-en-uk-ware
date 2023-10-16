@@ -51,8 +51,8 @@ trMA.Kathisma21.text = "O Christ, Thou hast stretched out Thine hands upon the W
 trMA.Kathisma22.mode = miscellanea_en_UK_ware.misc.Mode1
 trMA.Kathisma22.greekmelody = he.a.m1_en_UK_ware.heAU.TonTafonSouSotir.greekname
 trMA.Kathisma22.melody = he.a.m1_en_UK_ware.heAU.TonTafonSouSotir.name
-trMA.Kathisma22.incipit = "Beholding Thee, O Christ, stretched…"
-trMA.Kathisma22.text = "Beholding Thee, O Christ, stretched dead upon the Cross, Thine all­ blameless Mother cried aloud: 'O my Son, coeternal with the Father and the Spirit, what is this ineffable act of love, whereby in Thy compassion Thou hast saved the creation of Thy holy hands?'"
+trMA.Kathisma22.incipit = tr.d046_en_UK_ware.trMA.Kathisma32.incipit
+trMA.Kathisma22.text = tr.d046_en_UK_ware.trMA.Kathisma32.text
 
 trMA.Kathisma31.mode = miscellanea_en_UK_ware.misc.Mode6
 trMA.Kathisma31.greekmelody = he.a.m6_en_UK_ware.heAU.ElpisTouKosmouAgathi.greekname
