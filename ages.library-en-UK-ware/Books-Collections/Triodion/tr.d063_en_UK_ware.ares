@@ -1001,7 +1001,7 @@ trMA.Ode8C21.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode8C21.greekmelody = he.h.m8_en_UK_ware.heHE.TonVasileaTonOuranon.greekname
 trMA.Ode8C21.melody = he.h.m8_en_UK_ware.heHE.TonVasileaTonOuranon.name
 trMA.Ode8C21.incipit = "As a mortal, Thou dost…"
-trMA.Ode8C21.text = "As a mortal, Thou dost search for Lazarus; as God, Thou dost raise him ·by Thy word, though he was four days dead. Therefore we sing Thy praises for ever."
+trMA.Ode8C21.text = "As a mortal, Thou dost search for Lazarus; as God, Thou dost raise him by Thy word, though he was four days dead. Therefore we sing Thy praises for ever."
 
 trMA.Ode8C22.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C22.mode = miscellanea_en_UK_ware.misc.Mode8
