@@ -54,8 +54,8 @@ trMA.Kathisma21.text = "Wasted by the disease of sin, I lie on the bed of despai
 
 trMA.Kathisma22.mode = miscellanea_en_UK_ware.misc.Mode6
 trMA.Kathisma22.melody = ""
-trMA.Kathisma22.incipit = "Gabriel's message to the Virgin…"
-trMA.Kathisma22.text = "Gabriel's message to the Virgin was the beginning of salvation; for she heard his greeting 'Hail!' and did not reject his salutation. She did not doubt like Sarah in the tent, but she replied: 'Behold the handmaid of the Lord; be it unto me according to thy word."
+trMA.Kathisma22.incipit = "Gabriel’s message to the Virgin…"
+trMA.Kathisma22.text = "Gabriel’s message to the Virgin was the beginning of salvation; for she heard his greeting ‘Hail!’ and did not reject his salutation. She did not doubt like Sarah in the tent, but she replied: ‘Behold the handmaid of the Lord; be it unto me according to thy word."
 
 trMA.Kathisma31.mode = miscellanea_en_UK_ware.misc.Mode5
 trMA.Kathisma31.melody = ""
@@ -100,15 +100,15 @@ trMA.Ode2C13.text = "Once in Babylon fasting made the Children stronger than the
 trMA.Ode2C1T.ode = miscellanea_en_UK_ware.misc.Ode2
 trMA.Ode2C1T.mode = miscellanea_en_UK_ware.misc.Mode6
 trMA.Ode2C1T.melody = he.h.m6_en_UK_ware.heHE.IdeteIdete.name
-trMA.Ode2C1T.incipit = "We cry to thee 'Hail!'…"
-trMA.Ode2C1T.text = "We cry to thee 'Hail!', O Theotokos Virgin full of grace, who hast conceived our Joy. Pray to God whom thou hast borne, that we who at all times sing thy praises may be delivered from danger and corruption."
+trMA.Ode2C1T.incipit = "We cry to thee ‘Hail!’…"
+trMA.Ode2C1T.text = "We cry to thee ‘Hail!’, O Theotokos Virgin full of grace, who hast conceived our Joy. Pray to God whom thou hast borne, that we who at all times sing thy praises may be delivered from danger and corruption."
 
 trMA.Ode2C21.ode = miscellanea_en_UK_ware.misc.Ode2
 trMA.Ode2C21.mode = miscellanea_en_UK_ware.misc.Mode5
 trMA.Ode2C21.greekmelody = he.h.m5_en_UK_ware.heHE.IdeteIdete.greekname
 trMA.Ode2C21.melody = he.h.m5_en_UK_ware.heHE.IdeteIdete.name
 trMA.Ode2C21.incipit = "See now, see that I…"
-trMA.Ode2C21.text = "See now, see that I am God, who when I was dwelling on the far side of the Jordan heard that Lazarus was sick, and I said: 'He will not die, but this is for My glory.'"
+trMA.Ode2C21.text = "See now, see that I am God, who when I was dwelling on the far side of the Jordan heard that Lazarus was sick, and I said: ‘He will not die, but this is for My glory.’"
 
 trMA.Ode2C22.ode = miscellanea_en_UK_ware.misc.Ode2
 trMA.Ode2C22.mode = miscellanea_en_UK_ware.misc.Mode5
@@ -227,7 +227,7 @@ trMA.Ode9C1T.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C1T.mode = miscellanea_en_UK_ware.misc.Mode6
 trMA.Ode9C1T.melody = he.h.m6_en_UK_ware.heHE.TheonAnthropois.name
 trMA.Ode9C1T.incipit = "Coming forth from thee, O…"
-trMA.Ode9C1T.text = "Coming forth from thee, O Virgin full of God's grace, Christ the Giver of light and peace has shone upon us, who are held fast by the night of the passions. He has set us free from the transgression that came through heedlessness, and He bestows redemption on us."
+trMA.Ode9C1T.text = "Coming forth from thee, O Virgin full of God’s grace, Christ the Giver of light and peace has shone upon us, who are held fast by the night of the passions. He has set us free from the transgression that came through heedlessness, and He bestows redemption on us."
 
 trMA.Ode9C21.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C21.mode = miscellanea_en_UK_ware.misc.Mode5

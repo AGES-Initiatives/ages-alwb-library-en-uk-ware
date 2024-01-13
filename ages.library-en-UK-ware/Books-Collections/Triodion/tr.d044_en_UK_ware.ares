@@ -56,7 +56,7 @@ trMA.Kathisma22.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Kathisma22.greekmelody = he.a.m8_en_UK_ware.heAU.AnestisEkNekron.greekname
 trMA.Kathisma22.melody = he.a.m8_en_UK_ware.heAU.AnestisEkNekron.name
 trMA.Kathisma22.incipit = "The Word of the Father…"
-trMA.Kathisma22.text = "The Word of the Father came down to earth, and an angel of light cried to the Theotokos: 'Hail, blessed Maiden, who alone hast guarded safely the bridal chamber: thou shalt conceive the eternal God and Lord, that in His divine power He may save mankind from error.'"
+trMA.Kathisma22.text = "The Word of the Father came down to earth, and an angel of light cried to the Theotokos: ‘Hail, blessed Maiden, who alone hast guarded safely the bridal chamber: thou shalt conceive the eternal God and Lord, that in His divine power He may save mankind from error.’"
 
 trMA.Kathisma31.mode = miscellanea_en_UK_ware.misc.Mode3
 trMA.Kathisma31.greekmelody = he.a.m3_en_UK_ware.heAU.TinOraiotita.greekname
@@ -100,7 +100,7 @@ trMA.Ode1C1T.ode = miscellanea_en_UK_ware.misc.Ode1
 trMA.Ode1C1T.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode1C1T.melody = he.h.m8_en_UK_ware.heHE.ArmatilatinFarao.name
 trMA.Ode1C1T.incipit = "Standing by Thy Cross, O…"
-trMA.Ode1C1T.text = "Standing by Thy Cross, O Lord and Master, the Virgin looked upon Thy wounds: and, pierced to the heart, she cried aloud: 'Woe is me, my Son! I felt no pains of childbirth when I bore Thee, but now I am broken by anguish.'"
+trMA.Ode1C1T.text = "Standing by Thy Cross, O Lord and Master, the Virgin looked upon Thy wounds: and, pierced to the heart, she cried aloud: ‘Woe is me, my Son! I felt no pains of childbirth when I bore Thee, but now I am broken by anguish.’"
 
 trMA.C2.title = ""
 trMA.C2.verse = ""
@@ -134,7 +134,7 @@ trMA.Ode1C2A1.ode = miscellanea_en_UK_ware.misc.Ode1
 trMA.Ode1C2A1.mode = miscellanea_en_UK_ware.misc.Mode3
 trMA.Ode1C2A1.melody = he.h.m3_en_UK_ware.heHE.AsomenToKyrio.name
 trMA.Ode1C2A1.incipit = "Reaching the middle of the…"
-trMA.Ode1C2A1.text = "Reaching the middle of the forty days' Fast, with eager hearts let us go forward with Christ to the divine Passion; that, crucified with Him, we may be sharers in His Resurrection."
+trMA.Ode1C2A1.text = "Reaching the middle of the forty days’ Fast, with eager hearts let us go forward with Christ to the divine Passion; that, crucified with Him, we may be sharers in His Resurrection."
 
 trMA.Ode1C2H.ode = miscellanea_en_UK_ware.misc.Ode1
 trMA.Ode1C2H.mode = miscellanea_en_UK_ware.misc.Mode3
@@ -166,7 +166,7 @@ trMA.Ode8C1T.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C1T.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode8C1T.melody = he.h.m8_en_UK_ware.heHE.EptaplasiosKaminon.name
 trMA.Ode8C1T.incipit = "Groaning in anguish, lamenting with…"
-trMA.Ode8C1T.text = "Groaning in anguish, lamenting with a mother's grief, unable to bear the agony in thy heart, thou hast gazed upon the Cross and cried to Him that was born from thy womb: 'O Child, what is this that I see? How dost Thou suffer who by nature canst not suffer? It is because Thou seekest to deliver from corruption all mankind.'"
+trMA.Ode8C1T.text = "Groaning in anguish, lamenting with a mother’s grief, unable to bear the agony in thy heart, thou hast gazed upon the Cross and cried to Him that was born from thy womb: ‘O Child, what is this that I see? How dost Thou suffer who by nature canst not suffer? It is because Thou seekest to deliver from corruption all mankind.’"
 
 trMA.Ode8C21.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C21.mode = miscellanea_en_UK_ware.misc.Mode3
@@ -197,7 +197,7 @@ trMA.Ode8C2A1.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C2A1.mode = miscellanea_en_UK_ware.misc.Mode3
 trMA.Ode8C2A1.melody = he.h.m3_en_UK_ware.heHE.TonYpAngelon.name
 trMA.Ode8C2A1.incipit = "O brethren, having come to…"
-trMA.Ode8C2A1.text = "O brethren, having come to the middle of the Fast, in good courage and with willing hearts let us complete with God's help the part which still remains, that in great joy we may behold the Passover of the risen Christ."
+trMA.Ode8C2A1.text = "O brethren, having come to the middle of the Fast, in good courage and with willing hearts let us complete with God’s help the part which still remains, that in great joy we may behold the Passover of the risen Christ."
 
 trMA.Ode8C2H.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C2H.mode = miscellanea_en_UK_ware.misc.Mode3
@@ -229,14 +229,14 @@ trMA.Ode9C1T.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C1T.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode9C1T.melody = he.h.m8_en_UK_ware.heHE.EfrixePasaAkoi.name
 trMA.Ode9C1T.incipit = "When the Ewe beheld the…"
-trMA.Ode9C1T.text = "When the Ewe beheld the Lamb led to the slaughter and saw the light of the sun darkened, she said weeping: 'O Jesus, sun of glory, Thou hast set in death. But shine forth with the light of Thy Resurrection upon those that love Thee.'"
+trMA.Ode9C1T.text = "When the Ewe beheld the Lamb led to the slaughter and saw the light of the sun darkened, she said weeping: ‘O Jesus, sun of glory, Thou hast set in death. But shine forth with the light of Thy Resurrection upon those that love Thee.’"
 
 trMA.Ode9C21.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C21.mode = miscellanea_en_UK_ware.misc.Mode3
 trMA.Ode9C21.greekmelody = he.h.m3_en_UK_ware.heHE.EnSinaioToOrei.greekname
 trMA.Ode9C21.melody = he.h.m3_en_UK_ware.heHE.EnSinaioToOrei.name
-trMA.Ode9C21.incipit = "Today, recalling David's words, let…"
-trMA.Ode9C21.text = "Today, recalling David's words, let us all worship at the place where the feet of our God and Mast.er stood, and let us venerate the precious Cross. For He who encloses all things in the hollow of His hand, mounted upon it."
+trMA.Ode9C21.incipit = "Today, recalling David’s words, let…"
+trMA.Ode9C21.text = "Today, recalling David’s words, let us all worship at the place where the feet of our God and Mast.er stood, and let us venerate the precious Cross. For He who encloses all things in the hollow of His hand, mounted upon it."
 
 trMA.Ode9C22.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C22.mode = miscellanea_en_UK_ware.misc.Mode3
@@ -254,7 +254,7 @@ trMA.Ode9C2T.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C2T.mode = miscellanea_en_UK_ware.misc.Mode3
 trMA.Ode9C2T.melody = he.h.m3_en_UK_ware.heHE.EnSinaioToOrei.name
 trMA.Ode9C2T.incipit = "Who has ever heard of…"
-trMA.Ode9C2T.text = "Who has ever heard of a virgin that bore child and a mother that knew not man? O Mary, this miracle hast thou accomplished, but tell me how? 'Do not enquire into the mystery of my childbearing: it is altogether true, yet beyond man's understanding.'"
+trMA.Ode9C2T.text = "Who has ever heard of a virgin that bore child and a mother that knew not man? O Mary, this miracle hast thou accomplished, but tell me how? ‘Do not enquire into the mystery of my childbearing: it is altogether true, yet beyond man’s understanding.’"
 
 trMA.Ode9C2A1.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C2A1.mode = miscellanea_en_UK_ware.misc.Mode3

@@ -99,7 +99,7 @@ trMA.Ode1C12.ode = miscellanea_en_UK_ware.misc.Ode1
 trMA.Ode1C12.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode1C12.melody = he.h.m8_en_UK_ware.heHE.AsmaAnapempsomen.name
 trMA.Ode1C12.incipit = "In the depth of Thy…"
-trMA.Ode1C12.text = "In the depth of Thy judgements, O Christ, with fullness of wisdom Thou hast preordained the end of each man's life, its appointed moment and its manner. Therefore, All-Merciful, at the judgement save those in every land whom the grave has hidden."
+trMA.Ode1C12.text = "In the depth of Thy judgements, O Christ, with fullness of wisdom Thou hast preordained the end of each man’s life, its appointed moment and its manner. Therefore, All-Merciful, at the judgement save those in every land whom the grave has hidden."
 
 trMA.Ode1C13.ode = miscellanea_en_UK_ware.misc.Ode1
 trMA.Ode1C13.mode = miscellanea_en_UK_ware.misc.Mode8
@@ -410,7 +410,7 @@ trMA.Kontakion1.melody = ""
 trMA.Kontakion1.incipit = "With the saints give rest…"
 trMA.Kontakion1.text = "With the saints give rest, O Christ, to the souls of Thy servants, where there is no pain, no sorrow, no sighing, but life without end."
 
-trMA.Oikos1.text = "Thou only art immortal, who hast created and fashioned man: but we are mortal, formed from the earth, and to this same earth shall we return, as Thou hast commanded when Thou madest me, saying: 'Dust thou art, and unto dust shalt thou return.' There shall all we mortals go, and for our funeral dirge we sing: Alleluia, Alleluia, Alleluia."
+trMA.Oikos1.text = "Thou only art immortal, who hast created and fashioned man: but we are mortal, formed from the earth, and to this same earth shall we return, as Thou hast commanded when Thou madest me, saying: ‘Dust thou art, and unto dust shalt thou return.’ There shall all we mortals go, and for our funeral dirge we sing: Alleluia, Alleluia, Alleluia."
 
 trSY.commemoration.text = ""
 trSY.commemoration.couplet1.title = //titles_en_UK_ware.ti.Verses
@@ -609,17 +609,17 @@ trMA.Lauds1.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Lauds1.greekmelody = he.a.m8_en_UK_ware.heAU.OEnEdemParadeisos.greekname
 trMA.Lauds1.melody = he.a.m8_en_UK_ware.heAU.OEnEdemParadeisos.name
 trMA.Lauds1.incipit = "Come, brethren, before the end…"
-trMA.Lauds1.text = "Come, brethren, before the end, and let us all look upon our clay, upon the infirmity and meanness of our nature. Let us behold our end, and the organs of the vessel of our flesh. Let us see that man is dust, food for worms, and corruption; that our bones grow dry, and have no breath of life within them. Let us gaze on the tombs. Where is man's glory? Where his outward beauty? Where is the eloquent tongue? Where the noble brow, and where the eye? All is dust and shadow. Therefore, Saviour, spare us all."
+trMA.Lauds1.text = "Come, brethren, before the end, and let us all look upon our clay, upon the infirmity and meanness of our nature. Let us behold our end, and the organs of the vessel of our flesh. Let us see that man is dust, food for worms, and corruption; that our bones grow dry, and have no breath of life within them. Let us gaze on the tombs. Where is man’s glory? Where his outward beauty? Where is the eloquent tongue? Where the noble brow, and where the eye? All is dust and shadow. Therefore, Saviour, spare us all."
 
 trMA.Lauds2.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Lauds2.melody = he.a.m8_en_UK_ware.heAU.OEnEdemParadeisos.name
 trMA.Lauds2.incipit = "Why does man deceive himself…"
-trMA.Lauds2.text = "Why does man deceive himself and boast? Why does he trouble himself in vain? For he is earth, and soon to the earth he will return. Why does the dust not reflect that it is formed from clay, and cast out as rottenness and corruption? Yet though we men are clay, why do we cling so closely to the earth? For if we are Christ's kindred, should we not run to Him, leaving all this mortal and fleeting life, and seeking the life incorruptible, which is Christ Himself, the illumination of our souls?"
+trMA.Lauds2.text = "Why does man deceive himself and boast? Why does he trouble himself in vain? For he is earth, and soon to the earth he will return. Why does the dust not reflect that it is formed from clay, and cast out as rottenness and corruption? Yet though we men are clay, why do we cling so closely to the earth? For if we are Christ’s kindred, should we not run to Him, leaving all this mortal and fleeting life, and seeking the life incorruptible, which is Christ Himself, the illumination of our souls?"
 
 trMA.Lauds3.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Lauds3.melody = he.a.m8_en_UK_ware.heAU.OEnEdemParadeisos.name
 trMA.Lauds3.incipit = "Thou hast formed Adam with…"
-trMA.Lauds3.text = "Thou hast formed Adam with Thine hand, O Saviour, and set him on the border between incorruption and mortality; Thou hast made him share in life through grace, freeing him from corruption and translating him to the life that he enjoyed at first. Give rest, O Master, to Thy servants Thou hast taken from us; may they dwell with the righteous in the choir of Thine elect; write their names in the book of life; raise them with the sound of the Archangel's trump, and count them worthy of Thy heavenly Kingdom."
+trMA.Lauds3.text = "Thou hast formed Adam with Thine hand, O Saviour, and set him on the border between incorruption and mortality; Thou hast made him share in life through grace, freeing him from corruption and translating him to the life that he enjoyed at first. Give rest, O Master, to Thy servants Thou hast taken from us; may they dwell with the righteous in the choir of Thine elect; write their names in the book of life; raise them with the sound of the Archangel’s trump, and count them worthy of Thy heavenly Kingdom."
 
 trMA.Lauds4.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Lauds4.melody = he.a.m8_en_UK_ware.heAU.OEnEdemParadeisos.name
@@ -629,12 +629,12 @@ trMA.Lauds4.text = "and destroying the power of hell. Be of good courage, all ye
 trMA.LaudsGlory.mode = miscellanea_en_UK_ware.misc.Mode2
 trMA.LaudsGlory.melody = ""
 trMA.LaudsGlory.incipit = "As a flower withers and…"
-trMA.LaudsGlory.text = "As a flower withers and a dream passes away, so is each man's flesh dissolved at death. But at the sound of the trump all the dead as in an earthquake shall rise up again to meet Thee, Christ our God. Then, Master, grant to all Thy servants whom Thou hast taken from us, that they may dwell for ever in the tabernacles of Thy saints." //oc.m2.d7_en_UK_ware.ocVE.Aposticha4.text
+trMA.LaudsGlory.text = "As a flower withers and a dream passes away, so is each man’s flesh dissolved at death. But at the sound of the trump all the dead as in an earthquake shall rise up again to meet Thee, Christ our God. Then, Master, grant to all Thy servants whom Thou hast taken from us, that they may dwell for ever in the tabernacles of Thy saints." //oc.m2.d7_en_UK_ware.ocVE.Aposticha4.text
 
 trMA.LaudsTheotokion.mode = miscellanea_en_UK_ware.misc.Mode2
 trMA.LaudsTheotokion.melody = ""
 trMA.LaudsTheotokion.incipit = "Hail Mary Theotokos, temple that…"
-trMA.LaudsTheotokion.text = "Hail Mary Theotokos, temple that shall never be destroyed, temple of holiness, as the Prophet cries: 'Holy is Thy temple, wonderful in righteousness.'" //oc.m2.d7_en_UK_ware.octrMA.LaudsTheotokion.text
+trMA.LaudsTheotokion.text = "Hail Mary Theotokos, temple that shall never be destroyed, temple of holiness, as the Prophet cries: ‘Holy is Thy temple, wonderful in righteousness.’" //oc.m2.d7_en_UK_ware.octrMA.LaudsTheotokion.text
 
 trMA.AposGlory.mode = miscellanea_en_UK_ware.misc.Mode6
 trMA.AposGlory.melody = ""

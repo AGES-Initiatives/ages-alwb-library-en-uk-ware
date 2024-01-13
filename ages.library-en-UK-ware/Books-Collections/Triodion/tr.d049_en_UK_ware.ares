@@ -18,8 +18,8 @@ trDA.dismissal = ""
 
 trVE.AposIdiomelon1.mode = miscellanea_en_UK_ware.misc.Mode7
 trVE.AposIdiomelon1.melody = miscellanea_en_UK_ware.misc.Idiomelon
-trVE.AposIdiomelon1.incipit = "My soul's dignity I have…"
-trVE.AposIdiomelon1.text = "My soul's dignity I have enslaved to the passions; I am become like the beasts, and have no power to lift mine eyes to Thee, Most High. But with my head bowed like the Publican, I pray to Thee, O Christ, and cry aloud: God be merciful to me and save me."
+trVE.AposIdiomelon1.incipit = "My soul’s dignity I have…"
+trVE.AposIdiomelon1.text = "My soul’s dignity I have enslaved to the passions; I am become like the beasts, and have no power to lift mine eyes to Thee, Most High. But with my head bowed like the Publican, I pray to Thee, O Christ, and cry aloud: God be merciful to me and save me."
 
 trVE.Apolytikion1.mode = miscellanea_en_UK_ware.misc.Mode2
 trVE.Apolytikion1.melody = ""
@@ -303,7 +303,7 @@ trMA.Ode9C22.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C22.mode = miscellanea_en_UK_ware.misc.Mode4
 trMA.Ode9C22.melody = he.h.m4_en_UK_ware.heHE.MegalynomenPantes.name
 trMA.Ode9C22.incipit = "In the midst of their…"
-trMA.Ode9C22.text = "In the midst of their sufferings the victorious martyrs said to one another: 'Let us not spare the flesh, but come, let us die for Christ that we maylive in joy for ever.'"
+trMA.Ode9C22.text = "In the midst of their sufferings the victorious martyrs said to one another: ‘Let us not spare the flesh, but come, let us die for Christ that we maylive in joy for ever.’"
 
 trMA.Ode9C2Tr.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C2Tr.mode = miscellanea_en_UK_ware.misc.Mode4

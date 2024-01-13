@@ -35,7 +35,7 @@ trVE.Stichera03.text = "O Christ, who art borne on high by the dread seraphim, a
 trVE.AposIdiomelon1.mode = miscellanea_en_UK_ware.misc.Mode8
 trVE.AposIdiomelon1.melody = miscellanea_en_UK_ware.misc.Idiomelon
 trVE.AposIdiomelon1.incipit = "Deliver me from the rich…"
-trVE.AposIdiomelon1.text = "Deliver me from the rich man's lack of love and from his selfishness, O Christ my God, who through Thy Cross hast cleansed us from our sins. Make me follow Lazarus the poor man in his thankful patience, and in Thy great mercy deprive me not of a place with Abraham the Patriarch."
+trVE.AposIdiomelon1.text = "Deliver me from the rich man’s lack of love and from his selfishness, O Christ my God, who through Thy Cross hast cleansed us from our sins. Make me follow Lazarus the poor man in his thankful patience, and in Thy great mercy deprive me not of a place with Abraham the Patriarch."
 
 trVE.AposMartyric.mode = miscellanea_en_UK_ware.misc.Mode8
 trVE.AposMartyric.melody = ""
@@ -70,7 +70,7 @@ trMA.Kathisma32.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Kathisma32.greekmelody = he.a.m8_en_UK_ware.heAU.AnestisEkNekron.greekname
 trMA.Kathisma32.melody = he.a.m8_en_UK_ware.heAU.AnestisEkNekron.notmetered
 trMA.Kathisma32.incipit = "Standing at the Passion of…"
-trMA.Kathisma32.text = "Standing at the Passion of her Son, the pure Virgin lamented bitterly and cried in sorrow: 'Woe is me, my Child! Thou art glorified by the angels with never-silent hymns; how have the Hebrew children brought Thee before the judgement seat of Pilate? O Word, I sing the praises of Thy great and ineffable compassion.'"
+trMA.Kathisma32.text = "Standing at the Passion of her Son, the pure Virgin lamented bitterly and cried in sorrow: ‘Woe is me, my Child! Thou art glorified by the angels with never-silent hymns; how have the Hebrew children brought Thee before the judgement seat of Pilate? O Word, I sing the praises of Thy great and ineffable compassion.’"
 
 trMA.C1.poet = poets_en_UK_ware.po.Iosif
 
@@ -81,7 +81,7 @@ trMA.Ode5C11.mode = miscellanea_en_UK_ware.misc.Mode4
 trMA.Ode5C11.greekmelody = he.h.m4_en_UK_ware.heHE.AnateilonMoiKyrie.greekname
 trMA.Ode5C11.melody = he.h.m4_en_UK_ware.heHE.AnateilonMoiKyrie.name
 trMA.Ode5C11.incipit = "Falling asleep upon the Cross…"
-trMA.Ode5C11.text = "Falling asleep upon the Cross, O Lord and Master, Thou hast put death to sleep. For Thou hast cried: 'My friend Lazarus is sleeping, but I shall go now to awake him.'"
+trMA.Ode5C11.text = "Falling asleep upon the Cross, O Lord and Master, Thou hast put death to sleep. For Thou hast cried: ‘My friend Lazarus is sleeping, but I shall go now to awake him.’"
 
 trMA.Ode5C12.ode = miscellanea_en_UK_ware.misc.Ode5
 trMA.Ode5C12.mode = miscellanea_en_UK_ware.misc.Mode4
@@ -144,7 +144,7 @@ trMA.Ode8C11.mode = miscellanea_en_UK_ware.misc.Mode4
 trMA.Ode8C11.greekmelody = he.h.m4_en_UK_ware.heHE.GiKaiPantaTaEnAfti.greekname
 trMA.Ode8C11.melody = he.h.m4_en_UK_ware.heHE.GiKaiPantaTaEnAfti.name
 trMA.Ode8C11.incipit = "Why, O women, do ye…"
-trMA.Ode8C11.text = "Why, O women, do ye weep bitterly for your beloved brother, when ye have with you the Resurrection and the Life? He who brings gifts to all has come and will restore to life His true friend, through Lazarus' resurrection foretelling the resurrection of all."
+trMA.Ode8C11.text = "Why, O women, do ye weep bitterly for your beloved brother, when ye have with you the Resurrection and the Life? He who brings gifts to all has come and will restore to life His true friend, through Lazarus’ resurrection foretelling the resurrection of all."
 
 trMA.Ode8C12.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C12.mode = miscellanea_en_UK_ware.misc.Mode4
@@ -156,7 +156,7 @@ trMA.Ode8C13.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C13.mode = miscellanea_en_UK_ware.misc.Mode4
 trMA.Ode8C13.melody = he.h.m4_en_UK_ware.heHE.GiKaiPantaTaEnAfti.name
 trMA.Ode8C13.incipit = "As Thou wast approaching Bethphage…"
-trMA.Ode8C13.text = "As Thou wast approaching Bethphage, hell our adversary heard the sound of Thy feet, and he touched the feet of Lazarus, saying: 'If the Life calls thee, delay not, but go out: for I know that my destruction will come swiftly.'"
+trMA.Ode8C13.text = "As Thou wast approaching Bethphage, hell our adversary heard the sound of Thy feet, and he touched the feet of Lazarus, saying: ‘If the Life calls thee, delay not, but go out: for I know that my destruction will come swiftly.’"
 
 trMA.Ode8C1T.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C1T.mode = miscellanea_en_UK_ware.misc.Mode4
@@ -206,8 +206,8 @@ trMA.Ode9C11.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_UK_ware.misc.Mode4
 trMA.Ode9C11.greekmelody = he.h.m4_en_UK_ware.heHE.OtiEpoiiseMoiMegaleia.greekname
 trMA.Ode9C11.melody = he.h.m4_en_UK_ware.heHE.OtiEpoiiseMoiMegaleia.name
-trMA.Ode9C11.incipit = "'Behold, we go up to…"
-trMA.Ode9C11.text = "'Behold, we go up to the Holy City,' Thou hast foretold to Thy disciples, O Jesus; 'and by the hands of murderers I shall be delivered to Crucifixion, and I shall be truly slain according to the flesh.'"
+trMA.Ode9C11.incipit = "‘Behold, we go up to…"
+trMA.Ode9C11.text = "‘Behold, we go up to the Holy City,’ Thou hast foretold to Thy disciples, O Jesus; ‘and by the hands of murderers I shall be delivered to Crucifixion, and I shall be truly slain according to the flesh.’"
 
 trMA.Ode9C12.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C12.mode = miscellanea_en_UK_ware.misc.Mode4
@@ -232,7 +232,7 @@ trMA.Ode9C21.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode9C21.greekmelody = he.h.m8_en_UK_ware.heHE.TonProdilothenta.greekname
 trMA.Ode9C21.melody = he.h.m8_en_UK_ware.heHE.TonProdilothenta.name
 trMA.Ode9C21.incipit = "Sending out His disciples now…"
-trMA.Ode9C21.text = "Sending out His disciples now, Christ said to them: 'Loose the colt and bring it to me, and I will ride upon it, that I may loose the nations from their lack of reason, and as Son bring them into subjection to the Father.'"
+trMA.Ode9C21.text = "Sending out His disciples now, Christ said to them: ‘Loose the colt and bring it to me, and I will ride upon it, that I may loose the nations from their lack of reason, and as Son bring them into subjection to the Father.’"
 
 trMA.Ode9C22.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C22.mode = miscellanea_en_UK_ware.misc.Mode8

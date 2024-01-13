@@ -455,7 +455,7 @@ trMA.Ode3Kathisma1.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode3Kathisma1.greekmelody = he.a.m8_en_UK_ware.heAU.TinSofianKaiLogon.greekname
 trMA.Ode3Kathisma1.melody = he.a.m8_en_UK_ware.heAU.TinSofianKaiLogon.name
 trMA.Ode3Kathisma1.incipit = "Putting on the whole armour…"
-trMA.Ode3Kathisma1.text = "Putting on the whole armour of God, thou hast overthrown the false idols and caused the angels to glorify thy sufferings. Thy mind on fire with love of God, bravely thou hast scorned death in the flames. Rightly art thou named 'Gift of God', for to all who ask thou dost grant divine gifts and the grace of healing. O victorious martyr Theodore, intercede with Christ our God, that we who celebrate thy holy memory with love may receive remission of our sins."
+trMA.Ode3Kathisma1.text = "Putting on the whole armour of God, thou hast overthrown the false idols and caused the angels to glorify thy sufferings. Thy mind on fire with love of God, bravely thou hast scorned death in the flames. Rightly art thou named ‘Gift of God’, for to all who ask thou dost grant divine gifts and the grace of healing. O victorious martyr Theodore, intercede with Christ our God, that we who celebrate thy holy memory with love may receive remission of our sins."
 
 trMA.Ode3Kathisma2.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode3Kathisma2.greekmelody = he.a.m8_en_UK_ware.heAU.TinSofianKaiLogon.greekname
@@ -486,8 +486,8 @@ trMA.Ode4C11.text = "O strange and marvellous union and intermingling! At His bi
 trMA.Ode4C12.ode = miscellanea_en_UK_ware.misc.Ode4
 trMA.Ode4C12.mode = miscellanea_en_UK_ware.misc.Mode4
 trMA.Ode4C12.melody = he.h.m4_en_UK_ware.heHE.OKathimenosEnDoxi.name
-trMA.Ode4C12.incipit = "See how Christ's soldier loved…"
-trMA.Ode4C12.text = "See how Christ's soldier loved his Master! For in his zeal he consumed the enemies of Christ with fire, and as his final feat eagerly he offered himself as an acceptable sacrifice to his Lord."
+trMA.Ode4C12.incipit = "See how Christ’s soldier loved…"
+trMA.Ode4C12.text = "See how Christ’s soldier loved his Master! For in his zeal he consumed the enemies of Christ with fire, and as his final feat eagerly he offered himself as an acceptable sacrifice to his Lord."
 
 trMA.Ode4C13.ode = miscellanea_en_UK_ware.misc.Ode4
 trMA.Ode4C13.mode = miscellanea_en_UK_ware.misc.Mode4
@@ -561,14 +561,14 @@ trMA.Ode5C12.text = "On those who love the Epiphany of His beloved Son, God best
 trMA.Ode5C13.ode = miscellanea_en_UK_ware.misc.Ode5
 trMA.Ode5C13.mode = miscellanea_en_UK_ware.misc.Mode4
 trMA.Ode5C13.melody = he.h.m4_en_UK_ware.heHE.ExestiTaSympanta.name
-trMA.Ode5C13.incipit = "O enemy of man's salvation…"
-trMA.Ode5C13.text = "O enemy of man's salvation, useless are thy shafts and arrows against the martyr. Though put to death, he is alive and ever-watchful; and, opposing all thine evil works, he preserves every Orthodox Christian."
+trMA.Ode5C13.incipit = "O enemy of man’s salvation…"
+trMA.Ode5C13.text = "O enemy of man’s salvation, useless are thy shafts and arrows against the martyr. Though put to death, he is alive and ever-watchful; and, opposing all thine evil works, he preserves every Orthodox Christian."
 
 trMA.Ode5C1T.ode = miscellanea_en_UK_ware.misc.Ode5
 trMA.Ode5C1T.mode = miscellanea_en_UK_ware.misc.Mode4
 trMA.Ode5C1T.melody = he.h.m4_en_UK_ware.heHE.ExestiTaSympanta.name
 trMA.Ode5C1T.incipit = "Strange was the miracle that…"
-trMA.Ode5C1T.text = "Strange was the miracle that came to pass in God's Handmaiden! Confirmed by the sufferings of the victorious martyrs, it is accepted with undoubting faith by all of us, and it remains for ever the cause of man's wonder and his worship."
+trMA.Ode5C1T.text = "Strange was the miracle that came to pass in God’s Handmaiden! Confirmed by the sufferings of the victorious martyrs, it is accepted with undoubting faith by all of us, and it remains for ever the cause of man’s wonder and his worship."
 
 trMA.Ode5C21.ode = miscellanea_en_UK_ware.misc.Ode5
 trMA.Ode5C21.mode = miscellanea_en_UK_ware.misc.Mode6
@@ -638,13 +638,13 @@ trMA.Ode6C21.mode = miscellanea_en_UK_ware.misc.Mode6
 trMA.Ode6C21.greekmelody = he.h.m6_en_UK_ware.heHE.TouViouTinThalassan.greekname
 trMA.Ode6C21.melody = he.h.m6_en_UK_ware.heHE.TouViouTinThalassan.name
 trMA.Ode6C21.incipit = "Amazed by the strange vision…"
-trMA.Ode6C21.text = "Amazed by the strange vision in which thou hast appeared to him, the Archbishop said: 'Who art thou, my lord, that speakest to me? Show me how to find help quickly.'"
+trMA.Ode6C21.text = "Amazed by the strange vision in which thou hast appeared to him, the Archbishop said: ‘Who art thou, my lord, that speakest to me? Show me how to find help quickly.’"
 
 trMA.Ode6C22.ode = miscellanea_en_UK_ware.misc.Ode6
 trMA.Ode6C22.mode = miscellanea_en_UK_ware.misc.Mode6
 trMA.Ode6C22.melody = he.h.m6_en_UK_ware.heHE.TouViouTinThalassan.name
-trMA.Ode6C22.incipit = "Theodore replied: 'I am the…"
-trMA.Ode6C22.text = "Theodore replied: 'I am the martyr. Listen to rn.e. Boil wheat, and distribute it among the people, and ye shall thus be saved from the polluted food of the avenger.'"
+trMA.Ode6C22.incipit = "Theodore replied: ‘I am the…"
+trMA.Ode6C22.text = "Theodore replied: ‘I am the martyr. Listen to rn.e. Boil wheat, and distribute it among the people, and ye shall thus be saved from the polluted food of the avenger.’"
 
 trMA.Ode6C23.ode = miscellanea_en_UK_ware.misc.Ode6
 trMA.Ode6C23.mode = miscellanea_en_UK_ware.misc.Mode6
@@ -778,7 +778,7 @@ trMA.Ode8C14.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C14.mode = miscellanea_en_UK_ware.misc.Mode4
 trMA.Ode8C14.melody = he.h.m4_en_UK_ware.heHE.LytrotaTouPantos.name
 trMA.Ode8C14.incipit = "With the holy food of…"
-trMA.Ode8C14.text = "With the holy food of God the King, the pure martyr saved us from the lawless emperor's polluted food; so, by a strange and marvellous wonder, he sanctified the seventh day of the week."
+trMA.Ode8C14.text = "With the holy food of God the King, the pure martyr saved us from the lawless emperor’s polluted food; so, by a strange and marvellous wonder, he sanctified the seventh day of the week."
 
 trMA.Ode8C1T.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C1T.mode = miscellanea_en_UK_ware.misc.Mode4

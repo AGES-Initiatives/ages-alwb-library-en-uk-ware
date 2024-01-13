@@ -855,7 +855,7 @@ trMA.Ode3Kathisma1.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode3Kathisma1.greekmelody = he.a.m8_en_UK_ware.heAU.AnestisEkNekron.greekname
 trMA.Ode3Kathisma1.melody = he.a.m8_en_UK_ware.heAU.AnestisEkNekron.notmetered
 trMA.Ode3Kathisma1.incipit = "Divinely-shining lights, eyewitnesses of the…"
-trMA.Ode3Kathisma1.text = "Divinely-shining lights, eyewitnesses of the Saviour, illuminate us in the darkness of this life, that we may now walk honestly as in the day; with the torch of abstinence may we drive out the passions of the night, and behold with joy the splendour of Christ's Passion."
+trMA.Ode3Kathisma1.text = "Divinely-shining lights, eyewitnesses of the Saviour, illuminate us in the darkness of this life, that we may now walk honestly as in the day; with the torch of abstinence may we drive out the passions of the night, and behold with joy the splendour of Christ’s Passion."
 
 trMA.Ode3Kathisma2.poet = poets_en_UK_ware.po.Theodorou
 trMA.Ode3Kathisma2.mode = miscellanea_en_UK_ware.misc.Mode8
@@ -927,8 +927,8 @@ trMA.Ode4C41.text = "O honoured choir of the apostles, in your intercessions to 
 trMA.Ode4C42.ode = miscellanea_en_UK_ware.misc.Ode4
 trMA.Ode4C42.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode4C42.melody = he.h.m8_en_UK_ware.heHE.EisakikoaKyrieTinAkoinSou.name
-trMA.Ode4C42.incipit = "As Christ's husbandmen, O apostles…"
-trMA.Ode4C42.text = "As Christ's husbandmen, O apostles, ye have tilled the whole world with the word of God, and ye bring Him fruit at all times."
+trMA.Ode4C42.incipit = "As Christ’s husbandmen, O apostles…"
+trMA.Ode4C42.text = "As Christ’s husbandmen, O apostles, ye have tilled the whole world with the word of God, and ye bring Him fruit at all times."
 
 trMA.Ode4C43.ode = miscellanea_en_UK_ware.misc.Ode4
 trMA.Ode4C43.mode = miscellanea_en_UK_ware.misc.Mode8
@@ -1451,7 +1451,7 @@ trMA.Kontakion1.melody = ""
 trMA.Kontakion1.incipit = "My soul, O my soul…"
 trMA.Kontakion1.text = "My soul, O my soul, rise up! Why art thou sleeping? The end draws near, and soon thou shalt be troubled. Watch, then, that Christ thy God may spare thee, for He is everywhere present and fills all things."
 
-trMA.Oikos1.text = "Seeing Christ's house of healing opened, and health flowing down from it upon Adam, the devil suffered and was wounded; and as one in mortal danger he lamented, crying to his friends: 'What shall I do to the Son of Mary? I am slain by the Man from Bethlehem, who is everywhere present and fills all things.'"
+trMA.Oikos1.text = "Seeing Christ’s house of healing opened, and health flowing down from it upon Adam, the devil suffered and was wounded; and as one in mortal danger he lamented, crying to his friends: ‘What shall I do to the Son of Mary? I am slain by the Man from Bethlehem, who is everywhere present and fills all things.’"
 
 trSY.commemoration.text = ""
 trSY.commemoration.onotherday.text = ""
@@ -1469,15 +1469,15 @@ trSY.lastline = ""
 
 trMA.Beatitudes01.mode = miscellanea_en_UK_ware.misc.Mode6
 trMA.Beatitudes01.incipit = "O Christ, when the Thief…"
-trMA.Beatitudes01.text = "O Christ, when the Thief cried to Thee upon the Cross 'Remember me', Thou hast made him a citizen of Paradise. Unworthy though I am, grant me to repent like him."
+trMA.Beatitudes01.text = "O Christ, when the Thief cried to Thee upon the Cross ‘Remember me’, Thou hast made him a citizen of Paradise. Unworthy though I am, grant me to repent like him."
 
 trMA.Beatitudes02.mode = miscellanea_en_UK_ware.misc.Mode6
 trMA.Beatitudes02.incipit = "O my soul, thou hast…"
-trMA.Beatitudes02.text = "O my soul, thou hast heard how Manoah of old beheld the Lord in a vision, and then received from his barren wife the fruit of God's promise. Let us imitate him in his devotion."
+trMA.Beatitudes02.text = "O my soul, thou hast heard how Manoah of old beheld the Lord in a vision, and then received from his barren wife the fruit of God’s promise. Let us imitate him in his devotion."
 
 trMA.Beatitudes03.mode = miscellanea_en_UK_ware.misc.Mode6
-trMA.Beatitudes03.incipit = "Emulating Samson's slothfulness, O my…"
-trMA.Beatitudes03.text = "Emulating Samson's slothfulness, O my soul, thou hast been shorn of the glory of thy works, and through love of pleasure thou hast betrayed thy life to the alien Philistines, surrendering thy chastity and blessedness."
+trMA.Beatitudes03.incipit = "Emulating Samson’s slothfulness, O my…"
+trMA.Beatitudes03.text = "Emulating Samson’s slothfulness, O my soul, thou hast been shorn of the glory of thy works, and through love of pleasure thou hast betrayed thy life to the alien Philistines, surrendering thy chastity and blessedness."
 
 trMA.Beatitudes04.mode = miscellanea_en_UK_ware.misc.Mode6
 trMA.Beatitudes04.incipit = "He who at the first…"
@@ -1485,7 +1485,7 @@ trMA.Beatitudes04.text = "He who at the first overthrew the Philistines with the
 
 trMA.Beatitudes05.mode = miscellanea_en_UK_ware.misc.Mode6
 trMA.Beatitudes05.incipit = "Barak and Jepthah the captains…"
-trMA.Beatitudes05.text = "Barak and Jepthah the captains, with Deborah who had a man's courage, were chosen as judges of Israel. Learn bravery from their mighty acts, O my soul, and be strong."
+trMA.Beatitudes05.text = "Barak and Jepthah the captains, with Deborah who had a man’s courage, were chosen as judges of Israel. Learn bravery from their mighty acts, O my soul, and be strong."
 
 trMA.Beatitudes06.mode = miscellanea_en_UK_ware.misc.Mode6
 trMA.Beatitudes06.incipit = "O my soul, thou knowest…"

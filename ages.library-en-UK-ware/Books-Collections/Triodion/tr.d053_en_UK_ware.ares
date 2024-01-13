@@ -62,7 +62,7 @@ trMA.Kathisma22.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Kathisma22.greekmelody = he.a.m8_en_UK_ware.heAU.ToProstachthen.greekname
 trMA.Kathisma22.melody = he.a.m8_en_UK_ware.heAU.ToProstachthen.name
 trMA.Kathisma22.incipit = "O holy Virgin, Christ took…"
-trMA.Kathisma22.text = "O holy Virgin, Christ took flesh from thy pure womb and was born from thee in ways beyond our understanding; seeing Him hang between two evildoers on the Cross, thy heart was filled with anguish, and with a mother's grief thou hast cried out: 'Woe is me, my Child! What is this divine and ineffable act of Thy loving providence, whereby Thou hast restored to life Thy creature? I sing the praises of Thy deep compassion.'"
+trMA.Kathisma22.text = "O holy Virgin, Christ took flesh from thy pure womb and was born from thee in ways beyond our understanding; seeing Him hang between two evildoers on the Cross, thy heart was filled with anguish, and with a mother’s grief thou hast cried out: ‘Woe is me, my Child! What is this divine and ineffable act of Thy loving providence, whereby Thou hast restored to life Thy creature? I sing the praises of Thy deep compassion.’"
 
 trMA.Kathisma31.mode = miscellanea_en_UK_ware.misc.Mode2
 trMA.Kathisma31.melody = ""
@@ -72,7 +72,7 @@ trMA.Kathisma31.text = "Singing the praises of the most holy Wood of the Cross, 
 trMA.Kathisma32.mode = miscellanea_en_UK_ware.misc.Mode2
 trMA.Kathisma32.melody = ""
 trMA.Kathisma32.incipit = "When the Ewe-Lamb saw the…"
-trMA.Kathisma32.text = "When the Ewe-Lamb saw the innocent Shepherd hanging on the Wood, with a mother's grief she cried aloud: 'O my Son, Thou hast spread out a cloud for Thy people as they journeyed through the wilderness, but with ingratitude they have condemned Thee to death. Woe is me! I have no husband, and now I have no Child. But, arise, O Sun, and let Thy light shine forth; and I shall be glorified among the children of mortal men.'"
+trMA.Kathisma32.text = "When the Ewe-Lamb saw the innocent Shepherd hanging on the Wood, with a mother’s grief she cried aloud: ‘O my Son, Thou hast spread out a cloud for Thy people as they journeyed through the wilderness, but with ingratitude they have condemned Thee to death. Woe is me! I have no husband, and now I have no Child. But, arise, O Sun, and let Thy light shine forth; and I shall be glorified among the children of mortal men.’"
 
 trMA.C1.poet = poets_en_UK_ware.po.Iosif
 
@@ -164,7 +164,7 @@ trMA.Ode8C1T.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C1T.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode8C1T.melody = he.h.m8_en_UK_ware.heHE.EptaplasiosKaminon.name
 trMA.Ode8C1T.incipit = "Most pure Mother of God…"
-trMA.Ode8C1T.text = "Most pure Mother of God, cleanse the wounds of my soul and the scars of my sins, bathing them in the fountain that flows from thy Son's side. To thee I cry, O full of grace, to thee I flee for refuge, and I call upon thee."
+trMA.Ode8C1T.text = "Most pure Mother of God, cleanse the wounds of my soul and the scars of my sins, bathing them in the fountain that flows from thy Son’s side. To thee I cry, O full of grace, to thee I flee for refuge, and I call upon thee."
 
 trMA.Ode8C21.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C21.mode = miscellanea_en_UK_ware.misc.Mode2
@@ -270,7 +270,7 @@ trMA.Ode9C2H.text = he.h.m2_en_UK_ware.heHE.TinParthenianSou.text
 trMA.AposIdiomelon1.mode = miscellanea_en_UK_ware.misc.Mode3
 trMA.AposIdiomelon1.melody = miscellanea_en_UK_ware.misc.Idiomelon
 trMA.AposIdiomelon1.incipit = "Forsaking the height of the…"
-trMA.AposIdiomelon1.text = "Forsaking the height of the virtues, O my soul, thou hast descended to the depths of sin, and fallen among evil thieves upon the road; and now thou dost lie covered with rotting sores, prostrate and helpless. But cry aloud to Christ thy God, who was crucified and wounded of His own will for thy sake: 'Take care of me, O Lord, and save me.'"
+trMA.AposIdiomelon1.text = "Forsaking the height of the virtues, O my soul, thou hast descended to the depths of sin, and fallen among evil thieves upon the road; and now thou dost lie covered with rotting sores, prostrate and helpless. But cry aloud to Christ thy God, who was crucified and wounded of His own will for thy sake: ‘Take care of me, O Lord, and save me.’"
 
 trMA.AposIdiomelon2.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.AposIdiomelon2.melody = miscellanea_en_UK_ware.misc.Idiomelon
@@ -285,7 +285,7 @@ trMA.AposMartyric.text = "Invincible martyrs of Christ, ye triumphed over falseh
 trMA.AposTheotokion.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.AposTheotokion.melody = ""
 trMA.AposTheotokion.incipit = "When the all-pure Virgin saw…"
-trMA.AposTheotokion.text = "When the all-pure Virgin saw Thee hanging in the flesh upon the Cross, her heart was wounded and she cried with tears: 'O Word, where hast Thou gone, O most beloved Jesus, my Son and my Lord? I am Thy Mother: leave me not alone, O Christ.'"
+trMA.AposTheotokion.text = "When the all-pure Virgin saw Thee hanging in the flesh upon the Cross, her heart was wounded and she cried with tears: ‘O Word, where hast Thou gone, O most beloved Jesus, my Son and my Lord? I am Thy Mother: leave me not alone, O Christ.’"
 
 trTE.Troparion.mode = miscellanea_en_UK_ware.misc.Mode1
 trTE.Troparion.melody = ""

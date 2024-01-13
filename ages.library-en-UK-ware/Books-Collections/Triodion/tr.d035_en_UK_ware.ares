@@ -75,7 +75,7 @@ trMA.Ode6C12.ode = miscellanea_en_UK_ware.misc.Ode6
 trMA.Ode6C12.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode6C12.melody = he.h.m8_en_UK_ware.heHE.TinDeisinEkcheo.name
 trMA.Ode6C12.incipit = "Let us all sing the…"
-trMA.Ode6C12.text = "Let us all sing the praises of the victorious martyrs of Christ, and let us cry to them with one accord: O followers of Christ's Passion, heal the passions of our souls and give us strength to abstain from every evil way."
+trMA.Ode6C12.text = "Let us all sing the praises of the victorious martyrs of Christ, and let us cry to them with one accord: O followers of Christ’s Passion, heal the passions of our souls and give us strength to abstain from every evil way."
 
 trMA.Ode6C13.ode = miscellanea_en_UK_ware.misc.Ode6
 trMA.Ode6C13.mode = miscellanea_en_UK_ware.misc.Mode8
@@ -150,7 +150,7 @@ trMA.Ode7C13.ode = miscellanea_en_UK_ware.misc.Ode7
 trMA.Ode7C13.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode7C13.melody = he.h.m8_en_UK_ware.heHE.PaidesEvraion.name
 trMA.Ode7C13.incipit = "O courageous martyrs, illumined by…"
-trMA.Ode7C13.text = "O courageous martyrs, illumined by the fullness of the Spirit's light, pray that the departed faithful may receive repose, and entry into Paradise, and a share in life."
+trMA.Ode7C13.text = "O courageous martyrs, illumined by the fullness of the Spirit’s light, pray that the departed faithful may receive repose, and entry into Paradise, and a share in life."
 
 trMA.Ode7C1T.ode = miscellanea_en_UK_ware.misc.Ode7
 trMA.Ode7C1T.mode = miscellanea_en_UK_ware.misc.Mode8
@@ -192,8 +192,8 @@ trMA.Ode7C2A1.text = "O company of martyrs, come from heaven to our aid: bless a
 trMA.Ode7C2A2.ode = miscellanea_en_UK_ware.misc.Ode7
 trMA.Ode7C2A2.mode = miscellanea_en_UK_ware.misc.Mode3
 trMA.Ode7C2A2.melody = he.h.m3_en_UK_ware.heHE.OTinFloga.name
-trMA.Ode7C2A2.incipit = "O God, who knowest men's…"
-trMA.Ode7C2A2.text = "O God, who knowest men's works, forgive the sins voluntary and involuntary of the faithful who have gone to dwell with Thee, and grant them rest."
+trMA.Ode7C2A2.incipit = "O God, who knowest men’s…"
+trMA.Ode7C2A2.text = "O God, who knowest men’s works, forgive the sins voluntary and involuntary of the faithful who have gone to dwell with Thee, and grant them rest."
 
 trMA.Ode7C2H.ode = miscellanea_en_UK_ware.misc.Ode7
 trMA.Ode7C2H.mode = miscellanea_en_UK_ware.misc.Mode3

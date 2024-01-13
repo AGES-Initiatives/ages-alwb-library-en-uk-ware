@@ -45,7 +45,7 @@ trVE.AposTheotokion.mode = miscellanea_en_UK_ware.misc.Mode6
 trVE.AposTheotokion.greekmelody = he.a.m6_en_UK_ware.heAU.TriimerosAnestis.greekname
 trVE.AposTheotokion.melody = he.a.m6_en_UK_ware.heAU.TriimerosAnestis.name
 trVE.AposTheotokion.incipit = "When the all-pure Virgin saw…"
-trVE.AposTheotokion.text = "When the all-pure Virgin saw Thee hanging on the Cross, she cried aloud: 'What is this strange mystery that I see, my Son? Crucified in the flesh, O Giver of life, how dost Thou die upon the Tree?'"
+trVE.AposTheotokion.text = "When the all-pure Virgin saw Thee hanging on the Cross, she cried aloud: ‘What is this strange mystery that I see, my Son? Crucified in the flesh, O Giver of life, how dost Thou die upon the Tree?’"
 
 trMA.Kathisma21.mode = miscellanea_en_UK_ware.misc.Mode4
 trMA.Kathisma21.greekmelody = he.a.m4_en_UK_ware.heAU.OYpsotheisEnToStavro.greekname
@@ -57,7 +57,7 @@ trMA.Kathisma22.mode = miscellanea_en_UK_ware.misc.Mode4
 trMA.Kathisma22.greekmelody = he.a.m4_en_UK_ware.heAU.OYpsotheisEnToStavro.greekname
 trMA.Kathisma22.melody = he.a.m4_en_UK_ware.heAU.OYpsotheisEnToStavro.name
 trMA.Kathisma22.incipit = "O Christ, begotten from the…"
-trMA.Kathisma22.text = "O Christ, begotten from the Father without beginning, when the Mother who bore Thee in the last days saw Thee hanging on the Cross, she cried out lamenting: 'Woe is me, my well-beloved Jesus! O my Son, glorified as God by the angels, how art Thou crucified now of Thine own will by lawless men? I sing Thy praises, O longsuffering Lord.'"
+trMA.Kathisma22.text = "O Christ, begotten from the Father without beginning, when the Mother who bore Thee in the last days saw Thee hanging on the Cross, she cried out lamenting: ‘Woe is me, my well-beloved Jesus! O my Son, glorified as God by the angels, how art Thou crucified now of Thine own will by lawless men? I sing Thy praises, O longsuffering Lord.’"
 
 trMA.Kathisma31.mode = miscellanea_en_UK_ware.misc.Mode4
 trMA.Kathisma31.greekmelody = he.a.m4_en_UK_ware.heAU.TachyProkatalave.greekname
@@ -69,7 +69,7 @@ trMA.Kathisma32.mode = miscellanea_en_UK_ware.misc.Mode4
 trMA.Kathisma32.greekmelody = he.a.m4_en_UK_ware.heAU.TachyProkatalave.greekname
 trMA.Kathisma32.melody = he.a.m4_en_UK_ware.heAU.TachyProkatalave.name
 trMA.Kathisma32.incipit = "When the Virgin Mother saw…"
-trMA.Kathisma32.text = "When the Virgin Mother saw Thee raised upon the Cross, O Word of God, with a mother's grief she cried: 'What is this new and strange wonder, O my Son? How canst Thou suffer death, O Life of all? It is because in Thy compassion Thou dost will to bring the dead to life.'"
+trMA.Kathisma32.text = "When the Virgin Mother saw Thee raised upon the Cross, O Word of God, with a mother’s grief she cried: ‘What is this new and strange wonder, O my Son? How canst Thou suffer death, O Life of all? It is because in Thy compassion Thou dost will to bring the dead to life.’"
 
 trMA.C1.acrostic.title = ""
 trMA.C1.acrostic.notice1 = ""
@@ -113,8 +113,8 @@ trMA.Ode1C14.text = "The rod of Moses which parted the sea prefigures the ensign
 trMA.Ode1C1T.ode = miscellanea_en_UK_ware.misc.Ode1
 trMA.Ode1C1T.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode1C1T.melody = he.h.m8_en_UK_ware.heHE.ArmatilatinFarao.name
-trMA.Ode1C1T.incipit = "'When mysteriously I bore Thee…"
-trMA.Ode1C1T.text = "'When mysteriously I bore Thee, O my Son, I felt no pains of childbirth. How is it, then, that I am now entirely overwhelmed by pain?' said the Holy Virgin weeping. 'Thou hast hung the earth without support upon the waters, yet now I see Thee hanging as a malefactor on the Cross.'"
+trMA.Ode1C1T.incipit = "‘When mysteriously I bore Thee…"
+trMA.Ode1C1T.text = "‘When mysteriously I bore Thee, O my Son, I felt no pains of childbirth. How is it, then, that I am now entirely overwhelmed by pain?’ said the Holy Virgin weeping. ‘Thou hast hung the earth without support upon the waters, yet now I see Thee hanging as a malefactor on the Cross.’"
 
 trMA.Ode3C1H.ode = miscellanea_en_UK_ware.misc.Ode3
 trMA.Ode3C1H.mode = miscellanea_en_UK_ware.misc.Mode8
@@ -146,7 +146,7 @@ trMA.Ode3C1T.ode = miscellanea_en_UK_ware.misc.Ode3
 trMA.Ode3C1T.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode3C1T.melody = he.h.m8_en_UK_ware.heHE.OStereosasKatArchas.name
 trMA.Ode3C1T.incipit = "The holy Virgin saw the…"
-trMA.Ode3C1T.text = "The holy Virgin saw the Life dead upon the Cross; and, unable to endure the anguish in her heart, she cried out in deep distress: 'Woe is me, my Son! What is this reward that lawless men have given Thee?'"
+trMA.Ode3C1T.text = "The holy Virgin saw the Life dead upon the Cross; and, unable to endure the anguish in her heart, she cried out in deep distress: ‘Woe is me, my Son! What is this reward that lawless men have given Thee?’"
 
 trMA.Ode3Kathisma1.mode = miscellanea_en_UK_ware.misc.Mode6
 trMA.Ode3Kathisma1.melody = ""
@@ -170,7 +170,7 @@ trMA.Ode4C11.mode = miscellanea_en_UK_ware.misc.Mode6
 trMA.Ode4C11.greekmelody = he.h.m8_en_UK_ware.heHE.SyMouIschys.greekname
 trMA.Ode4C11.melody = he.h.m8_en_UK_ware.heHE.SyMouIschys.name
 trMA.Ode4C11.incipit = "Behold, before us lies the…"
-trMA.Ode4C11.text = "Behold, before us lies the saving Cross, men's strong protection and their restoration, unconquerable weapon of the Faith; and it sanctifies and illumines with grace the hearts of all who approach in faith."
+trMA.Ode4C11.text = "Behold, before us lies the saving Cross, men’s strong protection and their restoration, unconquerable weapon of the Faith; and it sanctifies and illumines with grace the hearts of all who approach in faith."
 
 trMA.Ode4C12.ode = miscellanea_en_UK_ware.misc.Ode4
 trMA.Ode4C12.mode = miscellanea_en_UK_ware.misc.Mode6
@@ -193,8 +193,8 @@ trMA.Ode4C14.text = "Deaf to my conscience, I have not kept Thy laws, O Lord, an
 trMA.Ode4C1T.ode = miscellanea_en_UK_ware.misc.Ode4
 trMA.Ode4C1T.mode = miscellanea_en_UK_ware.misc.Mode6
 trMA.Ode4C1T.melody = he.h.m8_en_UK_ware.heHE.SyMouIschys.name
-trMA.Ode4C1T.incipit = "'From a Virgin womb I…"
-trMA.Ode4C1T.text = "'From a Virgin womb I bore Thee, O my Child,' the All-Holy cried aloud, 'and now I see Thee hanging on the Wood. I am troubled, and I cannot understand the height of this mystery and the depths of Thy many judgements.' With never-silent voices we bless her as the Mother of God."
+trMA.Ode4C1T.incipit = "‘From a Virgin womb I…"
+trMA.Ode4C1T.text = "‘From a Virgin womb I bore Thee, O my Child,’ the All-Holy cried aloud, ‘and now I see Thee hanging on the Wood. I am troubled, and I cannot understand the height of this mystery and the depths of Thy many judgements.’ With never-silent voices we bless her as the Mother of God."
 
 trMA.Ode5C1H.ode = miscellanea_en_UK_ware.misc.Ode5
 trMA.Ode5C1H.mode = miscellanea_en_UK_ware.misc.Mode8
@@ -226,7 +226,7 @@ trMA.Ode5C1T.ode = miscellanea_en_UK_ware.misc.Ode5
 trMA.Ode5C1T.mode = miscellanea_en_UK_ware.misc.Mode6
 trMA.Ode5C1T.melody = he.h.m8_en_UK_ware.heHE.InaTiMeAposo.name
 trMA.Ode5C1T.incipit = "Seeing on the Cross Him…"
-trMA.Ode5C1T.text = "Seeing on the Cross Him who out of love was born from thee in ways past understanding, O all-blameless Virgin, thou wast wounded in thine heart and thou hast cried: 'Woe is me, my divine Child! How dost Thou suffer for the sake of all? I venerate Thy compassion, O Lord.'"
+trMA.Ode5C1T.text = "Seeing on the Cross Him who out of love was born from thee in ways past understanding, O all-blameless Virgin, thou wast wounded in thine heart and thou hast cried: ‘Woe is me, my divine Child! How dost Thou suffer for the sake of all? I venerate Thy compassion, O Lord.’"
 
 trMA.Ode5C21.ode = miscellanea_en_UK_ware.misc.Ode5
 trMA.Ode5C21.mode = miscellanea_en_UK_ware.misc.Mode4
@@ -251,7 +251,7 @@ trMA.Ode5C2T.ode = miscellanea_en_UK_ware.misc.Ode5
 trMA.Ode5C2T.mode = miscellanea_en_UK_ware.misc.Mode4
 trMA.Ode5C2T.melody = he.h.m4_en_UK_ware.heHE.ExestiTaSympanta.name
 trMA.Ode5C2T.incipit = "The Virgin saw hanging on…"
-trMA.Ode5C2T.text = "The Virgin saw hanging on the Wood the Cluster of grapes that she had borne, and she cried aloud: 'My Child, with Thy sweet wine check the drunkenness of Thine enemies, who have crucified Thee without a cause; for in patience Thou dost suffer all things.'"
+trMA.Ode5C2T.text = "The Virgin saw hanging on the Wood the Cluster of grapes that she had borne, and she cried aloud: ‘My Child, with Thy sweet wine check the drunkenness of Thine enemies, who have crucified Thee without a cause; for in patience Thou dost suffer all things.’"
 
 trMA.Ode5C31.ode = miscellanea_en_UK_ware.misc.Ode5
 trMA.Ode5C31.mode = miscellanea_en_UK_ware.misc.Mode4
@@ -401,8 +401,8 @@ trMA.Ode8C1Tr.text = "Single in Nature, coeternal, one in throne, simple in Esse
 trMA.Ode8C1T.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C1T.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode8C1T.melody = he.h.m8_en_UK_ware.heHE.EptaplasiosKaminon.name
-trMA.Ode8C1T.incipit = "'Now I see Thee as…"
-trMA.Ode8C1T.text = "'Now I see Thee as an innocent lamb, hanging nailed to the Cross by lawless men, O my Son who wast before all things began,' cried the Holy Virgin, 'and I am weighed down by grief, afflicted by a mother's angnish.' With never-silent voices, as is right, we sing her praises for ever."
+trMA.Ode8C1T.incipit = "‘Now I see Thee as…"
+trMA.Ode8C1T.text = "‘Now I see Thee as an innocent lamb, hanging nailed to the Cross by lawless men, O my Son who wast before all things began,’ cried the Holy Virgin, ‘and I am weighed down by grief, afflicted by a mother’s angnish.’ With never-silent voices, as is right, we sing her praises for ever."
 
 trMA.Ode8C21.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C21.mode = miscellanea_en_UK_ware.misc.Mode4
@@ -426,8 +426,8 @@ trMA.Ode8C23.text = "When I call to mind, O most just Judge, Thy dread judgement
 trMA.Ode8C2T.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C2T.mode = miscellanea_en_UK_ware.misc.Mode4
 trMA.Ode8C2T.melody = he.h.m4_en_UK_ware.heHE.PaidasEvageis.name
-trMA.Ode8C2T.incipit = "'I bore Thee without pangs…"
-trMA.Ode8C2T.text = "'I bore Thee without pangs of childbirth, but now I suffer anguish at Thy Crucifixion, and my heart is set on fire. For Thou art pierced with nails, longsuffering Lord, and wounded in Thy side', lamented the all­ pure Virgin; and with one accord we sing her praises as Theotokos."
+trMA.Ode8C2T.incipit = "‘I bore Thee without pangs…"
+trMA.Ode8C2T.text = "‘I bore Thee without pangs of childbirth, but now I suffer anguish at Thy Crucifixion, and my heart is set on fire. For Thou art pierced with nails, longsuffering Lord, and wounded in Thy side’, lamented the all­ pure Virgin; and with one accord we sing her praises as Theotokos."
 
 trMA.Ode8C31.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C31.mode = miscellanea_en_UK_ware.misc.Mode4
@@ -491,19 +491,19 @@ trMA.Ode9C13.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C13.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode9C13.melody = he.h.m8_en_UK_ware.heHE.ExestiEpiTouto.name
 trMA.Ode9C13.incipit = "The Cross is the haven…"
-trMA.Ode9C13.text = "The Cross is the haven of the storm-tossed, the guide and support of those that go astray, the glory of Christ, the power of the apostles and the prophets, the strength of God's athletes, the refuge of all men. We see it set before us in this time of fasting and we venerate it."
+trMA.Ode9C13.text = "The Cross is the haven of the storm-tossed, the guide and support of those that go astray, the glory of Christ, the power of the apostles and the prophets, the strength of God’s athletes, the refuge of all men. We see it set before us in this time of fasting and we venerate it."
 
 trMA.Ode9C14.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C14.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode9C14.melody = he.h.m8_en_UK_ware.heHE.ExestiEpiTouto.name
 trMA.Ode9C14.incipit = "When Thou shalt come on…"
-trMA.Ode9C14.text = "When Thou shalt come on earth, O Lord, to judge the world which Thou hast fashioned, the angelic hosts will attend Thee, and the Cross will shine before Thee more brightly than the sun's rays. Through its power take pity on me then and save me, for I have sinned more than all mortal men."
+trMA.Ode9C14.text = "When Thou shalt come on earth, O Lord, to judge the world which Thou hast fashioned, the angelic hosts will attend Thee, and the Cross will shine before Thee more brightly than the sun’s rays. Through its power take pity on me then and save me, for I have sinned more than all mortal men."
 
 trMA.Ode9C1T.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C1T.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode9C1T.melody = he.h.m8_en_UK_ware.heHE.ExestiEpiTouto.name
-trMA.Ode9C1T.incipit = "'From my womb without corruption…"
-trMA.Ode9C1T.text = "'From my womb without corruption have I borne Thee, who wast begotten from the Father before all ages: how, then, my Son, art Thou subject to corruption? For men rend Thy body, and in cruelty they pierce Thy side with a spear, Thy hands and feet with nails.' So the Holy Virgin cried; and, as is right, we magnify her."
+trMA.Ode9C1T.incipit = "‘From my womb without corruption…"
+trMA.Ode9C1T.text = "‘From my womb without corruption have I borne Thee, who wast begotten from the Father before all ages: how, then, my Son, art Thou subject to corruption? For men rend Thy body, and in cruelty they pierce Thy side with a spear, Thy hands and feet with nails.’ So the Holy Virgin cried; and, as is right, we magnify her."
 
 trMA.Ode9C21.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C21.mode = miscellanea_en_UK_ware.misc.Mode4
@@ -528,7 +528,7 @@ trMA.Ode9C2T.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C2T.mode = miscellanea_en_UK_ware.misc.Mode4
 trMA.Ode9C2T.melody = he.h.m4_en_UK_ware.heHE.ApasGigenis.name
 trMA.Ode9C2T.incipit = "O Virgin Theotokos, the strong…"
-trMA.Ode9C2T.text = "O Virgin Theotokos, the strong refuge of the faithful, thou only hast conceived the very Person of God's Wisdom. I entreat thee, give me wisdom, that I may escape from the snares and cunning of him who is falsely wise in evil."
+trMA.Ode9C2T.text = "O Virgin Theotokos, the strong refuge of the faithful, thou only hast conceived the very Person of God’s Wisdom. I entreat thee, give me wisdom, that I may escape from the snares and cunning of him who is falsely wise in evil."
 
 trMA.Ode9C31.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C31.mode = miscellanea_en_UK_ware.misc.Mode4
@@ -540,8 +540,8 @@ trMA.Ode9C31.text = "We venerate and magnify Thy precious Cross, that is attende
 trMA.Ode9C32.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C32.mode = miscellanea_en_UK_ware.misc.Mode4
 trMA.Ode9C32.melody = he.h.m4_en_UK_ware.heHE.TonAsporonTokonSou.name
-trMA.Ode9C32.incipit = "We magnify the Saviour's Cross…"
-trMA.Ode9C32.text = "We magnify the Saviour's Cross, the holy Wood, whereby we who before were dead partake of life."
+trMA.Ode9C32.incipit = "We magnify the Saviour’s Cross…"
+trMA.Ode9C32.text = "We magnify the Saviour’s Cross, the holy Wood, whereby we who before were dead partake of life."
 
 trMA.Ode9C3Tr.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C3Tr.mode = miscellanea_en_UK_ware.misc.Mode4

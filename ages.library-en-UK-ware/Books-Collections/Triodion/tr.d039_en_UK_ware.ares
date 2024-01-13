@@ -39,13 +39,13 @@ trVE.AposIdiomelon1.text = "Though I am a creature born on earth, yet sharing in
 trVE.AposMartyric.mode = miscellanea_en_UK_ware.misc.Mode2
 trVE.AposMartyric.melody = ""
 trVE.AposMartyric.incipit = "The company of martyrs resisted…"
-trVE.AposMartyric.text = "The company of martyrs resisted tyrants, saying: 'We are soldiers of the Ruler of the powers on high; though ye give us up to fire and torment, we shall not deny the power of the Trinity.'"
+trVE.AposMartyric.text = "The company of martyrs resisted tyrants, saying: ‘We are soldiers of the Ruler of the powers on high; though ye give us up to fire and torment, we shall not deny the power of the Trinity.’"
 
 trVE.AposTheotokion.mode = miscellanea_en_UK_ware.misc.Mode2
 trVE.AposTheotokion.greekmelody = he.a.m2_en_UK_ware.heAU.OteEkTouXylou.greekname
 trVE.AposTheotokion.melody = he.a.m2_en_UK_ware.heAU.OteEkTouXylou.name
 trVE.AposTheotokion.incipit = "O Saviour, when the lawless…"
-trVE.AposTheotokion.text = "O Saviour, when the lawless people nailed Thee to the Tree, who art the Life of all, Thy pure and holy Mother, standing beside Thee, cried aloud lamenting: 'Woe is me, beloved Child, the light of mine eyes! Thou hast hung the earth above the waters: how then canst Thou endure to be nailed upon the Tree between two evildoers!'"
+trVE.AposTheotokion.text = "O Saviour, when the lawless people nailed Thee to the Tree, who art the Life of all, Thy pure and holy Mother, standing beside Thee, cried aloud lamenting: ‘Woe is me, beloved Child, the light of mine eyes! Thou hast hung the earth above the waters: how then canst Thou endure to be nailed upon the Tree between two evildoers!’"
 
 trMA.Kathisma21.mode = miscellanea_en_UK_ware.misc.Mode3
 trMA.Kathisma21.greekmelody = he.a.m3_en_UK_ware.heAU.TinOraiotita.greekname
@@ -67,7 +67,7 @@ trMA.Kathisma31.text = "As we continue the joyful celebration of the Fast, we cr
 trMA.Kathisma32.mode = miscellanea_en_UK_ware.misc.Mode2
 trMA.Kathisma32.melody = ""
 trMA.Kathisma32.incipit = "Beholding Thee, O Christ, stretched…"
-trMA.Kathisma32.text = "Beholding Thee, O Christ, stretched dead upon the Tree, Thy Virgin Mother cried aloud with bitter tears: 'O my Son, what is this fearful mystery? How dost Thou, who givest life eternal unto all, suffer willingly a shameful death upon the Cross?'"
+trMA.Kathisma32.text = "Beholding Thee, O Christ, stretched dead upon the Tree, Thy Virgin Mother cried aloud with bitter tears: ‘O my Son, what is this fearful mystery? How dost Thou, who givest life eternal unto all, suffer willingly a shameful death upon the Cross?’"
 
 trMA.C1.poet = poets_en_UK_ware.po.Iosif
 
@@ -210,7 +210,7 @@ trMA.Ode9C12.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C12.mode = miscellanea_en_UK_ware.misc.Mode3
 trMA.Ode9C12.melody = he.h.m3_en_UK_ware.heHE.EnNomoSkia.name
 trMA.Ode9C12.incipit = "Cleanse me by the fire…"
-trMA.Ode9C12.text = "Cleanse me by the fire of Thy fear, O Christ; kindle Thy divine love in my soul, and fence me about with Thy Cross: for the deceiver that caused man's fall of old has craftily beguiled me and darkened my understanding with lust."
+trMA.Ode9C12.text = "Cleanse me by the fire of Thy fear, O Christ; kindle Thy divine love in my soul, and fence me about with Thy Cross: for the deceiver that caused man’s fall of old has craftily beguiled me and darkened my understanding with lust."
 
 trMA.Ode9C13.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C13.mode = miscellanea_en_UK_ware.misc.Mode3
@@ -276,7 +276,7 @@ trMA.AposTheotokion.mode = miscellanea_en_UK_ware.misc.Mode2
 trMA.AposTheotokion.greekmelody = he.a.m2_en_UK_ware.heAU.OteEkTouXylou.greekname
 trMA.AposTheotokion.melody = he.a.m2_en_UK_ware.heAU.OteEkTouXylou.name
 trMA.AposTheotokion.incipit = "At the Crucifixion of thy…"
-trMA.AposTheotokion.text = "At the Crucifixion of thy Son and God, great was the agony thou hast endured, O Undefiled. Weeping and lamenting, thou hast cried aloud bitterly: 'Woe is me, beloved Child! How unjustly dost Thou suffer, desiring to deliver the earth-born sons of Adam.' Therefore, O most holy Virgin, in faith we beseech thee: cause Him to look on us with mercy."
+trMA.AposTheotokion.text = "At the Crucifixion of thy Son and God, great was the agony thou hast endured, O Undefiled. Weeping and lamenting, thou hast cried aloud bitterly: ‘Woe is me, beloved Child! How unjustly dost Thou suffer, desiring to deliver the earth-born sons of Adam.’ Therefore, O most holy Virgin, in faith we beseech thee: cause Him to look on us with mercy."
 
 trTE.Troparion.mode = miscellanea_en_UK_ware.misc.Mode8
 trTE.Troparion.melody = ""

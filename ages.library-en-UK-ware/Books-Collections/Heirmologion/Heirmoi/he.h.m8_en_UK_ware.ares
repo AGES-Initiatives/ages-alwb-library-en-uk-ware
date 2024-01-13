@@ -46,7 +46,7 @@ heHE.AsmaAnapempsomen.incipit = "O ye people, let us raise a song…"
 heHE.AsmaAnapempsomen.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.AsmaAnapempsomen.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.AsmaAnapempsomen.ode = miscellanea_en_UK_ware.misc.Ode1
-heHE.AsmaAnapempsomen.text = "O ye people, let us raise a song to our God who works wonders, for He set Israel free from bondage; and with a hymn of victory let us cry aloud: 'Let us sing to Thee, our only Master.'"
+heHE.AsmaAnapempsomen.text = "O ye people, let us raise a song to our God who works wonders, for He set Israel free from bondage; and with a hymn of victory let us cry aloud: ‘Let us sing to Thee, our only Master.’"
 
 heHE.AsmaAsmaton.greekname = ""
 heHE.AsmaAsmaton.name = "(NM)"
@@ -158,7 +158,7 @@ heHE.EptaplasiosKaminon.incipit = "The Chaldaean tyrant…"
 heHE.EptaplasiosKaminon.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.EptaplasiosKaminon.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.EptaplasiosKaminon.ode = miscellanea_en_UK_ware.misc.Ode8
-heHE.EptaplasiosKaminon.text = "The Chaldaean tyrant in his madness ordered the furnace to be heated seven times more for the holy Children; but seeing them saved by a greater power, he cried aloud: 'O ye Children, bless the Creator and Deliverer;O ye priests, sing His praises;O ye people, exalt Him above all for ever.'"
+heHE.EptaplasiosKaminon.text = "The Chaldaean tyrant in his madness ordered the furnace to be heated seven times more for the holy Children; but seeing them saved by a greater power, he cried aloud: ‘O ye Children, bless the Creator and Deliverer; O ye priests, sing His praises; O ye people, exalt Him above all for ever.’"
 
 heHE.EstereothiIKardiaMouEnKyrio.greekname = ""
 heHE.EstereothiIKardiaMouEnKyrio.name = "(NM)"
@@ -754,7 +754,7 @@ heHE.TonProdilothenta.incipit = "The burning bush…"
 heHE.TonProdilothenta.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.TonProdilothenta.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.TonProdilothenta.ode = miscellanea_en_UK_ware.misc.Ode9
-heHE.TonProdilothenta.text = "The burning bush upon the mountain revealed in prophecy to the Giver of the Law Christ's birth from the Ever-Virgin for our salvation: and with never-silent songs of praise we magnify Him."
+heHE.TonProdilothenta.text = "The burning bush upon the mountain revealed in prophecy to the Giver of the Law Christ’s birth from the Ever-Virgin for our salvation: and with never-silent songs of praise we magnify Him."
 
 heHE.TonVasileaTonOuranon.greekname = ""
 heHE.TonVasileaTonOuranon.name = "(NM)"
@@ -778,5 +778,5 @@ heHE.YgranDiodefsas.incipit = "Having crossed the water…"
 heHE.YgranDiodefsas.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.YgranDiodefsas.mode = miscellanea_en_UK_ware.misc.Mode8
 heHE.YgranDiodefsas.ode = miscellanea_en_UK_ware.misc.Ode1
-heHE.YgranDiodefsas.text = "Having crossed the water as though it were dry land, and escaped from the wickedness of Egypt, the children of Israel shouted aloud: 'Let us sing to our Deliverer and our God.'"
+heHE.YgranDiodefsas.text = "Having crossed the water as though it were dry land, and escaped from the wickedness of Egypt, the children of Israel shouted aloud: ‘Let us sing to our Deliverer and our God.’"
 

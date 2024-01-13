@@ -47,7 +47,7 @@ trVE.AposTheotokion.mode = miscellanea_en_UK_ware.misc.Mode5
 trVE.AposTheotokion.greekmelody = he.a.m5_en_UK_ware.heAU.ChairoisAskitikon.greekname
 trVE.AposTheotokion.melody = he.a.m5_en_UK_ware.heAU.ChairoisAskitikon.name
 trVE.AposTheotokion.incipit = "When the Ewe saw her…"
-trVE.AposTheotokion.text = "When the Ewe saw her own Lamb hastening to the slaughter, eagerly she followed Him and cried aloud: 'Where art Thou going, 0	my sweetest Child?O most beloved Jesus, sinless Lord, rich in mercy, O longsuffering Christ, why dost Thou go so swiftly and so fearlessly? Speak to Thy handmaiden, my well-beloved Son: do not pass Thy Mother by without a word, O all-compassionate God, who grantest to the world great mercy.'"
+trVE.AposTheotokion.text = "When the Ewe saw her own Lamb hastening to the slaughter, eagerly she followed Him and cried aloud: ‘Where art Thou going, 0	my sweetest Child?O most beloved Jesus, sinless Lord, rich in mercy, O longsuffering Christ, why dost Thou go so swiftly and so fearlessly? Speak to Thy handmaiden, my well-beloved Son: do not pass Thy Mother by without a word, O all-compassionate God, who grantest to the world great mercy.’"
 
 trMA.Kathisma21.mode = miscellanea_en_UK_ware.misc.Mode4
 trMA.Kathisma21.greekmelody = he.a.m4_en_UK_ware.heAU.TachyProkatalave.greekname
@@ -59,7 +59,7 @@ trMA.Kathisma22.mode = miscellanea_en_UK_ware.misc.Mode4
 trMA.Kathisma22.greekmelody = he.a.m4_en_UK_ware.heAU.TachyProkatalave.greekname
 trMA.Kathisma22.melody = he.a.m4_en_UK_ware.heAU.TachyProkatalave.name
 trMA.Kathisma22.incipit = "When she beheld Thee hanging…"
-trMA.Kathisma22.text = "When she beheld Thee hanging on the Cross, Thy Virgin Mother lamented bitterly and cried to Thee: 'What is this new and strange wonder, O my Son? How has the lawless people nailed Thee to the Cross, O Life of all, my sweetest Light.'"
+trMA.Kathisma22.text = "When she beheld Thee hanging on the Cross, Thy Virgin Mother lamented bitterly and cried to Thee: ‘What is this new and strange wonder, O my Son? How has the lawless people nailed Thee to the Cross, O Life of all, my sweetest Light.’"
 
 trMA.Kathisma31.mode = miscellanea_en_UK_ware.misc.Mode5
 trMA.Kathisma31.melody = ""
@@ -70,7 +70,7 @@ trMA.Kathisma32.mode = miscellanea_en_UK_ware.misc.Mode5
 trMA.Kathisma32.greekmelody = he.a.m5_en_UK_ware.heAU.TonSynanarchonLogon.greekname
 trMA.Kathisma32.melody = he.a.m5_en_UK_ware.heAU.TonSynanarchonLogon.name
 trMA.Kathisma32.incipit = "When the Mother who bore…"
-trMA.Kathisma32.text = "When the Mother who bore Thee without the pain of travail beheld Thee lifted on the Cross, she wept lamenting and she cried: 'Woe is me, my sweetest Son! Now am I wounded to the heart, seeing Thee nailed upon the Cross as an evildoer between two malefactors.'"
+trMA.Kathisma32.text = "When the Mother who bore Thee without the pain of travail beheld Thee lifted on the Cross, she wept lamenting and she cried: ‘Woe is me, my sweetest Son! Now am I wounded to the heart, seeing Thee nailed upon the Cross as an evildoer between two malefactors.’"
 
 trMA.C1.poet = poets_en_UK_ware.po.Iosif
 
@@ -130,7 +130,7 @@ trMA.Ode5C2A1.ode = miscellanea_en_UK_ware.misc.Ode5
 trMA.Ode5C2A1.mode = miscellanea_en_UK_ware.misc.Mode5
 trMA.Ode5C2A1.melody = he.h.m5_en_UK_ware.heHE.TousEkNyktos.name
 trMA.Ode5C2A1.incipit = "For my sake Thou hast…"
-trMA.Ode5C2A1.text = "For my sake Thou hast endured crucifixion, drunk vinegar, and cried 'It is finished': help me to finish the course of the Fast and grant that I may see Thy Rising."
+trMA.Ode5C2A1.text = "For my sake Thou hast endured crucifixion, drunk vinegar, and cried ‘It is finished’: help me to finish the course of the Fast and grant that I may see Thy Rising."
 
 trMA.Ode5C2H.ode = miscellanea_en_UK_ware.misc.Ode5
 trMA.Ode5C2H.mode = miscellanea_en_UK_ware.misc.Mode5
@@ -279,8 +279,8 @@ trMA.AposMartyric.text = he.a.m8_en_UK_ware.heAU.TiYmasKalesomen.text
 trMA.AposTheotokion.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.AposTheotokion.greekmelody = he.a.m8_en_UK_ware.heAU.TiYmasKalesomen.greekname
 trMA.AposTheotokion.melody = he.a.m8_en_UK_ware.heAU.TiYmasKalesomen.name
-trMA.AposTheotokion.incipit = "'What is this strange wonder?'…"
-trMA.AposTheotokion.text = "'What is this strange wonder?' cried the Virgin to the Lord, as a mother to her child. 'The bitter pangs I knew not when I bore Thee, O my Son, now have pierced my heart. O Light of mine eyes, I cannot bear to see Thee nailed upon the Cross. But do Thou hasten to arise, as Thou hast promised, that with all the world I may glorify Thy dread and saving work.'"
+trMA.AposTheotokion.incipit = "‘What is this strange wonder?’…"
+trMA.AposTheotokion.text = "‘What is this strange wonder?’ cried the Virgin to the Lord, as a mother to her child. ‘The bitter pangs I knew not when I bore Thee, O my Son, now have pierced my heart. O Light of mine eyes, I cannot bear to see Thee nailed upon the Cross. But do Thou hasten to arise, as Thou hast promised, that with all the world I may glorify Thy dread and saving work.’"
 
 trTE.Troparion.mode = miscellanea_en_UK_ware.misc.Mode1
 trTE.Troparion.melody = ""

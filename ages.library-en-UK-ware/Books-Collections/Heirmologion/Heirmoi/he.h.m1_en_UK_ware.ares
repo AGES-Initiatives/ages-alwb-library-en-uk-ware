@@ -70,7 +70,7 @@ heHE.CheirasEnToLakko.incipit = "Daniel, great among the prophets…"
 heHE.CheirasEnToLakko.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.CheirasEnToLakko.mode = miscellanea_en_UK_ware.misc.Mode1
 heHE.CheirasEnToLakko.ode = miscellanea_en_UK_ware.misc.Ode8
-heHE.CheirasEnToLakko.text = "Daniel, great among the prophets, was cast into the lions' den; but, stretching out his hands in the form of the Cross, he was delivered from their mouths and kept unharmed, blessing Christ our God for ever."
+heHE.CheirasEnToLakko.text = "Daniel, great among the prophets, was cast into the lions’ den; but, stretching out his hands in the form of the Cross, he was delivered from their mouths and kept unharmed, blessing Christ our God for ever."
 
 heHE.ChristosGennatai.greekname = ""
 heHE.ChristosGennatai.name = "(NM)"
@@ -183,12 +183,12 @@ heHE.EpiTisTheiasFylakis.ode = miscellanea_en_UK_ware.misc.Ode4
 heHE.EpiTisTheiasFylakis.text = ""
 
 heHE.EpirthiOIlios.greekname = ""
-heHE.EpirthiOIlios.name = "The sun's light. (N/M)"
-heHE.EpirthiOIlios.incipit = "The sun's light. (N/M)…"
+heHE.EpirthiOIlios.name = "The sun’s light. (N/M)"
+heHE.EpirthiOIlios.incipit = "The sun’s light. (N/M)…"
 heHE.EpirthiOIlios.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.EpirthiOIlios.mode = miscellanea_en_UK_ware.misc.Mode1
 heHE.EpirthiOIlios.ode = miscellanea_en_UK_ware.misc.Ode4
-heHE.EpirthiOIlios.text = "The sun's light was extinguished and the moon was halted in its course; Thou wast lifted, O Longsuffering Lord, upon the Cross, and with it Thou hast built Thy Church."
+heHE.EpirthiOIlios.text = "The sun’s light was extinguished and the moon was halted in its course; Thou wast lifted, O Longsuffering Lord, upon the Cross, and with it Thou hast built Thy Church."
 
 heHE.EpoiiseKratos.greekname = ""
 heHE.EpoiiseKratos.name = "He has showed strength. (N/M)"
@@ -759,7 +759,7 @@ heHE.ToVoithisantiTheo.incipit = "Let us sing a song…"
 heHE.ToVoithisantiTheo.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.ToVoithisantiTheo.mode = miscellanea_en_UK_ware.misc.Mode1
 heHE.ToVoithisantiTheo.ode = miscellanea_en_UK_ware.misc.Ode1
-heHE.ToVoithisantiTheo.text = "Let us sing a song of triumph unto God, who came to Moses' aid in Egypt, and drowned Pharaoh with all his host: for He has been glorified."
+heHE.ToVoithisantiTheo.text = "Let us sing a song of triumph unto God, who came to Moses’ aid in Egypt, and drowned Pharaoh with all his host: for He has been glorified."
 
 heHE.TonEnFlogiPyros.greekname = ""
 heHE.TonEnFlogiPyros.name = "(NM)"
@@ -823,7 +823,7 @@ heHE.TousEnKaminoPaidas.incipit = "The fire, O Savior. (N/M)…"
 heHE.TousEnKaminoPaidas.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
 heHE.TousEnKaminoPaidas.mode = miscellanea_en_UK_ware.misc.Mode1
 heHE.TousEnKaminoPaidas.ode = miscellanea_en_UK_ware.misc.Ode7
-heHE.TousEnKaminoPaidas.text = "The fire, O Savior, did not touch or trouble Thy children in the furnace. Then with one voice the three sang Thy praise and blessed Thee, saying, \"O God of our Fathers, blessed art Thou.\""
+heHE.TousEnKaminoPaidas.text = "The fire, O Savior, did not touch or trouble Thy children in the furnace. Then with one voice the three sang Thy praise and blessed Thee, saying, “O God of our Fathers, blessed art Thou.”"
 
 heHE.TyponTisAgnis.greekname = ""
 heHE.TyponTisAgnis.name = "(NM)"

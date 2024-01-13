@@ -28,7 +28,7 @@ trVE.AposTheotokion.mode = miscellanea_en_UK_ware.misc.Mode2
 trVE.AposTheotokion.greekmelody = he.a.m2_en_UK_ware.heAU.OteEkTouXylou.greekname
 trVE.AposTheotokion.melody = he.a.m2_en_UK_ware.heAU.OteEkTouXylou.name
 trVE.AposTheotokion.incipit = "When thou sawest, pure Virgin…"
-trVE.AposTheotokion.text = "When thou sawest, pure Virgin, hanging upon the Tree, the Vine which, unhusbanded, thou hast conceived within thy womb, lamenting thou hast cried aloud: 'O Child, bestow upon the world the new wine, which with its sweetness shall drive away all the drunkenness of the passions. Grant this, O Benefactor, in Thy mercy, at the holy prayers of me Thy Mother.'" //oc.m2.d4_en_UK_ware.ocVE.SticTheotokion.text
+trVE.AposTheotokion.text = "When thou sawest, pure Virgin, hanging upon the Tree, the Vine which, unhusbanded, thou hast conceived within thy womb, lamenting thou hast cried aloud: ‘O Child, bestow upon the world the new wine, which with its sweetness shall drive away all the drunkenness of the passions. Grant this, O Benefactor, in Thy mercy, at the holy prayers of me Thy Mother.’" //oc.m2.d4_en_UK_ware.ocVE.SticTheotokion.text
 
 trMA.Kathisma21.mode = miscellanea_en_UK_ware.misc.Mode7
 trMA.Kathisma21.greekmelody = he.a.m7_en_UK_ware.heAU.OsEchousaToSympathes.greekname
@@ -96,7 +96,7 @@ trMA.Ode3C1T.ode = miscellanea_en_UK_ware.misc.Ode3
 trMA.Ode3C1T.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode3C1T.melody = he.h.m8_en_UK_ware.heHE.OuraniasApsidos.name
 trMA.Ode3C1T.incipit = "Thou art the cause of…"
-trMA.Ode3C1T.text = "Thou art the cause of all good things, O Lady. We entreat thee urgently: enter with us, by thy mediation, into the struggle of the Fast, and grant us to complete it for our souls' salvation."
+trMA.Ode3C1T.text = "Thou art the cause of all good things, O Lady. We entreat thee urgently: enter with us, by thy mediation, into the struggle of the Fast, and grant us to complete it for our souls’ salvation."
 
 trMA.Ode3C1H.ode = miscellanea_en_UK_ware.misc.Ode3
 trMA.Ode3C1H.mode = miscellanea_en_UK_ware.misc.Mode8
@@ -167,7 +167,7 @@ trMA.Ode5C1T.ode = miscellanea_en_UK_ware.misc.Ode5
 trMA.Ode5C1T.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode5C1T.melody = he.h.m8_en_UK_ware.heHE.InaTiMeAposo.name
 trMA.Ode5C1T.incipit = "As we prepare, O Lady…"
-trMA.Ode5C1T.text = "As we prepare, O Lady, to enter through the gateway of the Fast, we entreat thee, gateway of God, to enter in together with thy servants; enlarge our thoughts and understanding, that we may perform God's saving will."
+trMA.Ode5C1T.text = "As we prepare, O Lady, to enter through the gateway of the Fast, we entreat thee, gateway of God, to enter in together with thy servants; enlarge our thoughts and understanding, that we may perform God’s saving will."
 
 trMA.Ode5C21.ode = miscellanea_en_UK_ware.misc.Ode5
 trMA.Ode5C21.mode = miscellanea_en_UK_ware.misc.Mode6
@@ -267,7 +267,7 @@ trMA.Ode6C1T.ode = miscellanea_en_UK_ware.misc.Ode6
 trMA.Ode6C1T.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode6C1T.melody = he.h.m8_en_UK_ware.heHE.IlasthitiMoiSotir.name
 trMA.Ode6C1T.incipit = "O pure Virgin, thou alone…"
-trMA.Ode6C1T.text = "O pure Virgin, thou alone hast brought strength to the weakness of man's nature by thy divine childbearing: come to my help as I enter now upon the holy contest of the Fast."
+trMA.Ode6C1T.text = "O pure Virgin, thou alone hast brought strength to the weakness of man’s nature by thy divine childbearing: come to my help as I enter now upon the holy contest of the Fast."
 
 trMA.Ode6C1H.ode = miscellanea_en_UK_ware.misc.Ode6
 trMA.Ode6C1H.mode = miscellanea_en_UK_ware.misc.Mode8
@@ -299,7 +299,7 @@ trMA.Ode7C1T.ode = miscellanea_en_UK_ware.misc.Ode7
 trMA.Ode7C1T.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode7C1T.melody = he.h.m8_en_UK_ware.heHE.PaidesEvraion.name
 trMA.Ode7C1T.incipit = "O only help of men…"
-trMA.Ode7C1T.text = "O only help of men, be the succour of us thy servants in this time of abstinence; may we gain God's mercy by repentance and receive the Kingdom of Heaven."
+trMA.Ode7C1T.text = "O only help of men, be the succour of us thy servants in this time of abstinence; may we gain God’s mercy by repentance and receive the Kingdom of Heaven."
 
 trMA.Ode8C1H.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C1H.mode = miscellanea_en_UK_ware.misc.Mode8
@@ -325,7 +325,7 @@ trMA.Ode8C13.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C13.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode8C13.melody = he.h.m8_en_UK_ware.heHE.EptaplasiosKaminon.name
 trMA.Ode8C13.incipit = "The ranks of angels, the…"
-trMA.Ode8C13.text = "The ranks of angels, the company of martyrs, the holy choir of the Lord's apostles, and the congregation of saints, bishops and prophets pray to Thee, loving and all-merciful God: grant true repentance to Thy servants during the season of abstinence that is now beginning."
+trMA.Ode8C13.text = "The ranks of angels, the company of martyrs, the holy choir of the Lord’s apostles, and the congregation of saints, bishops and prophets pray to Thee, loving and all-merciful God: grant true repentance to Thy servants during the season of abstinence that is now beginning."
 
 trMA.Ode8C1T.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C1T.mode = miscellanea_en_UK_ware.misc.Mode8
@@ -469,7 +469,7 @@ trMA.Ode9C24.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C24.mode = miscellanea_en_UK_ware.misc.Mode6
 trMA.Ode9C24.melody = he.h.m2_en_UK_ware.heHE.AporeiPasaGlossa.name
 trMA.Ode9C24.incipit = "Of Thine own will, O…"
-trMA.Ode9C24.text = "Of Thine own will, O Giver of Life, Thou hast stretched out Thine hands upon the Cross, and gathered into unity all that was divided. Thy side was pierced by a spear, O longsuffering Lord, and so Thou hast raised us from the fall that was brought upon us through the woman from Adam's side. With thanksgiving, then, we sing in praise of Thy compassion."
+trMA.Ode9C24.text = "Of Thine own will, O Giver of Life, Thou hast stretched out Thine hands upon the Cross, and gathered into unity all that was divided. Thy side was pierced by a spear, O longsuffering Lord, and so Thou hast raised us from the fall that was brought upon us through the woman from Adam’s side. With thanksgiving, then, we sing in praise of Thy compassion."
 
 trMA.Ode9C25.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C25.mode = miscellanea_en_UK_ware.misc.Mode6
@@ -524,8 +524,8 @@ trMA.Ode9C3H.text = he.h.m8_en_UK_ware.heHE.AllotrionTonMiteron.text
 
 trMA.AposIdiomelon1.mode = miscellanea_en_UK_ware.misc.Mode6
 trMA.AposIdiomelon1.melody = miscellanea_en_UK_ware.misc.Idiomelon
-trMA.AposIdiomelon1.incipit = "Before Christ's death upon the…"
-trMA.AposIdiomelon1.text = "Before Christ's death upon the saving Cross, sin ruled supreme and ungodliness prevailed. Men were counted blessed because of sensual pleasures, and only a few despised the appetites of the flesh. But once the mystery of the Cross was brought to pass, the tyranny of the demons was quenched by the knowledge of God, and heavenly virtue came to dwell upon the earth. So fasting now is held in honour, abstinence is glorified, and prayer is offered up. As a testimony to these things, the present season has been given to us by the crucified Christ our God, for the salvation of our souls."
+trMA.AposIdiomelon1.incipit = "Before Christ’s death upon the…"
+trMA.AposIdiomelon1.text = "Before Christ’s death upon the saving Cross, sin ruled supreme and ungodliness prevailed. Men were counted blessed because of sensual pleasures, and only a few despised the appetites of the flesh. But once the mystery of the Cross was brought to pass, the tyranny of the demons was quenched by the knowledge of God, and heavenly virtue came to dwell upon the earth. So fasting now is held in honour, abstinence is glorified, and prayer is offered up. As a testimony to these things, the present season has been given to us by the crucified Christ our God, for the salvation of our souls."
 
 trMA.AposMartyric.mode = miscellanea_en_UK_ware.misc.Mode6
 trMA.AposMartyric.melody = ""
@@ -536,7 +536,7 @@ trMA.AposTheotokion.mode = miscellanea_en_UK_ware.misc.Mode6
 trMA.AposTheotokion.greekmelody = he.a.m6_en_UK_ware.heAU.TriimerosAnestis.greekname
 trMA.AposTheotokion.melody = he.a.m6_en_UK_ware.heAU.TriimerosAnestis.name
 trMA.AposTheotokion.incipit = "When the all-pure Virgin saw…"
-trMA.AposTheotokion.text = "When the all-pure Virgin saw Thee hanging on the Cross, with a mother's grief she cried aloud: 'O my Son and my God, O my beloved Child, how dost Thou endure this shameful suffering?'" //oc.m6.d4_en_UK_ware.ocMA.AposTheotokion.text
+trMA.AposTheotokion.text = "When the all-pure Virgin saw Thee hanging on the Cross, with a mother’s grief she cried aloud: ‘O my Son and my God, O my beloved Child, how dost Thou endure this shameful suffering?’" //oc.m6.d4_en_UK_ware.ocMA.AposTheotokion.text
 
 trTE.Troparion.mode = miscellanea_en_UK_ware.misc.Mode6
 trTE.Troparion.melody = ""

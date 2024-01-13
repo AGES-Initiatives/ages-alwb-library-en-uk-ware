@@ -58,8 +58,8 @@ ocVE.Aposticha3.text = ""
 ocVE.AposTheotokion.mode = miscellanea_en_UK_ware.misc.Mode1
 ocVE.AposTheotokion.greekmelody = he.a.m1_en_UK_ware.heAU.PaneffimoiMartyres.greekname
 ocVE.AposTheotokion.melody = he.a.m1_en_UK_ware.heAU.PaneffimoiMartyres.name
-ocVE.AposTheotokion.incipit = "'A sword has pierced me…"
-ocVE.AposTheotokion.text = "'A sword has pierced me, O my Son,' said the Virgin when she saw Christ hanging on the Cross, 'and it has torn my heart, as Simeon once foretold to me. But arise, I pray Thee, O immortal Lord, and glorify Thy Mother and handmaiden.'"
+ocVE.AposTheotokion.incipit = "‘A sword has pierced me…"
+ocVE.AposTheotokion.text = "‘A sword has pierced me, O my Son,’ said the Virgin when she saw Christ hanging on the Cross, ‘and it has torn my heart, as Simeon once foretold to me. But arise, I pray Thee, O immortal Lord, and glorify Thy Mother and handmaiden.’"
 
 ocVE.ApolTheotokionVM.mode = miscellanea_en_UK_ware.misc.Mode1
 ocVE.ApolTheotokionVM.melody = ""
@@ -659,7 +659,7 @@ octrMA.Kathisma11.mode = miscellanea_en_UK_ware.misc.Mode1
 octrMA.Kathisma11.greekmelody = he.a.m1_en_UK_ware.heAU.TonTafonSouSotir.greekname
 octrMA.Kathisma11.melody = he.a.m1_en_UK_ware.heAU.TonTafonSouSotir.name
 octrMA.Kathisma11.incipit = "Beholding Thee, O Christ, stretched…"
-octrMA.Kathisma11.text = "Beholding Thee, O Christ, stretched dead upon the Cross, Thine all-blameless Mother cried aloud: 'O my Son, coeternal with the Father and the Spirit, what is this ineffable act of love, whereby in Thy compassion, Master, Thou hast saved the work of Thine own hands?'"
+octrMA.Kathisma11.text = "Beholding Thee, O Christ, stretched dead upon the Cross, Thine all-blameless Mother cried aloud: ‘O my Son, coeternal with the Father and the Spirit, what is this ineffable act of love, whereby in Thy compassion, Master, Thou hast saved the work of Thine own hands?’"
 
 octrMA.Kathisma12.mode = miscellanea_en_UK_ware.misc.Mode1
 octrMA.Kathisma12.greekmelody = he.a.m1_en_UK_ware.heAU.TouLithouSfragisthentos.greekname
@@ -670,7 +670,7 @@ octrMA.Kathisma12.text = oc.m1.d4_en_UK_ware.ocMA.Kathisma21.text
 octrMA.Kathisma1T.mode = miscellanea_en_UK_ware.misc.Mode1
 octrMA.Kathisma1T.melody = ""
 octrMA.Kathisma1T.incipit = "When the Ewe saw Thee…"
-octrMA.Kathisma1T.text = "When the Ewe saw Thee her Lamb, crucified upon the Tree between two thieves, O longsuffering Word, Thy side pierced by a spear, with a mother's grief she cried: 'O my Son, what is this strange and fearful mystery? How is God, whom nothing can contain, confined within a tomb? What words have power to describe these things? Forsake not Thy Mother, my beloved Child.'"
+octrMA.Kathisma1T.text = "When the Ewe saw Thee her Lamb, crucified upon the Tree between two thieves, O longsuffering Word, Thy side pierced by a spear, with a mother’s grief she cried: ‘O my Son, what is this strange and fearful mystery? How is God, whom nothing can contain, confined within a tomb? What words have power to describe these things? Forsake not Thy Mother, my beloved Child.’"
 
 octrMA.Ode7Martyricon.mode = miscellanea_en_UK_ware.misc.Mode1
 octrMA.Ode7Martyricon.melody = ""

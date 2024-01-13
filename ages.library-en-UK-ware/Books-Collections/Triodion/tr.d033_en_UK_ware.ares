@@ -126,7 +126,7 @@ trMA.Ode4C2A1.ode = miscellanea_en_UK_ware.misc.Ode4
 trMA.Ode4C2A1.mode = miscellanea_en_UK_ware.misc.Mode6
 trMA.Ode4C2A1.melody = he.h.m6_en_UK_ware.heHE.AkikoenOProfitis.name
 trMA.Ode4C2A1.incipit = "Through the radiance of your…"
-trMA.Ode4C2A1.text = "Through the radiance of your preaching ye have become the light of the world, as Christ said to you. O apostles, pray for us that with good courage we may complete the time of abstinence and venerate the Lord's Resurrection."
+trMA.Ode4C2A1.text = "Through the radiance of your preaching ye have become the light of the world, as Christ said to you. O apostles, pray for us that with good courage we may complete the time of abstinence and venerate the Lord’s Resurrection."
 
 trMA.Ode4C2H.ode = miscellanea_en_UK_ware.misc.Ode4
 trMA.Ode4C2H.mode = miscellanea_en_UK_ware.misc.Mode6
@@ -171,7 +171,7 @@ trMA.Ode8C22.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C22.mode = miscellanea_en_UK_ware.misc.Mode6
 trMA.Ode8C22.melody = he.h.m6_en_UK_ware.heHE.OnStratiaiOuranon.name
 trMA.Ode8C22.incipit = "Ye have overthrown the chariots…"
-trMA.Ode8C22.text = "Ye have overthrown the chariots of the invisible Pharaoh as in the Red Sea, O apostles, and ye have led the Lord's people into the land of the knowledge of God; and they sing His praises for ever."
+trMA.Ode8C22.text = "Ye have overthrown the chariots of the invisible Pharaoh as in the Red Sea, O apostles, and ye have led the Lord’s people into the land of the knowledge of God; and they sing His praises for ever."
 
 trMA.Ode8C2Tr.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C2Tr.mode = miscellanea_en_UK_ware.misc.Mode6
@@ -246,13 +246,13 @@ trMA.Ode9C2T.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C2T.mode = miscellanea_en_UK_ware.misc.Mode6
 trMA.Ode9C2T.melody = he.h.m6_en_UK_ware.heHE.AsporouSyllipseos.name
 trMA.Ode9C2T.incipit = "The manner of thy childbearing…"
-trMA.Ode9C2T.text = "The manner of thy childbearing fills me with wonder, O all-blameless Lady. How hast thou conceived without seed Him whom none can comprehend? How hast thou remained a Virgin and yet become a Mother? 'Accept the miracle with faith, and worship the Child that is born: for all that He wills, He has the power to do.'"
+trMA.Ode9C2T.text = "The manner of thy childbearing fills me with wonder, O all-blameless Lady. How hast thou conceived without seed Him whom none can comprehend? How hast thou remained a Virgin and yet become a Mother? ‘Accept the miracle with faith, and worship the Child that is born: for all that He wills, He has the power to do.’"
 
 trMA.Ode9C2A1.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C2A1.mode = miscellanea_en_UK_ware.misc.Mode6
 trMA.Ode9C2A1.melody = he.h.m6_en_UK_ware.heHE.AsporouSyllipseos.name
 trMA.Ode9C2A1.incipit = "In the power of the…"
-trMA.Ode9C2A1.text = "In the power of the Spirit ye went out to kings and rulers, fearing neither fire nor sword; as the Lord's chief captains, ye have put to flight all error and brought salvation to mankind, O all-blessed apostles."
+trMA.Ode9C2A1.text = "In the power of the Spirit ye went out to kings and rulers, fearing neither fire nor sword; as the Lord’s chief captains, ye have put to flight all error and brought salvation to mankind, O all-blessed apostles."
 
 trMA.Ode9C2H.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C2H.mode = miscellanea_en_UK_ware.misc.Mode6
@@ -269,7 +269,7 @@ trMA.AposIdiomelon1.text = "In this season of repentance, let us stretch out our
 trMA.AposMartyric.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.AposMartyric.melody = ""
 trMA.AposMartyric.incipit = "Putting on the breastplate of…"
-trMA.AposMartyric.text = "Putting on the breastplate of the Faith and armed with the sign of the Cross, ye showed yourselves courageous fighters. Bravely ye resisted tyrants and cast down the delusions of the devil; and ye were rewarded with a victor's crown. Intercede with Christ on our behalf, for the salvation of our souls." //oc.m8.d5_en_UK_ware.ocMA.Aposticha3.text
+trMA.AposMartyric.text = "Putting on the breastplate of the Faith and armed with the sign of the Cross, ye showed yourselves courageous fighters. Bravely ye resisted tyrants and cast down the delusions of the devil; and ye were rewarded with a victor’s crown. Intercede with Christ on our behalf, for the salvation of our souls." //oc.m8.d5_en_UK_ware.ocMA.Aposticha3.text
 
 trMA.AposTheotokion.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.AposTheotokion.melody = ""

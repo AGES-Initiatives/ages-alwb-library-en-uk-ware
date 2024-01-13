@@ -496,14 +496,14 @@ meMA.Ode3Kathisma3.mode = miscellanea_en_UK_ware.misc.Mode1
 meMA.Ode3Kathisma3.greekmelody = he.a.m1_en_UK_ware.heAU.TonTafonSouSotir.greekname
 meMA.Ode3Kathisma3.melody = he.a.m1_en_UK_ware.heAU.TonTafonSouSotir.name
 meMA.Ode3Kathisma3.incipit = "The mighty Rain comes forth…"
-meMA.Ode3Kathisma3.text = "The mighty Rain comes forth in the flesh to the streams of the river, desiring baptism. Filled with amazement the divine Forerunner said to Him: 'How shall I baptize Thee, who hast no stain at all? How shall I stretch out my right hand upon Thy head, before which all things tremble?'"
+meMA.Ode3Kathisma3.text = "The mighty Rain comes forth in the flesh to the streams of the river, desiring baptism. Filled with amazement the divine Forerunner said to Him: ‘How shall I baptize Thee, who hast no stain at all? How shall I stretch out my right hand upon Thy head, before which all things tremble?’"
 
 meMA.Ode4C1H.ode = miscellanea_en_UK_ware.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_UK_ware.misc.Mode1
 meMA.Ode4C1H.greekmelody = he.h.m1_en_UK_ware.heHE.RavdosEkTisRizis.greekname
 meMA.Ode4C1H.melody = he.h.m1_en_UK_ware.heHE.RavdosEkTisRizis.name
 meMA.Ode4C1H.incipit = "Habakkuk the wonderful heard Thy…"
-meMA.Ode4C1H.text = "Habakkuk the wonderful heard Thy voice in ancient times, and he cried out in fear: 'God shall come from Teman and the Holy One from the mountain overshadowed by the forest, to save Him anointed. Glory to Thy might, O Lord.'"
+meMA.Ode4C1H.text = "Habakkuk the wonderful heard Thy voice in ancient times, and he cried out in fear: ‘God shall come from Teman and the Holy One from the mountain overshadowed by the forest, to save Him anointed. Glory to Thy might, O Lord.’"
 
 meMA.Ode4C11.ode = miscellanea_en_UK_ware.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_UK_ware.misc.Mode1
@@ -522,7 +522,7 @@ meMA.Ode4C13.ode = miscellanea_en_UK_ware.misc.Ode4
 meMA.Ode4C13.mode = miscellanea_en_UK_ware.misc.Mode1
 meMA.Ode4C13.melody = he.h.m1_en_UK_ware.heHE.RavdosEkTisRizis.name
 meMA.Ode4C13.incipit = "The voice of one crying…"
-meMA.Ode4C13.text = "The voice of one crying prophetically sounded in the minds that were barren as the wilderness: 'Prepare ye the ways and make them straight for Christ who comes, that by baptism He may shape us anew who were grown old, loosing us from the ancient sentence.'"
+meMA.Ode4C13.text = "The voice of one crying prophetically sounded in the minds that were barren as the wilderness: ‘Prepare ye the ways and make them straight for Christ who comes, that by baptism He may shape us anew who were grown old, loosing us from the ancient sentence.’"
 
 meMA.Ode4C21.ode = miscellanea_en_UK_ware.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_UK_ware.misc.Mode2
@@ -592,7 +592,7 @@ meMA.Ode5C12.ode = miscellanea_en_UK_ware.misc.Ode5
 meMA.Ode5C12.mode = miscellanea_en_UK_ware.misc.Mode1
 meMA.Ode5C12.melody = he.h.m1_en_UK_ware.heHE.TheosOnEirinis.name
 meMA.Ode5C12.incipit = "Christ now comes in haste…"
-meMA.Ode5C12.text = "Christ now comes in haste to the waters, to crush the heads of the dragons, and He cries to the trembling Baptist: 'Stretch out thine hand and touch my head; and cast fear aside, fulfilling that which I command thee.'"
+meMA.Ode5C12.text = "Christ now comes in haste to the waters, to crush the heads of the dragons, and He cries to the trembling Baptist: ‘Stretch out thine hand and touch my head; and cast fear aside, fulfilling that which I command thee.’"
 
 meMA.Ode5C13.ode = miscellanea_en_UK_ware.misc.Ode5
 meMA.Ode5C13.mode = miscellanea_en_UK_ware.misc.Mode1
@@ -745,8 +745,8 @@ meMA.Ode7C1H.ode = miscellanea_en_UK_ware.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_UK_ware.misc.Mode1
 meMA.Ode7C1H.greekmelody = he.h.m1_en_UK_ware.heHE.OiPaidesEfseveia.greekname
 meMA.Ode7C1H.melody = he.h.m1_en_UK_ware.heHE.OiPaidesEfseveia.name
-meMA.Ode7C1H.incipit = "Made manifest in God's sight…"
-meMA.Ode7C1H.text = "Made manifest in God's sight through their piety, the Holy Children entered the unquenchable flames of the furnace as if it were a bridal chamber, and singing with one accord they raised their hymn: 'O God of our fathers, blessed art Thou.'"
+meMA.Ode7C1H.incipit = "Made manifest in God’s sight…"
+meMA.Ode7C1H.text = "Made manifest in God’s sight through their piety, the Holy Children entered the unquenchable flames of the furnace as if it were a bridal chamber, and singing with one accord they raised their hymn: ‘O God of our fathers, blessed art Thou.’"
 
 meMA.Ode7C11.ode = miscellanea_en_UK_ware.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_UK_ware.misc.Mode1
@@ -912,7 +912,7 @@ meMA.Ode9C11.mode = miscellanea_en_UK_ware.misc.Mode1
 meMA.Ode9C11.greekmelody = he.h.m1_en_UK_ware.heHE.MystirionXenon.greekname
 meMA.Ode9C11.melody = he.h.m1_en_UK_ware.heHE.MystirionXenon.name
 meMA.Ode9C11.incipit = "A strange and most wonderful…"
-meMA.Ode9C11.text = "A strange and most wonderful mystery do I see! Jesus comes of His own will to the river Jordan, crying aloud to John: 'O friend, lend Me thy right hand: for fearful things must I perform that I may claim My people for Mine own.'"
+meMA.Ode9C11.text = "A strange and most wonderful mystery do I see! Jesus comes of His own will to the river Jordan, crying aloud to John: ‘O friend, lend Me thy right hand: for fearful things must I perform that I may claim My people for Mine own.’"
 
 meMA.Ode9C12.ode = miscellanea_en_UK_ware.misc.Ode9
 meMA.Ode9C12.mode = miscellanea_en_UK_ware.misc.Mode1

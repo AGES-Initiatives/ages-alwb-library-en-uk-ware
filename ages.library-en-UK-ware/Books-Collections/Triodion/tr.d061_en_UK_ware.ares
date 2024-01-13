@@ -23,13 +23,13 @@ trVE.AposIdiomelon1.text = "I am rich in passions and clothed in the deceitful r
 trVE.AposMartyric.mode = miscellanea_en_UK_ware.misc.Mode5
 trVE.AposMartyric.melody = ""
 trVE.AposMartyric.incipit = "Your souls, O holy martyrs…"
-trVE.AposMartyric.text = "Your souls, O holy martyrs, were filled with an insatiable love; not denying Christ ye endured great sufferings and torment, and ye cast down the tyrants' pride. Ye kept the faith unaltered and unharmed, and now ye have gone to dwell in heaven. Since ye have boldness before Christ, pray that peace be given to the world, and to our souls great mercy." //oc.m5.d5_en_UK_ware.ocVE.Aposticha3.text
+trVE.AposMartyric.text = "Your souls, O holy martyrs, were filled with an insatiable love; not denying Christ ye endured great sufferings and torment, and ye cast down the tyrants’ pride. Ye kept the faith unaltered and unharmed, and now ye have gone to dwell in heaven. Since ye have boldness before Christ, pray that peace be given to the world, and to our souls great mercy." //oc.m5.d5_en_UK_ware.ocVE.Aposticha3.text
 
 trVE.Stichera01.mode = miscellanea_en_UK_ware.misc.Mode5
 trVE.Stichera01.greekmelody = he.a.m5_en_UK_ware.heAU.ChairoisAskitikon.greekname
 trVE.Stichera01.melody = he.a.m5_en_UK_ware.heAU.ChairoisAskitikon.name
 trVE.Stichera01.incipit = "When Thou wast journeying in…"
-trVE.Stichera01.text = "When Thou wast journeying in the flesh, O Jesus, on the other side of the Jordan, Thou hast said to Thy companions: 'My friend Lazarus is already dead, and now bas been committed to the tomb. And so for your sakes I rejoice, my friends, for by this ye shall learn that I know all things, since I am God, inseparable from the Father, though in my visible appearance I am man. Let us go then, to bring him back to life, that death may feel the defeat and utter destruction that I bring upon it, bestowing my great mercy on the world.'"
+trVE.Stichera01.text = "When Thou wast journeying in the flesh, O Jesus, on the other side of the Jordan, Thou hast said to Thy companions: ‘My friend Lazarus is already dead, and now bas been committed to the tomb. And so for your sakes I rejoice, my friends, for by this ye shall learn that I know all things, since I am God, inseparable from the Father, though in my visible appearance I am man. Let us go then, to bring him back to life, that death may feel the defeat and utter destruction that I bring upon it, bestowing my great mercy on the world.’"
 
 trVE.Stichera02.mode = miscellanea_en_UK_ware.misc.Mode5
 trVE.Stichera02.greekmelody = he.a.m5_en_UK_ware.heAU.ChairoisAskitikon.greekname
@@ -149,8 +149,8 @@ trMA.Ode8C11.text = "O divinely inspired apostles of the Lord, stones built upon
 trMA.Ode8C12.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C12.mode = miscellanea_en_UK_ware.misc.Mode5
 trMA.Ode8C12.melody = he.h.m5_en_UK_ware.heHE.SoiToPantourgo.name
-trMA.Ode8C12.incipit = "'Let us go', Thou hast…"
-trMA.Ode8C12.text = "'Let us go', Thou hast said beforehand to Thy friends. 'Lazarus My friend has already fallen asleep. But by awakening him I shall destroy for ever the evil and destructive power of death.'"
+trMA.Ode8C12.incipit = "‘Let us go’, Thou hast…"
+trMA.Ode8C12.text = "‘Let us go’, Thou hast said beforehand to Thy friends. ‘Lazarus My friend has already fallen asleep. But by awakening him I shall destroy for ever the evil and destructive power of death.’"
 
 trMA.Ode8C13.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C13.mode = miscellanea_en_UK_ware.misc.Mode5
@@ -169,13 +169,13 @@ trMA.Ode8C21.mode = miscellanea_en_UK_ware.misc.Mode6
 trMA.Ode8C21.greekmelody = he.h.m6_en_UK_ware.heHE.OiOsioiSouPaides.greekname
 trMA.Ode8C21.melody = he.h.m6_en_UK_ware.heHE.OiOsioiSouPaides.name
 trMA.Ode8C21.incipit = "Mary and Martha now lament…"
-trMA.Ode8C21.text = "Mary and Martha now lament, beholding Lazarus laid in the tomb, and in distress they cry aloud: 'Had Christ been here, our brother had not died.'"
+trMA.Ode8C21.text = "Mary and Martha now lament, beholding Lazarus laid in the tomb, and in distress they cry aloud: ‘Had Christ been here, our brother had not died.’"
 
 trMA.Ode8C22.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C22.mode = miscellanea_en_UK_ware.misc.Mode6
 trMA.Ode8C22.melody = he.h.m6_en_UK_ware.heHE.OiOsioiSouPaides.name
 trMA.Ode8C22.incipit = "Let hell expect its own…"
-trMA.Ode8C22.text = "Let hell expect its own destruction. For the Life comes to raise up Lazarus, who cries aloud: O Bless, praise and exalt ye the Lord above all for ever.'"
+trMA.Ode8C22.text = "Let hell expect its own destruction. For the Life comes to raise up Lazarus, who cries aloud: O Bless, praise and exalt ye the Lord above all for ever.’"
 
 trMA.Ode8C2Tr.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C2Tr.mode = miscellanea_en_UK_ware.misc.Mode6
@@ -238,7 +238,7 @@ trMA.Ode9C22.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C22.mode = miscellanea_en_UK_ware.misc.Mode6
 trMA.Ode9C22.melody = he.h.m6_en_UK_ware.heHE.AsporouSyllipseos.name
 trMA.Ode9C22.incipit = "O all-destroying death, expect now…"
-trMA.Ode9C22.text = "O all-destroying death, expect now thine own dissolution. Let thy doorkeepers look to the bolts and bars: for Christ shall raise up Lazarus and shatter thy gates by His word. With us the Prophet cries to thee, 'O hell, drink this first.'"
+trMA.Ode9C22.text = "O all-destroying death, expect now thine own dissolution. Let thy doorkeepers look to the bolts and bars: for Christ shall raise up Lazarus and shatter thy gates by His word. With us the Prophet cries to thee, ‘O hell, drink this first.’"
 
 trMA.Ode9C2Tr.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C2Tr.mode = miscellanea_en_UK_ware.misc.Mode6
@@ -250,7 +250,7 @@ trMA.Ode9C2T.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C2T.mode = miscellanea_en_UK_ware.misc.Mode6
 trMA.Ode9C2T.melody = he.h.m6_en_UK_ware.heHE.AsporouSyllipseos.name
 trMA.Ode9C2T.incipit = "The marvel of thy childbearing…"
-trMA.Ode9C2T.text = "The marvel of thy childbearing fills me with wonder, O all-blameless Lady. How hast thou conceived without seed Him whom none can comprehend? How hast thou remained a Virgin and yet become a Mother? 'Accept the miracle with faith, and worship the Child that is born: for all that He wills, He has the power to do.'"
+trMA.Ode9C2T.text = "The marvel of thy childbearing fills me with wonder, O all-blameless Lady. How hast thou conceived without seed Him whom none can comprehend? How hast thou remained a Virgin and yet become a Mother? ‘Accept the miracle with faith, and worship the Child that is born: for all that He wills, He has the power to do.’"
 
 trMA.Ode9C2A1.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C2A1.mode = miscellanea_en_UK_ware.misc.Mode6
@@ -273,7 +273,7 @@ trMA.AposIdiomelon1.text = "Come, brethren, and before the end with pure hearts 
 trMA.AposMartyric.mode = miscellanea_en_UK_ware.misc.Mode5
 trMA.AposMartyric.melody = ""
 trMA.AposMartyric.incipit = //oc.m5.d5_en_UK_ware.ocMA.Aposticha3.incipit
-trMA.AposMartyric.text = //oc.m5.d5_en_UK_ware.ocMA.Aposticha3.text "In their torments, the saints cried out rejoicing: 'This is the exchange that we make with the Master: in return for the wounds inflicted on our bodies, He will clothe us at the Resurrection with a garment of light; in return for dishonour, we shall receive crowns; in return for imprisonment, Paradise; and in return for condemnation 'With evildoers, life with the angels.' At their prayers, O Lord, save our souls."
+trMA.AposMartyric.text = //oc.m5.d5_en_UK_ware.ocMA.Aposticha3.text "In their torments, the saints cried out rejoicing: ‘This is the exchange that we make with the Master: in return for the wounds inflicted on our bodies, He will clothe us at the Resurrection with a garment of light; in return for dishonour, we shall receive crowns; in return for imprisonment, Paradise; and in return for condemnation ‘With evildoers, life with the angels.’ At their prayers, O Lord, save our souls."
 
 trMA.AposTheotokion.mode = miscellanea_en_UK_ware.misc.Mode5
 trMA.AposTheotokion.melody = ""

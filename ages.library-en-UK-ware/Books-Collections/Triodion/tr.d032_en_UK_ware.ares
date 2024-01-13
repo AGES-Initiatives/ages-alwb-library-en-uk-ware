@@ -47,7 +47,7 @@ trVE.AposTheotokion.mode = miscellanea_en_UK_ware.misc.Mode3
 trVE.AposTheotokion.greekmelody = he.a.m3_en_UK_ware.heAU.MegaliTouStavrouSou.greekname
 trVE.AposTheotokion.melody = he.a.m3_en_UK_ware.heAU.MegaliTouStavrouSou.name
 trVE.AposTheotokion.incipit = "Seeing thy Son hanging upon…"
-trVE.AposTheotokion.text = "Seeing thy Son hanging upon the Tree, O undefiled Virgin, lamenting thou hast cried aloud: 'Where is Thy light-giving beauty gone, with which Thou hast adorned man's nature, O my beloved Child?'" //oc.m3.d6_en_UK_ware.ocVE.SticTheotokion.text
+trVE.AposTheotokion.text = "Seeing thy Son hanging upon the Tree, O undefiled Virgin, lamenting thou hast cried aloud: ‘Where is Thy light-giving beauty gone, with which Thou hast adorned man’s nature, O my beloved Child?’" //oc.m3.d6_en_UK_ware.ocVE.SticTheotokion.text
 
 trMA.Kathisma21.mode = miscellanea_en_UK_ware.misc.Mode1
 trMA.Kathisma21.greekmelody = he.a.m1_en_UK_ware.heAU.TonTafonSouSotir.greekname
@@ -59,7 +59,7 @@ trMA.Kathisma22.mode = miscellanea_en_UK_ware.misc.Mode1
 trMA.Kathisma22.greekmelody = he.a.m1_en_UK_ware.heAU.TonTafonSouSotir.greekname
 trMA.Kathisma22.melody = he.a.m1_en_UK_ware.heAU.TonTafonSouSotir.name
 trMA.Kathisma22.incipit = "When the Ewe saw Thee…"
-trMA.Kathisma22.text = "When the Ewe saw Thee her Lamb, O Christ, hanging upon the Cross between two malefactors, she cried aloud weeping and lamenting bitterly: 'O dearest Child, what is this wonder that I see?' 'O most pure Mother,' so Thou hast replied, 'this same wonder shall bring life to all the world.'"
+trMA.Kathisma22.text = "When the Ewe saw Thee her Lamb, O Christ, hanging upon the Cross between two malefactors, she cried aloud weeping and lamenting bitterly: ‘O dearest Child, what is this wonder that I see?’ ‘O most pure Mother,’ so Thou hast replied, ‘this same wonder shall bring life to all the world.’"
 
 trMA.Kathisma31.mode = miscellanea_en_UK_ware.misc.Mode3
 trMA.Kathisma31.greekmelody = he.a.m3_en_UK_ware.heAU.TinOraiotita.greekname
@@ -170,7 +170,7 @@ trMA.Ode8C21.mode = miscellanea_en_UK_ware.misc.Mode3
 trMA.Ode8C21.greekmelody = he.h.m3_en_UK_ware.heHE.TonEnFlogi.greekname
 trMA.Ode8C21.melody = he.h.m3_en_UK_ware.heHE.TonEnFlogi.name
 trMA.Ode8C21.incipit = "Rejoice, O Cross, for by…"
-trMA.Ode8C21.text = "Rejoice, O Cross, for by thy power the thief in a single moment acknowledged Christ's divinity, crying: 'Lord, remember me in Thy Kingdom.' Make us also sharers in that Kingdom."
+trMA.Ode8C21.text = "Rejoice, O Cross, for by thy power the thief in a single moment acknowledged Christ’s divinity, crying: ‘Lord, remember me in Thy Kingdom.’ Make us also sharers in that Kingdom."
 
 trMA.Ode8C22.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C22.mode = miscellanea_en_UK_ware.misc.Mode3
@@ -251,7 +251,7 @@ trMA.Ode9C2T.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C2T.mode = miscellanea_en_UK_ware.misc.Mode3
 trMA.Ode9C2T.melody = he.h.m3_en_UK_ware.heHE.EnSinaioToOrei.name
 trMA.Ode9C2T.incipit = "Who has ever heard of…"
-trMA.Ode9C2T.text = "Who has ever heard of a virgin that bore child and a mother that knew not man? O Mary, this miracle hast thou accomplished, but tell me how? 'Do not enquire into the mystery of my childbearing: it is altogether true, yet beyond man's understanding.'"
+trMA.Ode9C2T.text = "Who has ever heard of a virgin that bore child and a mother that knew not man? O Mary, this miracle hast thou accomplished, but tell me how? ‘Do not enquire into the mystery of my childbearing: it is altogether true, yet beyond man’s understanding.’"
 
 trMA.Ode9C2A1.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C2A1.mode = miscellanea_en_UK_ware.misc.Mode3

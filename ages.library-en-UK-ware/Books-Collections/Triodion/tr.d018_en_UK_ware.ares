@@ -17,7 +17,7 @@ trCO.header = ""
 trVE.AposIdiomelon1.mode = miscellanea_en_UK_ware.misc.Mode1
 trVE.AposIdiomelon1.melody = miscellanea_en_UK_ware.misc.Idiomelon
 trVE.AposIdiomelon1.incipit = "With great joy let us…"
-trVE.AposIdiomelon1.text = "With great joy let us accept, ye faithful, God's tidings that proclaim the coming of the Fast, as did the Ninevites of old, and the harlots and the publicans who listened to John's preaching of repentance. Through abstinence let us prepare ourselves for communion at the Master's Liturgy in Zion; with tears let us cleanse ourselves before the Washing of the Feet; and let us pray that we may there behold the fulfillment of the Old Passover and the revealing of the New. Let us make ready to adore the Cross and the Awakening of Christ our God, and let us cry aloud to Him: O Thou who lovest mankind, put us not to shame, deprive us not of our expectation."
+trVE.AposIdiomelon1.text = "With great joy let us accept, ye faithful, God’s tidings that proclaim the coming of the Fast, as did the Ninevites of old, and the harlots and the publicans who listened to John’s preaching of repentance. Through abstinence let us prepare ourselves for communion at the Master’s Liturgy in Zion; with tears let us cleanse ourselves before the Washing of the Feet; and let us pray that we may there behold the fulfillment of the Old Passover and the revealing of the New. Let us make ready to adore the Cross and the Awakening of Christ our God, and let us cry aloud to Him: O Thou who lovest mankind, put us not to shame, deprive us not of our expectation."
 
 trVE.AposMartyric.mode = miscellanea_en_UK_ware.misc.Mode1
 trVE.AposMartyric.melody = ""
@@ -28,19 +28,19 @@ trVE.AposTheotokion.mode = miscellanea_en_UK_ware.misc.Mode1
 trVE.AposTheotokion.greekmelody = he.a.m1_en_UK_ware.heAU.PaneffimoiMartyres.greekname
 trVE.AposTheotokion.melody = he.a.m1_en_UK_ware.heAU.PaneffimoiMartyres.name
 trVE.AposTheotokion.incipit = "When the undefiled Virgin saw…"
-trVE.AposTheotokion.text = "When the undefiled Virgin saw upon the Tree the Son who without seed had been born from her womb, unable to endure the wound in her heart, she cried aloud in grief: 'O Thou who rulest all creation by Thy will, how art Thou lifted on the Cross as one condemned? Thou sufferest, because it is Thy will to save mankind.'"
+trVE.AposTheotokion.text = "When the undefiled Virgin saw upon the Tree the Son who without seed had been born from her womb, unable to endure the wound in her heart, she cried aloud in grief: ‘O Thou who rulest all creation by Thy will, how art Thou lifted on the Cross as one condemned? Thou sufferest, because it is Thy will to save mankind.’"
 
 trMA.Kathisma21.mode = miscellanea_en_UK_ware.misc.Mode2
 trMA.Kathisma21.greekmelody = he.a.m2_en_UK_ware.heAU.EfsplagchniasYparchousa.greekname
 trMA.Kathisma21.melody = he.a.m2_en_UK_ware.heAU.EfsplagchniasYparchousa.name
 trMA.Kathisma21.incipit = "Grant us humbly and in…"
-trMA.Kathisma21.text = "Grant us humbly and in peace to pass through the days of cleansing that prepare us for the Fast. In Thine ineffable love for mankind, O Christ our God, destroy the wicked schemes of the enemy and preserve us all by Thy Cross, for Thou alone knowest the secrets of man's heart."
+trMA.Kathisma21.text = "Grant us humbly and in peace to pass through the days of cleansing that prepare us for the Fast. In Thine ineffable love for mankind, O Christ our God, destroy the wicked schemes of the enemy and preserve us all by Thy Cross, for Thou alone knowest the secrets of man’s heart."
 
 trMA.Kathisma22.mode = miscellanea_en_UK_ware.misc.Mode2
 trMA.Kathisma22.greekmelody = he.a.m2_en_UK_ware.heAU.EfsplagchniasYparchousa.greekname
 trMA.Kathisma22.melody = he.a.m2_en_UK_ware.heAU.EfsplagchniasYparchousa.name
 trMA.Kathisma22.incipit = "Thy Virgin Mother, standing by…"
-trMA.Kathisma22.text = "Thy Virgin Mother, standing by Thy Cross, could not endure to see Thee suffering unjustly, but weeping and lamenting she cried out to Thee: 'O Child dear to my heart, how dost Thou suffer, though Thou art impassible by nature? I sing the praises of Thy perfect love.'" //oc.m2.d4_en_UK_ware.ocMA.Kathisma23.text
+trMA.Kathisma22.text = "Thy Virgin Mother, standing by Thy Cross, could not endure to see Thee suffering unjustly, but weeping and lamenting she cried out to Thee: ‘O Child dear to my heart, how dost Thou suffer, though Thou art impassible by nature? I sing the praises of Thy perfect love.’" //oc.m2.d4_en_UK_ware.ocMA.Kathisma23.text
 
 trMA.C1.poet = poets_en_UK_ware.po.AndreouKritis
 
@@ -130,7 +130,7 @@ trMA.Ode3C23.ode = miscellanea_en_UK_ware.misc.Ode3
 trMA.Ode3C23.mode = miscellanea_en_UK_ware.misc.Mode2
 trMA.Ode3C23.melody = he.h.m2_en_UK_ware.heHE.EnPetraMeTisPisteos.name
 trMA.Ode3C23.incipit = "The gateway to the Fast…"
-trMA.Ode3C23.text = "The gateway to the Fast has been opened; the arena of abstinence lies here before us. Let us rouse ourselves with fiery eagerness, and so we shall receive God's grace to quench the burning flames of our offences."
+trMA.Ode3C23.text = "The gateway to the Fast has been opened; the arena of abstinence lies here before us. Let us rouse ourselves with fiery eagerness, and so we shall receive God’s grace to quench the burning flames of our offences."
 
 trMA.Ode3C24.ode = miscellanea_en_UK_ware.misc.Ode3
 trMA.Ode3C24.mode = miscellanea_en_UK_ware.misc.Mode2
@@ -463,7 +463,7 @@ trMA.Ode9C23.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C23.mode = miscellanea_en_UK_ware.misc.Mode2
 trMA.Ode9C23.melody = he.h.m2_en_UK_ware.heHE.TonEkTheouTheonLogon.name
 trMA.Ode9C23.incipit = "Bringer of light, the Fast…"
-trMA.Ode9C23.text = "Bringer of light, the Fast has mixed for us a cup filled with God's gifts of grace, which on this day of preparation it shows to all of us. If we wish to have a share in this grace for our soul's salvation, let us pray to the Master of all to lend us His aid."
+trMA.Ode9C23.text = "Bringer of light, the Fast has mixed for us a cup filled with God’s gifts of grace, which on this day of preparation it shows to all of us. If we wish to have a share in this grace for our soul’s salvation, let us pray to the Master of all to lend us His aid."
 
 trMA.Ode9C24.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C24.mode = miscellanea_en_UK_ware.misc.Mode2
@@ -524,7 +524,7 @@ trMA.Ode9C3H.text = he.h.m2_en_UK_ware.heHE.TinYperfyosSarki.text
 trMA.AposIdiomelon1.mode = miscellanea_en_UK_ware.misc.Mode1
 trMA.AposIdiomelon1.melody = miscellanea_en_UK_ware.misc.Idiomelon
 trMA.AposIdiomelon1.incipit = "If thou dost fast from…"
-trMA.AposIdiomelon1.text = "If thou dost fast from food, my soul, yet dost not cleanse thyself from passions, thou dost rejoice in vain over thine abstinence. For if thy purpose is not turned towards amendment of life, as a liar thou art hateful in God's sight, and thou dost resemble the evil demons who never eat at all. Do not by sinning make the fast worthless, but firmly resist all wicked impulses. Picture to thyself that thou art standing beside the crucified Saviour, or rather, that thou art thyself crucified with Him who was crucified for thee; and cry out to Him: Remember me, O Lord, when Thou comest in Thy Kingdom."
+trMA.AposIdiomelon1.text = "If thou dost fast from food, my soul, yet dost not cleanse thyself from passions, thou dost rejoice in vain over thine abstinence. For if thy purpose is not turned towards amendment of life, as a liar thou art hateful in God’s sight, and thou dost resemble the evil demons who never eat at all. Do not by sinning make the fast worthless, but firmly resist all wicked impulses. Picture to thyself that thou art standing beside the crucified Saviour, or rather, that thou art thyself crucified with Him who was crucified for thee; and cry out to Him: Remember me, O Lord, when Thou comest in Thy Kingdom."
 
 trMA.AposMartyric.mode = miscellanea_en_UK_ware.misc.Mode1
 trMA.AposMartyric.melody = ""
@@ -535,7 +535,7 @@ trMA.AposTheotokion.mode = miscellanea_en_UK_ware.misc.Mode1
 trMA.AposTheotokion.greekmelody = he.a.m1_en_UK_ware.heAU.TonOuranionTagmaton.greekname
 trMA.AposTheotokion.melody = he.a.m1_en_UK_ware.heAU.TonOuranionTagmaton.name
 trMA.AposTheotokion.incipit = "When she saw the Lamb…"
-trMA.AposTheotokion.text = "When she saw the Lamb hanging on the Cross, the undefiled Virgin lamented and cried: 'O my beloved Child, what is this strange and fearful sight? O Thou who holdest all things in the hollow of Thy hand, how art Thou nailed in the flesh to the wood?'" //oc.m1.d6_en_UK_ware.ocVE.SticTheotokion.text
+trMA.AposTheotokion.text = "When she saw the Lamb hanging on the Cross, the undefiled Virgin lamented and cried: ‘O my beloved Child, what is this strange and fearful sight? O Thou who holdest all things in the hollow of Thy hand, how art Thou nailed in the flesh to the wood?’" //oc.m1.d6_en_UK_ware.ocVE.SticTheotokion.text
 
 trTE.Troparion.mode = miscellanea_en_UK_ware.misc.Mode3
 trTE.Troparion.melody = ""

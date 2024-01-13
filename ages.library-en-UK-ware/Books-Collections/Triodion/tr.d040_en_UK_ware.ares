@@ -18,7 +18,7 @@ trVL.header = "" //for pdf headers of presanctified and vesperal liturgies
 trVE.AposIdiomelon1.mode = miscellanea_en_UK_ware.misc.Mode4
 trVE.AposIdiomelon1.melody = miscellanea_en_UK_ware.misc.Idiomelon
 trVE.AposIdiomelon1.incipit = "As the Prodigal I have…"
-trVE.AposIdiomelon1.text = "As the Prodigal I have wasted the riches which the Father gave me. Now I am destitute and dwell in the land of wicked citizens; in my thoughtlessness I have become like the beasts without understanding, and I am stripped of all God's grace. But turning back I cry to Thee, the compassionate and merciful Father: I have sinned, receive me in repentance, O God, and have mercy upon me."
+trVE.AposIdiomelon1.text = "As the Prodigal I have wasted the riches which the Father gave me. Now I am destitute and dwell in the land of wicked citizens; in my thoughtlessness I have become like the beasts without understanding, and I am stripped of all God’s grace. But turning back I cry to Thee, the compassionate and merciful Father: I have sinned, receive me in repentance, O God, and have mercy upon me."
 
 trVE.AposMartyric.mode = miscellanea_en_UK_ware.misc.Mode4
 trVE.AposMartyric.melody = ""
@@ -36,7 +36,7 @@ trVE.Stichera02.mode = miscellanea_en_UK_ware.misc.Mode6
 trVE.Stichera02.greekmelody = he.a.m6_en_UK_ware.heAU.OlinApothemenoi.greekname
 trVE.Stichera02.melody = he.a.m6_en_UK_ware.heAU.OlinApothemenoi.name
 trVE.Stichera02.incipit = "Like the Prodigal Son, I…"
-trVE.Stichera02.text = "Like the Prodigal Son, I have journeyed into a far country of wickedness, and I have wasted in evil the wealth that Thou gavest me, O compassionate Father. I am starved of good deeds and clothed in the shame of my transgression, for I have been stripped bare of God's grace. I cry to Thee: I have sinned, yet I know Thy lovingkindness; accept me as one of Thy hired servants, O merciful Christ, at the prayers of the apostles who loved Thee."
+trVE.Stichera02.text = "Like the Prodigal Son, I have journeyed into a far country of wickedness, and I have wasted in evil the wealth that Thou gavest me, O compassionate Father. I am starved of good deeds and clothed in the shame of my transgression, for I have been stripped bare of God’s grace. I cry to Thee: I have sinned, yet I know Thy lovingkindness; accept me as one of Thy hired servants, O merciful Christ, at the prayers of the apostles who loved Thee."
 
 trVE.Stichera03.poet = poets_en_UK_ware.po.Theodorou
 trVE.Stichera03.mode = miscellanea_en_UK_ware.misc.Mode6
@@ -101,7 +101,7 @@ trMA.Ode4C21.mode = miscellanea_en_UK_ware.misc.Mode6
 trMA.Ode4C21.greekmelody = he.h.m6_en_UK_ware.heHE.AkikoenOProfitis.greekname
 trMA.Ode4C21.melody = he.h.m6_en_UK_ware.heHE.AkikoenOProfitis.name
 trMA.Ode4C21.incipit = "O apostles of the Saviour…"
-trMA.Ode4C21.text = "O apostles of the Saviour, shining torches of God's revelation, ye have dispersed the night of ignorance: ye fill the Church with brightness and give light to the inhabited earth with the fiery tongues of your divine teaching."
+trMA.Ode4C21.text = "O apostles of the Saviour, shining torches of God’s revelation, ye have dispersed the night of ignorance: ye fill the Church with brightness and give light to the inhabited earth with the fiery tongues of your divine teaching."
 
 trMA.Ode4C22.ode = miscellanea_en_UK_ware.misc.Ode4
 trMA.Ode4C22.mode = miscellanea_en_UK_ware.misc.Mode6
@@ -245,7 +245,7 @@ trMA.Ode9C2T.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C2T.mode = miscellanea_en_UK_ware.misc.Mode6
 trMA.Ode9C2T.melody = he.h.m6_en_UK_ware.heHE.AsporouSyllipseos.name
 trMA.Ode9C2T.incipit = "The marvel of thy childbearing…"
-trMA.Ode9C2T.text = "The marvel of thy childbearing fills me with wonder, O all-blameless Lady. How hast thou conceived without seed Him whom none can comprehend? How hast thou remained a Virgin and yet become a Mother? 'Accept the miracle with faith, and worship the Child that is born, for all that He wills, He has the power to do.'"
+trMA.Ode9C2T.text = "The marvel of thy childbearing fills me with wonder, O all-blameless Lady. How hast thou conceived without seed Him whom none can comprehend? How hast thou remained a Virgin and yet become a Mother? ‘Accept the miracle with faith, and worship the Child that is born, for all that He wills, He has the power to do.’"
 
 trMA.Ode9C2A1.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C2A1.mode = miscellanea_en_UK_ware.misc.Mode6

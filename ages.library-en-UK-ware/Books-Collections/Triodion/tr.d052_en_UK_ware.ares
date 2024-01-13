@@ -227,7 +227,7 @@ trMA.Ode9C13.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C13.mode = miscellanea_en_UK_ware.misc.Mode3
 trMA.Ode9C13.melody = he.h.m3_en_UK_ware.heHE.SeTinAkataflekton.name
 trMA.Ode9C13.incipit = "Keeping in mind the fearful…"
-trMA.Ode9C13.text = "Keeping in mind the fearful judgement seat, my wretched soul, always guide thy steps to the accomplishment of the Redeemer's will."
+trMA.Ode9C13.text = "Keeping in mind the fearful judgement seat, my wretched soul, always guide thy steps to the accomplishment of the Redeemer’s will."
 
 trMA.Ode9C1T.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C1T.mode = miscellanea_en_UK_ware.misc.Mode3
@@ -240,7 +240,7 @@ trMA.Ode9C21.mode = miscellanea_en_UK_ware.misc.Mode2
 trMA.Ode9C21.greekmelody = he.h.m2_en_UK_ware.heHE.TinYperfyosSarki.greekname
 trMA.Ode9C21.melody = he.h.m2_en_UK_ware.heHE.TinYperfyosSarki.name
 trMA.Ode9C21.incipit = "Let us offer to Christ…"
-trMA.Ode9C21.text = "Let us offer to Christ all the members of our body as weapons of righteousness, 'lifting up', as it is written, 'holy hands, without wrath and doubting'."
+trMA.Ode9C21.text = "Let us offer to Christ all the members of our body as weapons of righteousness, ‘lifting up’, as it is written, ‘holy hands, without wrath and doubting’."
 
 trMA.Ode9C22.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C22.mode = miscellanea_en_UK_ware.misc.Mode2
@@ -258,7 +258,7 @@ trMA.Ode9C2T.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C2T.mode = miscellanea_en_UK_ware.misc.Mode2
 trMA.Ode9C2T.melody = he.h.m2_en_UK_ware.heHE.TinYperfyosSarki.name
 trMA.Ode9C2T.incipit = "Though a pure maiden thou…"
-trMA.Ode9C2T.text = "Though a pure maiden thou hearest child, and though a virgin thou givest suck. How can these things be found together? How dost thou give birth and yet remain virgin? 'It is God who has brought this to pass; ask me not how.'"
+trMA.Ode9C2T.text = "Though a pure maiden thou hearest child, and though a virgin thou givest suck. How can these things be found together? How dost thou give birth and yet remain virgin? ‘It is God who has brought this to pass; ask me not how.’"
 
 trMA.Ode9C2A1.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C2A1.mode = miscellanea_en_UK_ware.misc.Mode2
@@ -281,12 +281,12 @@ trMA.AposIdiomelon1.text = "Visit, Lord, my wounded and humiliated soul, O Physi
 trMA.AposMartyric.mode = miscellanea_en_UK_ware.misc.Mode7
 trMA.AposMartyric.melody = ""
 trMA.AposMartyric.incipit = "In the midst of the…"
-trMA.AposMartyric.text = "In the midst of the arena, before the lawless pagans, the victorious martyrs cried aloud rejoicing: 'O Lord, glory to Thee.'"
+trMA.AposMartyric.text = "In the midst of the arena, before the lawless pagans, the victorious martyrs cried aloud rejoicing: ‘O Lord, glory to Thee.’"
 
 trMA.AposTheotokion.mode = miscellanea_en_UK_ware.misc.Mode7
 trMA.AposTheotokion.melody = ""
 trMA.AposTheotokion.incipit = "We sing thy praises, most…"
-trMA.AposTheotokion.text = "We sing thy praises, most pure Theotokos; we glorify God the Word whom thou hast borne, and we cry: 'Glory to thee.'"
+trMA.AposTheotokion.text = "We sing thy praises, most pure Theotokos; we glorify God the Word whom thou hast borne, and we cry: ‘Glory to thee.’"
 
 trTE.Troparion.mode = miscellanea_en_UK_ware.misc.Mode3
 trTE.Troparion.melody = ""

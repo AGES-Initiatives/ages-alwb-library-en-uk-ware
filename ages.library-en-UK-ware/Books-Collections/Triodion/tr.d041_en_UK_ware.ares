@@ -48,7 +48,7 @@ trVE.AposTheotokion.mode = miscellanea_en_UK_ware.misc.Mode6
 trVE.AposTheotokion.greekmelody = he.a.m6_en_UK_ware.heAU.TriimerosAnestis.greekname
 trVE.AposTheotokion.melody = he.a.m6_en_UK_ware.heAU.TriimerosAnestis.name
 trVE.AposTheotokion.incipit = "Beholding Thee crucified, O Christ…"
-trVE.AposTheotokion.text = "Beholding Thee crucified, O Christ, Thy Mother cried aloud: 'O my Son, what is this strange mystery that I behold? Nailed in the flesh, O Giver of Life, how dost Thou die upon the Tree?'" //oc.m6.d4_en_UK_ware.ocVE.AposTheotokion.text
+trVE.AposTheotokion.text = "Beholding Thee crucified, O Christ, Thy Mother cried aloud: ‘O my Son, what is this strange mystery that I behold? Nailed in the flesh, O Giver of Life, how dost Thou die upon the Tree?’" //oc.m6.d4_en_UK_ware.ocVE.AposTheotokion.text
 
 trMA.Kathisma21.mode = miscellanea_en_UK_ware.misc.Mode5
 trMA.Kathisma21.greekmelody = he.a.m5_en_UK_ware.heAU.TonSynanarchonLogon.greekname
@@ -60,7 +60,7 @@ trMA.Kathisma22.mode = miscellanea_en_UK_ware.misc.Mode5
 trMA.Kathisma22.greekmelody = he.a.m5_en_UK_ware.heAU.TonSynanarchonLogon.greekname
 trMA.Kathisma22.melody = he.a.m5_en_UK_ware.heAU.TonSynanarchonLogon.name
 trMA.Kathisma22.incipit = "When Thy Mother beheld Thee…"
-trMA.Kathisma22.text = "When Thy Mother beheld Thee, O Christ, hanging by Thine own free choice upon the Cross between two thieves, then with a mother's grief her heart was pierced and she cried out: 'O sinless Son, how art Thou nailed unjustly to the Cross as an evildoer? It is because in Thy surpassing love Thou willest to restore mankind to life.'"
+trMA.Kathisma22.text = "When Thy Mother beheld Thee, O Christ, hanging by Thine own free choice upon the Cross between two thieves, then with a mother’s grief her heart was pierced and she cried out: ‘O sinless Son, how art Thou nailed unjustly to the Cross as an evildoer? It is because in Thy surpassing love Thou willest to restore mankind to life.’"
 
 trMA.Kathisma31.mode = miscellanea_en_UK_ware.misc.Mode1
 trMA.Kathisma31.greekmelody = he.a.m1_en_UK_ware.heAU.TouLithouSfragisthentos.greekname
@@ -72,7 +72,7 @@ trMA.Kathisma32.mode = miscellanea_en_UK_ware.misc.Mode1
 trMA.Kathisma32.greekmelody = he.a.m1_en_UK_ware.heAU.TouLithouSfragisthentos.greekname
 trMA.Kathisma32.melody = he.a.m1_en_UK_ware.heAU.TouLithouSfragisthentos.name
 trMA.Kathisma32.incipit = "When the Ewe saw Thee…"
-trMA.Kathisma32.text = "When the Ewe saw Thee her Lamb, crucified upon the Tree between two thieves, O longsuffering Word, Thy side pierced by a spear, with a mother's grief she cried: 'What is this strange and fearful mystery, O my Jesus? How is God, whom nothing can contain, confined within a tomb? What words have power to describe these things? Forsake not Thy Mother, my beloved Child.'"
+trMA.Kathisma32.text = "When the Ewe saw Thee her Lamb, crucified upon the Tree between two thieves, O longsuffering Word, Thy side pierced by a spear, with a mother’s grief she cried: ‘What is this strange and fearful mystery, O my Jesus? How is God, whom nothing can contain, confined within a tomb? What words have power to describe these things? Forsake not Thy Mother, my beloved Child.’"
 
 trMA.C1.poet = poets_en_UK_ware.po.Iosif
 
@@ -221,7 +221,7 @@ trMA.Ode9C13.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C13.mode = miscellanea_en_UK_ware.misc.Mode5
 trMA.Ode9C13.melody = he.h.m5_en_UK_ware.heHE.IsaiaChoreve.name
 trMA.Ode9C13.incipit = "O Lord Christ who art…"
-trMA.Ode9C13.text = "O Lord Christ who art sweetness and delight, Thou the Creator hast tasted gall and raised up Adam's children from their fall that came about through sensual pleasure. Saved by Thy Passion, we sing Thy praises."
+trMA.Ode9C13.text = "O Lord Christ who art sweetness and delight, Thou the Creator hast tasted gall and raised up Adam’s children from their fall that came about through sensual pleasure. Saved by Thy Passion, we sing Thy praises."
 
 trMA.Ode9C1T.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C1T.mode = miscellanea_en_UK_ware.misc.Mode5

@@ -99,7 +99,7 @@ trMA.Ode2C13.ode = miscellanea_en_UK_ware.misc.Ode2
 trMA.Ode2C13.mode = miscellanea_en_UK_ware.misc.Mode1
 trMA.Ode2C13.melody = he.h.m1_en_UK_ware.heHE.IdeteIdete.name
 trMA.Ode2C13.incipit = "Putting off the loathsome garment…"
-trMA.Ode2C13.text = "Putting off the loathsome garment of self-indulgence, let us put on the shining robe of abstinence, and so in joy and glory let us come to the brightness of the Redeemer's Resurrection."
+trMA.Ode2C13.text = "Putting off the loathsome garment of self-indulgence, let us put on the shining robe of abstinence, and so in joy and glory let us come to the brightness of the Redeemer’s Resurrection."
 
 trMA.Ode2C1T.ode = miscellanea_en_UK_ware.misc.Ode2
 trMA.Ode2C1T.mode = miscellanea_en_UK_ware.misc.Mode1
@@ -136,7 +136,7 @@ trMA.Ode2C2A1.ode = miscellanea_en_UK_ware.misc.Ode2
 trMA.Ode2C2A1.mode = miscellanea_en_UK_ware.misc.Mode3
 trMA.Ode2C2A1.melody = he.h.m3_en_UK_ware.heHE.IdeteIdete.name
 trMA.Ode2C2A1.incipit = "Great art Thou, O Lord…"
-trMA.Ode2C2A1.text = "Great art Thou, O Lord, and marvellous are Thy works: of old Thou hast saved Daniel from being eaten in the lions' den, for he was protected by fasting."
+trMA.Ode2C2A1.text = "Great art Thou, O Lord, and marvellous are Thy works: of old Thou hast saved Daniel from being eaten in the lions’ den, for he was protected by fasting."
 
 trMA.Ode2C2H.ode = miscellanea_en_UK_ware.misc.Ode2
 trMA.Ode2C2H.mode = miscellanea_en_UK_ware.misc.Mode3
@@ -225,7 +225,7 @@ trMA.Ode9C13.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C13.mode = miscellanea_en_UK_ware.misc.Mode1
 trMA.Ode9C13.melody = he.h.m1_en_UK_ware.heHE.TinFotoforonNefelin.name
 trMA.Ode9C13.incipit = "I groan like the Publican…"
-trMA.Ode9C13.text = "I groan like the Publican; I weep like the Harlot; and I cry out like the Thief, 'Remember me, O merciful Lord.' With the blind man I call unto Thee, O Son of God, 'Open the eyes of my soul, for they are blinded by the wickedness of the deceitful enemy who makes me stumble.'"
+trMA.Ode9C13.text = "I groan like the Publican; I weep like the Harlot; and I cry out like the Thief, ‘Remember me, O merciful Lord.’ With the blind man I call unto Thee, O Son of God, ‘Open the eyes of my soul, for they are blinded by the wickedness of the deceitful enemy who makes me stumble.’"
 
 trMA.Ode9C1T.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C1T.mode = miscellanea_en_UK_ware.misc.Mode1
@@ -256,7 +256,7 @@ trMA.Ode9C2T.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C2T.mode = miscellanea_en_UK_ware.misc.Mode3
 trMA.Ode9C2T.melody = he.h.m3_en_UK_ware.heHE.EnSinaioToOrei.name
 trMA.Ode9C2T.incipit = "Who has ever heard of…"
-trMA.Ode9C2T.text = "Who has ever heard of a virgin that bore child and a mother that knew not man? O Mary, this miracle hast thou accomplished, but tell me how? 'Do not enquire into the mystery of my childbearing: it is altogether true, yet beyond man's understanding.'"
+trMA.Ode9C2T.text = "Who has ever heard of a virgin that bore child and a mother that knew not man? O Mary, this miracle hast thou accomplished, but tell me how? ‘Do not enquire into the mystery of my childbearing: it is altogether true, yet beyond man’s understanding.’"
 
 trMA.Ode9C2A1.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C2A1.mode = miscellanea_en_UK_ware.misc.Mode3
@@ -279,12 +279,12 @@ trMA.AposIdiomelon1.text = "I confess to Thee, O Lord, that I have sinned as the
 trMA.AposMartyric.mode = miscellanea_en_UK_ware.misc.Mode7
 trMA.AposMartyric.melody = ""
 trMA.AposMartyric.incipit = "In the midst of the…"
-trMA.AposMartyric.text = "In the midst of the arena, before the lawless pagans, the victorious martyrs cried aloud rejoicing: 'O Lord, glory to Thee.'"
+trMA.AposMartyric.text = "In the midst of the arena, before the lawless pagans, the victorious martyrs cried aloud rejoicing: ‘O Lord, glory to Thee.’"
 
 trMA.AposTheotokion.mode = miscellanea_en_UK_ware.misc.Mode7
 trMA.AposTheotokion.melody = ""
 trMA.AposTheotokion.incipit = "Thou wast born, O Christ…"
-trMA.AposTheotokion.text = "Thou wast born, O Christ, of a Virgin in ways surpassing all interpretation; Thou hast brought light to those in darkness, and they cry: 'O Lord, glory to Thee.'"
+trMA.AposTheotokion.text = "Thou wast born, O Christ, of a Virgin in ways surpassing all interpretation; Thou hast brought light to those in darkness, and they cry: ‘O Lord, glory to Thee.’"
 
 trTE.Troparion.mode = miscellanea_en_UK_ware.misc.Mode7
 trTE.Troparion.melody = ""

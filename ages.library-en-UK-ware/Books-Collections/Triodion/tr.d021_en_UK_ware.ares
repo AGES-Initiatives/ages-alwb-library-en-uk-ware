@@ -167,7 +167,7 @@ trMA.Ode1C1M.ode = miscellanea_en_UK_ware.misc.Ode1
 trMA.Ode1C1M.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode1C1M.melody = he.h.m8_en_UK_ware.heHE.AsmaAnapempsomen.name
 trMA.Ode1C1M.incipit = "Come, ye faithful who love…"
-trMA.Ode1C1M.text = "Come, ye faithful who love the martyrs, let us honour them year by year with our songs and hymns, and cry aloud with faith to Christ our God: 'Let us sing to Thee, our only Master.'"
+trMA.Ode1C1M.text = "Come, ye faithful who love the martyrs, let us honour them year by year with our songs and hymns, and cry aloud with faith to Christ our God: ‘Let us sing to Thee, our only Master.’"
 
 trMA.Ode1C1Tr.ode = miscellanea_en_UK_ware.misc.Ode1
 trMA.Ode1C1Tr.mode = miscellanea_en_UK_ware.misc.Mode8
@@ -235,7 +235,7 @@ trMA.Ode2C1M.ode = miscellanea_en_UK_ware.misc.Ode2
 trMA.Ode2C1M.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode2C1M.melody = he.h.m8_en_UK_ware.heHE.IdeteIdeteOProTonAionon.name
 trMA.Ode2C1M.incipit = "The tombs of the martyrs…"
-trMA.Ode2C1M.text = "The tombs of the martyrs, who suffered for the Lord's sake, are an inexhaustible source of blessing to the faithful. Come, let us honour them with songs, and by faith receive healing for our souls and bodies."
+trMA.Ode2C1M.text = "The tombs of the martyrs, who suffered for the Lord’s sake, are an inexhaustible source of blessing to the faithful. Come, let us honour them with songs, and by faith receive healing for our souls and bodies."
 
 trMA.Ode2C1Tr.ode = miscellanea_en_UK_ware.misc.Ode2
 trMA.Ode2C1Tr.mode = miscellanea_en_UK_ware.misc.Mode8
@@ -333,7 +333,7 @@ trMA.Ode3Kathisma2.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode3Kathisma2.greekmelody = he.a.m8_en_UK_ware.heAU.TinSofianKaiLogon.greekname
 trMA.Ode3Kathisma2.melody = he.a.m8_en_UK_ware.heAU.TinSofianKaiLogon.name
 trMA.Ode3Kathisma2.incipit = "Ye have broken asunder the…"
-trMA.Ode3Kathisma2.text = "Ye have broken asunder the bonds of the passions and with strong desire ye have pursued holiness. Ye have been clothed by Christ in a glory that transcends this world; through your labours ye have found rest, and through the toil of abstinence ye have gained the life above. Therefore, as it right, ye rejoice together with the powers on high, and sing in God's presence with great joy. O God-bearing Fathers, pray that those who celebrate with love your holy memory may receive forgiveness of their sins."
+trMA.Ode3Kathisma2.text = "Ye have broken asunder the bonds of the passions and with strong desire ye have pursued holiness. Ye have been clothed by Christ in a glory that transcends this world; through your labours ye have found rest, and through the toil of abstinence ye have gained the life above. Therefore, as it right, ye rejoice together with the powers on high, and sing in God’s presence with great joy. O God-bearing Fathers, pray that those who celebrate with love your holy memory may receive forgiveness of their sins."
 
 trMA.Ode3Kathisma3.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode3Kathisma3.greekmelody = he.a.m8_en_UK_ware.heAU.TinSofianKaiLogon.greekname
@@ -489,7 +489,7 @@ trMA.Ode6C11.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode6C11.greekmelody = he.h.m8_en_UK_ware.heHE.SynechomenonDexaiMe.greekname
 trMA.Ode6C11.melody = he.h.m8_en_UK_ware.heHE.SynechomenonDexaiMe.name
 trMA.Ode6C11.incipit = "Wonderful and worthy of our…"
-trMA.Ode6C11.text = "Wonderful and worthy of our veneration are the Holy Fathers, with their ascetic struggles for God's sake, their spiritual wrestling, and their works of healing. Who but whey have performed such miracles?"
+trMA.Ode6C11.text = "Wonderful and worthy of our veneration are the Holy Fathers, with their ascetic struggles for God’s sake, their spiritual wrestling, and their works of healing. Who but whey have performed such miracles?"
 
 trMA.Ode6C12.ode = miscellanea_en_UK_ware.misc.Ode6
 trMA.Ode6C12.mode = miscellanea_en_UK_ware.misc.Mode8
@@ -806,7 +806,7 @@ trMA.Lauds3.text = "O choir of all the hierarchs, assembly of the righteous, of 
 trMA.Lauds4.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Lauds4.melody = he.a.m8_en_UK_ware.heAU.OEnEdemParadeisos.notmetered
 trMA.Lauds4.incipit = "O ye faithful, let us…"
-trMA.Lauds4.text = "O ye faithful, let us celebrate today a solemn festival in memory of the saints, of the hierarchs and ascetics, the martyrs and the holy women. All that is transient and subject to corruption they utterly despised, looking on it as a spider's web, as dung, that they might gain Christ and His Kingdom, and enjoy the divine blessings that eye has not seen nor ear ever heard. At their prayers, O God, deliver our souls from corruption."
+trMA.Lauds4.text = "O ye faithful, let us celebrate today a solemn festival in memory of the saints, of the hierarchs and ascetics, the martyrs and the holy women. All that is transient and subject to corruption they utterly despised, looking on it as a spider’s web, as dung, that they might gain Christ and His Kingdom, and enjoy the divine blessings that eye has not seen nor ear ever heard. At their prayers, O God, deliver our souls from corruption."
 
 trMA.LaudsGlory.mode = miscellanea_en_UK_ware.misc.Mode6
 trMA.LaudsGlory.melody = miscellanea_en_UK_ware.misc.Idiomelon

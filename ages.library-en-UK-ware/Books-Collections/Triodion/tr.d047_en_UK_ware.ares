@@ -18,7 +18,7 @@ trVL.header = "" //for pdf headers of presanctified and vesperal liturgies
 trVE.AposIdiomelon1.mode = miscellanea_en_UK_ware.misc.Mode4
 trVE.AposIdiomelon1.melody = miscellanea_en_UK_ware.misc.Idiomelon
 trVE.AposIdiomelon1.incipit = "The Fast that brings us…"
-trVE.AposIdiomelon1.text = "The Fast that brings us blessings has now reached its midmost point: it has helped us to receive God's grace in the days that are past, and it will bring us further benefit in the days still to come. For by continuing in what is right we attain yet greater gifts. We therefore cry to Christ, the Giver of all good: O Thou who for our sakes hast fasted and endured the Cross, make us worthy to share uncondemned in Thy divine Passover. May we spend our lives in peace and rightly glorify Thee with the Father and the Spirit."
+trVE.AposIdiomelon1.text = "The Fast that brings us blessings has now reached its midmost point: it has helped us to receive God’s grace in the days that are past, and it will bring us further benefit in the days still to come. For by continuing in what is right we attain yet greater gifts. We therefore cry to Christ, the Giver of all good: O Thou who for our sakes hast fasted and endured the Cross, make us worthy to share uncondemned in Thy divine Passover. May we spend our lives in peace and rightly glorify Thee with the Father and the Spirit."
 
 trVE.AposIdiomelon2.mode = miscellanea_en_UK_ware.misc.Mode5
 trVE.AposIdiomelon2.melody = miscellanea_en_UK_ware.misc.Idiomelon
@@ -28,13 +28,13 @@ trVE.AposIdiomelon2.text = "If we look for a spiritual recompense, let us perfor
 trVE.AposMartyric.mode = miscellanea_en_UK_ware.misc.Mode5
 trVE.AposMartyric.melody = ""
 trVE.AposMartyric.incipit = "Your souls, O holy martyrs…"
-trVE.AposMartyric.text = "Your souls, O holy martyrs, were filled with an insatiable love; not denying Christ ye endured great sufferings and torments, and ye cast down the tyrants' pride. Ye kept the faith unaltered and unharmed, and now have gone to dwell in heaven. Since ye have boldness before Christ, pray that peace be given to the world, and to our souls great mercy." //oc.m5.d5_en_UK_ware.ocVE.Aposticha3.text
+trVE.AposMartyric.text = "Your souls, O holy martyrs, were filled with an insatiable love; not denying Christ ye endured great sufferings and torments, and ye cast down the tyrants’ pride. Ye kept the faith unaltered and unharmed, and now have gone to dwell in heaven. Since ye have boldness before Christ, pray that peace be given to the world, and to our souls great mercy." //oc.m5.d5_en_UK_ware.ocVE.Aposticha3.text
 
 trVE.Stichera01.mode = miscellanea_en_UK_ware.misc.Mode1
 trVE.Stichera01.greekmelody = he.a.m1_en_UK_ware.heAU.PaneffimoiMartyres.greekname
 trVE.Stichera01.melody = he.a.m1_en_UK_ware.heAU.PaneffimoiMartyres.name
 trVE.Stichera01.incipit = "Let us all wash our…"
-trVE.Stichera01.text = "Let us all wash our souls clean in the waters of the Fast, and, approaching the precious and honoured Cross of the Lord, let us venerate it 'With faith; let us draw from it divine enlightenment, gathering the fruit of eternal salvation, peace and great mercy."
+trVE.Stichera01.text = "Let us all wash our souls clean in the waters of the Fast, and, approaching the precious and honoured Cross of the Lord, let us venerate it ‘With faith; let us draw from it divine enlightenment, gathering the fruit of eternal salvation, peace and great mercy."
 
 trVE.Stichera02.mode = miscellanea_en_UK_ware.misc.Mode1
 trVE.Stichera02.greekmelody = he.a.m1_en_UK_ware.heAU.PaneffimoiMartyres.greekname
@@ -228,7 +228,7 @@ trMA.Ode9C1T.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C1T.mode = miscellanea_en_UK_ware.misc.Mode7
 trMA.Ode9C1T.melody = he.h.m1_en_UK_ware.heHE.FotizouFotizou.name
 trMA.Ode9C1T.incipit = "O pure Virgin, at the…"
-trMA.Ode9C1T.text = "O pure Virgin, at the voice of the Archangel thou hast conceived Joy: make all soul-destroying sadness to vanish from my heart, and give me joy-creating sorrow, that I may know the working of God's grace."
+trMA.Ode9C1T.text = "O pure Virgin, at the voice of the Archangel thou hast conceived Joy: make all soul-destroying sadness to vanish from my heart, and give me joy-creating sorrow, that I may know the working of God’s grace."
 
 trMA.Ode9C21.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C21.mode = miscellanea_en_UK_ware.misc.Mode7
@@ -276,7 +276,7 @@ trMA.AposIdiomelon1.text = "Let us the faithful emulate the repentance of the Pu
 trMA.AposMartyric.mode = miscellanea_en_UK_ware.misc.Mode7
 trMA.AposMartyric.melody = ""
 trMA.AposMartyric.incipit = "Breathing one purpose and looking…"
-trMA.AposMartyric.text = "Breathing one purpose and looking to a single hope, vying with each other in their end, the victorious martyrs looked upon death for Christ as the only entry into life. O strange wonder! Though the torture might have been postponed, they seized hold of it as men seize hold of treasure, and they said to one another: 'Even if we do not die today, yet some day we shall surely die, obeying as we must the laws of human birth. Let us turn necessity into an act of generous love; willingly let us make our own what is the common fate of all, and let us purchase life with death.' At their intercessions, O God, have mercy on us."
+trMA.AposMartyric.text = "Breathing one purpose and looking to a single hope, vying with each other in their end, the victorious martyrs looked upon death for Christ as the only entry into life. O strange wonder! Though the torture might have been postponed, they seized hold of it as men seize hold of treasure, and they said to one another: ‘Even if we do not die today, yet some day we shall surely die, obeying as we must the laws of human birth. Let us turn necessity into an act of generous love; willingly let us make our own what is the common fate of all, and let us purchase life with death.’ At their intercessions, O God, have mercy on us."
 
 trMA.AposTheotokion.mode = miscellanea_en_UK_ware.misc.Mode7
 trMA.AposTheotokion.melody = ""

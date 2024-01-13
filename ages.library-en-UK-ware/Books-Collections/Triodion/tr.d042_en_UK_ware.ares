@@ -92,7 +92,7 @@ trMA.Ode6C21.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode6C21.greekmelody = he.h.m8_en_UK_ware.heHE.SynechomenonDexaiMe.greekname
 trMA.Ode6C21.melody = he.h.m8_en_UK_ware.heHE.SynechomenonDexaiMe.name
 trMA.Ode6C21.incipit = "Now is the festival of…"
-trMA.Ode6C21.text = "Now is the festival of the martyrs: with all haste let us meet together and glorify their sufferings, and let us sing in praise of Christ who has granted to them victors' crowns."
+trMA.Ode6C21.text = "Now is the festival of the martyrs: with all haste let us meet together and glorify their sufferings, and let us sing in praise of Christ who has granted to them victors’ crowns."
 
 trMA.Ode6C22.ode = miscellanea_en_UK_ware.misc.Ode6
 trMA.Ode6C22.mode = miscellanea_en_UK_ware.misc.Mode8
@@ -166,8 +166,8 @@ trMA.Ode7C21.text = "Thou hast established the memorials of Thine honoured marty
 trMA.Ode7C22.ode = miscellanea_en_UK_ware.misc.Ode7
 trMA.Ode7C22.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode7C22.melody = he.h.m8_en_UK_ware.heHE.ODiAngelouPaidas.name
-trMA.Ode7C22.incipit = "'We will not betray Thee…"
-trMA.Ode7C22.text = "'We will not betray Thee, O Christ, we_ will not deny Thee', cried the martyrs in the midst of their tortures, to the amazement of their lawless judges."
+trMA.Ode7C22.incipit = "‘We will not betray Thee…"
+trMA.Ode7C22.text = "‘We will not betray Thee, O Christ, we_ will not deny Thee’, cried the martyrs in the midst of their tortures, to the amazement of their lawless judges."
 
 trMA.Ode7C2Tr.ode = miscellanea_en_UK_ware.misc.Ode7
 trMA.Ode7C2Tr.mode = miscellanea_en_UK_ware.misc.Mode8
@@ -179,7 +179,7 @@ trMA.Ode7C2T.ode = miscellanea_en_UK_ware.misc.Ode7
 trMA.Ode7C2T.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode7C2T.melody = he.h.m8_en_UK_ware.heHE.ODiAngelouPaidas.name
 trMA.Ode7C2T.incipit = "How dost thou bear child…"
-trMA.Ode7C2T.text = "How dost thou bear child as a mother and yet remain a virgin? Do not ask how I have given birth to God,' says the Child of God, 'for He does whatever is His will.'"
+trMA.Ode7C2T.text = "How dost thou bear child as a mother and yet remain a virgin? Do not ask how I have given birth to God,’ says the Child of God, ‘for He does whatever is His will.’"
 
 trMA.Ode7C2A1.ode = miscellanea_en_UK_ware.misc.Ode7
 trMA.Ode7C2A1.mode = miscellanea_en_UK_ware.misc.Mode8
@@ -235,8 +235,8 @@ trMA.Ode8C21.text = "O victorious martyrs, ye endured fiery torments as if they 
 trMA.Ode8C22.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C22.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode8C22.melody = he.h.m8_en_UK_ware.heHE.OiTheorrimonesPaides.name
-trMA.Ode8C22.incipit = "God's army, the host of…"
-trMA.Ode8C22.text = "God's army, the host of the martyrs, has put error to flight, crying aloud in triumph: O ye works of the Lord, bless ye the Lord."
+trMA.Ode8C22.incipit = "God’s army, the host of…"
+trMA.Ode8C22.text = "God’s army, the host of the martyrs, has put error to flight, crying aloud in triumph: O ye works of the Lord, bless ye the Lord."
 
 trMA.Ode8C2Tr.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C2Tr.mode = miscellanea_en_UK_ware.misc.Mode8

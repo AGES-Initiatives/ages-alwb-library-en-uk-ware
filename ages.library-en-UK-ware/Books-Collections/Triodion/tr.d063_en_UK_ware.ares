@@ -190,19 +190,19 @@ trCO.Ode3C11.ode = miscellanea_en_UK_ware.misc.Ode3
 trCO.Ode3C11.mode = miscellanea_en_UK_ware.misc.Mode1
 trCO.Ode3C11.melody = he.h.m1_en_UK_ware.heHE.LithonOnApedokimasan.name
 trCO.Ode3C11.incipit = "O strange and marvelous wonder!…"
-trCO.Ode3C11.text = "O strange and marvelous wonder! Although He knew the answer, yet as if ignorant, the Maker of All asked, \"Where does he lie, whom ye lament? Where is Lazarus buried, whom I shall shortly raise up for your sake, alive from the dead.\""
+trCO.Ode3C11.text = "O strange and marvelous wonder! Although He knew the answer, yet as if ignorant, the Maker of All asked, “Where does he lie, whom ye lament? Where is Lazarus buried, whom I shall shortly raise up for your sake, alive from the dead.”"
 
 trCO.Ode3C12.ode = miscellanea_en_UK_ware.misc.Ode3
 trCO.Ode3C12.mode = miscellanea_en_UK_ware.misc.Mode1
 trCO.Ode3C12.melody = he.h.m1_en_UK_ware.heHE.LithonOnApedokimasan.name
 trCO.Ode3C12.incipit = "Jesus commanded them to take…"
-trCO.Ode3C12.text = "Jesus commanded them to take away the stone that they had rolled upon thee when they buried thee; and immediately he raised thee, calling thee, \"Lazarus, rise up and come to Me, that Hell may tremble at My voice.\""
+trCO.Ode3C12.text = "Jesus commanded them to take away the stone that they had rolled upon thee when they buried thee; and immediately he raised thee, calling thee, “Lazarus, rise up and come to Me, that Hell may tremble at My voice.”"
 
 trCO.Ode3C13.ode = miscellanea_en_UK_ware.misc.Ode3
 trCO.Ode3C13.mode = miscellanea_en_UK_ware.misc.Mode1
 trCO.Ode3C13.melody = he.h.m1_en_UK_ware.heHE.LithonOnApedokimasan.name
 trCO.Ode3C13.incipit = "Martha and Mary, O Lord…"
-trCO.Ode3C13.text = "Martha and Mary, O Lord, cried out lamenting: \"Lo, he whom Thou hast loved is four days dead and stinks. If Thou hadst been here, Lazarus would not have died.\" But since Thou art everywhere present, at once Thou has called Lazarus and raised him up."
+trCO.Ode3C13.text = "Martha and Mary, O Lord, cried out lamenting: “Lo, he whom Thou hast loved is four days dead and stinks. If Thou hadst been here, Lazarus would not have died.” But since Thou art everywhere present, at once Thou has called Lazarus and raised him up."
 
 trCO.Ode3C14.ode = miscellanea_en_UK_ware.misc.Ode3
 trCO.Ode3C14.mode = miscellanea_en_UK_ware.misc.Mode1
@@ -213,8 +213,8 @@ trCO.Ode3C14.text = "Shedding tears for Thy friend, O Savior, Thou hast shown th
 trCO.Ode3C15.ode = miscellanea_en_UK_ware.misc.Ode3
 trCO.Ode3C15.mode = miscellanea_en_UK_ware.misc.Mode1
 trCO.Ode3C15.melody = he.h.m1_en_UK_ware.heHE.LithonOnApedokimasan.name
-trCO.Ode3C15.incipit = "\"Woe is me! Now am…"
-trCO.Ode3C15.text = "\"Woe is me! Now am I destroyed utterly,\" Hell cried out, and thus he spoke to Death, \"See, the man from Nazareth has shaken the lower world, and cutting open my belly he has called a lifeless corpse and raised it up.\""
+trCO.Ode3C15.incipit = "“Woe is me! Now am…"
+trCO.Ode3C15.text = "“Woe is me! Now am I destroyed utterly,” Hell cried out, and thus he spoke to Death, “See, the man from Nazareth has shaken the lower world, and cutting open my belly he has called a lifeless corpse and raised it up.”"
 
 trCO.Ode3C16.ode = miscellanea_en_UK_ware.misc.Ode3
 trCO.Ode3C16.mode = miscellanea_en_UK_ware.misc.Mode1
@@ -250,7 +250,7 @@ trCO.Ode4C12.ode = miscellanea_en_UK_ware.misc.Ode4
 trCO.Ode4C12.mode = miscellanea_en_UK_ware.misc.Mode1
 trCO.Ode4C12.melody = he.h.m1_en_UK_ware.heHE.EpirthiOIlios.name
 trCO.Ode4C12.incipit = "Lifeless, he heard Thy command…"
-trCO.Ode4C12.text = "Lifeless, he heard Thy command, O Loving Savior, \"Lazarus, come forth,\" and bound with grave-clothes he leapt up at once, bearing witness to Thy power."
+trCO.Ode4C12.text = "Lifeless, he heard Thy command, O Loving Savior, “Lazarus, come forth,” and bound with grave-clothes he leapt up at once, bearing witness to Thy power."
 
 trCO.Ode4C13.ode = miscellanea_en_UK_ware.misc.Ode4
 trCO.Ode4C13.mode = miscellanea_en_UK_ware.misc.Mode1
@@ -262,7 +262,7 @@ trCO.Ode4C14.ode = miscellanea_en_UK_ware.misc.Ode4
 trCO.Ode4C14.mode = miscellanea_en_UK_ware.misc.Mode1
 trCO.Ode4C14.melody = he.h.m1_en_UK_ware.heHE.EpirthiOIlios.name
 trCO.Ode4C14.incipit = "As man, Thou hast shed…"
-trCO.Ode4C14.text = "As man, Thou hast shed tears for Lazarus; as God, Thou hast raised him up. Thou hast asked, O Loving Lord, \"Where is he buried, dead these four days?\", thus confirming our faith in Thine Incarnation."
+trCO.Ode4C14.text = "As man, Thou hast shed tears for Lazarus; as God, Thou hast raised him up. Thou hast asked, O Loving Lord, “Where is he buried, dead these four days?”, thus confirming our faith in Thine Incarnation."
 
 trCO.Ode4C15.ode = miscellanea_en_UK_ware.misc.Ode4
 trCO.Ode4C15.mode = miscellanea_en_UK_ware.misc.Mode1
@@ -298,7 +298,7 @@ trCO.Ode4C1Tr.ode = miscellanea_en_UK_ware.misc.Ode4
 trCO.Ode4C1Tr.mode = miscellanea_en_UK_ware.misc.Mode1
 trCO.Ode4C1Tr.melody = he.h.m1_en_UK_ware.heHE.EpirthiOIlios.name
 trCO.Ode4C1Tr.incipit = "Without beginning hast Thou shone…"
-trCO.Ode4C1Tr.text = "Without beginning hast Thou shone forth from Thy Father as one of the Trinity, O Savior; and within time Thou hast come forth from the Spirit, taking flesh in the Virgin's womb, O transcendent God."
+trCO.Ode4C1Tr.text = "Without beginning hast Thou shone forth from Thy Father as one of the Trinity, O Savior; and within time Thou hast come forth from the Spirit, taking flesh in the Virgin’s womb, O transcendent God."
 
 trCO.Ode4C1T.ode = miscellanea_en_UK_ware.misc.Ode4
 trCO.Ode4C1T.mode = miscellanea_en_UK_ware.misc.Mode1
@@ -369,26 +369,26 @@ trCO.Ode6C1H.text = he.h.m1_en_UK_ware.heHE.AperripsasMe.text
 trCO.Ode6C11.ode = miscellanea_en_UK_ware.misc.Ode6
 trCO.Ode6C11.mode = miscellanea_en_UK_ware.misc.Mode1
 trCO.Ode6C11.melody = he.h.m1_en_UK_ware.heHE.AperripsasMe.name
-trCO.Ode6C11.incipit = "\"Thou knowest all things, yet…"
-trCO.Ode6C11.text = "\"Thou knowest all things, yet hast asked where I was buried. As man by nature, Thou hast wept for me, O Savior, and Thou hast raised me from the dead by Thy command.\""
+trCO.Ode6C11.incipit = "“Thou knowest all things, yet…"
+trCO.Ode6C11.text = "“Thou knowest all things, yet hast asked where I was buried. As man by nature, Thou hast wept for me, O Savior, and Thou hast raised me from the dead by Thy command.”"
 
 trCO.Ode6C12.ode = miscellanea_en_UK_ware.misc.Ode6
 trCO.Ode6C12.mode = miscellanea_en_UK_ware.misc.Mode1
 trCO.Ode6C12.melody = he.h.m1_en_UK_ware.heHE.AperripsasMe.name
-trCO.Ode6C12.incipit = "\"Thou hast called me from…"
-trCO.Ode6C12.text = "\"Thou hast called me from the lowest depths of Hell, O Savior,\" cried Lazarus to Thee when Thou hast set him free from Hell; \"and Thou hast raised me from the dead by Thy command.\""
+trCO.Ode6C12.incipit = "“Thou hast called me from…"
+trCO.Ode6C12.text = "“Thou hast called me from the lowest depths of Hell, O Savior,” cried Lazarus to Thee when Thou hast set him free from Hell; “and Thou hast raised me from the dead by Thy command.”"
 
 trCO.Ode6C13.ode = miscellanea_en_UK_ware.misc.Ode6
 trCO.Ode6C13.mode = miscellanea_en_UK_ware.misc.Mode1
 trCO.Ode6C13.melody = he.h.m1_en_UK_ware.heHE.AperripsasMe.name
-trCO.Ode6C13.incipit = "\"Thou hast clothed me in…"
-trCO.Ode6C13.text = "\"Thou hast clothed me in a body of clay, O Savior, and breathed life into me, and I beheld Thy light; and Thou hast raised me from the dead by Thy command.\""
+trCO.Ode6C13.incipit = "“Thou hast clothed me in…"
+trCO.Ode6C13.text = "“Thou hast clothed me in a body of clay, O Savior, and breathed life into me, and I beheld Thy light; and Thou hast raised me from the dead by Thy command.”"
 
 trCO.Ode6C14.ode = miscellanea_en_UK_ware.misc.Ode6
 trCO.Ode6C14.mode = miscellanea_en_UK_ware.misc.Mode1
 trCO.Ode6C14.melody = he.h.m1_en_UK_ware.heHE.AperripsasMe.name
-trCO.Ode6C14.incipit = "\"Thou hast breathed life into…"
-trCO.Ode6C14.text = "\"Thou hast breathed life into my flesh, O Savior, when there was no breath within it; Thou hast bound it fast with bones and sinews, and Thou hast raised me from the dead by Thy command.\""
+trCO.Ode6C14.incipit = "“Thou hast breathed life into…"
+trCO.Ode6C14.text = "“Thou hast breathed life into my flesh, O Savior, when there was no breath within it; Thou hast bound it fast with bones and sinews, and Thou hast raised me from the dead by Thy command.”"
 
 trCO.Ode6C15.ode = miscellanea_en_UK_ware.misc.Ode6
 trCO.Ode6C15.mode = miscellanea_en_UK_ware.misc.Mode1
@@ -430,31 +430,31 @@ trCO.Ode7C12.ode = miscellanea_en_UK_ware.misc.Ode7
 trCO.Ode7C12.mode = miscellanea_en_UK_ware.misc.Mode1
 trCO.Ode7C12.melody = he.h.m1_en_UK_ware.heHE.TousEnKaminoPaidas.name
 trCO.Ode7C12.incipit = "When Lazarus, four days dead…"
-trCO.Ode7C12.text = "When Lazarus, four days dead, heard Thy voice below, O Savior, he rose up and sang Thy praises, crying aloud joyfully, \"Thou art my God and Maker; I glorify and worship Thee, for Thou hast raised me up.\""
+trCO.Ode7C12.text = "When Lazarus, four days dead, heard Thy voice below, O Savior, he rose up and sang Thy praises, crying aloud joyfully, “Thou art my God and Maker; I glorify and worship Thee, for Thou hast raised me up.”"
 
 trCO.Ode7C13.ode = miscellanea_en_UK_ware.misc.Ode7
 trCO.Ode7C13.mode = miscellanea_en_UK_ware.misc.Mode1
 trCO.Ode7C13.melody = he.h.m1_en_UK_ware.heHE.TousEnKaminoPaidas.name
-trCO.Ode7C13.incipit = "\"Though I lie in bonds…"
-trCO.Ode7C13.text = "\"Though I lie in bonds, O Savior,\" Lazarus cried from below to Thee his Deliverer, \"yet shall I not remain forever in the depth of Hell, if Thou wilt only call to me, 'Lazarus, come out;' for Thou art my Light and my Life.\""
+trCO.Ode7C13.incipit = "“Though I lie in bonds…"
+trCO.Ode7C13.text = "“Though I lie in bonds, O Savior,” Lazarus cried from below to Thee his Deliverer, “yet shall I not remain forever in the depth of Hell, if Thou wilt only call to me, ‘Lazarus, come out;’ for Thou art my Light and my Life.”"
 
 trCO.Ode7C14.ode = miscellanea_en_UK_ware.misc.Ode7
 trCO.Ode7C14.mode = miscellanea_en_UK_ware.misc.Mode1
 trCO.Ode7C14.melody = he.h.m1_en_UK_ware.heHE.TousEnKaminoPaidas.name
-trCO.Ode7C14.incipit = "\"I implore thee, Lazarus,\" said…"
-trCO.Ode7C14.text = "\"I implore thee, Lazarus,\" said Hell, \"Rise up, depart quickly from my bonds and be gone. It is better for me to lament bitterly for the loss of one, rather than of all those whom I swallowed in my hunger.\""
+trCO.Ode7C14.incipit = "“I implore thee, Lazarus,” said…"
+trCO.Ode7C14.text = "“I implore thee, Lazarus,” said Hell, “Rise up, depart quickly from my bonds and be gone. It is better for me to lament bitterly for the loss of one, rather than of all those whom I swallowed in my hunger.”"
 
 trCO.Ode7C15.ode = miscellanea_en_UK_ware.misc.Ode7
 trCO.Ode7C15.mode = miscellanea_en_UK_ware.misc.Mode1
 trCO.Ode7C15.melody = he.h.m1_en_UK_ware.heHE.TousEnKaminoPaidas.name
-trCO.Ode7C15.incipit = "\"Why dost thou delay, Lazarus?\"…"
-trCO.Ode7C15.text = "\"Why dost thou delay, Lazarus?\" cried Hell. \"Thy Friend stands calling to thee: 'Come out.' Go, then, and I too shall feel relief. For since I swallowed thee, all other food is loathsome to me.\""
+trCO.Ode7C15.incipit = "“Why dost thou delay, Lazarus?”…"
+trCO.Ode7C15.text = "“Why dost thou delay, Lazarus?” cried Hell. “Thy Friend stands calling to thee: ‘Come out.’ Go, then, and I too shall feel relief. For since I swallowed thee, all other food is loathsome to me.”"
 
 trCO.Ode7C16.ode = miscellanea_en_UK_ware.misc.Ode7
 trCO.Ode7C16.mode = miscellanea_en_UK_ware.misc.Mode1
 trCO.Ode7C16.melody = he.h.m1_en_UK_ware.heHE.TousEnKaminoPaidas.name
-trCO.Ode7C16.incipit = "\"O Lazarus, why dost thou…"
-trCO.Ode7C16.text = "\"O Lazarus, why dost thou not rise up swiftly?\" cried Hell below, lamenting. \"Why dost thou not run straightway from this place? Lest Christ take prisoner the others, after raising thee.\""
+trCO.Ode7C16.incipit = "“O Lazarus, why dost thou…"
+trCO.Ode7C16.text = "“O Lazarus, why dost thou not rise up swiftly?” cried Hell below, lamenting. “Why dost thou not run straightway from this place? Lest Christ take prisoner the others, after raising thee.”"
 
 trCO.Ode7C17.ode = miscellanea_en_UK_ware.misc.Ode7
 trCO.Ode7C17.mode = miscellanea_en_UK_ware.misc.Mode1
@@ -472,7 +472,7 @@ trCO.Ode7C1T.ode = miscellanea_en_UK_ware.misc.Ode7
 trCO.Ode7C1T.mode = miscellanea_en_UK_ware.misc.Mode1
 trCO.Ode7C1T.melody = he.h.m1_en_UK_ware.heHE.TousEnKaminoPaidas.name
 trCO.Ode7C1T.incipit = "We glorify Thee, O Christ…"
-trCO.Ode7C1T.text = "We glorify Thee, O Christ, as one of the Trinity. Without changing, Thou wast made flesh from the Virgin, and hast endured all things as man, O Jesus; but, though united with us, Thou wast not divided from the Father's nature."
+trCO.Ode7C1T.text = "We glorify Thee, O Christ, as one of the Trinity. Without changing, Thou wast made flesh from the Virgin, and hast endured all things as man, O Jesus; but, though united with us, Thou wast not divided from the Father’s nature."
 
 trCO.Ode8C1H.ode = miscellanea_en_UK_ware.misc.Ode8
 trCO.Ode8C1H.mode = miscellanea_en_UK_ware.misc.Mode1
@@ -538,13 +538,13 @@ trCO.Ode9C11.ode = miscellanea_en_UK_ware.misc.Ode9
 trCO.Ode9C11.mode = miscellanea_en_UK_ware.misc.Mode1
 trCO.Ode9C11.melody = he.h.m1_en_UK_ware.heHE.EpoiiseKratos.name
 trCO.Ode9C11.incipit = "Let Bethany sing with us…"
-trCO.Ode9C11.text = "Let Bethany sing with us in praise of the miracle, for there the Creator wept for Lazarus in accordance with the law of nature and the flesh. Then, making Martha's tears to cease and changing Mary's grief to joy, Christ raised him from the dead."
+trCO.Ode9C11.text = "Let Bethany sing with us in praise of the miracle, for there the Creator wept for Lazarus in accordance with the law of nature and the flesh. Then, making Martha’s tears to cease and changing Mary’s grief to joy, Christ raised him from the dead."
 
 trCO.Ode9C12.ode = miscellanea_en_UK_ware.misc.Ode9
 trCO.Ode9C12.mode = miscellanea_en_UK_ware.misc.Mode1
 trCO.Ode9C12.melody = he.h.m1_en_UK_ware.heHE.EpoiiseKratos.name
-trCO.Ode9C12.incipit = "To confirm men's faith in…"
-trCO.Ode9C12.text = "To confirm men's faith in Thy Resurrection, O Word, Thou hast called Lazarus from the tomb and as God hast raised him up, to show the peoples that Thou art both God and man in very truth, who dost raise up the temple of Thy body."
+trCO.Ode9C12.incipit = "To confirm men’s faith in…"
+trCO.Ode9C12.text = "To confirm men’s faith in Thy Resurrection, O Word, Thou hast called Lazarus from the tomb and as God hast raised him up, to show the peoples that Thou art both God and man in very truth, who dost raise up the temple of Thy body."
 
 trCO.Ode9C13.ode = miscellanea_en_UK_ware.misc.Ode9
 trCO.Ode9C13.mode = miscellanea_en_UK_ware.misc.Mode1
@@ -556,13 +556,13 @@ trCO.Ode9C14.ode = miscellanea_en_UK_ware.misc.Ode9
 trCO.Ode9C14.mode = miscellanea_en_UK_ware.misc.Mode1
 trCO.Ode9C14.melody = he.h.m1_en_UK_ware.heHE.EpoiiseKratos.name
 trCO.Ode9C14.incipit = "All were dismayed to see…"
-trCO.Ode9C14.text = "All were dismayed to see Thee, Savior, weeping over dead Lazarus, and in their misery they said: \"Behold how he loves him.\" Then Thou hast straightway called him, and at Thy command the dead man rose, delivered from corruption."
+trCO.Ode9C14.text = "All were dismayed to see Thee, Savior, weeping over dead Lazarus, and in their misery they said: “Behold how he loves him.” Then Thou hast straightway called him, and at Thy command the dead man rose, delivered from corruption."
 
 trCO.Ode9C15.ode = miscellanea_en_UK_ware.misc.Ode9
 trCO.Ode9C15.mode = miscellanea_en_UK_ware.misc.Mode1
 trCO.Ode9C15.melody = he.h.m1_en_UK_ware.heHE.EpoiiseKratos.name
 trCO.Ode9C15.incipit = "The gates were shaken and…"
-trCO.Ode9C15.text = "The gates were shaken and the bars were shattered, and the bonds which held the dead man were loosed. When Christ spoke in power, Hell groaned bitterly and cried aloud: \"Woe is me! What and whence is this voice that brings the dead to life?\""
+trCO.Ode9C15.text = "The gates were shaken and the bars were shattered, and the bonds which held the dead man were loosed. When Christ spoke in power, Hell groaned bitterly and cried aloud: “Woe is me! What and whence is this voice that brings the dead to life?”"
 
 trCO.Ode9C16.ode = miscellanea_en_UK_ware.misc.Ode9
 trCO.Ode9C16.mode = miscellanea_en_UK_ware.misc.Mode1
@@ -574,7 +574,7 @@ trCO.Ode9C17.ode = miscellanea_en_UK_ware.misc.Ode9
 trCO.Ode9C17.mode = miscellanea_en_UK_ware.misc.Mode1
 trCO.Ode9C17.melody = he.h.m1_en_UK_ware.heHE.EpoiiseKratos.name
 trCO.Ode9C17.incipit = "O Word and Savior, we…"
-trCO.Ode9C17.text = "O Word and Savior, we sing the praises of Thy surpassing power. For, by Thy word, as Creator of all things, Thou hast raised from the depths dead Lazarus with his bones and sinews, as Thou hast raised the widow's son from the bier."
+trCO.Ode9C17.text = "O Word and Savior, we sing the praises of Thy surpassing power. For, by Thy word, as Creator of all things, Thou hast raised from the depths dead Lazarus with his bones and sinews, as Thou hast raised the widow’s son from the bier."
 
 trCO.Ode9C1Tr.ode = miscellanea_en_UK_ware.misc.Ode9
 trCO.Ode9C1Tr.mode = miscellanea_en_UK_ware.misc.Mode1
@@ -740,13 +740,13 @@ trMA.Ode3Kathisma1.mode = miscellanea_en_UK_ware.misc.Mode4
 trMA.Ode3Kathisma1.greekmelody = he.a.m4_en_UK_ware.heAU.KateplagiIosif.greekname
 trMA.Ode3Kathisma1.melody = he.a.m4_en_UK_ware.heAU.KateplagiIosif.notmetered
 trMA.Ode3Kathisma1.incipit = "The sisters of Lazarus stood…"
-trMA.Ode3Kathisma1.text = "The sisters of Lazarus stood beside Christ and, lamenting with bitter tears, they said to Him: 'O Lord, Lazarus is dead.' And though as God He knew the place of burial, yet He asked them, 'Where have ye laid him?' Coming to the tomb, He called Lazarus that was four days dead; and he arose and worshipped the Lord who had raised him."
+trMA.Ode3Kathisma1.text = "The sisters of Lazarus stood beside Christ and, lamenting with bitter tears, they said to Him: ‘O Lord, Lazarus is dead.’ And though as God He knew the place of burial, yet He asked them, ‘Where have ye laid him?’ Coming to the tomb, He called Lazarus that was four days dead; and he arose and worshipped the Lord who had raised him."
 
 trMA.Ode3Kathisma2.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode3Kathisma2.greekmelody = he.a.m8_en_UK_ware.heAU.TinSofianKaiLogon.greekname
 trMA.Ode3Kathisma2.melody = he.a.m8_en_UK_ware.heAU.TinSofianKaiLogon.notmetered
 trMA.Ode3Kathisma2.incipit = "Foreknowing all things as Creator…"
-trMA.Ode3Kathisma2.text = "Foreknowing all things as Creator, Thou hast warned the disciples at Bethany, saying: 'Our friend Lazarus has fallen asleep today.' And, though Thou wast not ignorant, Thou hast asked: 'Where have ye laid him?' Weeping as a man, Thou hast prayed to the Father; Thou hast called Thy friend Lazarus from hell,O Lord, and raised him when he had been four days dead. Therefore we cry to Thee: Accept, O Christ our God, the praise we dare to offer, and count us all worthy of Thy glory."
+trMA.Ode3Kathisma2.text = "Foreknowing all things as Creator, Thou hast warned the disciples at Bethany, saying: ‘Our friend Lazarus has fallen asleep today.’ And, though Thou wast not ignorant, Thou hast asked: ‘Where have ye laid him?’ Weeping as a man, Thou hast prayed to the Father; Thou hast called Thy friend Lazarus from hell,O Lord, and raised him when he had been four days dead. Therefore we cry to Thee: Accept, O Christ our God, the praise we dare to offer, and count us all worthy of Thy glory."
 
 trMA.Ode4C1H.ode = miscellanea_en_UK_ware.misc.Ode4
 trMA.Ode4C1H.mode = miscellanea_en_UK_ware.misc.Mode8
@@ -791,7 +791,7 @@ trMA.Ode4C22.ode = miscellanea_en_UK_ware.misc.Ode4
 trMA.Ode4C22.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode4C22.melody = he.h.m8_en_UK_ware.heHE.SyMouIschys.name
 trMA.Ode4C22.incipit = "Beholding Thee, O Christ the…"
-trMA.Ode4C22.text = "Beholding Thee, O Christ the Life, the companions of Martha cried aloud: 'If Thou hadst been here, O Lord, the Light and Life of all, Lazarus would not have died.' But since Thou art the Life of the dead, in Thy love for mankind Thou hast turned their sorrow into joy."
+trMA.Ode4C22.text = "Beholding Thee, O Christ the Life, the companions of Martha cried aloud: ‘If Thou hadst been here, O Lord, the Light and Life of all, Lazarus would not have died.’ But since Thou art the Life of the dead, in Thy love for mankind Thou hast turned their sorrow into joy."
 
 trMA.Ode4C23.ode = miscellanea_en_UK_ware.misc.Ode4
 trMA.Ode4C23.mode = miscellanea_en_UK_ware.misc.Mode8
@@ -829,7 +829,7 @@ trMA.Ode5C12.ode = miscellanea_en_UK_ware.misc.Ode5
 trMA.Ode5C12.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode5C12.melody = he.h.m8_en_UK_ware.heHE.InaTiMeAposo.name
 trMA.Ode5C12.incipit = "His feet bound in the…"
-trMA.Ode5C12.text = "His feet bound in the grave-clothes, Lazarus walked out from the tomb. O wonder of wonders! Christ who gave him strength is greater than the power of death which held him back. All things obey Christ's word, serving Him as God and Master."
+trMA.Ode5C12.text = "His feet bound in the grave-clothes, Lazarus walked out from the tomb. O wonder of wonders! Christ who gave him strength is greater than the power of death which held him back. All things obey Christ’s word, serving Him as God and Master."
 
 trMA.Ode5C13.ode = miscellanea_en_UK_ware.misc.Ode5
 trMA.Ode5C13.mode = miscellanea_en_UK_ware.misc.Mode8
@@ -860,7 +860,7 @@ trMA.Ode5C2T.ode = miscellanea_en_UK_ware.misc.Ode5
 trMA.Ode5C2T.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode5C2T.melody = he.h.m8_en_UK_ware.heHE.InaTiMeAposo.name
 trMA.Ode5C2T.incipit = "Since all-pure Virgin, thou hast…"
-trMA.Ode5C2T.text = "Since all-pure Virgin, thou hast a mother's boldness before thy Son, do not forget us and our needs, we pray, for we are thy kinsfolk: thee alone we Christians bring as intercessor, to win the gracious mercy of the Master."
+trMA.Ode5C2T.text = "Since all-pure Virgin, thou hast a mother’s boldness before thy Son, do not forget us and our needs, we pray, for we are thy kinsfolk: thee alone we Christians bring as intercessor, to win the gracious mercy of the Master."
 
 trMA.Ode5K.ode = miscellanea_en_UK_ware.misc.Ode5
 trMA.Ode5K.mode = miscellanea_en_UK_ware.misc.Mode8
@@ -916,7 +916,7 @@ trMA.Kontakion1.melody = he.a.m2_en_UK_ware.heAU.TaAnoZiton.notmetered
 trMA.Kontakion1.incipit = "Christ, the joy of all…"
 trMA.Kontakion1.text = "Christ, the joy of all, the truth, the light, the life, the resurrection of the world, in His love appeared to those on earth; and He became Himself the pattern of our resurrection, granting divine forgiveness unto all."
 
-trMA.Oikos1.text = "The Creator of the world foretold to His disciples what would come to pass, proving to them that He knows all things as the Maker of all. 'Brethren and companions, our friend has fallen asleep', He said. 'Let us go, then, and see a strange burial, and behold the tears of Mary and the tomb of Lazarus. For I shall work a miracle there, as the prelude to My Crucifixion, granting divine forgiveness unto all.'"
+trMA.Oikos1.text = "The Creator of the world foretold to His disciples what would come to pass, proving to them that He knows all things as the Maker of all. ‘Brethren and companions, our friend has fallen asleep’, He said. ‘Let us go, then, and see a strange burial, and behold the tears of Mary and the tomb of Lazarus. For I shall work a miracle there, as the prelude to My Crucifixion, granting divine forgiveness unto all.’"
 
 trSY.commemoration.text = ""
 trSY.commemoration.couplet1.title = 
@@ -943,13 +943,13 @@ trMA.Ode7C11.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode7C11.greekmelody = he.h.m8_en_UK_ware.heHE.PaidesEvraion.greekname
 trMA.Ode7C11.melody = he.h.m8_en_UK_ware.heHE.PaidesEvraion.name
 trMA.Ode7C11.incipit = "Weeping as man in Thy…"
-trMA.Ode7C11.text = "Weeping as man in Thy compassion, Thou hast as God raised Lazarus from the tomb; and, delivered from hell, he cried aloud : 'Blessed art Thou, O Lord our God, for evermore.'"
+trMA.Ode7C11.text = "Weeping as man in Thy compassion, Thou hast as God raised Lazarus from the tomb; and, delivered from hell, he cried aloud : ‘Blessed art Thou, O Lord our God, for evermore.’"
 
 trMA.Ode7C12.ode = miscellanea_en_UK_ware.misc.Ode7
 trMA.Ode7C12.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode7C12.melody = he.h.m8_en_UK_ware.heHE.PaidesEvraion.name
-trMA.Ode7C12.incipit = "At the Master's word Lazarus…"
-trMA.Ode7C12.text = "At the Master's word Lazarus came out bound in grave clothes, escaping from the chaos and darkness of hell, and he cried aloud : 'Blessed art Thou, O Lord our God, for evermore.'"
+trMA.Ode7C12.incipit = "At the Master’s word Lazarus…"
+trMA.Ode7C12.text = "At the Master’s word Lazarus came out bound in grave clothes, escaping from the chaos and darkness of hell, and he cried aloud : ‘Blessed art Thou, O Lord our God, for evermore.’"
 
 trMA.Ode7C21.ode = miscellanea_en_UK_ware.misc.Ode7
 trMA.Ode7C21.mode = miscellanea_en_UK_ware.misc.Mode8
@@ -962,7 +962,7 @@ trMA.Ode7C22.ode = miscellanea_en_UK_ware.misc.Ode7
 trMA.Ode7C22.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode7C22.melody = he.h.m8_en_UK_ware.heHE.OiEkTisIoudaias.name
 trMA.Ode7C22.incipit = "Master of Life and Saviour…"
-trMA.Ode7C22.text = "Master of Life and Saviour, Thou hast called the dead man as if he were asleep. With Thy word Thou hast burst asunder the belly of hell and raised up Lazarus as he sang: 'O God of our fathers, blessed art Thou.'"
+trMA.Ode7C22.text = "Master of Life and Saviour, Thou hast called the dead man as if he were asleep. With Thy word Thou hast burst asunder the belly of hell and raised up Lazarus as he sang: ‘O God of our fathers, blessed art Thou.’"
 
 trMA.Ode7C23.ode = miscellanea_en_UK_ware.misc.Ode7
 trMA.Ode7C23.mode = miscellanea_en_UK_ware.misc.Mode8
@@ -988,13 +988,13 @@ trMA.Ode8C11.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode8C11.greekmelody = he.h.m8_en_UK_ware.heHE.MousikonOrganon.greekname
 trMA.Ode8C11.melody = he.h.m8_en_UK_ware.heHE.MousikonOrganon.name
 trMA.Ode8C11.incipit = "As Shepherd, Thou hast gone…"
-trMA.Ode8C11.text = "As Shepherd, Thou hast gone to seek Thy sheep; rescuing the dead man from the fierce and destructive wolf, in Thy power Thou hast brought him from corruption to new life, and he cried out to Thee: 'Praise the Lord and exalt Him above all for ever.'"
+trMA.Ode8C11.text = "As Shepherd, Thou hast gone to seek Thy sheep; rescuing the dead man from the fierce and destructive wolf, in Thy power Thou hast brought him from corruption to new life, and he cried out to Thee: ‘Praise the Lord and exalt Him above all for ever.’"
 
 trMA.Ode8C12.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C12.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode8C12.melody = he.h.m8_en_UK_ware.heHE.MousikonOrganon.name
 trMA.Ode8C12.incipit = "As mortal man Thou hast…"
-trMA.Ode8C12.text = "As mortal man Thou hast asked where Lazarus was buried; as Maker, Thou hast raised him from the dead by Thy royal command. Hell was afraid of him when he cried out to Thee: 'Praise the Lord and exalt Him above all for ever.'"
+trMA.Ode8C12.text = "As mortal man Thou hast asked where Lazarus was buried; as Maker, Thou hast raised him from the dead by Thy royal command. Hell was afraid of him when he cried out to Thee: ‘Praise the Lord and exalt Him above all for ever.’"
 
 trMA.Ode8C21.ode = miscellanea_en_UK_ware.misc.Ode8
 trMA.Ode8C21.mode = miscellanea_en_UK_ware.misc.Mode8
@@ -1033,13 +1033,13 @@ trMA.Ode9C11.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode9C11.greekmelody = he.h.m8_en_UK_ware.heHE.TinAgninEndoxos.greekname
 trMA.Ode9C11.melody = he.h.m8_en_UK_ware.heHE.TinAgninEndoxos.name
 trMA.Ode9C11.incipit = "Seeing a four-day corpse walking…"
-trMA.Ode9C11.text = "Seeing a four-day corpse walking, the people were struck with wonder at the miracle and cried out to the Deliverer: 'We magnify Thee in hymns, O God."
+trMA.Ode9C11.text = "Seeing a four-day corpse walking, the people were struck with wonder at the miracle and cried out to the Deliverer: ‘We magnify Thee in hymns, O God."
 
 trMA.Ode9C12.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C12.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.Ode9C12.melody = he.h.m8_en_UK_ware.heHE.TinAgninEndoxos.name
-trMA.Ode9C12.incipit = "Thou hast established men's faith…"
-trMA.Ode9C12.text = "Thou hast established men's faith in Thy glorious Resurrection, O my Saviour, before it came to pass, by freeing Lazarus from hell when he was four days dead; and I magnify Thee in hymns."
+trMA.Ode9C12.incipit = "Thou hast established men’s faith…"
+trMA.Ode9C12.text = "Thou hast established men’s faith in Thy glorious Resurrection, O my Saviour, before it came to pass, by freeing Lazarus from hell when he was four days dead; and I magnify Thee in hymns."
 
 trMA.Ode9C21.ode = miscellanea_en_UK_ware.misc.Ode9
 trMA.Ode9C21.mode = miscellanea_en_UK_ware.misc.Mode8
