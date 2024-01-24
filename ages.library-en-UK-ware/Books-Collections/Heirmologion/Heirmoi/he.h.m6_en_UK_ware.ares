@@ -8,13 +8,13 @@ heHE.AfrastonThavma.mode = miscellanea_en_UK_ware.misc.Mode6
 heHE.AfrastonThavma.ode = miscellanea_en_UK_ware.misc.Ode7
 heHE.AfrastonThavma.text = ""
 
-heHE.AfrastonThavma_Epiphany.greekname = ""
-heHE.AfrastonThavma_Epiphany.name = "(NM)"
-heHE.AfrastonThavma_Epiphany.incipit = "…"
-heHE.AfrastonThavma_Epiphany.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
-heHE.AfrastonThavma_Epiphany.mode = miscellanea_en_UK_ware.misc.Mode6
-heHE.AfrastonThavma_Epiphany.ode = miscellanea_en_UK_ware.misc.Ode7
-heHE.AfrastonThavma_Epiphany.text = ""
+heHE.AfrastonThavmaEpiphany.greekname = ""
+heHE.AfrastonThavmaEpiphany.name = "(NM)"
+heHE.AfrastonThavmaEpiphany.incipit = "…"
+heHE.AfrastonThavmaEpiphany.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
+heHE.AfrastonThavmaEpiphany.mode = miscellanea_en_UK_ware.misc.Mode6
+heHE.AfrastonThavmaEpiphany.ode = miscellanea_en_UK_ware.misc.Ode7
+heHE.AfrastonThavmaEpiphany.text = ""
 
 heHE.AkikoaKyrieTinAkoin.greekname = ""
 heHE.AkikoaKyrieTinAkoin.name = "(NM) O Lord, I have heard"
@@ -104,13 +104,13 @@ heHE.EkstithiFrittonOurane.mode = miscellanea_en_UK_ware.misc.Mode6
 heHE.EkstithiFrittonOurane.ode = miscellanea_en_UK_ware.misc.Ode8
 heHE.EkstithiFrittonOurane.text = ""
 
-heHE.EkstithiFrittonOurane_Epiphany.greekname = ""
-heHE.EkstithiFrittonOurane_Epiphany.name = "(NM)"
-heHE.EkstithiFrittonOurane_Epiphany.incipit = "…"
-heHE.EkstithiFrittonOurane_Epiphany.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
-heHE.EkstithiFrittonOurane_Epiphany.mode = miscellanea_en_UK_ware.misc.Mode6
-heHE.EkstithiFrittonOurane_Epiphany.ode = miscellanea_en_UK_ware.misc.Ode8
-heHE.EkstithiFrittonOurane_Epiphany.text = ""
+heHE.EkstithiFrittonOuraneEpiphany.greekname = ""
+heHE.EkstithiFrittonOuraneEpiphany.name = "(NM)"
+heHE.EkstithiFrittonOuraneEpiphany.incipit = "…"
+heHE.EkstithiFrittonOuraneEpiphany.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
+heHE.EkstithiFrittonOuraneEpiphany.mode = miscellanea_en_UK_ware.misc.Mode6
+heHE.EkstithiFrittonOuraneEpiphany.ode = miscellanea_en_UK_ware.misc.Ode8
+heHE.EkstithiFrittonOuraneEpiphany.text = ""
 
 heHE.EnTiSterraTisPisteos.greekname = ""
 heHE.EnTiSterraTisPisteos.name = "(NM)"
@@ -168,13 +168,13 @@ heHE.KymatiThalassis.mode = miscellanea_en_UK_ware.misc.Mode6
 heHE.KymatiThalassis.ode = miscellanea_en_UK_ware.misc.Ode1
 heHE.KymatiThalassis.text = ""
 
-heHE.KymatiThalassis_Epiphany.greekname = ""
-heHE.KymatiThalassis_Epiphany.name = "(NM)"
-heHE.KymatiThalassis_Epiphany.incipit = "…"
-heHE.KymatiThalassis_Epiphany.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
-heHE.KymatiThalassis_Epiphany.mode = miscellanea_en_UK_ware.misc.Mode6
-heHE.KymatiThalassis_Epiphany.ode = miscellanea_en_UK_ware.misc.Ode1
-heHE.KymatiThalassis_Epiphany.text = ""
+heHE.KymatiThalassisEpiphany.greekname = ""
+heHE.KymatiThalassisEpiphany.name = "(NM)"
+heHE.KymatiThalassisEpiphany.incipit = "…"
+heHE.KymatiThalassisEpiphany.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
+heHE.KymatiThalassisEpiphany.mode = miscellanea_en_UK_ware.misc.Mode6
+heHE.KymatiThalassisEpiphany.ode = miscellanea_en_UK_ware.misc.Ode1
+heHE.KymatiThalassisEpiphany.text = ""
 
 heHE.KyriosOnPanton.greekname = ""
 heHE.KyriosOnPanton.name = "(NM)"
@@ -184,13 +184,13 @@ heHE.KyriosOnPanton.mode = miscellanea_en_UK_ware.misc.Mode6
 heHE.KyriosOnPanton.ode = miscellanea_en_UK_ware.misc.Ode3
 heHE.KyriosOnPanton.text = ""
 
-heHE.KyriosOnPanton_Epiphany.greekname = ""
-heHE.KyriosOnPanton_Epiphany.name = "(NM)"
-heHE.KyriosOnPanton_Epiphany.incipit = "…"
-heHE.KyriosOnPanton_Epiphany.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
-heHE.KyriosOnPanton_Epiphany.mode = miscellanea_en_UK_ware.misc.Mode6
-heHE.KyriosOnPanton_Epiphany.ode = miscellanea_en_UK_ware.misc.Ode3
-heHE.KyriosOnPanton_Epiphany.text = ""
+heHE.KyriosOnPantonEpiphany.greekname = ""
+heHE.KyriosOnPantonEpiphany.name = "(NM)"
+heHE.KyriosOnPantonEpiphany.incipit = "…"
+heHE.KyriosOnPantonEpiphany.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
+heHE.KyriosOnPantonEpiphany.mode = miscellanea_en_UK_ware.misc.Mode6
+heHE.KyriosOnPantonEpiphany.ode = miscellanea_en_UK_ware.misc.Ode3
+heHE.KyriosOnPantonEpiphany.text = ""
 
 heHE.MiEpodyrestheMatin.greekname = ""
 heHE.MiEpodyrestheMatin.name = "(NM)"
@@ -288,13 +288,13 @@ heHE.ProkatidonOProfitis.mode = miscellanea_en_UK_ware.misc.Mode6
 heHE.ProkatidonOProfitis.ode = miscellanea_en_UK_ware.misc.Ode4
 heHE.ProkatidonOProfitis.text = ""
 
-heHE.ProkatidonOProfitis_Epiphany.greekname = ""
-heHE.ProkatidonOProfitis_Epiphany.name = "(NM)"
-heHE.ProkatidonOProfitis_Epiphany.incipit = "…"
-heHE.ProkatidonOProfitis_Epiphany.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
-heHE.ProkatidonOProfitis_Epiphany.mode = miscellanea_en_UK_ware.misc.Mode6
-heHE.ProkatidonOProfitis_Epiphany.ode = miscellanea_en_UK_ware.misc.Ode4
-heHE.ProkatidonOProfitis_Epiphany.text = ""
+heHE.ProkatidonOProfitisEpiphany.greekname = ""
+heHE.ProkatidonOProfitisEpiphany.name = "(NM)"
+heHE.ProkatidonOProfitisEpiphany.incipit = "…"
+heHE.ProkatidonOProfitisEpiphany.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
+heHE.ProkatidonOProfitisEpiphany.mode = miscellanea_en_UK_ware.misc.Mode6
+heHE.ProkatidonOProfitisEpiphany.ode = miscellanea_en_UK_ware.misc.Ode4
+heHE.ProkatidonOProfitisEpiphany.text = ""
 
 heHE.ProsSeOrthrizo.greekname = ""
 heHE.ProsSeOrthrizo.name = "(NM)"
@@ -304,13 +304,13 @@ heHE.ProsSeOrthrizo.mode = miscellanea_en_UK_ware.misc.Mode6
 heHE.ProsSeOrthrizo.ode = miscellanea_en_UK_ware.misc.Ode5
 heHE.ProsSeOrthrizo.text = ""
 
-heHE.ProsSeOrthrizo_Epiphany.greekname = ""
-heHE.ProsSeOrthrizo_Epiphany.name = "(NM)"
-heHE.ProsSeOrthrizo_Epiphany.incipit = "…"
-heHE.ProsSeOrthrizo_Epiphany.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
-heHE.ProsSeOrthrizo_Epiphany.mode = miscellanea_en_UK_ware.misc.Mode6
-heHE.ProsSeOrthrizo_Epiphany.ode = miscellanea_en_UK_ware.misc.Ode5
-heHE.ProsSeOrthrizo_Epiphany.text = ""
+heHE.ProsSeOrthrizoEpiphany.greekname = ""
+heHE.ProsSeOrthrizoEpiphany.name = "(NM)"
+heHE.ProsSeOrthrizoEpiphany.incipit = "…"
+heHE.ProsSeOrthrizoEpiphany.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
+heHE.ProsSeOrthrizoEpiphany.mode = miscellanea_en_UK_ware.misc.Mode6
+heHE.ProsSeOrthrizoEpiphany.ode = miscellanea_en_UK_ware.misc.Ode5
+heHE.ProsSeOrthrizoEpiphany.text = ""
 
 heHE.ProsecheOurane.greekname = ""
 heHE.ProsecheOurane.name = "(NM)"
@@ -328,13 +328,13 @@ heHE.SeTonEpiYdaton.mode = miscellanea_en_UK_ware.misc.Mode6
 heHE.SeTonEpiYdaton.ode = miscellanea_en_UK_ware.misc.Ode3
 heHE.SeTonEpiYdaton.text = ""
 
-heHE.SeTonEpiYdaton_Epiphany.greekname = ""
-heHE.SeTonEpiYdaton_Epiphany.name = "(NM)"
-heHE.SeTonEpiYdaton_Epiphany.incipit = "…"
-heHE.SeTonEpiYdaton_Epiphany.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
-heHE.SeTonEpiYdaton_Epiphany.mode = miscellanea_en_UK_ware.misc.Mode6
-heHE.SeTonEpiYdaton_Epiphany.ode = miscellanea_en_UK_ware.misc.Ode3
-heHE.SeTonEpiYdaton_Epiphany.text = ""
+heHE.SeTonEpiYdatonEpiphany.greekname = ""
+heHE.SeTonEpiYdatonEpiphany.name = "(NM)"
+heHE.SeTonEpiYdatonEpiphany.incipit = "…"
+heHE.SeTonEpiYdatonEpiphany.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
+heHE.SeTonEpiYdatonEpiphany.mode = miscellanea_en_UK_ware.misc.Mode6
+heHE.SeTonEpiYdatonEpiphany.ode = miscellanea_en_UK_ware.misc.Ode3
+heHE.SeTonEpiYdatonEpiphany.text = ""
 
 heHE.StereosonKyrie.greekname = ""
 heHE.StereosonKyrie.name = "(NM)"
@@ -368,13 +368,13 @@ heHE.SyneschethiAllOuKateschethi.mode = miscellanea_en_UK_ware.misc.Mode6
 heHE.SyneschethiAllOuKateschethi.ode = miscellanea_en_UK_ware.misc.Ode6
 heHE.SyneschethiAllOuKateschethi.text = ""
 
-heHE.SyneschethiAllOuKateschethi_Epiphany.greekname = ""
-heHE.SyneschethiAllOuKateschethi_Epiphany.name = "(NM)"
-heHE.SyneschethiAllOuKateschethi_Epiphany.incipit = "…"
-heHE.SyneschethiAllOuKateschethi_Epiphany.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
-heHE.SyneschethiAllOuKateschethi_Epiphany.mode = miscellanea_en_UK_ware.misc.Mode6
-heHE.SyneschethiAllOuKateschethi_Epiphany.ode = miscellanea_en_UK_ware.misc.Ode6
-heHE.SyneschethiAllOuKateschethi_Epiphany.text = ""
+heHE.SyneschethiAllOuKateschethiEpiphany.greekname = ""
+heHE.SyneschethiAllOuKateschethiEpiphany.name = "(NM)"
+heHE.SyneschethiAllOuKateschethiEpiphany.incipit = "…"
+heHE.SyneschethiAllOuKateschethiEpiphany.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
+heHE.SyneschethiAllOuKateschethiEpiphany.mode = miscellanea_en_UK_ware.misc.Mode6
+heHE.SyneschethiAllOuKateschethiEpiphany.ode = miscellanea_en_UK_ware.misc.Ode6
+heHE.SyneschethiAllOuKateschethiEpiphany.text = ""
 
 heHE.TheofaneiasSouChriste.greekname = ""
 heHE.TheofaneiasSouChriste.name = "(NM)"
@@ -384,13 +384,13 @@ heHE.TheofaneiasSouChriste.mode = miscellanea_en_UK_ware.misc.Mode6
 heHE.TheofaneiasSouChriste.ode = miscellanea_en_UK_ware.misc.Ode5
 heHE.TheofaneiasSouChriste.text = ""
 
-heHE.TheofaneiasSouChriste_Epiphany.greekname = ""
-heHE.TheofaneiasSouChriste_Epiphany.name = "(NM)"
-heHE.TheofaneiasSouChriste_Epiphany.incipit = "…"
-heHE.TheofaneiasSouChriste_Epiphany.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
-heHE.TheofaneiasSouChriste_Epiphany.mode = miscellanea_en_UK_ware.misc.Mode6
-heHE.TheofaneiasSouChriste_Epiphany.ode = miscellanea_en_UK_ware.misc.Ode5
-heHE.TheofaneiasSouChriste_Epiphany.text = ""
+heHE.TheofaneiasSouChristeEpiphany.greekname = ""
+heHE.TheofaneiasSouChristeEpiphany.name = "(NM)"
+heHE.TheofaneiasSouChristeEpiphany.incipit = "…"
+heHE.TheofaneiasSouChristeEpiphany.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
+heHE.TheofaneiasSouChristeEpiphany.mode = miscellanea_en_UK_ware.misc.Mode6
+heHE.TheofaneiasSouChristeEpiphany.ode = miscellanea_en_UK_ware.misc.Ode5
+heHE.TheofaneiasSouChristeEpiphany.text = ""
 
 heHE.TheonAnthropois.greekname = ""
 heHE.TheonAnthropois.name = "(NM)"
@@ -504,11 +504,90 @@ heHE.XeniasDespotikis.mode = miscellanea_en_UK_ware.misc.Mode6
 heHE.XeniasDespotikis.ode = miscellanea_en_UK_ware.misc.Ode9
 heHE.XeniasDespotikis.text = ""
 
-heHE.XeniasDespotikis_Epiphany.greekname = ""
-heHE.XeniasDespotikis_Epiphany.name = "(NM)"
-heHE.XeniasDespotikis_Epiphany.incipit = "…"
-heHE.XeniasDespotikis_Epiphany.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
-heHE.XeniasDespotikis_Epiphany.mode = miscellanea_en_UK_ware.misc.Mode6
-heHE.XeniasDespotikis_Epiphany.ode = miscellanea_en_UK_ware.misc.Ode9
-heHE.XeniasDespotikis_Epiphany.text = ""
+heHE.XeniasDespotikisEpiphany.greekname = ""
+heHE.XeniasDespotikisEpiphany.name = "(NM)"
+heHE.XeniasDespotikisEpiphany.incipit = "…"
+heHE.XeniasDespotikisEpiphany.melody = miscellanea_en_UK_ware.misc.HeirmosNotMetered
+heHE.XeniasDespotikisEpiphany.mode = miscellanea_en_UK_ware.misc.Mode6
+heHE.XeniasDespotikisEpiphany.ode = miscellanea_en_UK_ware.misc.Ode9
+heHE.XeniasDespotikisEpiphany.text = ""
 
+heHE.AfrastonThavma_Epiphany.greekname = properties_en_UK_ware.deprecated.key
+heHE.AfrastonThavma_Epiphany.name = properties_en_UK_ware.deprecated.key
+heHE.AfrastonThavma_Epiphany.incipit = properties_en_UK_ware.deprecated.key
+heHE.AfrastonThavma_Epiphany.melody = properties_en_UK_ware.deprecated.key
+heHE.AfrastonThavma_Epiphany.mode = properties_en_UK_ware.deprecated.key
+heHE.AfrastonThavma_Epiphany.ode = properties_en_UK_ware.deprecated.key
+heHE.AfrastonThavma_Epiphany.text = properties_en_UK_ware.deprecated.key
+
+heHE.EkstithiFrittonOurane_Epiphany.greekname = properties_en_UK_ware.deprecated.key
+heHE.EkstithiFrittonOurane_Epiphany.name = properties_en_UK_ware.deprecated.key
+heHE.EkstithiFrittonOurane_Epiphany.incipit = properties_en_UK_ware.deprecated.key
+heHE.EkstithiFrittonOurane_Epiphany.melody = properties_en_UK_ware.deprecated.key
+heHE.EkstithiFrittonOurane_Epiphany.mode = properties_en_UK_ware.deprecated.key
+heHE.EkstithiFrittonOurane_Epiphany.ode = properties_en_UK_ware.deprecated.key
+heHE.EkstithiFrittonOurane_Epiphany.text = properties_en_UK_ware.deprecated.key
+
+heHE.KymatiThalassis_Epiphany.greekname = properties_en_UK_ware.deprecated.key
+heHE.KymatiThalassis_Epiphany.name = properties_en_UK_ware.deprecated.key
+heHE.KymatiThalassis_Epiphany.incipit = properties_en_UK_ware.deprecated.key
+heHE.KymatiThalassis_Epiphany.melody = properties_en_UK_ware.deprecated.key
+heHE.KymatiThalassis_Epiphany.mode = properties_en_UK_ware.deprecated.key
+heHE.KymatiThalassis_Epiphany.ode = properties_en_UK_ware.deprecated.key
+heHE.KymatiThalassis_Epiphany.text = properties_en_UK_ware.deprecated.key
+
+heHE.KyriosOnPanton_Epiphany.greekname = properties_en_UK_ware.deprecated.key
+heHE.KyriosOnPanton_Epiphany.name = properties_en_UK_ware.deprecated.key
+heHE.KyriosOnPanton_Epiphany.incipit = properties_en_UK_ware.deprecated.key
+heHE.KyriosOnPanton_Epiphany.melody = properties_en_UK_ware.deprecated.key
+heHE.KyriosOnPanton_Epiphany.mode = properties_en_UK_ware.deprecated.key
+heHE.KyriosOnPanton_Epiphany.ode = properties_en_UK_ware.deprecated.key
+heHE.KyriosOnPanton_Epiphany.text = properties_en_UK_ware.deprecated.key
+
+heHE.ProkatidonOProfitis_Epiphany.greekname = properties_en_UK_ware.deprecated.key
+heHE.ProkatidonOProfitis_Epiphany.name = properties_en_UK_ware.deprecated.key
+heHE.ProkatidonOProfitis_Epiphany.incipit = properties_en_UK_ware.deprecated.key
+heHE.ProkatidonOProfitis_Epiphany.melody = properties_en_UK_ware.deprecated.key
+heHE.ProkatidonOProfitis_Epiphany.mode = properties_en_UK_ware.deprecated.key
+heHE.ProkatidonOProfitis_Epiphany.ode = properties_en_UK_ware.deprecated.key
+heHE.ProkatidonOProfitis_Epiphany.text = properties_en_UK_ware.deprecated.key
+
+heHE.ProsSeOrthrizo_Epiphany.greekname = properties_en_UK_ware.deprecated.key
+heHE.ProsSeOrthrizo_Epiphany.name = properties_en_UK_ware.deprecated.key
+heHE.ProsSeOrthrizo_Epiphany.incipit = properties_en_UK_ware.deprecated.key
+heHE.ProsSeOrthrizo_Epiphany.melody = properties_en_UK_ware.deprecated.key
+heHE.ProsSeOrthrizo_Epiphany.mode = properties_en_UK_ware.deprecated.key
+heHE.ProsSeOrthrizo_Epiphany.ode = properties_en_UK_ware.deprecated.key
+heHE.ProsSeOrthrizo_Epiphany.text = properties_en_UK_ware.deprecated.key
+
+heHE.SeTonEpiYdaton_Epiphany.greekname = properties_en_UK_ware.deprecated.key
+heHE.SeTonEpiYdaton_Epiphany.name = properties_en_UK_ware.deprecated.key
+heHE.SeTonEpiYdaton_Epiphany.incipit = properties_en_UK_ware.deprecated.key
+heHE.SeTonEpiYdaton_Epiphany.melody = properties_en_UK_ware.deprecated.key
+heHE.SeTonEpiYdaton_Epiphany.mode = properties_en_UK_ware.deprecated.key
+heHE.SeTonEpiYdaton_Epiphany.ode = properties_en_UK_ware.deprecated.key
+heHE.SeTonEpiYdaton_Epiphany.text = properties_en_UK_ware.deprecated.key
+
+heHE.SyneschethiAllOuKateschethi_Epiphany.greekname = properties_en_UK_ware.deprecated.key
+heHE.SyneschethiAllOuKateschethi_Epiphany.name = properties_en_UK_ware.deprecated.key
+heHE.SyneschethiAllOuKateschethi_Epiphany.incipit = properties_en_UK_ware.deprecated.key
+heHE.SyneschethiAllOuKateschethi_Epiphany.melody = properties_en_UK_ware.deprecated.key
+heHE.SyneschethiAllOuKateschethi_Epiphany.mode = properties_en_UK_ware.deprecated.key
+heHE.SyneschethiAllOuKateschethi_Epiphany.ode = properties_en_UK_ware.deprecated.key
+heHE.SyneschethiAllOuKateschethi_Epiphany.text = properties_en_UK_ware.deprecated.key
+
+heHE.TheofaneiasSouChriste_Epiphany.greekname = properties_en_UK_ware.deprecated.key
+heHE.TheofaneiasSouChriste_Epiphany.name = properties_en_UK_ware.deprecated.key
+heHE.TheofaneiasSouChriste_Epiphany.incipit = properties_en_UK_ware.deprecated.key
+heHE.TheofaneiasSouChriste_Epiphany.melody = properties_en_UK_ware.deprecated.key
+heHE.TheofaneiasSouChriste_Epiphany.mode = properties_en_UK_ware.deprecated.key
+heHE.TheofaneiasSouChriste_Epiphany.ode = properties_en_UK_ware.deprecated.key
+heHE.TheofaneiasSouChriste_Epiphany.text = properties_en_UK_ware.deprecated.key
+
+heHE.XeniasDespotikis_Epiphany.greekname = properties_en_UK_ware.deprecated.key
+heHE.XeniasDespotikis_Epiphany.name = properties_en_UK_ware.deprecated.key
+heHE.XeniasDespotikis_Epiphany.incipit = properties_en_UK_ware.deprecated.key
+heHE.XeniasDespotikis_Epiphany.melody = properties_en_UK_ware.deprecated.key
+heHE.XeniasDespotikis_Epiphany.mode = properties_en_UK_ware.deprecated.key
+heHE.XeniasDespotikis_Epiphany.ode = properties_en_UK_ware.deprecated.key
+heHE.XeniasDespotikis_Epiphany.text = properties_en_UK_ware.deprecated.key
