@@ -386,7 +386,6 @@ trMA.Exaposteilarion1.melody = he.a.m3_en_UK_ware.heAU.TonNymfonaSouVlepo.melody
 trMA.Exaposteilarion1.incipit = he.a.m3_en_UK_ware.heAU.TonNymfonaSouVlepo.incipit
 trMA.Exaposteilarion1.text = he.a.m3_en_UK_ware.heAU.TonNymfonaSouVlepo.text
 
-
 trMA.Lauds1.mode = miscellanea_en_UK_ware.misc.Mode1
 trMA.Lauds1.melody = miscellanea_en_UK_ware.misc.Idiomelon
 trMA.Lauds1.incipit = "…"

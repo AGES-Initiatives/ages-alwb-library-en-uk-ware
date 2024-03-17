@@ -443,7 +443,6 @@ trMA.LaudsTheotokion.melody = ""
 trMA.LaudsTheotokion.incipit = "…"
 trMA.LaudsTheotokion.text = //oc.m2.d1_en_UK_ware.ocMA.Kathisma23.text
 
-
 trLI.MM.EntranceHymn.text = properties_en_UK_ware.media.key
 
 trLI.Kontakion1.mode = trMA.Kontakion1.mode

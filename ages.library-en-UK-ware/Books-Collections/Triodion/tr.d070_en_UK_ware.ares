@@ -17,7 +17,6 @@ trVE.header = ""
 trEM.header = "" //for pdf evening Matins
 trDA.dismissal = dismissals_en_UK_ware.dis00.holyfriday
 
-
 trVE.Stichera01.mode = miscellanea_en_UK_ware.misc.Mode1
 trVE.Stichera01.melody = miscellanea_en_UK_ware.misc.Idiomelon
 trVE.Stichera01.incipit = tr.d069_en_UK_ware.trMA.Aposticha1.incipit
@@ -93,7 +92,6 @@ trVE.Apolytikion3.mode = miscellanea_en_UK_ware.misc.Mode2
 trVE.Apolytikion3.melody = ""
 trVE.Apolytikion3.incipit = "…"
 trVE.Apolytikion3.text = ""
-
 
 // First Stanza
 trMA.Encomia.title = ""
@@ -808,7 +806,6 @@ trMA.Ode9K.text = he.h.m6_en_UK_ware.heHE.MiEpodyrouMouMiter.text
 trMA.Exaposteilarion1.mode = miscellanea_en_UK_ware.misc.Mode2
 trMA.Exaposteilarion1.melody = ""
 trMA.Exaposteilarion1.text = //ho.ho03_en_UK_ware.hoMA.SunExapVerse1.text
-
 
 trMA.Lauds1.mode = miscellanea_en_UK_ware.misc.Mode2
 trMA.Lauds1.melody = miscellanea_en_UK_ware.misc.Idiomelon
