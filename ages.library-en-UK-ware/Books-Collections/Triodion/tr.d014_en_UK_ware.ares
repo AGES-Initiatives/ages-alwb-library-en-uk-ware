@@ -646,10 +646,10 @@ trMA.AposTheotokion.melody = ""
 trMA.AposTheotokion.incipit = "Thou art our God, that…"
 trMA.AposTheotokion.text = "Thou art our God, that in wisdom createst and fillest all things. Thou hast sent prophets, O Christ, to foretell Thine advent, and apostles to proclaim Thy majesty; the first prophesied of Thy coming, and the second illumined the nations by baptism, while the martyrs through their sufferings received what they desired. With Thy Mother they all intercede before Thee: Give rest, O Lord, to the souls that Thou hast taken; and, O my Deliverer and my God, who hast endured the Cross for me that am condemned, count us worthy of Thy Kingdom." //oc.m6.d7_en_UK_ware.ocMA.LaudsTheotokion.text
 
-trLI.Kontakion1.mode = trMA.Kontakion1.mode
-trLI.Kontakion1.melody = trMA.Kontakion1.melody
-trLI.Kontakion1.incipit = trMA.Kontakion1.incipit
-trLI.Kontakion1.text = trMA.Kontakion1.text
+trLI.Kontakion1.mode = tr.d014_en_UK_ware.trMA.Kontakion1.mode
+trLI.Kontakion1.melody = tr.d014_en_UK_ware.trMA.Kontakion1.melody
+trLI.Kontakion1.incipit = tr.d014_en_UK_ware.trMA.Kontakion1.incipit
+trLI.Kontakion1.text = tr.d014_en_UK_ware.trMA.Kontakion1.text
 
 trLI.MM.CommunionHymn.text = properties_en_UK_ware.media.key
 

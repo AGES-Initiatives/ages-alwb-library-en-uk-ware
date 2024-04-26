@@ -247,7 +247,7 @@ trMA.Encomia1Tr.text = ""
 
 trMA.Encomia1T.text = ""
 
-trMA.Encomia1F.text = trMA.Encomia101.text
+trMA.Encomia1F.text = tr.d070_en_UK_ware.trMA.Encomia101.text
 
 // Second Stanza
 trMA.Encomia200.title = ""
@@ -377,7 +377,7 @@ trMA.Encomia2Tr.text = ""
 
 trMA.Encomia2T.text = ""
 
-trMA.Encomia2F.text = trMA.Encomia201.text
+trMA.Encomia2F.text = tr.d070_en_UK_ware.trMA.Encomia201.text
 
 // Stanza Three
 trMA.Encomia300.title = ""
@@ -480,7 +480,7 @@ trMA.Encomia3Tr.text = ""
 trMA.Encomia3T.text = ""
 
 // Not in Triodion, but common
-trMA.Encomia3F.text = trMA.Encomia301.text
+trMA.Encomia3F.text = tr.d070_en_UK_ware.trMA.Encomia301.text
 
 // Resurrectional Evlogetaria keys for media
 trMA.MM.Evlogetaria1.text = properties_en_UK_ware.media.key

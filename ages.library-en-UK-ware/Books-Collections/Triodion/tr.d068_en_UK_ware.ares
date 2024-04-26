@@ -611,8 +611,8 @@ trMA.Aposticha4.text = ""
 
 trMA.AposGlory.mode = miscellanea_en_UK_ware.misc.Mode8
 trMA.AposGlory.melody = miscellanea_en_UK_ware.misc.Idiomelon
-trMA.AposGlory.incipit = trMA.Aposticha3.incipit
-trMA.AposGlory.text = trMA.Aposticha3.text
+trMA.AposGlory.incipit = tr.d068_en_UK_ware.trMA.Aposticha3.incipit
+trMA.AposGlory.text = tr.d068_en_UK_ware.trMA.Aposticha3.text
 
 trMA.AposBoth.mode = miscellanea_en_UK_ware.misc.Mode5
 trMA.AposBoth.melody = ""

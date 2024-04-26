@@ -354,10 +354,10 @@ trMA.LaudsTheotokion.melody = ""
 trMA.LaudsTheotokion.incipit = "…"
 trMA.LaudsTheotokion.text = //oc.m2.d1_en_UK_ware.ocMA.Kathisma23.text
 
-trLI.Kontakion1.mode = trMA.Kontakion1.mode
-trLI.Kontakion1.melody = trMA.Kontakion1.melody
-trLI.Kontakion1.incipit = trMA.Kontakion1.incipit
-trLI.Kontakion1.text = trMA.Kontakion1.text
+trLI.Kontakion1.mode = tr.d036_en_UK_ware.trMA.Kontakion1.mode
+trLI.Kontakion1.melody = tr.d036_en_UK_ware.trMA.Kontakion1.melody
+trLI.Kontakion1.incipit = tr.d036_en_UK_ware.trMA.Kontakion1.incipit
+trLI.Kontakion1.text = tr.d036_en_UK_ware.trMA.Kontakion1.text
 
 trLI.TheotokosHymn.mode = miscellanea_en_UK_ware.misc.Mode8
 trLI.TheotokosHymn.incipit = "…"
