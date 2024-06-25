@@ -15,7 +15,6 @@ trHO.note2 = ""
 trCO.header = ""
 trVL.header = "" //for pdf headers of presanctified and vesperal liturgies
 trEM.header = "" //for pdf evening Matins
-trDA.dismissal = dismissals_en_UK_ware.dis00.bridegroom
 
 trVE.Stichera01.mode = miscellanea_en_UK_ware.misc.Mode1
 trVE.Stichera01.melody = miscellanea_en_UK_ware.misc.Idiomelon

@@ -14,7 +14,6 @@ trHO.note1 = ""
 trHO.note2 = ""
 trCO.header = ""
 trVL.header = "" //for pdf headers of presanctified and vesperal liturgies
-trDA.dismissal = //dismissals_en_UK_ware.dis00.resurrection
 
 trVE.AposIdiomelon1.mode = miscellanea_en_UK_ware.misc.Mode8
 trVE.AposIdiomelon1.melody = miscellanea_en_UK_ware.misc.Idiomelon
