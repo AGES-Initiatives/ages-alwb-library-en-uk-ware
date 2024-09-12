@@ -958,10 +958,8 @@ meMA.Ode9C2M05.incipit = "…"
 meMA.Ode9C2M05.text = "Today the Master has come to sanctify the nature of the waters."
 meMA.Ode9C2M06.incipit = "…"
 meMA.Ode9C2M06.text = "Today the Master receives baptism at the hand of the Forerunner."
-meMA.Ode9C2MTr.incipit = "…"
-meMA.Ode9C2MTr.text = "Magnify, O my soul, the power of the undivided Godhead in three Persons."
 meMA.Ode9C2MTr.incipit = //me.m01.d01_en_UK_ware.meMA.Ode9C2MTr.incipit
-meMA.Ode9C2MTr.text = //me.m01.d01_en_UK_ware.meMA.Ode9C2MTr.text
+meMA.Ode9C2MTr.text = //me.m01.d01_en_UK_ware.meMA.Ode9C2MTr.text Magnify, O my soul, the power of the undivided Godhead in three Persons
 meMA.Ode9C2MTh.incipit = //me.m01.d01_en_UK_ware.meMA.Ode9C2MTh.incipit
 meMA.Ode9C2MTh.text = //me.m01.d01_en_UK_ware.meMA.Ode9C2MTh.text "Magnify, O my soul, her that has delivered us from the curse."
 
