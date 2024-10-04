@@ -59,8 +59,8 @@ trMA.Kathisma21.text = "We mortals, who died of old through eating from the tree
 trMA.Kathisma22.mode = miscellanea_en_UK_ware.misc.Mode5
 trMA.Kathisma22.greekmelody = he.a.m5_en_UK_ware.heAU.TonSynanarchonLogon.greekname
 trMA.Kathisma22.melody = he.a.m5_en_UK_ware.heAU.TonSynanarchonLogon.name
-trMA.Kathisma22.incipit = "When Thy Mother beheld Thee…"
-trMA.Kathisma22.text = "When Thy Mother beheld Thee, O Christ, hanging by Thine own free choice upon the Cross between two thieves, then with a mother’s grief her heart was pierced and she cried out: ‘O sinless Son, how art Thou nailed unjustly to the Cross as an evildoer? It is because in Thy surpassing love Thou willest to restore mankind to life.’"
+trMA.Kathisma22.incipit = //oc.m5.d4_en_UK_ware.ocMA.Kathisma13.incipit
+trMA.Kathisma22.text = //oc.m5.d4_en_UK_ware.ocMA.Kathisma13.text "When Thy Mother beheld Thee, O Christ, hanging by Thine own free choice upon the Cross between two thieves, then with a mother’s grief her heart was pierced and she cried out: ‘O sinless Son, how art Thou nailed unjustly to the Cross as an evildoer? It is because in Thy surpassing love Thou willest to restore mankind to life.’"
 
 trMA.Kathisma31.mode = miscellanea_en_UK_ware.misc.Mode1
 trMA.Kathisma31.greekmelody = he.a.m1_en_UK_ware.heAU.TouLithouSfragisthentos.greekname
