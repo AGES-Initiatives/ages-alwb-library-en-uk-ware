@@ -45,8 +45,8 @@ trVE.AposMartyric.text = //oc.m8.d2_en_UK_ware.ocVE.Aposticha3.text
 
 trVE.AposTheotokion.mode = miscellanea_en_UK_ware.misc.Mode8
 trVE.AposTheotokion.melody = ""
-trVE.AposTheotokion.incipit = "The heavenly powers praise thee…"
-trVE.AposTheotokion.text = "The heavenly powers praise thee, O Virgin Mother full of grace, and we also glorify thy childbearing that none can understand. O Theotokos, pray for the salvation of our souls."
+trVE.AposTheotokion.incipit = //oc.m8.d2_en_UK_ware.ocMA.AposTheotokion.incipit
+trVE.AposTheotokion.text = //oc.m8.d2_en_UK_ware.ocMA.AposTheotokion.text
 
 trMA.Kathisma21.mode = miscellanea_en_UK_ware.misc.Mode4
 trMA.Kathisma21.greekmelody = he.a.m4_en_UK_ware.heAU.KateplagiIosif.greekname
