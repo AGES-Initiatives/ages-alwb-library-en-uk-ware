@@ -102,7 +102,7 @@ trMA.Ode4C21.mode = miscellanea_en_UK_ware.misc.Mode6
 trMA.Ode4C21.greekmelody = he.h.m6_en_UK_ware.heHE.AkikoenOProfitis.greekname
 trMA.Ode4C21.melody = he.h.m6_en_UK_ware.heHE.AkikoenOProfitis.name
 trMA.Ode4C21.incipit = "O twelve apostles, Peter, Paul…"
-trMA.Ode4C21.text = "O twelve apostles, Peter, Paul, James and John, Andrew, Bartholomew, Philip, Thomas and Matthew,James with Simon and Jude, pray to Christ for our salvation."
+trMA.Ode4C21.text = "O twelve apostles, Peter, Paul, James and John, Andrew, Bartholomew, Philip, Thomas and Matthew, James with Simon and Jude, pray to Christ for our salvation."
 
 trMA.Ode4C22.ode = miscellanea_en_UK_ware.misc.Ode4
 trMA.Ode4C22.mode = miscellanea_en_UK_ware.misc.Mode6
