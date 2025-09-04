@@ -21,7 +21,7 @@ heAU.EpefanisSimeron.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.EpefanisSimeron.mode = miscellanea_en_UK_ware.misc.Mode4
 heAU.EpefanisSimeron.notmetered = "(NM) You revealed yourself today."
 heAU.EpefanisSimeron.name = "(NM)"
-heAU.EpefanisSimeron.incipit = "Thou hast appeared…"
+heAU.EpefanisSimeron.incipit = "…"
 heAU.EpefanisSimeron.text = "Thou hast appeared today to the inhabited earth, and Thy light, O Lord, has been marked upon us, who with knowledge sing Thy praise: Thou hast come, Thou art made manifest, the Light that no man can approach."
 
 heAU.IthelonDakrysinExaleipsai.greekname = "Ἤθελον δάκρυσιν ἐξαλεῖψαι."
@@ -66,7 +66,7 @@ heAU.OsGennaionEnMartysi.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.OsGennaionEnMartysi.mode = miscellanea_en_UK_ware.misc.Mode4
 heAU.OsGennaionEnMartysi.notmetered = "(N/M) As a brave one."
 heAU.OsGennaionEnMartysi.name = "(N/M)"
-heAU.OsGennaionEnMartysi.incipit = "(N/M) As a brave one…"
+heAU.OsGennaionEnMartysi.incipit = "…"
 heAU.OsGennaionEnMartysi.text = ""
 
 heAU.TachyProkatalave.greekname = "Ταχὺ προκατάλαβε."
@@ -74,5 +74,5 @@ heAU.TachyProkatalave.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.TachyProkatalave.mode = miscellanea_en_UK_ware.misc.Mode4
 heAU.TachyProkatalave.notmetered = "(NM) Come quickly."
 heAU.TachyProkatalave.name = "(NM)"
-heAU.TachyProkatalave.incipit = "Come quickly…"
+heAU.TachyProkatalave.incipit = "…"
 heAU.TachyProkatalave.text = ""

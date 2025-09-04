@@ -10,11 +10,11 @@ heAU.AnestisEkNekron.name = "N/M (O Life of all, You rose.)"
 heAU.AnestisEkNekron.incipit = "…"
 heAU.AnestisEkNekron.text = ""
 
-heAU.AvlonPoimenikon.greekname = "Αὐλῶν Ποιμενικῶν."
+heAU.AvlonPoimenikon.greekname = "Αὐλῶν ποιμενικῶν."
 heAU.AvlonPoimenikon.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.AvlonPoimenikon.mode = miscellanea_en_UK_ware.misc.Mode8
-heAU.AvlonPoimenikon.notmetered = "N/M (The army of the Angels.)"
-heAU.AvlonPoimenikon.name = "N/M (The army of the Angels.)"
+heAU.AvlonPoimenikon.notmetered = "N/M (Celestial hosts appeared.)"
+heAU.AvlonPoimenikon.name = "N/M (Celestial hosts appeared.)"
 heAU.AvlonPoimenikon.incipit = "…"
 heAU.AvlonPoimenikon.text = ""
 
@@ -79,7 +79,7 @@ heAU.TiYmasKalesomen.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.TiYmasKalesomen.mode = miscellanea_en_UK_ware.misc.Mode8
 heAU.TiYmasKalesomen.notmetered = "N/M (What…to call you.)"
 heAU.TiYmasKalesomen.name = "(NM) What shall we call you."
-heAU.TiYmasKalesomen.incipit = "What shall we call you…"
+heAU.TiYmasKalesomen.incipit = "…"
 heAU.TiYmasKalesomen.text = "What shall we call you, O saints? Cherubim, for Christ rested upon you? Seraphim, for ye glorified Him without ceasing? Angels, for ye have renounced the body? Powers, for ye perform miracles? Manifold are your names, but greater are your gifts of grace: pray for the salvation of our souls."
 
 heAU.TiYpermacho.greekname = "Τῇ ὑπερμάχῳ."
@@ -95,7 +95,7 @@ heAU.TinSofianKaiLogon.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.TinSofianKaiLogon.mode = miscellanea_en_UK_ware.misc.Mode8
 heAU.TinSofianKaiLogon.notmetered = "N/M (By conceiving the wisdom.)"
 heAU.TinSofianKaiLogon.name = "(NM) O Mother of God, in thy womb."
-heAU.TinSofianKaiLogon.incipit = "O Mother of God, in thy womb…"
+heAU.TinSofianKaiLogon.incipit = "…"
 heAU.TinSofianKaiLogon.text = "O Mother of God, in thy womb thou hast ineffably conceived the Wisdom and Word, and thou hast brought forth into the world Him that rules the world. In thine arms thou hast held Him that holds all things in unity, providing food for all, the Maker and the Lord. Therefore I entreat thee, O most holy Virgin, and with faith I glorify thee: may I be delivered from my trespasses when I stand before the face of my Creator. O Queen and Virgin pure and undefiled, grant me then thine aid: for all that thou desirest, thou hast power to do."
 
 heAU.ToProstachthen.greekname = "Τὸ προσταχθέν."

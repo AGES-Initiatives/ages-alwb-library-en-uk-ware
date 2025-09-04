@@ -27,7 +27,7 @@ heAU.OteEkTouXylou.greekname = "Ὅτε ἐκ τοῦ ξύλου."
 heAU.OteEkTouXylou.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.OteEkTouXylou.mode = miscellanea_en_UK_ware.misc.Mode2
 heAU.OteEkTouXylou.name = "N/M (Joseph took You.)"
-heAU.OteEkTouXylou.incipit = "N/M (Joseph took You.)…"
+heAU.OteEkTouXylou.incipit = "…"
 heAU.OteEkTouXylou.text = ""
 
 heAU.PoioisEffimionStemmasin.greekname = "Ποίοις εὐφημιῶν στέμμασιν."
@@ -56,7 +56,7 @@ heAU.TaAnoZiton.melody = miscellanea_en_UK_ware.misc.Automelon
 heAU.TaAnoZiton.mode = miscellanea_en_UK_ware.misc.Mode2
 heAU.TaAnoZiton.notmetered = "N/M (In seeking the heights.)"
 heAU.TaAnoZiton.name = "(NM)"
-heAU.TaAnoZiton.incipit = "N/M (In seeking the heights.)…"
+heAU.TaAnoZiton.incipit = "…"
 heAU.TaAnoZiton.text = ""
 
 heAU.ToisMathitaisSynelthomen.greekname = "Τοῖς Μαθηταῖς συνέλθωμεν."
